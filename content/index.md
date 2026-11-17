@@ -29,4 +29,4 @@ publish: true
 
 ## Browse
 
-[[Gallery]] · [[Map]] · [[Timeline]] · [[Logbook]] · [Campaign](./Campaign/) (1) · [Entities](./Entities/) (408) · [Items and Artefacts](./Items-and-Artefacts/) (118) · [Places](./Places/) (126) · [Sessions](./Sessions/) (108)
+[[Gallery]] · [[Map]] · [[Timeline]] · [[Logbook]] · [Campaign](./Campaign/) (2) · [Entities](./Entities/) (408) · [Items and Artefacts](./Items-and-Artefacts/) (118) · [Places](./Places/) (126) · [Sessions](./Sessions/) (108)

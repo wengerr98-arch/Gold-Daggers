@@ -17,6 +17,7 @@ publish:
 include_folders: [01_sessions, 03_Entities, 04_Places, 05_Items and Artefacts]
 # Single notes from elsewhere (Raphael's picks from the campaign bible)
 include_notes:
+  - 02_campaign Bible/Player Documents/Solar Tables
   - 02_campaign Bible/Timeline/Historical Extracts
   # Stygian Gala and Torr of Skjall: picked, but still empty stubs ("this note will collect … DM-only truth …").
   # Add them back here once they have player-facing content:

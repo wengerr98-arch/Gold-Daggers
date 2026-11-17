@@ -80,7 +80,7 @@ es het be däne Büecher nüt spezifisch zo de erbrecher
 
 ### Solartables (research BB & Schleumi)
 
-7 Stapel Notes und 6 gönd om predicted Solar-Eclips-Table (SOLARTABLES — external google doc: (link removed)) und em 7bte werd es riesigs flügends Schlachtschiff diskutiert för d Zariel.
+7 Stapel Notes und 6 gönd om predicted Solar-Eclips-Table (SOLARTABLES — external google doc: [[Campaign/Player Documents/Solar Tables|Solar Tables]]) und em 7bte werd es riesigs flügends Schlachtschiff diskutiert för d Zariel.
 
 BB gspört, das d Zariel eifach crazy gange esch und sie (Nolia) d Kontrolle verlore händ. (Odyss as Beroter) Power Channeler esch em Boot denne, es werd vo de Zariel atrebe. De Ruger esch en Main enchanter gsii und Mechanic bem boue vom Scheff)
 

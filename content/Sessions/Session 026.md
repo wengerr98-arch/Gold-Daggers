@@ -1,7 +1,7 @@
 ---
 tags:
   - session
-modified: '2026-11-15T11:04:57.000Z'
+modified: '2026-11-17T16:48:25.683Z'
 publish: true
 ---
 
@@ -15,7 +15,8 @@ publish: true
 ## Clean Protocol Text
 
 
-So sunny. 14:07 Uhr Start.
+So sunny. 14:07
+Uhr Start.
 
 - Es ist Nachmittag. Wir sitzen mit Gax am Tisch, essen zusammen und reden zusammen.
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - session
-modified: '2026-11-17T16:40:22.664Z'
+modified: '2026-11-17T16:48:25.708Z'
 publish: true
 ---
 
@@ -19,6 +19,7 @@ Table notes:
 831 p.b. | Sommer | Stygia
 
 ## Clean Protocol Text
+
 
 <!-- source_heading: # D&D Session 101 - Samstag, 16. Mai 2026 -->
 <!-- session_date: 2026-05-16 -->
@@ -310,7 +311,9 @@ Beautiful Weather. NAT 20! for 35 für d Instructions
 
 De Leumas hebt sin arm! Silent Screemas. De Leumas loht sech hindersi loh gheie and everyone follows! Innerhalb vo Minute Chonnt usde Portal d Armee wo gewartet het vo Avernus! Everyone is in iiitt the Torren esh ready, de Tower esh readyy.
 
-For now Aarum can hold for NOW!
+Aarum can hold for NOW!
+
+Mir sind zum Levistus nachdem mer gseh hend das aarum cha halte.
 
 Todo's / Notizen
 

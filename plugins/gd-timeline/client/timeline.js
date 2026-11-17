@@ -304,12 +304,14 @@ class View {
       </div>
       <div class="gdtl-over" data-drop>
         <div class="gdtl-over-scroll"></div>
+        <input type="range" class="gdtl-over-range" min="0" max="1000" step="1" value="1000" aria-label="Scroll the overview sideways">
         <p class="gdtl-key"></p>
       </div>
       <div class="gdtl-stream" data-drop></div>`
   }
 
   bind() {
+    this.bindOverviewScroll()
     this.el.addEventListener("click", (ev) => {
       const t = ev.target.closest("[data-act]")
       if (!t || !this.el.contains(t)) return
@@ -818,6 +820,78 @@ class View {
   }
 
   // the strip at the top: every year that has content, breaks where nothing is known
+  bindOverviewScroll() {
+    const sc = this.$(".gdtl-over-scroll")
+    if (!sc || sc.dataset.scrollBound) return
+    sc.dataset.scrollBound = "1"
+    sc.tabIndex = 0
+    sc.setAttribute("aria-label", "Timeline overview, scrolls sideways")
+    // mouse wheel scrolls the strip sideways; at either end the page scrolls on as usual
+    sc.addEventListener("wheel", (ev) => {
+      if (ev.ctrlKey || Math.abs(ev.deltaX) > Math.abs(ev.deltaY)) return // pinch zoom, or a sideways trackpad swipe that already works
+      const max = sc.scrollWidth - sc.clientWidth
+      if (max <= 2) return
+      const left = sc.scrollLeft
+      if ((ev.deltaY < 0 && left <= 0) || (ev.deltaY > 0 && left >= max - 1)) return
+      sc.scrollLeft = left + ev.deltaY * (ev.deltaMode === 1 ? 18 : ev.deltaMode === 2 ? sc.clientWidth : 1)
+      ev.preventDefault()
+    }, { passive: false })
+    // drag with the mouse to pan; a drag never counts as a click on a session cell
+    let drag = null
+    sc.addEventListener("pointerdown", (ev) => {
+      if (ev.pointerType !== "mouse" || ev.button !== 0 || sc.scrollWidth <= sc.clientWidth + 2) return
+      drag = { x: ev.clientX, left: sc.scrollLeft, moved: false, id: ev.pointerId }
+    })
+    sc.addEventListener("pointermove", (ev) => {
+      if (!drag || ev.pointerId !== drag.id) return
+      const dx = ev.clientX - drag.x
+      if (!drag.moved && Math.abs(dx) > 4) {
+        drag.moved = true
+        sc.classList.add("is-dragging")
+        try { sc.setPointerCapture(ev.pointerId) } catch (err) { /* not capturable */ }
+      }
+      if (drag.moved) sc.scrollLeft = drag.left - dx
+    })
+    const end = (ev) => {
+      if (!drag || (ev && ev.pointerId !== drag.id)) return
+      if (drag.moved) {
+        const swallow = (e) => { e.stopPropagation(); e.preventDefault() }
+        sc.addEventListener("click", swallow, { capture: true, once: true })
+        setTimeout(() => sc.removeEventListener("click", swallow, { capture: true }), 0)
+      }
+      sc.classList.remove("is-dragging")
+      drag = null
+    }
+    sc.addEventListener("pointerup", end)
+    sc.addEventListener("pointercancel", end)
+    // arrow keys when the strip has focus
+    sc.addEventListener("keydown", (ev) => {
+      const step = ev.key === "ArrowRight" ? 1 : ev.key === "ArrowLeft" ? -1 : 0
+      if (!step) return
+      sc.scrollBy({ left: step * Math.max(120, sc.clientWidth * 0.4), behavior: "smooth" })
+      ev.preventDefault()
+    })
+    // a visible slider under the strip (system scrollbars are often hidden on Macs and phones)
+    const range = this.$(".gdtl-over-range")
+    if (range) {
+      range.addEventListener("input", () => {
+        const max = sc.scrollWidth - sc.clientWidth
+        sc.scrollLeft = (Number(range.value) / 1000) * max
+      })
+      sc.addEventListener("scroll", () => {
+        const max = sc.scrollWidth - sc.clientWidth
+        if (max > 0 && document.activeElement !== range) range.value = String(Math.round((sc.scrollLeft / max) * 1000))
+      }, { passive: true })
+    }
+    const sync = () => {
+      const can = sc.scrollWidth > sc.clientWidth + 2
+      sc.classList.toggle("can-scroll", can)
+      if (range) range.hidden = !can
+    }
+    window.addEventListener("resize", sync)
+    if (typeof window.addCleanup === "function") window.addCleanup(() => window.removeEventListener("resize", sync))
+  }
+
   renderOverview() {
     const m = this.m, hits = this.hits
     const cells = [] // {x,w,cls,attrs,title}
@@ -883,7 +957,9 @@ class View {
         return `<path class="o-jump" d="M${a} ${TOP - 2} Q${(a + b) / 2} ${TOP - 2 - lift * 2} ${b} ${TOP - 3}" marker-end="url(#gdtl-arrow)"><title>Time jump: ${m.pb(j.from)} → ${m.pb(j.to)}</title></path>`
       })
       .join("")
-    const svg = `<svg class="gdtl-svg" width="${W}" height="92" viewBox="0 0 ${W} 92" role="img" aria-label="Overview of the timeline: years with content, time jumps and campaign arcs">
+    // drawn about 1.8× larger on screens (1.45× on phones); the strip scrolls sideways when it is wider than the page
+    const SC = window.matchMedia("(max-width: 640px)").matches ? 1.45 : 1.8
+    const svg = `<svg class="gdtl-svg" width="${Math.round(W * SC)}" height="${Math.round(92 * SC)}" viewBox="0 0 ${W} 92" role="img" aria-label="Overview of the timeline: years with content, time jumps and campaign arcs">
       <defs><marker id="gdtl-arrow" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L8 4 L0 8 z" class="o-arrow"/></marker></defs>
       <line class="o-axis" x1="0" x2="${W}" y1="${TOP + H + 0.5}" y2="${TOP + H + 0.5}"/>
       ${labels.map((l) => `<text class="o-year${l.strong ? " is-strong" : ""}" x="${l.x}" y="11">${esc(l.top)}</text><text class="o-eph" x="${l.x}" y="22">${esc(l.sub)}</text>`).join("")}
@@ -895,6 +971,14 @@ class View {
     const sc = this.$(".gdtl-over-scroll")
     sc.innerHTML = svg
     sc.scrollLeft = this.st.mode === "world" ? sc.scrollWidth : 0
+    const can = sc.scrollWidth > sc.clientWidth + 2
+    sc.classList.toggle("can-scroll", can)
+    const range = this.$(".gdtl-over-range")
+    if (range) {
+      range.hidden = !can
+      const max = sc.scrollWidth - sc.clientWidth
+      range.value = String(max > 0 ? Math.round((sc.scrollLeft / max) * 1000) : 0)
+    }
     const p = this.followed ? { name: this.followed.replace(/^(with|at) /, "") } : null
     this.$(".gdtl-key").innerHTML =
       (this.st.mode === "world"
@@ -903,7 +987,7 @@ class View {
       `<span class="k-box k-s"></span> session <span class="k-box k-tt"></span> in another time ${this.st.mode === "world" ? `<span class="k-box k-lore"></span> told to the party <span class="k-break">⫽</span> years without entries ` : ""}` +
       `<span class="k-jump">⤻</span> time jump · numbers below: campaign arcs` +
       (p ? ` · <span class="k-box k-hit"></span> ${esc(p.name)}` : "") +
-      ` <span class="gdtl-swipe">· swipe sideways for more</span>`
+      ` <span class="gdtl-swipe">· scroll sideways for more (wheel, drag, arrow keys or swipe)</span>`
   }
 
   renderStream(keepPlace, anchorKey) {

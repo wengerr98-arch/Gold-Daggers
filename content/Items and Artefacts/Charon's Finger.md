@@ -10,6 +10,9 @@ publish: true
 
 # Charon's Finger
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-096---uferlos">Session 96 · Uferlos</a></span></p></div>
+
+
 ## Known Information
 
 A finger-bone given by [[Charon]] to [[Eloryn]] during the party's crossing of the [[River Styx]] in Session 096. When [[BB]] performed an arcana check on it, she determined it contains "more magic than bone." The nature of its power and purpose remains unclear.

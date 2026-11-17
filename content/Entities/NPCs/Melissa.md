@@ -9,6 +9,11 @@ gallery: true
 
 # Melissa
 
+<div class="gd-seen"><p><span>Seen in 6 sessions</span> <span>first <a href="../../sessions/session-006">Session 6</a></span> <span>last <a href="../../sessions/session-025">Session 25</a></span></p><details><summary>All 6 sessions</summary><ul><li><a href="../../sessions/session-006">Session 6</a></li><li><a href="../../sessions/session-008">Session 8</a></li><li><a href="../../sessions/session-014">Session 14</a></li><li><a href="../../sessions/session-018">Session 18</a></li><li><a href="../../sessions/session-024">Session 24</a></li><li><a href="../../sessions/session-025">Session 25</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=melissa" data-label="Follow on the timeline →"></span></p>
+
 ![[Melissa.webp|260]]
 
 ## Known Information
@@ -27,7 +32,7 @@ Melissa is one of three sisters — daughters of [[Felix]] — along with [[Aubo
 - Session 019: Reported by Aubonne to be away with Felix; whereabouts unknown to the party as of midday.
 - Session 024: Confirmed dead by Felix, who informs the party this session. Her children are reported safe by Felix.
 - Session 025: Referenced indirectly — Aubonne's emotional breakdown in her bar is connected to grief and the burdens related to Melissa's death and their shared history. The portrait found in Aubonne's hidden drawer lists Melissa's name (smeared and crossed out) among the sisters.
-- Session 092: Referenced in the sidecar entities list; her death is part of the ongoing backdrop as the party revisits their connections and losses while planning future arcs.
+- Session 092: Her death is part of the ongoing backdrop as the party revisits their connections and losses while planning future arcs.
 
 ## Known Facts
 

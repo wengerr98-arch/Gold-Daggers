@@ -7,6 +7,11 @@ publish: true
 
 # Lerchen
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../sessions/session-050---20'000-leagues">Session 50 · 20'000 Leagues</a></span> <span>last <a href="../sessions/session-052---book-of-r'lyeh">Session 52 · Book of R'Lyeh</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=lerchen" data-label="On the timeline →"></span></p>
+
 ## Overview
 Lerchen is a working coastal harbor city, larger than [[Peoryn]], located near it on the sea. It serves as a major port and shipbuilding center, home to a thriving community of sea-people and a prominent active shipyard. The party visited briefly in Session 050 to arrange sea passage toward [[Helykonos]].
 

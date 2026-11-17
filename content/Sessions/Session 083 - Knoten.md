@@ -7,7 +7,10 @@ publish: true
 
 # Session 083 - Knoten
 
-<p class="session-meta"><span>Session 83</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2025-05-18</span></p>
+<p class="session-meta"><span>Session 83</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2025-05-18</span> <span class="gd-tl-link" data-to="timeline" data-q="s=83" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/titans/behemoth"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Behemoth</span></a><a class="gd-chip" href="../entities/npcs/brel"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Brel</span></a><a class="gd-chip" href="../entities/npcs/karuk"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Karuk</span></a><a class="gd-chip" href="../entities/titans/kranich"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Kranich</span></a><a class="gd-chip" href="../entities/npcs/teana"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Teana</span></a><a class="gd-chip" href="../entities/monsters/tomb-tapper"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Tomb Tapper</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -19,16 +22,11 @@ publish: true
 Protokoll: BB, Leumas
 
 
-
 In Game Location: Kasta
 
 Intro Raphi
 
 ## Erarbeitung Rätsel: The Scroll
-
-![](media/image13.jpg){width="7.480314960629921in" height="5.611111111111111in"}
-
-### 
 
 Teil 1
 
@@ -143,15 +141,9 @@ nach eusem longrest gsähmer stei, haubversonke und verwendet em Sand und vor eu
 
 De Leumas macht en survival check öpprr do esh gsii! Es het spure! Fuessspure und schleipfe öppis
 
-![](media/image27.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
 Eloryn investigation ob d stei bläulech/die gliiche send wie ide city.
 
-![](media/image25.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
 De Leumas setzt en Fuess of's Plato dette. Sand foht sech afo zämmesammle und es erschiint en Figur. De leumas macht gad weder e schritt zrug.
-
-![](media/image26.jpg){width="7.480314960629921in" height="11.333333333333334in"}
 
 Barzan History check of de Obelisk: nat 1 för 10 - gold und blau esch d'erkentniss.
 
@@ -221,8 +213,6 @@ New Spooky Skeletton guy: chonnt usem Bode usegraabe und rüert sin Hammer de Lo
 >
 > Barzan one hits 16 slashing domage
 
-![](media/image18.jpg){width="7.480314960629921in" height="5.611111111111111in"}
-
 Elo: Eldritch blast, 3 times -\> nat 20, 13 :(, 28. zweu hits! 13 quickened Spell Heat Metal on the
 
 > Golem 6 points schade und de Golem het disadvantage wenner s metall ned abzieht Shard
@@ -291,7 +281,7 @@ Lorilla: Moon Beam
 
 Toom Tapper: doesnt save, dodge und secklet wiiter
 
-[all Attacks at once]{.underline}
+<u>all Attacks at once</u>
 
 Elo Kill him, baseball freeze Ball. Wo de Toom Tapper stirbt wird er zunere Statue!!
 
@@ -341,11 +331,6 @@ Mer verbrenne Shame Zedeli und laufe langsam zum Becki abe zum eus wäsche. gad 
 - star map
 - ashes
 - bath clue
-
-## Open Threads
-
-- Continue following the session-specific lead on the next imported batch.
-- Verify any unclear named figure in later review if it becomes relevant.
 
 <div class="session-nav">
 

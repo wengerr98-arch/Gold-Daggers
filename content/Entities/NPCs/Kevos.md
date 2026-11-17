@@ -11,6 +11,11 @@ gallery: true
 
 # Kevos
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-052---book-of-r'lyeh">Session 52 · Book of R'Lyeh</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=kevos" data-label="Follow on the timeline →"></span></p>
+
 ![[Kevos.webp|260]]
 
 ## Known Information

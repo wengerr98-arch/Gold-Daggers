@@ -7,6 +7,9 @@ publish: true
 
 # Gold Daggers
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106 · 3 legendary items &amp; 3 legendary gspröch</a></span> <span>last <a href="../../sessions/session-107">Session 107</a></span></p></div>
+
+
 ## Known Information
 
 The Gold Daggers is the name formally adopted by the party in Session 007, functioning as their collective in-world identity and faction. This stub tracks group-level assets, affiliations, and activities not linked to individual party members — including shared property (the Goldie Bräu brewery), group reputation, and faction-level relationships with other powers. As of Session 037, King Azan Aeducan formally enrolled the Gold Daggers as the Schwarzes Gänseblümchen special unit with a mandate to intimidate crime leaders in Aarum.

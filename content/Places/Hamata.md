@@ -24,7 +24,7 @@ Hamata is a large, geographically varied continent marked by distinct environmen
 - [[Lervik]] — eastern village
 - [[Bokir]] — city
 - [[Bragian]] — established region
-- Chasta — eastern oasis region with magical desert
+- [[Kasta|Chasta]] — eastern oasis region with magical desert
 - [[Offris]] — western mountain and river region
 - Norden — northern warlike region
 - [[Ananthar]] — city

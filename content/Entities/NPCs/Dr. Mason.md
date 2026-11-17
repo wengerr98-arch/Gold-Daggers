@@ -17,6 +17,11 @@ publish: true
 
 # Mason
 
+<div class="gd-seen"><p><span>Seen in 24 sessions</span> <span>first <a href="../../sessions/session-007">Session 7</a></span> <span>last <a href="../../sessions/session-107">Session 107</a></span></p><details><summary>All 24 sessions</summary><ul><li><a href="../../sessions/session-007">Session 7</a></li><li><a href="../../sessions/session-019">Session 19</a></li><li><a href="../../sessions/session-023">Session 23</a></li><li><a href="../../sessions/session-024">Session 24</a></li><li><a href="../../sessions/session-031">Session 31</a></li><li><a href="../../sessions/session-033">Session 33</a></li><li><a href="../../sessions/session-034">Session 34</a></li><li><a href="../../sessions/session-040---deals-like-daggers">Session 40</a> <span>Deals like Daggers</span></li><li><a href="../../sessions/session-042">Session 42</a></li><li><a href="../../sessions/session-045">Session 45</a></li><li><a href="../../sessions/session-046">Session 46</a></li><li><a href="../../sessions/session-048---die-hochzeit">Session 48</a> <span>Die Hochzeit</span></li><li><a href="../../sessions/session-066">Session 66</a></li><li><a href="../../sessions/session-067">Session 67</a></li><li><a href="../../sessions/session-068---breach">Session 68</a> <span>Breach</span></li><li><a href="../../sessions/session-069---objectives">Session 69</a> <span>Objectives</span></li><li><a href="../../sessions/session-075">Session 75</a></li><li><a href="../../sessions/session-076---the-death-of-the-king-and-the-rise-of-new-one!">Session 76</a> <span>The Death of the King and the Rise of New One!</span></li><li><a href="../../sessions/session-077---results">Session 77</a> <span>Results</span></li><li><a href="../../sessions/session-078---crossroads">Session 78</a> <span>Crossroads</span></li><li><a href="../../sessions/session-079---behemoth,-leviathan-and-the-golem">Session 79</a> <span>Behemoth, Leviathan and the Golem</span></li><li><a href="../../sessions/session-091">Session 91</a></li><li><a href="../../sessions/session-096---uferlos">Session 96</a> <span>Uferlos</span></li><li><a href="../../sessions/session-107">Session 107</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=dr.-mason" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Mason (Dr. Mason) is the campaign's primary antagonist — a necromancer approximately 80 years old who is the continuation or descendant of [[Dr. Fitz Mason]], the historical founder of Necromancy. He operates out of Dalior, where he runs a network of undead experiments, a secret prison system (the Oubliettes), and political manipulation through Dominate Person stones; his research into souls, liches, and cosmological forces drives much of the campaign's threat. His necromantic theorem holds that he exists in a constant state of "dying" — neither fully alive nor dead — allowing him to control unlimited undead, but he would die if he lost concentration or fell unconscious.
@@ -56,12 +61,12 @@ Mason (Dr. Mason) is the campaign's primary antagonist — a necromancer approxi
 - Session 072: Referenced while the party studies Wanda's ritual around the Bands of Imprisonment and discusses the soul shredder mechanism.
 - Session 075: Leumas determines the king cannot be Mason's killer, reshaping the party's understanding of Mason's relationship to the throne-room events. Mason's whereabouts and post-battle status remain unresolved.
 - Session 076: Referenced as an active background threat during the public transition following the king's death; Leumas's new leadership role raises questions about Mason's next move with the Skjall power vacuum.
-- Session 077: The sidecar notes "Track Mason and the plane-collapse consequences" as an open thread following the Thronsaal events.
+- Session 077: The session notes mention "Track Mason and the plane-collapse consequences" as an open thread following the Thronsaal events.
 - Session 078: Referenced by the Ophris king during the party's diplomatic visit; Mason's threat is the direct reason the party seeks Ophris's military and political backing.
 - Session 079: Referenced as the overarching threat driving the party's mission to Kasta; the party's strategic goal of building opposition to Mason is framed around requesting audience with Kasta's ruling Seven.
 - Session 091: Referenced as a live threat in the party's post-Skjall planning; the group discusses the risk of a third earth-breaking incident centred on Mason.
-- Session 092: Referenced in the party's open threads; the sidecar raises whether Mason is a slave, collaborator, or something else in relation to Silence.
-- Session 096: Referenced in the sidecar open thread about what role Mason played in building the infernal gates and obelisks encountered during the Avernus journey.
+- Session 092: Referenced in the party's open threads; the session notes raise whether Mason is a slave, collaborator, or something else in relation to Silence.
+- Session 096: Referenced in an open thread about what role Mason played in building the infernal gates and obelisks encountered during the Avernus journey.
 - Session 100: Referenced as an active threat; Levistus's briefing surfaces the open thread that the party must locate the titan before Mason does.
 - Session 101: Named in open threads — the question of where the hidden titan is before Mason finds it drives urgency in the party's current planning.
 - Session 102: Appears in [[Odyss Trion]]'s origin backstory (BB's vision): Mason encountered Odyss in Nolia, killed him, and revived him — apparently on a whim or as a test. Mason was careless and lost a scalpel to Odyss, who then escaped. Odyss briefly returned to Mason's service before defecting to [[Yorni]]. This confirms Mason's habit of weaponizing death-and-revival as a control mechanism. Also referenced in session todos: party must find the Titan before Mason does (ongoing race).
@@ -111,7 +116,7 @@ Drakh appears as a name in the black-star death-day logbook entry at year 3130 i
 
 ### Session Appearances
 
-- Session 065: Name recorded in the logbook recovered from the Silent Coin Taproom, in a black-star death-day entry at year 3130.
+- [[Session 065 - Braiding Strings|Session 065]]: Name recorded in the logbook recovered from the Silent Coin Taproom, in a black-star death-day entry at year 3130.
 
 ### Known Facts
 

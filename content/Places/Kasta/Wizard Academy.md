@@ -39,7 +39,7 @@ A place of austere magical grandeur and strict hierarchy. The Academy's architec
 - Seven towers remain in active operation after the Divination school's decline
 - The Academy's leadership is integrated with Kasta's political governance
 - Party was advised to seek a formal audience here as a path to gaining political standing in Kasta
-- Session 079: Party learned that Brel may be affiliated with the Academy of Conjuration
+- [[Session 079 - Behemoth, Leviathan and the Golem|Session 079]]: Party learned that Brel may be affiliated with the Academy of Conjuration
 
 ## First Appearance
 - Session 079: Party learns of the Academy as a strategic institution for political access; discovers Brel may be stationed there

@@ -9,6 +9,11 @@ publish: true
 
 # Anubis
 
+<div class="gd-seen"><p><span>Seen in 7 sessions</span> <span>first <a href="../../sessions/session-079---behemoth,-leviathan-and-the-golem">Session 79 · Behemoth, Leviathan and the Golem</a></span> <span>last <a href="../../sessions/session-108">Session 108</a></span></p><details><summary>All 7 sessions</summary><ul><li><a href="../../sessions/session-079---behemoth,-leviathan-and-the-golem">Session 79</a> <span>Behemoth, Leviathan and the Golem</span></li><li><a href="../../sessions/session-080---the-currency-of-class">Session 80</a> <span>The currency of class</span></li><li><a href="../../sessions/session-081---fussspuren-der-geheimen-titanen">Session 81</a> <span>Fussspuren der geheimen Titanen</span></li><li><a href="../../sessions/session-086---chain-links">Session 86</a> <span>chain-links</span></li><li><a href="../../sessions/session-097---der-mit-der-waage">Session 97</a> <span>Der mit der Waage</span></li><li><a href="../../sessions/session-107">Session 107</a></li><li><a href="../../sessions/session-108">Session 108</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=anubis" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Anubis is an ancient god whose divine tomb exists near [[Kasta]], reachable via \"divine gates\" — a site so lethal that no party has ever returned from attempting it. He predates the current calendar era and is tied to the Forgotten War and a vast pre-history that includes pyramid complexes, desert religious sites, and an ancient civilisation visible through a mountain gate. By Session 097, the party encountered Anubis directly at the infernal gate on the [[River Styx]] border: he is imprisoned by unknown forces and sought the party's help, naming three suspects — \"der willlose König\" (the willless king), \"der Soldat\" (the soldier), and \"der Rebell\" (the rebel).

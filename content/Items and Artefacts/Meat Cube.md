@@ -7,6 +7,9 @@ publish: true
 
 # Meat Cube
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-050---20'000-leagues">Session 50 · 20'000 Leagues</a></span></p></div>
+
+
 ## Known Information
 
 The Meat Cube is one of four magical cubes, identified by [[BB]] during Session 050. Each cube has attachment points, and combining all four creates a "Super Meat Boy" — a small companion, pet, or assistant. The party currently holds one of the four cubes; the whereabouts of the other three are unknown.

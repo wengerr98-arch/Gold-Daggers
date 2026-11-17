@@ -1,6 +1,15 @@
 // Gold Daggers timeline — client script (vanilla JS, no dependencies).
 // Loaded on demand by the plugin's loader (see ../dist/index.js) on pages with a .gd-timeline box.
 // init(box) may be called on every Quartz "nav" event; it draws once per box.
+//
+// Links into the timeline (other pages may use them; the address bar follows what the reader picks):
+//   ?s=109        open at that session          ?e=s109-e3   open at that event (id from the data)
+//   ?p=dr.-mason  follow that person (page slug, name or any other name they go by)
+//   ?place=kasta  follow that place (page slug or name)
+//   ?q=drache     search the story              ?o=play      play order instead of world time
+// The Map page takes ?place=kasta too (see map.inline.js).
+const URL_KEYS = ["s", "e", "p", "place", "q", "o"]
+const PIN = `<svg class="gdtl-pinico" viewBox="0 0 32 48" aria-hidden="true"><path d="m32,19c0,12 -12,24 -16,29c-4,-5 -16,-16 -16,-29a16,19 0 0 1 32,0"/><circle cx="16" cy="18" r="6"/></svg>`
 
 const dataCache = new Map() // data url → Promise<model>
 const saved = new Map() // data url → view state, so coming back to the page keeps your place
@@ -9,6 +18,37 @@ const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").
 const plain = (s) => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
 const num = (n) => (n < 0 ? "−" : "") + String(Math.abs(n)).replace(/\B(?=(\d{3})+(?!\d))/g, " ")
 const yr = (y) => (y < 0 ? "−" : "") + Math.abs(y) // years are written without digit grouping
+const startsWord = (hay, q) => { const i = hay.indexOf(q); return i === 0 || (i > 0 && /[^\p{L}\p{N}]/u.test(hay[i - 1])) }
+// accent- and case-blind text search: the words of a query, and the text with the matches marked
+const words = (q) => [...new Set(plain(q).split(/\s+/).filter(Boolean))]
+function marked(text, terms) {
+  text = String(text ?? "")
+  let pl = ""
+  const at = [] // position in pl → position in text
+  for (let i = 0; i < text.length; i++) for (const ch of plain(text[i])) (pl += ch), at.push(i)
+  const spans = []
+  for (const t of terms) for (let i = pl.indexOf(t); i > -1; i = pl.indexOf(t, i + t.length)) spans.push([at[i], at[i + t.length - 1] + 1])
+  if (!spans.length) return { html: esc(text), first: -1 }
+  spans.sort((a, b) => a[0] - b[0])
+  let html = "", pos = 0
+  for (const [a, b] of spans) {
+    if (b <= pos) continue
+    html += esc(text.slice(pos, Math.max(a, pos))) + "<mark>" + esc(text.slice(Math.max(a, pos), b)) + "</mark>"
+    pos = b
+  }
+  return { html: html + esc(text.slice(pos)), first: spans[0][0] }
+}
+// a long text cut down to the stretch around the first match
+function snippet(text, terms, max = 150) {
+  text = String(text ?? "")
+  const first = marked(text, terms).first
+  if (text.length <= max || first < 0) return marked(text.length > max ? text.slice(0, max).replace(/\s+\S*$/, "") + " …" : text, terms).html
+  let a = Math.max(0, first - Math.round(max / 3))
+  if (a > 0) a = text.indexOf(" ", a) + 1 || a
+  let cut = text.slice(a, a + max)
+  if (a + max < text.length) cut = cut.replace(/\s+\S*$/, "") + " …"
+  return (a > 0 ? "… " : "") + marked(cut, terms).html
+}
 const plural = (n, one, many) => `${num(n)} ${n === 1 ? one : (many ?? one + "s")}`
 const shortSeason = (s) => (s && !/^(unknown|cold|winter-like)/i.test(s) ? s.split(/\s*[(;]/)[0].trim() : null)
 
@@ -37,8 +77,9 @@ export async function init(box) {
     return
   }
   if (!box.isConnected || box.querySelector(".gdtl")) return
-  if (!saved.has(url)) saved.set(url, { mode: "world", level: LEVELS.world.includes(model.zoom) ? model.zoom : "Arcs", person: null, only: true, quotes: true, open: {} })
-  new View(box, model, saved.get(url))
+  if (!saved.has(url)) saved.set(url, { mode: "world", level: LEVELS.world.includes(model.zoom) ? model.zoom : "Arcs", person: null, place: null, q: "", s: null, only: true, quotes: true, open: {} })
+  const view = new View(box, model, saved.get(url))
+  view.fromUrl()
 }
 
 // ---------------------------------------------------------------- model
@@ -56,8 +97,55 @@ function prepare(d, root) {
   d.people.forEach((p, i) => (p.id = i))
   m.jumpOut = new Map(d.jumps.map((j) => [j.a, j]))
   m.jumpIn = new Map(d.jumps.map((j) => [j.b, j]))
+  // every name a person goes by, for the search: [text as shown, text to match]
+  d.people.forEach((p) => {
+    p.aka = []
+    const seen = new Set([plain(p.name)])
+    for (const t of [...(p.al ?? []), ...(p.names ?? []).map((n) => n.t)]) {
+      const k = plain(t)
+      if (k && !seen.has(k)) seen.add(k), p.aka.push([t, k])
+    }
+  })
+  // a short key for links: the last part of the page address where that is unambiguous, else the name
+  const slugCount = new Map()
+  d.people.forEach((p) => p.href && slugCount.set(p.href.split("/").pop(), (slugCount.get(p.href.split("/").pop()) ?? 0) + 1))
+  d.people.forEach((p) => (p.key = p.href && slugCount.get(p.href.split("/").pop()) === 1 ? p.href.split("/").pop() : p.name))
+  m.findPerson = (raw) => {
+    const k = plain(String(raw).trim()), ks = k.replace(/\s/g, "-")
+    if (!k) return null
+    const by = (f) => d.people.filter(f).sort((a, b) => b.c - a.c)[0]
+    const p = by((p) => p.href === k || p.href?.split("/").pop() === k || p.href?.split("/").pop() === ks) ?? by((p) => plain(p.name) === k) ?? by((p) => p.aka.some(([, a]) => a === k)) ?? by((p) => startsWord(plain(p.name), k)) ?? by((p) => p.aka.some(([, a]) => startsWord(a, k)))
+    return p ? p.id : null
+  }
   m.byPerson = d.people.map(() => [])
   d.events.forEach((e) => [...(e.n ?? []), ...(e.c ?? [])].forEach((id) => m.byPerson[id].push(e.i)))
+  // places: an event at a place also counts for every place that one lies in
+  m.places = d.places ?? []
+  m.places.forEach((pl, i) => {
+    pl.id = i
+    pl.key = pl.href.split("/").pop()
+    pl.kids = []
+    pl.aka = (pl.al ?? []).map((t) => [t, plain(t)])
+  })
+  m.places.forEach((pl) => pl.up != null && m.places[pl.up].kids.push(pl.id))
+  const chain = (id) => { const out = []; for (let x = id, n = 0; x != null && n < 8; x = m.places[x].up, n++) out.push(x); return out }
+  m.byPlace = m.places.map(() => [])
+  d.events.forEach((e) => new Set((e.pl ?? []).flatMap(chain)).forEach((id) => m.byPlace[id].push(e.i)))
+  m.places.forEach((pl) => {
+    pl.n = m.byPlace[pl.id].length
+    pl.pinAt = d.map ? chain(pl.id).find((id) => m.places[id].pin) ?? null : null // itself or the pinned place it lies in
+  })
+  const keyCount = new Map()
+  m.places.forEach((pl) => keyCount.set(pl.key, (keyCount.get(pl.key) ?? 0) + 1))
+  m.places.forEach((pl) => keyCount.get(pl.key) > 1 && (pl.key = pl.href))
+  m.findPlace = (raw) => {
+    const k = plain(String(raw).trim()), ks = k.replace(/\s/g, "-")
+    if (!k) return null
+    const by = (f) => m.places.filter(f).sort((a, b) => b.n - a.n)[0]
+    const pl = by((p) => p.href === k || p.key === k || p.key === ks) ?? by((p) => plain(p.name) === k) ?? by((p) => p.aka.some(([, a]) => a === k)) ?? by((p) => startsWord(plain(p.name), k))
+    return pl ? pl.id : null
+  }
+  m.mapHref = (id) => (d.map && id != null ? `${m.href(d.map)}?place=${encodeURIComponent(m.places[id].key)}` : null)
   const home = d.events.filter((e) => !e.tt).map((e) => e.y)
   m.campaignStart = Math.min(...home)
   m.world = worldTree(m)
@@ -177,7 +265,13 @@ class View {
     return i < 0 ? 1 : i
   }
   get hits() {
-    return this.st.person == null ? null : (this._hits ??= new Set(this.m.byPerson[this.st.person]))
+    if (this.st.person != null) return (this._hits ??= new Set(this.m.byPerson[this.st.person]))
+    return this.st.place != null ? (this._hits ??= new Set(this.m.byPlace[this.st.place])) : null
+  }
+  // who or what is being followed, as words for labels: "with Koda", "at Kasta"
+  get followed() {
+    if (this.st.person != null) return `with ${this.m.people[this.st.person].name}`
+    return this.st.place != null ? `at ${this.m.places[this.st.place].name}` : ""
   }
 
   shell() {
@@ -201,10 +295,11 @@ class View {
       </div>
       <div class="gdtl-people">
         <div class="gdtl-find">
-          <label class="gdtl-lbl" for="gdtl-q">Follow someone</label>
-          <input id="gdtl-q" type="search" placeholder="Search a name…" autocomplete="off" spellcheck="false">
+          <label class="gdtl-lbl" for="gdtl-q">Search</label>
+          <input id="gdtl-q" type="search" placeholder="A name, a place, a word from the story…" autocomplete="off" spellcheck="false" enterkeyhint="search">
         </div>
         <div class="gdtl-chips" aria-live="polite"></div>
+        <div class="gdtl-found" aria-live="polite" hidden></div>
         <div class="gdtl-person" hidden></div>
       </div>
       <div class="gdtl-over" data-drop>
@@ -229,7 +324,10 @@ class View {
       else if (act === "toggle") this.toggle(t.dataset.k)
       else if (act === "person") this.setPerson(Number(t.dataset.p))
       else if (act === "clear") this.setPerson(null)
+      else if (act === "place") this.setPlace(Number(t.dataset.pl))
       else if (act === "goto") this.gotoEvent(Number(t.dataset.e))
+      else if (act === "found") t.dataset.l != null ? this.gotoLore(Number(t.dataset.l)) : this.gotoEvent(Number(t.dataset.e), true)
+      else if (act === "morefound") this.renderFound(true)
       else if (act === "cell") this.gotoCell(t.dataset)
       else if (act === "more") t.closest(".gdtl-who")?.classList.add("is-all")
       else if (act === "full") this.setFull(!this.full)
@@ -260,7 +358,7 @@ class View {
         this.renderStream(true)
       }
     })
-    this.$("#gdtl-q").addEventListener("input", () => this.renderChips())
+    this.$("#gdtl-q").addEventListener("input", (ev) => this.setQuery(ev.target.value, true))
     // a portrait that does not load becomes the initial-letter placeholder (error events do not bubble: capture)
     this.el.addEventListener("error", (ev) => { const t = ev.target; if (t.tagName === "IMG" && t.dataset.ph) t.outerHTML = t.dataset.ph }, true)
     // drag a name onto the timeline
@@ -287,6 +385,59 @@ class View {
     })
   }
 
+  // ---- the address: read once when the page is drawn, kept up to date afterwards
+
+  fromUrl() {
+    const u = new URLSearchParams(window.location.search)
+    if (!URL_KEYS.some((k) => u.has(k))) return this.syncUrl()
+    const m = this.m, st = this.st
+    // a link gives the whole view: what it does not name is cleared
+    const mode = u.get("o") === "play" ? "play" : "world"
+    if (mode !== st.mode) {
+      const was = st.level
+      st.mode = mode
+      st.open = {}
+      if (!this.levels.includes(was)) st.level = "Arcs"
+    }
+    st.person = u.has("p") ? m.findPerson(u.get("p")) : null
+    st.place = st.person == null && u.has("place") ? m.findPlace(u.get("place")) : null
+    st.only = true
+    const lost = st.person == null && u.has("p") ? u.get("p") : st.place == null && u.has("place") ? u.get("place") : ""
+    st.q = u.get("q") ?? lost // an unknown name becomes a search
+    st.s = null
+    this._hits = null
+    this.renderAll()
+    const ev = u.has("e") ? m.events.find((e) => e.id === u.get("e")) : null
+    const sn = Number(u.get("s"))
+    // after the page has settled (Quartz scrolls to the top when it swaps pages)
+    const go = () => {
+      if (!this.el.isConnected) return
+      if (ev) this.gotoEvent(ev.i, true)
+      else if (u.has("s") && m.sByN.has(sn)) this.gotoSession(sn)
+      this.syncUrl()
+    }
+    if (ev || u.has("s")) requestAnimationFrame(() => setTimeout(go, 60))
+    else this.syncUrl()
+  }
+  urlParams() {
+    const st = this.st, out = {}
+    if (st.mode === "play") out.o = "play"
+    if (st.person != null) out.p = this.m.people[st.person].key
+    if (st.place != null) out.place = this.m.places[st.place].key
+    if (st.q?.trim()) out.q = st.q.trim()
+    if (st.s != null) out.s = String(st.s)
+    return out
+  }
+  syncUrl(later) {
+    clearTimeout(this._sync)
+    if (later) return void (this._sync = setTimeout(() => this.syncUrl(), 500))
+    if (!this.el.isConnected || !window.history?.replaceState) return
+    const u = new URL(window.location.href)
+    ;[...URL_KEYS, ...(this.extraKeys ?? [])].forEach((k) => u.searchParams.delete(k))
+    for (const [k, v] of Object.entries(this.urlParams())) u.searchParams.set(k, v)
+    if (u.href !== window.location.href) window.history.replaceState(window.history.state, "", u)
+  }
+
   // ---- state changes
 
   setMode(mode) {
@@ -296,28 +447,45 @@ class View {
     this.st.open = {}
     if (!this.levels.includes(was)) this.st.level = was === "Eras" || was === "Years" ? "Arcs" : was
     this.renderAll()
+    this.syncUrl()
   }
   setLevel(level) {
     if (!this.levels.includes(level)) return
     this.st.level = level
     this.st.open = {}
+    this.st.s = null
     this.renderBar()
     this.renderStream(true)
+    this.syncUrl()
   }
   toggle(k) {
     const node = this.nodes.get(k)
     if (!node) return
     this.st.open[k] = !this.isOpen(node)
+    if (node.kind === "session") this.st.s = this.st.open[k] ? node.s : this.st.s === node.s ? null : this.st.s
     this.renderStream(true, k)
+    this.syncUrl()
   }
   setPerson(id) {
     this.st.person = id == null || Number.isNaN(id) ? null : id
+    this.st.place = null
+    this.follow()
+  }
+  setPlace(id) {
+    this.st.place = id == null || Number.isNaN(id) ? null : id
+    this.st.person = null
+    this.follow()
+  }
+  follow() {
     this._hits = null
+    this.st.q = ""
     this.$("#gdtl-q").value = ""
     this.renderChips()
+    this.renderFound()
     this.renderPerson()
     this.renderOverview()
     this.renderStream(false)
+    this.syncUrl()
   }
   isOpen(node) {
     if (this.filtering) return true
@@ -327,18 +495,61 @@ class View {
     return node.depth < this.zoom
   }
   get filtering() {
-    return this.st.person != null && this.st.only
+    return (this.st.person != null || this.st.place != null) && this.st.only
   }
   openPath(k) {
     const parts = k.split("/")
     for (let i = 1; i <= parts.length; i++) this.st.open[parts.slice(0, i).join("/")] = true
   }
-  gotoEvent(i) {
+  setQuery(q, typed) {
+    this.st.q = q
+    if (!typed) this.$("#gdtl-q").value = q
+    this.renderChips()
+    this.renderFound()
+    this.syncUrl(true)
+  }
+  gotoSession(sn) {
+    const key = this.sessionKey(sn, null)
+    if (!key) return
+    const node = this.nodes.get(key)
+    if (this.filtering && !node.ev.some((i) => this.hits.has(i))) this.showAll()
+    this.openPath(key)
+    this.st.s = sn
+    this.renderStream(false)
+    this.flash(this.el.querySelector(`[data-k="${CSS.escape(key)}"]`))
+  }
+  // from a search result: the event must be on screen even while somebody is being followed
+  showAll() {
+    if (!this.filtering) return
+    this.st.only = false
+    this.renderPerson()
+  }
+  gotoEvent(i, fromSearch) {
     const e = this.m.events[i]
+    if (!e) return
+    if (fromSearch && this.filtering && !this.hits.has(i)) this.showAll()
     const key = this.sessionKey(e.s, e.y)
     if (key) this.openPath(key)
+    this.st.s = e.s
     this.renderStream(false)
     this.flash(this.el.querySelector(`[data-e="${i}"]`))
+    this.syncUrl()
+  }
+  // something the party was told: under its year (world time) or under the session it was told in (play order)
+  gotoLore(i) {
+    const l = this.m.lore[i]
+    if (!l) return
+    this.showAll()
+    if (this.st.mode === "play") {
+      const key = this.sessionKey(l.s, null)
+      if (key) this.openPath(key)
+    } else {
+      const yn = this.m.world.yearNodes.find((n) => n.lore.includes(i))
+      if (yn) this.openPath(`${yn.k}/lore`)
+      else this.st.open.undated = true
+    }
+    this.renderStream(false)
+    this.flash(this.el.querySelector(`[data-l="${i}"]`))
   }
   gotoCell(ds) {
     let key = null
@@ -346,6 +557,7 @@ class View {
     else if (ds.y) key = this.m.world.yearNodes.find((n) => n.y === Number(ds.y))?.k
     if (!key) return
     const node = this.nodes.get(key)
+    this.st.s = ds.s ? Number(ds.s) : null
     if (ds.s) this.openPath(key)
     else {
       this.openPath(key.split("/").slice(0, -1).join("/"))
@@ -355,6 +567,7 @@ class View {
     }
     this.renderStream(false)
     this.flash(this.el.querySelector(`[data-k="${CSS.escape(key)}"]`))
+    this.syncUrl()
   }
   sessionKey(sn, y) {
     for (const [k, n] of this.nodes) if (n.kind === "session" && n.s === sn && (this.st.mode === "play" || y == null || n.y === y)) return k
@@ -421,8 +634,11 @@ class View {
     if (this.st.mode === "world") this.nodes.set("undated", { kind: "undated", k: "undated", depth: 0 })
     this.el.classList.toggle("gdtl-noquotes", !this.st.quotes)
     this.$('[data-act="quotes"]').checked = this.st.quotes
+    this.$("#gdtl-q").value = this.st.q ?? ""
+    if (this.m.nosearch || !this.m.places.length) this.$("#gdtl-q").placeholder = ["A name", this.m.places.length ? "a place" : "", this.m.nosearch ? "" : "a word from the story"].filter(Boolean).join(", ") + "…"
     this.renderBar()
     this.renderChips()
+    this.renderFound()
     this.renderPerson()
     this.renderOverview()
     this.renderStream(false)
@@ -445,24 +661,100 @@ class View {
   chip(p, extra = "") {
     return `<button type="button" class="gdtl-chip${this.st.person === p.id ? " is-on" : ""}" draggable="true" data-act="person" data-p="${p.id}" title="Show where ${esc(p.name)} appears (or drag onto the timeline)">${this.avatar(p)}${esc(p.name)}<span class="gdtl-n">${p.c}</span>${extra}</button>`
   }
+  placeChip(pl, extra = "") {
+    return `<button type="button" class="gdtl-chip is-place${this.st.place === pl.id ? " is-on" : ""}" data-act="place" data-pl="${pl.id}" title="Show what happened at ${esc(pl.name)}">${PIN}${esc(pl.name)}<span class="gdtl-n">${pl.n}</span>${extra}</button>`
+  }
   renderChips() {
     const q = plain(this.$("#gdtl-q").value.trim())
     const people = this.m.people
     let html
     if (q) {
-      const found = people.filter((p) => plain(p.name).includes(q)).sort((a, b) => b.c - a.c).slice(0, 14)
-      html = found.length ? found.map((p) => this.chip(p)).join("") : `<span class="gdtl-none">Nobody by that name in the timeline.</span>`
+      // the name first, then every other name the person goes by (a whole-word start beats a match inside a word)
+      const found = []
+      for (const p of people) {
+        const n = plain(p.name)
+        if (n.includes(q)) found.push([p, null, n.startsWith(q) ? 0 : 1])
+        else {
+          const hit = p.aka.find(([, k]) => startsWord(k, q)) ?? p.aka.find(([, k]) => k.includes(q))
+          if (hit) found.push([p, hit[0], startsWord(hit[1], q) ? 2 : 3])
+        }
+      }
+      found.sort((a, b) => a[2] - b[2] || b[0].c - a[0].c)
+      const spots = []
+      for (const pl of this.m.places) {
+        const n = plain(pl.name)
+        const hit = n.includes(q) ? null : pl.aka.find(([, k]) => k.includes(q))
+        if (n.includes(q) || hit) spots.push([pl, hit?.[0], n.startsWith(q) ? 0 : hit ? 2 : 1])
+      }
+      spots.sort((a, b) => a[2] - b[2] || b[0].n - a[0].n)
+      const aka = (t) => (t ? `<span class="gdtl-aka">${esc(t.length > 34 ? t.slice(0, 32) + "…" : t)}</span>` : "")
+      html =
+        (found.length ? `<span class="gdtl-chiplbl">People</span>` + found.slice(0, 14).map(([p, t]) => this.chip(p, aka(t))).join("") : "") +
+        (spots.length ? `<span class="gdtl-chiplbl">Places</span>` + spots.slice(0, 8).map(([pl, t]) => this.placeChip(pl, aka(t))).join("") : "")
     } else {
       const top = people.filter((p) => p.kind !== "pc").sort((a, b) => b.c - a.c).slice(0, 10)
       const party = people.filter((p) => p.kind === "pc").sort((a, b) => b.c - a.c)
       html = `<span class="gdtl-chiplbl">Often seen</span>${top.map((p) => this.chip(p)).join("")}<span class="gdtl-chiplbl">The party</span>${party.map((p) => this.chip(p)).join("")}`
+      const spots = [...this.m.places].filter((pl) => pl.n).sort((a, b) => b.n - a.n).slice(0, 8)
+      if (spots.length) html += `<span class="gdtl-chiplbl">Places</span>${spots.map((pl) => this.placeChip(pl)).join("")}`
     }
+    if (q && !html && this.m.nosearch) html = `<span class="gdtl-none">Nobody by that name in the timeline.</span>`
     this.$(".gdtl-chips").innerHTML = html
+    this.$(".gdtl-chips").hidden = !html
+  }
+
+  // the story search: events and things told whose text has every word of the query
+  search(q) {
+    const m = this.m
+    const terms = words(q)
+    if (!terms.length || terms.every((t) => t.length < 2)) return { terms, hits: [] }
+    m.hay ??= {
+      ev: m.events.map((e) => plain([e.w, e.p?.t, e.q].filter(Boolean).join(" \n "))),
+      lore: m.lore.map((l) => plain([l.w, l.x, l.q].filter(Boolean).join(" \n "))),
+    }
+    const hits = []
+    m.hay.ev.forEach((h, i) => terms.every((t) => h.includes(t)) && hits.push({ e: i, s: m.events[i].s, o: i }))
+    m.hay.lore.forEach((h, i) => terms.every((t) => h.includes(t)) && hits.push({ l: i, s: m.lore[i].s, o: (m.sByN.get(m.lore[i].s)?.ev?.at(-1) ?? 0) + 0.5 }))
+    hits.sort((a, b) => a.s - b.s || a.o - b.o)
+    return { terms, hits }
+  }
+  renderFound(all) {
+    const box = this.$(".gdtl-found")
+    const q = this.st.q.trim()
+    const m = this.m
+    if (!q || m.nosearch) {
+      box.hidden = true
+      box.innerHTML = ""
+      return
+    }
+    const { terms, hits } = this.search(q)
+    const people = !this.$(".gdtl-chips").hidden
+    box.hidden = false
+    if (!hits.length) {
+      box.innerHTML = people ? "" : `<p class="gdtl-none">${terms.every((t) => t.length < 2) ? "Type at least two letters." : "Nothing found in the timeline."}</p>`
+      box.hidden = people
+      return
+    }
+    const LIMIT = window.matchMedia?.("(max-width: 640px)").matches ? 5 : 10 // a short list first; phones scroll far otherwise
+    const has = (t) => t && terms.some((w) => plain(t).includes(w))
+    const row = (h) => {
+      const x = h.e != null ? m.events[h.e] : m.lore[h.l]
+      const where = h.e != null ? `S${x.s} · ${m.pb(x.y)}` : `S${x.s} · told${x.y != null ? ` · ${x.a ? "≈ " : ""}${yr(x.y)} p.B.` : ""}`
+      // the line that matched, when it is not the event text itself
+      const extra = has(x.w) ? "" : has(x.q) ? `<span class="gdtl-fq">“${snippet(x.q, terms, 110)}”</span>` : h.e != null && has(x.p?.t) ? `<span class="gdtl-fq is-at">at ${marked(x.p.t, terms).html}</span>` : has(x.x) ? `<span class="gdtl-fq">“${snippet(x.x, terms, 110)}”</span>` : ""
+      return `<li><button type="button" class="gdtl-fbtn" data-act="found" ${h.e != null ? `data-e="${h.e}"` : `data-l="${h.l}"`}><span class="gdtl-mono">${where}</span><span class="gdtl-ftext">${snippet(x.w, terms)}${extra}</span></button></li>`
+    }
+    const shown = all ? hits : hits.slice(0, LIMIT)
+    box.innerHTML =
+      `<p class="gdtl-chiplbl">In the story · ${plural(hits.length, "match", "matches")}</p>` +
+      `<ol class="gdtl-results${all ? " is-all" : ""}">${shown.map(row).join("")}</ol>` +
+      (hits.length > shown.length ? `<button type="button" class="gdtl-fmore" data-act="morefound">Show all ${num(hits.length)}</button>` : "")
   }
 
   renderPerson() {
     const box = this.$(".gdtl-person")
     const id = this.st.person
+    if (id == null && this.st.place != null) return this.renderPlace(box)
     if (id == null) {
       box.hidden = true
       box.innerHTML = ""
@@ -498,6 +790,33 @@ class View {
       </div>`
   }
 
+  renderPlace(box) {
+    const m = this.m
+    const pl = m.places[this.st.place]
+    const evs = m.byPlace[pl.id].map((i) => m.events[i])
+    const first = evs[0], last = evs[evs.length - 1]
+    const ys = evs.map((e) => e.y)
+    const y0 = Math.min(...ys), y1 = Math.max(...ys)
+    const up = pl.up != null ? m.places[pl.up] : null
+    const kids = pl.kids.map((id) => m.places[id]).filter((k) => k.n).sort((a, b) => b.n - a.n)
+    const pinAt = pl.pinAt != null ? m.places[pl.pinAt] : null
+    box.hidden = false
+    box.innerHTML = `
+      <span class="gdtl-av is-big is-ph is-placeav" aria-hidden="true">${PIN}</span>
+      <div class="gdtl-person-main">
+      <div class="gdtl-person-h">
+        <h3><a class="internal" href="${m.href(pl.href)}">${esc(pl.name)}</a></h3>
+        <span class="gdtl-kind">place</span>
+        <button type="button" class="gdtl-x" data-act="clear" aria-label="Stop following ${esc(pl.name)}">clear ×</button>
+      </div>
+      <p class="gdtl-person-sum">${evs.length ? `${plural(evs.length, "event")} here, ${first.s === last.s ? `session ${first.s}` : `sessions ${first.s}–${last.s}`} · ${y0 === y1 ? m.pb(y0) : `in the world's time from ${m.pb(y0)} to ${m.pb(y1)}`}` : "No events here."}</p>
+      ${pinAt ? `<p class="gdtl-maplink"><a class="internal" href="${m.mapHref(pinAt.id)}">${PIN}${pinAt === pl ? "On the map" : `${esc(pinAt.name)} on the map`} →</a></p>` : ""}
+      ${up ? `<p class="gdtl-sub">Lies in</p><p class="gdtl-chips is-in">${this.placeChip(up)}</p>` : ""}
+      ${kids.length ? `<p class="gdtl-sub">Places within, counted here too</p><p class="gdtl-chips is-in">${kids.map((k) => this.placeChip(k)).join("")}</p>` : ""}
+      <label class="gdtl-check"><input type="checkbox" data-act="only" ${this.st.only ? "checked" : ""}> Show only events here</label>
+      </div>`
+  }
+
   // the strip at the top: every year that has content, breaks where nothing is known
   renderOverview() {
     const m = this.m, hits = this.hits
@@ -512,7 +831,7 @@ class View {
       const s = m.sByN.get(sn)
       const n = hits ? evs.filter((i) => hits.has(i)).length : 0
       const tt = evs.some((i) => m.events[i].tt)
-      cells.push({ x, w: CW, cls: `c-s${tt ? " c-tt" : ""}${n ? " c-hit" : ""}${extraCls}`, attrs: `data-act="cell" data-s="${sn}" data-y="${y}"`, title: `Session ${sn}${s.title ? " – " + s.title : ""} · ${m.pb(y)}${s.place?.t ? " · " + s.place.t : ""}${n ? ` · ${plural(n, "event")} with ${m.people[this.st.person].name}` : ""}` })
+      cells.push({ x, w: CW, cls: `c-s${tt ? " c-tt" : ""}${n ? " c-hit" : ""}${extraCls}`, attrs: `data-act="cell" data-s="${sn}" data-y="${y}"`, title: `Session ${sn}${s.title ? " – " + s.title : ""} · ${m.pb(y)}${s.place?.t ? " · " + s.place.t : ""}${n ? ` · ${plural(n, "event")} ${this.followed}` : ""}` })
       evs.forEach((i) => pos.set(i, x + CW / 2))
       const band = bands[bands.length - 1]
       if (band && band.arc === s.arc && band.x2 + GAP + 0.5 >= x) band.x2 = x + CW
@@ -576,7 +895,7 @@ class View {
     const sc = this.$(".gdtl-over-scroll")
     sc.innerHTML = svg
     sc.scrollLeft = this.st.mode === "world" ? sc.scrollWidth : 0
-    const p = this.st.person != null ? m.people[this.st.person] : null
+    const p = this.followed ? { name: this.followed.replace(/^(with|at) /, "") } : null
     this.$(".gdtl-key").innerHTML =
       (this.st.mode === "world"
         ? `Top line: year p.B. · below: the same year in Ephraim's count (p.B. + ${num(m.offset)}). `
@@ -596,7 +915,7 @@ class View {
     }
     const m = this.m
     const parts = []
-    if (this.filtering && !this.m.byPerson[this.st.person].length) parts.push(`<p class="gdtl-none">No events.</p>`)
+    if (this.filtering && !this.hits.size) parts.push(`<p class="gdtl-none">No events.</p>`)
     if (this.st.mode === "world") {
       for (const era of m.world.kids) {
         if (!this.visible(era)) continue
@@ -624,7 +943,7 @@ class View {
     const h = this.hits
     if (!h || this.filtering) return ""
     const n = node.ev.reduce((a, i) => a + (h.has(i) ? 1 : 0), 0)
-    return n ? `<span class="gdtl-hits" title="${plural(n, "event")} with ${esc(this.m.people[this.st.person].name)}">${n}</span>` : ""
+    return n ? `<span class="gdtl-hits" title="${plural(n, "event")} ${esc(this.followed)}">${n}</span>` : ""
   }
   head(node, cls, inner) {
     const open = this.isOpen(node)
@@ -754,11 +1073,17 @@ class View {
     return html + `</div></section>`
   }
 
-  placeHtml(p) {
+  // ids: the followable places of an event → a "follow" pin in front, and a map link when one of them has a pin
+  placeHtml(p, ids) {
     if (!p) return ""
+    const m = this.m
     let html = esc(p.t)
-    for (const [label, href] of p.l ?? []) html = html.replace(esc(label), `<a class="internal" href="${this.m.href(href)}">${esc(label)}</a>`)
-    return `<span class="gdtl-place"><span class="gdtl-at">at</span> ${html}</span>`
+    for (const [label, href] of p.l ?? []) html = html.replace(esc(label), `<a class="internal" href="${m.href(href)}">${esc(label)}</a>`)
+    const pls = (ids ?? []).map((id) => m.places[id])
+    const follow = pls[0] ? `<button type="button" class="gdtl-pin gdtl-plpin${pls.some((pl) => pl.id === this.st.place) ? " is-on" : ""}" data-act="place" data-pl="${pls[0].id}" aria-label="Follow ${esc(pls[0].name)} on the timeline" title="Follow ${esc(pls[0].name)} on the timeline">${PIN}</button> ` : ""
+    const pinAt = pls.map((pl) => pl.pinAt).find((id) => id != null)
+    const map = pinAt != null ? ` <a class="internal gdtl-onmap" href="${m.mapHref(pinAt)}" title="${esc(m.places[pinAt].name)} on the map">on the map</a>` : ""
+    return `<span class="gdtl-place">${follow}<span class="gdtl-at">at</span> ${html}${map}</span>`
   }
   // people on an event: the portrait is the "follow" button, the name links to the page
   who(npcs, pcs) {
@@ -785,7 +1110,7 @@ class View {
     const off = e.o && !/^(same (day|scene|visit|time)|continuous|unknown|unclear)$/i.test(e.o) ? `<span class="gdtl-off">${esc(e.o)}</span>` : ""
     html += `<article class="gdtl-ev${hit ? " is-hit" : ""}${e.tt ? " is-tt" : ""}" data-e="${i}">`
     html += `<p class="gdtl-what">${play && e.tt ? `<span class="gdtl-tag is-tt">${m.pb(e.y)}</span> ` : ""}${esc(e.w)}</p>`
-    const meta = [this.placeHtml(e.p), off, when].filter(Boolean)
+    const meta = [this.placeHtml(e.p, e.pl), off, when].filter(Boolean)
     if (meta.length) html += `<p class="gdtl-meta">${meta.join(`<span class="gdtl-dot"> · </span>`)}</p>`
     if (e.n?.length || e.c?.length) html += `<p class="gdtl-who">${this.who(e.n ?? [], e.c ?? [])}</p>`
     if (e.q) html += `<blockquote class="gdtl-q">${esc(e.q)}</blockquote>`
@@ -804,7 +1129,7 @@ class View {
     if (l.x) meta.push(`<span class="gdtl-when">as told: “${esc(l.x)}”</span>`)
     if (l.cal) meta.push(`<span class="gdtl-tag">${esc(l.cal)}${l.y == null ? ", not converted" : ""}</span>`)
     if (placed) meta.push(s?.href ? `<a class="internal" href="${m.href(s.href)}">told in S${l.s}</a>` : `told in S${l.s}`)
-    return `<article class="gdtl-ev gdtl-lore"><p class="gdtl-what">${esc(l.w)}</p><p class="gdtl-meta">${meta.join(`<span class="gdtl-dot"> · </span>`)}</p>${l.q ? `<blockquote class="gdtl-q">${esc(l.q)}</blockquote>` : ""}</article>`
+    return `<article class="gdtl-ev gdtl-lore" data-l="${i}"><p class="gdtl-what">${esc(l.w)}</p><p class="gdtl-meta">${meta.join(`<span class="gdtl-dot"> · </span>`)}</p>${l.q ? `<blockquote class="gdtl-q">${esc(l.q)}</blockquote>` : ""}</article>`
   }
 
   undated() {

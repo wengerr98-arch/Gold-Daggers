@@ -14,6 +14,11 @@ publish: true
 
 # The Monument (Skjall)
 
+<div class="gd-seen"><p><span>Visited in 3 sessions</span> <span>first <a href="../sessions/session-061---change">Session 61 · Change</a></span> <span>last <a href="../sessions/session-108">Session 108</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../sessions/session-061---change">Session 61</a> <span>Change</span></li><li><a href="../sessions/session-076---the-death-of-the-king-and-the-rise-of-new-one!">Session 76</a> <span>The Death of the King and the Rise of New One!</span></li><li><a href="../sessions/session-108">Session 108</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=the-monument-(skjall)" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Monument in [[Skjall]] is the failsafe mechanism built by [[Abrahim (Ephraim)|Ephraim]] and others to release [[Anubis]] from [[Bob (Golem)|Bob's]] containment. Also known as the **Seelen-Schredder** — the party has visited it before.

@@ -7,15 +7,16 @@ publish: true
 
 # Session 092 - Pfadfindung
 
-<p class="session-meta"><span>Session 92</span> <span>Arc 5 · Höllenfahrt</span> <span>played 2025-10-25</span></p>
+<p class="session-meta"><span>Session 92</span> <span><a class="gd-arc-link" href="../arcs/arc-5">Arc 5 · Höllenfahrt</a></span> <span>played 2025-10-25</span> <span class="gd-tl-link" data-to="timeline" data-q="s=92" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-92" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/gods/grosser-hirte"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Grosser Hirte</span></a><a class="gd-chip" href="../entities/npcs/udir"><span class="gd-av is-ph" aria-hidden="true">U</span><span class="gd-chip-name">Udir</span></a><a class="gd-chip" href="../entities/npcs/abrahim-(ephraim)"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Abrahim (Ephraim)</span></a><a class="gd-chip" href="../entities/npcs/alexandra-chaumlat"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Alexandra Chaumlat</span></a><a class="gd-chip" href="../entities/npcs/brel"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Brel</span></a><a class="gd-chip" href="../entities/gods/kaldera"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Kaldera</span></a><a class="gd-chip" href="../entities/npcs/lotti"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Lotti</span></a><a class="gd-chip" href="../entities/npcs/randrus-torren"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Randrus Torren</span></a><a class="gd-chip is-extra" href="../entities/gods/sommergöttin"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sommergöttin</span></a><a class="gd-chip is-extra" href="../entities/gods/succubus"><img class="gd-av" src="../07_protocol-sources/old-image-repository/succubus.webp" alt="" loading="lazy"><span class="gd-chip-name">Succubus</span></a><a class="gd-chip is-extra" href="../entities/npcs/susra-und-kafra"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Susra und Kafra</span></a><a class="gd-chip is-extra" href="../entities/npcs/treth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/treth.webp" alt="" loading="lazy"><span class="gd-chip-name">Treth</span></a></span></div><label class="gd-who-more" for="gd-who-92"><span class="gd-who-plus">+4</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 # D&D Session 92 - Samstag, 25. Oktober 2025
 
-This is a generated draft import from a converted protocol file and has not been reviewed.
 
 ## Clean Protocol Text
 
-# Session 092 - Pfadfindung
 <!-- source_heading: # D&D Session 92 - Samstag, 25. Oktober 2025 -->
 <!-- session_date: 2025-10-25 -->
 <!-- table_notes: 831 p.b. \| Sommer \| Nyhirtsholm -->
@@ -74,8 +75,6 @@ es esch en drette mond erschene e eusere Timeline. aber jetzte escher dette und 
 
 Mer stelle d Taverne
 
-![](media/image5.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
 Mer gönd e d Taverne und es esch altbekannt. e de metti esch s portable hole. s Lotti stellt eus scho tee am iiischenke.
 
 De snix esch am füüür ah ofem teppich. de Barzan em sessel am füür. ello a de bar. de lotti ere tee esch mega starch, en schwarztee. mer sueche bücher.
@@ -107,8 +106,6 @@ d Texte wiiise of divine creation äne, chömmemer alli os däm gliiche punkt? i
 *Insight again: 29*
 
 Newton het versuecht das wösseschafltech erchläre. de Ephraim esch amene ähnleche punkt, er het so vell wösse, dasser nömme a s Göttleche gloubt, sondern das was alles do zämmehebt schädlech esch. also er verzellt vonere entweder - oder - situation. es existiert nüd, was öbbis esch. sobald nüüt öbbis cha sii esch balance wäg. alles gheit zämmme. somet lesst de barzan en mentale zämmebruch vo ehm.
-
-#### 
 
 #### Lorilla: Planar Artifacts throughout History
 

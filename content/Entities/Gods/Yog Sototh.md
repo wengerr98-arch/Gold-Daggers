@@ -15,7 +15,7 @@ Yog Sototh is a cosmic/divine entity named in Barzan's Legend Lore result in Ses
 
 ## Session Appearances
 
-- Session 051: Referenced in Barzan's Legend Lore result in the context of the Waterplane cosmological balance and the Titan conflict.
+- [[Session 051 - Book of Yavin|Session 051]]: Referenced in Barzan's Legend Lore result in the context of the Waterplane cosmological balance and the Titan conflict.
 
 ## Known Facts
 

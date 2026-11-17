@@ -7,9 +7,10 @@ publish: true
 
 # Session 101 - 1-0 Auftakt
 
-<p class="session-meta"><span>Session 101</span> <span>Arc 5 · Höllenfahrt</span> <span>831 p.B., Sommer, Stygia</span></p>
+<p class="session-meta"><span>Session 101</span> <span><a class="gd-arc-link" href="../arcs/arc-5">Arc 5 · Höllenfahrt</a></span> <span>831 p.B., Sommer, Stygia</span> <span class="gd-tl-link" data-to="timeline" data-q="s=101" data-label="On the timeline →"></span></p>
 
-# Session 101 - 1-0 A
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-101" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/gilgamesh"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Gilgamesh</span></a><a class="gd-chip" href="../entities/npcs/levistus"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Levistus</span></a><a class="gd-chip" href="../entities/npcs/muryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/muryn.webp" alt="" loading="lazy"><span class="gd-chip-name">Muryn</span></a><a class="gd-chip" href="../entities/npcs/randrus-torren"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Randrus Torren</span></a><a class="gd-chip" href="../entities/npcs/brevin"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Brevin</span></a><a class="gd-chip" href="../entities/npcs/dakun"><img class="gd-av" src="../07_protocol-sources/old-image-repository/dakun.webp" alt="" loading="lazy"><span class="gd-chip-name">Dakun</span></a><a class="gd-chip" href="../entities/npcs/don-hor"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Don Hor</span></a><a class="gd-chip" href="../entities/npcs/ganfer"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Ganfer</span></a><a class="gd-chip is-extra" href="../entities/npcs/imir"><span class="gd-av is-ph" aria-hidden="true">I</span><span class="gd-chip-name">Imir</span></a><a class="gd-chip is-extra" href="../entities/npcs/ken"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Ken</span></a><a class="gd-chip is-extra" href="../entities/npcs/oda"><span class="gd-av is-ph" aria-hidden="true">O</span><span class="gd-chip-name">Oda</span></a><a class="gd-chip is-extra" href="../entities/npcs/odyss-trion"><span class="gd-av is-ph" aria-hidden="true">O</span><span class="gd-chip-name">Odyss Trion</span></a><a class="gd-chip is-extra" href="../entities/npcs/radvian"><img class="gd-av" src="../07_protocol-sources/old-image-repository/radvian.webp" alt="" loading="lazy"><span class="gd-chip-name">Radvian</span></a><a class="gd-chip is-extra" href="../entities/npcs/ron"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Ron</span></a><a class="gd-chip is-extra" href="../entities/npcs/söljarn"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Söljarn</span></a><a class="gd-chip is-extra" href="../entities/npcs/ysra"><span class="gd-av is-ph" aria-hidden="true">Y</span><span class="gd-chip-name">Ysra</span></a></span></div><label class="gd-who-more" for="gd-who-101"><span class="gd-who-plus">+8</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 Session date:
 2026-05-16
@@ -19,7 +20,6 @@ Table notes:
 
 ## Clean Protocol Text
 
-# Session 101 - 1-0 A
 <!-- source_heading: # D&D Session 101 - Samstag, 16. Mai 2026 -->
 <!-- session_date: 2026-05-16 -->
 <!-- table_notes: 831 p.b. \| Sommer \| Stygia -->
@@ -32,7 +32,7 @@ Ahänger greifen gezielt in die Geschichte ein. Die Welt wird dieses mal nicht m
 
 Tidis Oreon heisst de leonin (Odis?)
 
-T'Dis Oroen -\> [[Odis Trion (de Leonin)]{.underline}]{.mark}
+T'Dis Oroen -\> ==<u>Odis Trion (de Leonin)</u>==
 
 # Nachwirkungen
 
@@ -211,8 +211,6 @@ er rüeft: d'Imir, bart bes zo de Höfte abe. du muesch cho trinke!
 Imir chonnt vöre und esh riesig. Imir wird trinke gäge Torr.
 
 Schwert vo Relay esch weder em schrompfglas.
-
-##  
 
 ## Wir Trinken um die Hilfe für Skjall
 

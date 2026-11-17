@@ -13,7 +13,7 @@ The Sonnenbibel (Sun Bible) is a religious text purchased by [[Barzan Aeducan]] 
 
 ## Session Appearances
 
-- Session 041: Purchased by [[Barzan Aeducan]] from [[Randrus Torren]]'s collection (acquired from the dissolved [[Sonnenkirche]]); used to research the [[Sommergöttin]].
+- [[Session 041 - Deals like Daggers|Session 041]]: Purchased by [[Barzan Aeducan]] from [[Randrus Torren]]'s collection (acquired from the dissolved [[Sonnenkirche]]); used to research the [[Sommergöttin]].
 
 ## Known Facts
 

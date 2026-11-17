@@ -9,6 +9,11 @@ publish: true
 
 # Mason Haus
 
+<div class="gd-seen"><p><span>Visited in 4 sessions</span> <span>first <a href="../sessions/session-007">Session 7</a></span> <span>last <a href="../sessions/session-010">Session 10</a></span></p><details><summary>All 4 sessions</summary><ul><li><a href="../sessions/session-007">Session 7</a></li><li><a href="../sessions/session-008">Session 8</a></li><li><a href="../sessions/session-009">Session 9</a></li><li><a href="../sessions/session-010">Session 10</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=mason-haus" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 Mason Haus is the residence and laboratory of [[Dr. Mason]], located on the [[Zweite Platte]] (Second Tier) of [[Dalior]]. The mansion appears grand but notably dilapidated compared to neighbouring estates on the tier. Beneath the residence lies an extensive underground dungeon and laboratory complex—a sprawling maze of rooms, puzzles, and experimental chambers filled with undead constructs and creature preparations. The basement served as the primary setting for the party's first major dungeon delve in Session 008.

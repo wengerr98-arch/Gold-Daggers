@@ -10,6 +10,9 @@ publish: true
 
 # Okam
 
+<div class="gd-seen"><p><span>Mentioned in 2 sessions</span> <span>first <a href="../sessions/session-019">Session 19</a></span> <span>last <a href="../sessions/session-038">Session 38</a></span></p></div>
+
+
 ## Known Information
 
 Okam is [[Snix]]'s named short sword, which appeared in Snix's dream sequence during Session 019 — found alongside [[Mason]] and seemingly part of a set of blades. The sword's grip features a notable gap suggesting it belongs to a paired or larger set, and a red-bladed sword also appeared in the dream as a possible counterpart. As of Session 038, Okam was stolen from Snix by the green Dragonborn Yazi during a road ambush.

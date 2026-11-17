@@ -8,6 +8,9 @@ publish: true
 
 # Gargantuan Horn
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-094---eine-frage-der-richtigkeit">Session 94 · Eine Frage der Richtigkeit</a></span></p></div>
+
+
 ## Known Information
 
 The Gargantuan Horn is a rare and powerful artefact claimed by the party after defeating a Kraken in the sunken city of Ylvar during Session 094. Barzan identified it by name after the encounter, and the party's initial reaction suggests the item will have significant campaign relevance. It is currently held by Barzan Aeducan.

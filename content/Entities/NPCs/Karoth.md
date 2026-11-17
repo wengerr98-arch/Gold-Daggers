@@ -10,6 +10,11 @@ gallery: true
 
 # Karoth
 
+<div class="gd-seen"><p><span>Seen in 11 sessions</span> <span>first <a href="../../sessions/session-059---delusions-of-a-savior">Session 59 · Delusions of a savior</a></span> <span>last <a href="../../sessions/session-078---crossroads">Session 78 · Crossroads</a></span></p><details><summary>All 11 sessions</summary><ul><li><a href="../../sessions/session-059---delusions-of-a-savior">Session 59</a> <span>Delusions of a savior</span></li><li><a href="../../sessions/session-061---change">Session 61</a> <span>Change</span></li><li><a href="../../sessions/session-062---escalating">Session 62</a> <span>Escalating</span></li><li><a href="../../sessions/session-063---the-veil">Session 63</a> <span>The Veil</span></li><li><a href="../../sessions/session-064---nightmare-overseer">Session 64</a> <span>Nightmare Overseer</span></li><li><a href="../../sessions/session-065---braiding-strings">Session 65</a> <span>Braiding Strings</span></li><li><a href="../../sessions/session-066">Session 66</a></li><li><a href="../../sessions/session-067">Session 67</a></li><li><a href="../../sessions/session-070---protokoll-bb">Session 70</a> <span>Protokoll: BB</span></li><li><a href="../../sessions/session-077---results">Session 77</a> <span>Results</span></li><li><a href="../../sessions/session-078---crossroads">Session 78</a> <span>Crossroads</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=karoth" data-label="Follow on the timeline →"></span></p>
+
 ![[Karoth.webp|260]]
 
 ## Known Information

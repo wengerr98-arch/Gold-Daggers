@@ -13,7 +13,7 @@ Ax is an older kobold ("en ältere Kobold") who led the party through the caves 
 
 ## Session Appearances
 
-- Session 054: Kobold elder who guided the party through the caves on their way to the kobold cave area.
+- [[Session 054 - Under the water, just killed Watergod|Session 054]]: Kobold elder who guided the party through the caves on their way to the kobold cave area.
 
 ## Known Facts
 

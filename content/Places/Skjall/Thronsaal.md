@@ -7,13 +7,18 @@ publish: true
 
 # Thronsaal
 
+<div class="gd-seen"><p><span>Visited in 3 sessions</span> <span>first <a href="../../sessions/session-074---protokoll-bb,-leumas">Session 74 · Protokoll: BB, Leumas</a></span> <span>last <a href="../../sessions/session-076---the-death-of-the-king-and-the-rise-of-new-one!">Session 76 · The Death of the King and the Rise of New One!</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../../sessions/session-074---protokoll-bb,-leumas">Session 74</a> <span>Protokoll: BB, Leumas</span></li><li><a href="../../sessions/session-075">Session 75</a></li><li><a href="../../sessions/session-076---the-death-of-the-king-and-the-rise-of-new-one!">Session 76</a> <span>The Death of the King and the Rise of New One!</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=thronsaal" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Thronsaal is the grand throne room of [[Skjall]], the frozen northern fortress-city. It serves as both the royal residence of the [[König|Torr]] (Maradak Dreamkiller) and the primary assembly hall for military strategy, diplomatic councils, and major civic events. The room is tied to the metaphysical heart of Skjall's power system — the [[Obsidian Crystal]], believed to contain and regulate the energy of the Wall that encases the city. As of Session 070, the Thronsaal has suffered catastrophic structural damage following a massive assault by [[Mason]].
 
 ## Character
 
-A cavernous and imposing hall befitting the seat of a warforged-maintained fortress-city. The space is vast enough to accommodate thousands of combatants and spectators simultaneously; it hosted an estimated 30,000–40,000 fighters during the Session 060 battle. The room features royal regalia, a prominent throne, a bar or trestle area (where historical logbooks are kept), and a raised podium from which the king observes state functions. High stone walls and structural elements give it the feel of a war-time stronghold as much as a royal chamber. The atmosphere is cold, utilitarian, and sacred — a place where decisions shape the survival of all Skjall. (Sources: session sidecar descriptions and Skjall stub context)
+A cavernous and imposing hall befitting the seat of a warforged-maintained fortress-city. The space is vast enough to accommodate thousands of combatants and spectators simultaneously; it hosted an estimated 30,000–40,000 fighters during the Session 060 battle. The room features royal regalia, a prominent throne, a bar or trestle area (where historical logbooks are kept), and a raised podium from which the king observes state functions. High stone walls and structural elements give it the feel of a war-time stronghold as much as a royal chamber. The atmosphere is cold, utilitarian, and sacred — a place where decisions shape the survival of all Skjall.
 
 ## Notable Areas
 

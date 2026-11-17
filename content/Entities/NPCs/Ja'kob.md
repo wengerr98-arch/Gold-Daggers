@@ -9,6 +9,11 @@ publish: true
 
 # Ja'kob
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-080---the-currency-of-class">Session 80 · The currency of class</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=ja'kob" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Ja'kob is the Head of the Transmutation school at the Kasta magical academy and the creator of the Homunculi found within and around Kasta. His creations — homunculi and golems — have been found active in desert sites outside the academy, and evidence suggests a deeper connection between his work and the Anubis pyramid complex. His name is canonically spelled "Ja'kob"; "Jakob" is an alternate form.

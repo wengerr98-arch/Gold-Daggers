@@ -15,7 +15,7 @@ Luchs (German for lynx) is a giant lynx-like creature encountered and fought by 
 
 ## Session Appearances
 
-- Session 068: Encountered as a giant lynx with legendary resistances and finger-like claws; described as "horrible." Fought by the party and apparently defeated.
+- [[Session 068 - Breach|Session 068]]: Encountered as a giant lynx with legendary resistances and finger-like claws; described as "horrible." Fought by the party and apparently defeated.
 
 ## Known Facts
 

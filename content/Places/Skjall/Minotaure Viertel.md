@@ -9,6 +9,11 @@ publish: true
 
 # Minotaure Viertel
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../../sessions/session-070---protokoll-bb">Session 70 · Protokoll: BB</a></span> <span>last <a href="../../sessions/session-071---protokoll-bb,-leumas">Session 71 · Protokoll: BB, Leumas</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=minotaure-viertel" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Minotaure Viertel (Minotaur Quarter) is one of four major racial districts within the fortified city of [[Skjall]], serving as the residential and cultural center of the minotaur population. The district became strategically significant during the late campaign when it fell under assault by combined undead and planar forces, and currently bears signs of severe structural damage from the conflict.
@@ -21,13 +26,13 @@ The district is characterized by ruined streets and shattered architecture follo
 
 - [[Moohs Blues]] — a minotaur-frequented hall/club
 - Hidden tavern area (within Minotaur Quarter) — accessible through narrow steamy corridors, guarded by bugbears, contains connection to time-shifted spaces
-- (stub needed) Ruined marketplace or central gathering space
+- Ruined marketplace or central gathering space
 
 ## Key Figures
 
 - [[Wintergöttin]] — goddess figure found pinned in the quarter during Session 071, hostile and wounded by nails through arms and hands
 - Wanda — encountered in the quarter conducting soul-related rituals and preparations
-- (stub needed) Yorni — coordinated resistance and regrouping in the quarter
+- Yorni — coordinated resistance and regrouping in the quarter
 
 ## Known Facts
 

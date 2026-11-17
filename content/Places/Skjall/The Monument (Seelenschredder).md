@@ -38,7 +38,6 @@ The Monument appears as a black obsidian object that behaves like liquid—those
 - Contains an inner dimension — the [[Mushroom Realm (Seelenschredder)]] — where souls captured by the Wild Hunt exist as spores
 - [[Thautok]] (alias Eradrin) inhabits or appears within this inner realm and has shared knowledge of the Wild Hunt and Wall mechanics with party members
 - Connected to the Wall's power system, activation requirements, and the Obsidian crystal in the Thronsaal
-- Old vault image reference: `Mushrooms inside the Monument.jpg`
 - Campaign-critical element tied to the larger arc involving the Wild Hunt, the Wall, and soul mechanics
 
 ## First Appearance

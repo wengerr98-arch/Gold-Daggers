@@ -7,6 +7,9 @@ publish: true
 
 # Obsidian Crystal
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-060---exhaustion">Session 60 · Exhaustion</a></span></p></div>
+
+
 ## Known Information
 
 The Obsidian Crystal is an inverted D4-shaped obsidian crystal believed to be located in the [[Thronsaal]] of [[Skjall]]. It was revealed in Barzan's lore vision during Session 060. The crystal stores the energy of The Wall — Skjall's giant magical defensive structure spanning between two mountain ranges — and may serve as the activation mechanism for that structure, which has a recharge cycle of hundreds of years.

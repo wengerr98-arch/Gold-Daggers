@@ -7,11 +7,13 @@ publish: true
 
 # Session 072 - Protokoll: BB, Leumas
 
-<p class="session-meta"><span>Session 72</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-10-14</span></p>
+<p class="session-meta"><span>Session 72</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-10-14</span> <span class="gd-tl-link" data-to="timeline" data-q="s=72" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/muryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/muryn.webp" alt="" loading="lazy"><span class="gd-chip-name">Muryn</span></a><a class="gd-chip" href="../entities/npcs/lotti"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Lotti</span></a><a class="gd-chip" href="../entities/npcs/shen"><img class="gd-av" src="../07_protocol-sources/old-image-repository/shen.webp" alt="" loading="lazy"><span class="gd-chip-name">Shen</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 072
 <!-- source_heading: # DND WEEK Session 72 - Montag, 14. Oktober 2024 -->
 <!-- session_date: 2024-10-14 -->
 
@@ -46,10 +48,6 @@ wie chonntme en taverne? sie esch eifach emmer grad dette gsi wome sie brucht he
 Mer händ verschedeni aasätz, fesch a öbber dänke, oder eifach mol e d'taverne ine gooh, strings of faith maybe?
 
 Leumas konzentriert sech uf d Fäde - er suecht en heeewiis und er folgt amene Rohr und gseht ergndn Pressure Valve. De Snix und d Lorilla und de Leumas gönd ufe. Dobe gseht de Leumas en roti Flamme ide Ferni. Barzan und Wanda folge.
-
-![](media/image28.jpg){width="2.8657305336832897in" height="3.8264020122484688in"}![](media/image19.jpg){width="2.921403105861767in" height="3.895204505686789in"}
-
-![](media/image8.jpg){width="5.851576990376203in" height="4.392758092738408in"}
 
 Mer chöme ine chliine Gang metere Flössigkeit vo Dampf abget. Mer folge am rote Liecht.
 
@@ -115,10 +113,6 @@ The group studies Wanda’s ritual, sorts out the bracelet-and-amulet fallout, a
 - taverne
 - pressure valve
 - red flame
-
-
-### Factions
-- Not identified
 
 
 ### Items / Titles / Events

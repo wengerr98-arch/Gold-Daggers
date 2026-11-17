@@ -9,9 +9,12 @@ publish: true
 
 # Mantle of the Torr
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-105">Session 105</a></span></p></div>
+
+
 ## Known Information
 
-The Mantle of the Torr is an item related to [[Entities/Player Characters/Leumas]], Torr of Skjall, [[Odyss Trion]], and the Stygian Gala. No further details have been recorded yet.
+The Mantle of the Torr is an item related to [[Entities/Player Characters/Leumas]], Torr of Skjall, [[Odyss Trion]], and the Stygian Gala.
 
 ## Session Appearances
 

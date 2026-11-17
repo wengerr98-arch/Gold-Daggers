@@ -9,6 +9,11 @@ publish: true
 
 # Dr. Fitz Mason
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-050---20'000-leagues">Session 50 · 20'000 Leagues</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=dr.-fitz-mason" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Dr. Fitz Mason is a historical figure referenced in a book read by BB and Barzan during Session 050. He is identified in the book as a "Founder" — specifically the founder of the school of Necromancy in this world and the first mortal wizard to achieve true Resurrection. He began his career as a revolutionary healer before drifting toward undead research, and died 450 years after the Forgotten War, killed by Tolteca. The current [[Dr. Mason]] (~80 years old) is described as his continuation or descendant in some form. Per DM correction, Dr. Fitz Mason is a distinct character from [[Dr. Mason]].

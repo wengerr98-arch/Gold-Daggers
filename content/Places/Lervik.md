@@ -9,6 +9,11 @@ publish: true
 
 # Lervik
 
+<div class="gd-seen"><p><span>Visited in 3 sessions</span> <span>first <a href="../sessions/session-001">Session 1</a></span> <span>last <a href="../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106 · 3 legendary items &amp; 3 legendary gspröch</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../sessions/session-001">Session 1</a></li><li><a href="../sessions/session-002">Session 2</a></li><li><a href="../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106</a> <span>3 legendary items &amp; 3 legendary gspröch</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=lervik" data-label="On the timeline →"></span></p>
+
 ## Overview
 Lervik (also called Dorf Lervik) is a small lakeside village in the [[Nolia]] region and the founding location of the Gold Daggers. The party first assembled here under the banner of the [[Storm-Phönix]] thieves' guild, meeting in a warm tavern cellar that became their de facto headquarters. It serves as the symbolic birthplace of the campaign.
 

@@ -7,11 +7,13 @@ publish: true
 
 # Session 098 - Unsicher
 
-<p class="session-meta"><span>Session 98</span> <span>Arc 5 · Höllenfahrt</span> <span>played 2026-03-13</span></p>
+<p class="session-meta"><span>Session 98</span> <span><a class="gd-arc-link" href="../arcs/arc-5">Arc 5 · Höllenfahrt</a></span> <span>played 2026-03-13</span> <span class="gd-tl-link" data-to="timeline" data-q="s=98" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/amrein"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Amrein</span></a><a class="gd-chip" href="../entities/monsters/cerberus"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Cerberus</span></a><a class="gd-chip" href="../entities/npcs/felix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/felix.webp" alt="" loading="lazy"><span class="gd-chip-name">Felix</span></a><a class="gd-chip" href="../entities/npcs/lady-ty"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Lady Ty</span></a><a class="gd-chip" href="../entities/npcs/levistus"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Levistus</span></a><a class="gd-chip" href="../entities/npcs/urd"><span class="gd-av is-ph" aria-hidden="true">U</span><span class="gd-chip-name">Urd</span></a><a class="gd-chip" href="../entities/npcs/verus"><span class="gd-av is-ph" aria-hidden="true">V</span><span class="gd-chip-name">Verus</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 098 - Unsicher
 <!-- source_heading: # D&D Session 98 - Samstag, 13. März 2026 -->
 <!-- session_date: 2026-03-13 -->
 <!-- table_notes: 831 p.b. \| Sommer \| die Grenze -->
@@ -64,11 +66,11 @@ Mer send wäg de Ysra do! und mer bechöme es VISA wo ei woche göltig esch und 
 
 - Stadtbibliothek mit Bücher rund um Levistus und seine Geschichte
 
-- **[es gibt keine Entschuldigen! NIEMALS Entschuldigen]{.underline}**
+- **<u>es gibt keine Entschuldigen! NIEMALS Entschuldigen</u>**
 
-- **[Duelle können angenommen werden, müssen aber nicht mit dem VISUM! bei verlieren, lebenslanger Kontrakt.]{.underline}**
+- **<u>Duelle können angenommen werden, müssen aber nicht mit dem VISUM! bei verlieren, lebenslanger Kontrakt.</u>**
 
-- **[Niemals Händeschütteln, nur verbeugen!]{.underline}**
+- **<u>Niemals Händeschütteln, nur verbeugen!</u>**
 
 - Warm-Resort falls wärmer gewünscht und nicht Eis-Höhlen
 
@@ -229,23 +231,23 @@ De Brudi macht sini Zeremonie parat.
 
 Und er werd omgäh vo däm flimmere. esches e migräne oder en vertüfig e d meditation. Sini Vision verschwendet und denne esches ehm es betzli unagnähm und sini vision werd klarer.
 
-[POV Alte Königin]{.underline}
+<u>POV Alte Königin</u>
 
 Es esch en 3/4 tisch. e de Metti esch öbber am argumentiere und en case am boue. er esch sech sehr secher vom Bild woner het vom Levistus, woner of de Brögg als hologramm gseh het. Es esch en humanoid looking person. Hellgraui auge und wiisi huut met wiise hoor und agleit emne azog, fit aber ned musculus und er gspört en wuet e sech enne. er esch a däre setzig zom das üübleche bespröche. Wie funktioniert trade, welli level und so und wie und was. din sekretär leit en case uuus gäge dech! er esch 5 min dranne und du weisch, du wersch verlüre. Chle später fendet er sech enere iiisige tundra, enere stadt wo eigentli der ghört. du loufsch hender em sekretär. du verlürsch dech und du griifschne ah. dis oug esch gschwolle und er stoht öbber der und en iiszapfe luegt öbber der! du fendsch dech emne andere Ort.
 
-[Sicht Bewohner:]{.underline}
+<u>Sicht Bewohner:</u>
 
 du luegsch zom gefängnis ufe und de neu König brengt erfahrig met sech, aber ned extrem vell em verglich zo anderne level. es esch später, du hesch honger und besch enere neue Wält. dis dehei esch am schmelze. der wohnet zährte emene huus. und weder chle später, sache send besser, aber ou andersch. du besch verplfechtet an öbber. du weisch was du jedetag muesch mache. du gspörsch freiheit e däre bestemmtheit. du dänksch öbbis anders und es tueter weh. du bousch es neus gebäude. d stadt esch okey, me chas händle. de könig esch scho lang nömme uusecho, aber es louft. und nomol chle später besch emne ganz andere ort.
 
-[Sicht Soldat von Felix:]{.underline}
+<u>Sicht Soldat von Felix:</u>
 
 ärdige bode, tüüfgrüeni bäum wo langsam es orange öbbere gönd. du luegsch zo anderne bäum, du gsesch kamerade met schwärt und schild. me kämpft deför was rechtig esch, d wält verbessere! D wält esch nachär perfekt und du kämpfsch för din aafüehere. er send a de front em norde und stosset wiiter före. und de grüeni wald esch plötzlech tüüüf gfrooore! alli kamerade send tot und iigfrooore. und du verlürsch e eim schneppse under schlemmen schmärz dis bewosstsi.
 
-[Sicht Verus:]{.underline}
+<u>Sicht Verus:</u>
 
 du stohsch ofere brugg und du gsesch de levistus und du hassischne!
 
-[Sicht Levistus:]{.underline}
+<u>Sicht Levistus:</u>
 
 Und de weder chle später am gliiche tesch vo aalfang. du redisch säuber jetzte und du weisch er het ergend en scheiss plan het! Du chonnsch dor dis argumänt, de asmodeus lost der zue. aber was hender sim bleck esch chasch ned düüüte.
 
@@ -281,7 +283,7 @@ BB: wo fendi was?
 
 Er bietet ah, ere s zeige wo was esch ;)
 
-**[Next Time in the Adventures of Gold Daggers\]{.underline}**
+**<u>Next Time in the Adventures of Gold Daggers\</u>**
 
 Todo's
 
@@ -300,8 +302,6 @@ Todo's
 - wäg nach Ananthar
 
 - time anchor traders
-
-#
 
 
 ## Extracted Summary

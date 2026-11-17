@@ -8,6 +8,11 @@ publish: true
 
 # Madame Dimdelle
 
+<div class="gd-seen"><p><span>Seen in 4 sessions</span> <span>first <a href="../../sessions/session-038">Session 38</a></span> <span>last <a href="../../sessions/session-078---crossroads">Session 78 · Crossroads</a></span></p><details><summary>All 4 sessions</summary><ul><li><a href="../../sessions/session-038">Session 38</a></li><li><a href="../../sessions/session-041---deals-like-daggers">Session 41</a> <span>Deals like Daggers</span></li><li><a href="../../sessions/session-042">Session 42</a></li><li><a href="../../sessions/session-078---crossroads">Session 78</a> <span>Crossroads</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=madame-dimdelle" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Madame Dimdelle was the owner of a brothel in [[Aarum]] housed in a Pocket Dimension, and the leader of the White Rose faction operating there. She also engaged in covert magical and surgical modification of individuals and possessed a Cithrul holy text containing cipher notes associated with Dr. Mason, connecting her to broader portal and planar operations. She was killed by the Gold Daggers during their assault in the Entertainment District in Session 041, after which her Pocket Dimension facility was dismantled and approximately 120–130 sex workers were freed.

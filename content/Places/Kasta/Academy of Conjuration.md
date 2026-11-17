@@ -16,8 +16,8 @@ The Conjuration tower features a first-floor vestibule with student clothing and
 ## Notable Areas
 - Room 207 — Brel's teaching and meeting space, with formulas and conjuration circles on the walls
 - First floor vestibule — student robing and entrance area
-- Lower levels — (stub needed)
-- Library or archives — (stub needed)
+- Lower levels
+- Library or archives
 
 ## Key Figures
 - [[Farid]] — Head of Conjuration, representative of the school on Kasta's ruling council

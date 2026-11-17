@@ -7,6 +7,11 @@ publish: true
 
 # Tigerauge
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-025">Session 25</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=tigerauge" data-label="On the timeline →"></span></p>
+
 ## Overview
 Tigerauge is one of the largest jewelry and diamond shops in Dalior, located on the city's main market street. It is operated by the master appraiser [[Meister Bar Kergov]] and serves as a major hub for trading precious stones, gems, and fine jewelry within the city.
 

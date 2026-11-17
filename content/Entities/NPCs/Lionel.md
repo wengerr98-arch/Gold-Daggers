@@ -10,6 +10,11 @@ gallery: true
 
 # Lionel
 
+<div class="gd-seen"><p><span>Seen in 5 sessions</span> <span>first <a href="../../sessions/session-029">Session 29</a></span> <span>last <a href="../../sessions/session-034">Session 34</a></span></p><details><summary>All 5 sessions</summary><ul><li><a href="../../sessions/session-029">Session 29</a></li><li><a href="../../sessions/session-030">Session 30</a></li><li><a href="../../sessions/session-031">Session 31</a></li><li><a href="../../sessions/session-033">Session 33</a></li><li><a href="../../sessions/session-034">Session 34</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=lionel" data-label="Follow on the timeline →"></span></p>
+
 ![[lionel.webp|260]]
 
 ## Known Information
@@ -18,10 +23,10 @@ Lionel is a slim dwarf with short-cropped hair who serves as a Cleric Researcher
 
 ## Session Appearances
 
-- Session 029: Named in session frontmatter and sidecar; appears primarily in the embedded Session 028 block context (Kloster / monastery material). Session-attribution ambiguous between Session 028 and 029.
+- Session 029: Appears primarily in the embedded Session 028 block context (Kloster / monastery material). Session-attribution ambiguous between Session 028 and 029.
 - Session 031: Present at the Kloster during the harvest feast and trial period; part of the monastery community.
 - Session 032: Encountered again at the monastery; confirmed to be working in printing — casting letter molds and assisting printmaster Addar; reconnected with Barzan; also participated in the post-contest piss contest alongside Noah and others.
-- Session 033: Named in the sidecar as a monastery resident present during the session; part of the monastery community during the Gold Daggers' interrogation and trial.
+- Session 033: Named as a monastery resident present during the session; part of the monastery community during the Gold Daggers' interrogation and trial.
 - Session 034: Barzan sensed that Lionel was anxious during the party's monastery stay; no further direct interaction recorded.
 - Session 042: Named in the party's correspondence — receives letters from Barzan and Leumas as they settle the Pocket Dimension arrangement; remains a monastery contact in the wider correspondence network.
 - Session 057: Confirmed present in Skjall alongside Noah. Demonstrates an invention that can remove the extra pupils that have appeared in Snix's eyes following the psychic vision session. BB assigns Lionel the task of researching the Queen of Wands.

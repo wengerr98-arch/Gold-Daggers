@@ -9,6 +9,11 @@ publish: true
 
 # Eiserner Kopf
 
+<div class="gd-seen"><p><span>Visited in 4 sessions</span> <span>first <a href="../sessions/session-034">Session 34</a></span> <span>last <a href="../sessions/session-037">Session 37</a></span></p><details><summary>All 4 sessions</summary><ul><li><a href="../sessions/session-034">Session 34</a></li><li><a href="../sessions/session-035">Session 35</a></li><li><a href="../sessions/session-036">Session 36</a></li><li><a href="../sessions/session-037">Session 37</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=eiserner-kopf" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Eiserner Kopf is a fancy inn and hotel in [[Ophris]] (Shicla), serving as a comfortable lodging establishment for travellers and adventurers. The party used it as their base of operations during Sessions 035–037, establishing it as a reliable refuge between investigations of the city's underworld and their preparation for an audience with the king. The hotel's hospitable management and quality amenities made it an ideal staging ground for the group.
 

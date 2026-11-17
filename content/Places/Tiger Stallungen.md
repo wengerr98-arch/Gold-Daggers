@@ -10,6 +10,11 @@ publish: true
 
 # Tiger Stallungen
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../sessions/session-014">Session 14</a></span> <span>last <a href="../sessions/session-015">Session 15</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=tiger-stallungen" data-label="On the timeline →"></span></p>
+
 ## Overview
 Tiger Stallungen (lit. "Tiger Stables") is a stable complex in or near Dalior where the party maintains animals and equipment. The party returns here after transporting freed prisoners and uses it as a waypoint for resupply and magical communication, suggesting it serves as a semi-permanent base of operations or safe haven during their early campaign activities.
 

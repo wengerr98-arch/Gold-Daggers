@@ -8,6 +8,11 @@ publish: true
 
 # Pocket Dimension
 
+<div class="gd-seen"><p><span>Visited in 6 sessions</span> <span>first <a href="../sessions/session-012">Session 12</a></span> <span>last <a href="../sessions/session-078---crossroads">Session 78 · Crossroads</a></span></p><details><summary>All 6 sessions</summary><ul><li><a href="../sessions/session-012">Session 12</a></li><li><a href="../sessions/session-042">Session 42</a></li><li><a href="../sessions/session-043">Session 43</a></li><li><a href="../sessions/session-044---all-about-different-kind-of-souls">Session 44</a> <span>All about different kind of souls</span></li><li><a href="../sessions/session-077---results">Session 77</a> <span>Results</span></li><li><a href="../sessions/session-078---crossroads">Session 78</a> <span>Crossroads</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=pocket-dimension" data-label="On the timeline →"></span></p>
+
 ## Overview
 An extradimensional pocket space originally created as a private domain for [[Madame Dimdelle]] and the [[Whiterose]] organisation. Following Madame Dimdelle's defeat in Session 042, the party seized the dimension and transformed it from a hostile facility into a shared base and productive farming site. The space now operates under mixed governance with Thorren, the Tower, [[Dakon]], and [[Nasri]], serving as a secure location for food production and party operations.
 

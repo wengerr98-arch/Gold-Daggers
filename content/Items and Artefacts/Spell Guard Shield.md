@@ -7,6 +7,9 @@ publish: true
 
 # Spell Guard Shield
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106 · 3 legendary items &amp; 3 legendary gspröch</a></span></p></div>
+
+
 ## Known Information
 
 The Spell Guard Shield is a very rare shield obtained from the Loot of Odyss after [[Odyss Trion]]'s defeat (Session 106). Assigned to [[Eloryn]]. Flagged with an exclamation mark in session notes, suggesting particular significance.

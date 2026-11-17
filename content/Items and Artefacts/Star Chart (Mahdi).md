@@ -13,7 +13,7 @@ The Star Chart is a navigation document drawn by [[Mahdi]] and given to the part
 
 ## Session Appearances
 
-- Session 080: [[Mahdi]] draws and gives the star chart (along with a sextant) to the party as part of a lore exchange; points toward the wandering grave site of [[Anubis]] and an active quest lead.
+- [[Session 080 - The currency of class|Session 080]]: [[Mahdi]] draws and gives the star chart (along with a sextant) to the party as part of a lore exchange; points toward the wandering grave site of [[Anubis]] and an active quest lead.
 
 ## Known Facts
 
@@ -21,5 +21,4 @@ The Star Chart is a navigation document drawn by [[Mahdi]] and given to the part
 - Points toward the wandering pyramid of [[Anubis]] and the dead arch-mage's expedition site
 - Accompanied by a sextant when given to the party
 - Connected to Epizentrum data from the storm weather research scroll
-- Current holder: [[Barzan Aeducan]] (as noted in frontmatter)
-- DM-flagged: track this item
+- Current holder: [[Barzan Aeducan]]

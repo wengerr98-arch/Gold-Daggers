@@ -9,6 +9,11 @@ publish: true
 
 # Kebasch
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-022">Session 22</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=kebasch" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Kebasch is a half-orc originally from [[Amare]] who was imprisoned in the [[Oubliette|Oubliettes]] before being freed by the party. After his release, the party encouraged him to work together with [[Odem]]. He serves as the other barkeeper at the [[Tempel (Dalior)|Rakshasa Tempel]], though the party frequently forgot his name.

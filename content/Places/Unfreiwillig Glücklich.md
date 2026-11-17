@@ -10,6 +10,11 @@ publish: true
 
 # Unfreiwillig Glücklich
 
+<div class="gd-seen"><p><span>Visited in 6 sessions</span> <span>first <a href="../sessions/session-006">Session 6</a></span> <span>last <a href="../sessions/session-024">Session 24</a></span></p><details><summary>All 6 sessions</summary><ul><li><a href="../sessions/session-006">Session 6</a></li><li><a href="../sessions/session-007">Session 7</a></li><li><a href="../sessions/session-012">Session 12</a></li><li><a href="../sessions/session-014">Session 14</a></li><li><a href="../sessions/session-018">Session 18</a></li><li><a href="../sessions/session-024">Session 24</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=unfreiwillig-gl%C3%BCcklich" data-label="On the timeline →"></span></p>
+
 ## Overview
 Unfreiwillig Glücklich ("Involuntarily Happy") is a magic shop located in [[Dalior]], run by its eccentric proprietor Felix. The shop's peculiar name derives from Felix's own curse—a permanent enchantment that forces him to experience involuntary happiness. The shop is notable throughout Dalior for one unique property: it operates outside the city's magical surveillance network, allowing spells to be cast within its walls without triggering the Stadtverwaltung's alarm systems.
 

@@ -7,11 +7,13 @@ publish: true
 
 # Session 061 - Change
 
-<p class="session-meta"><span>Session 61</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-02-24</span></p>
+<p class="session-meta"><span>Session 61</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-02-24</span> <span class="gd-tl-link" data-to="timeline" data-q="s=61" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/maradak-dreamkiller"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Maradak Dreamkiller</span></a><a class="gd-chip" href="../entities/npcs/tazar"><img class="gd-av" src="../07_protocol-sources/old-image-repository/tazar.webp" alt="" loading="lazy"><span class="gd-chip-name">Tazar</span></a><a class="gd-chip" href="../entities/npcs/karoth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/karoth.webp" alt="" loading="lazy"><span class="gd-chip-name">Karoth</span></a><a class="gd-chip" href="../entities/npcs/lady-ty"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Lady Ty</span></a><a class="gd-chip" href="../entities/npcs/stetur"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Stetur</span></a><a class="gd-chip" href="../entities/monsters/the-mother"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">The Mother</span></a><a class="gd-chip" href="../entities/npcs/vorad"><span class="gd-av is-ph" aria-hidden="true">V</span><span class="gd-chip-name">Vorad</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 061
 <!-- source_heading: # Session 61 - Samstag, 24, Februar, 2024 -->
 <!-- session_date: 2024-02-24 -->
 
@@ -263,8 +265,6 @@ Mer mache eus uf is goliath viertel. Snix schmöckt bluet. Mer fende 2 liiche ei
 
 Initiatiiive!
 
-![](media/image16.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
 Snix thought he was on fire, lorillas legs got broken, BB was down and in the cage, Leumas macht snix, barzan und Leumas unsichtbar. Lorilla liegt am Boden. Snix kämpft trotzdem mit disadvantage und trifft zweimal! Lorilla liegt am Boden, no action. Bb stabilizes. Monster nimmt die axt schlägt den käfig auf den boden, snix saves the strength check. Er greift noch an shield von snix. Barzan is unsichtbar und macht mass cure wounds. 23 points of healing, but bb does not heal. Leumas versucht bb zu befreien mit der schweiss funktion beim käfig, das dauert aber mehrere turns. Inspiration for snix. Er braucht wieder den käfig, snix schaffts wieder! Er greift an, uncanny von snix. barzan trifft mit guiding bolt. HOW DO YOU WANNA DO THIIS. ZMETTST IS GSICHT.
 
 S monster loht en psychic wave use. Mer nehme alli 69 punkte schade. Uh oh.
@@ -282,27 +282,16 @@ The party exits the throne room, discusses the Wall, and starts planning how to 
 - Lorilla
 - Leumas
 
-### NPCs
-- None explicitly identified in this first-pass draft.
-
 ### Locations
 - Skjall
 - Eingangshalle
 - Thronsaal
-
-### Factions
-- None explicitly identified in this first-pass draft.
 
 ### Items / Titles / Events
 - the Wall
 - wall discussion
 - activation planning
 - post-throne-room exit
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

@@ -7,6 +7,9 @@ publish: true
 
 # The Eight Swords
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-028">Session 28</a></span></p></div>
+
+
 ## Known Information
 
 A campaign-arc item set consisting of eight special swords distributed across multiple bearers. In Session 028, [[Das letzte Opfer]] (a smoky figure) announced a hunt for all eight sword-bearers, claiming ownership of the entire set. [[Snix]] briefly experienced visions seeing through the eyes of other sword-holders, suggesting a psychic or magical link between bearers. This set is distinct from [[Sword of Kas]] and [[The Eight Schools of Magic]].
@@ -22,7 +25,7 @@ A campaign-arc item set consisting of eight special swords distributed across mu
 - **Known/suspected members of the set:**
   - Okham's short sword (likely [[Snix]]'s two short swords)
   - The [[Combustion Sword]]
-  - Ophelia's Needle (no stub yet)
+  - Ophelia's Needle
   - Others unconfirmed
 - **Special property:** Psychic/magical link allows bearers to see through each other's eyes
 - **Claimed owner:** The smoky figure ([[Das letzte Opfer]])

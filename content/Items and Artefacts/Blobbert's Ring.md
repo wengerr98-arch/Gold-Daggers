@@ -13,7 +13,7 @@ Blobbert's Ring is a golden ring left behind by [[Blobbert]] upon his death/tran
 
 ## Session Appearances
 
-- Session 052: [[Blobbert]] leaves behind the golden ring after his death/transition; contains a one-time summoning in octopus form; represents [[Blobbert]]'s permanent bound state to [[Eloryn]]'s pocket dimension shell.
+- [[Session 052 - Book of R'Lyeh|Session 052]]: [[Blobbert]] leaves behind the golden ring after his death/transition; contains a one-time summoning in octopus form; represents [[Blobbert]]'s permanent bound state to [[Eloryn]]'s pocket dimension shell.
 
 ## Known Facts
 

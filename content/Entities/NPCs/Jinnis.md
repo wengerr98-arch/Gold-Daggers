@@ -14,7 +14,7 @@ Jinnis is a historical figure — a dead admiral killed by the party or through 
 
 ## Session Appearances
 
-- Session 052: Named as one of three killed admirals in a conversation about past victories; same context as [[Olfos]] and [[Nemnis]].
+- [[Session 052 - Book of R'Lyeh|Session 052]]: Named as one of three killed admirals in a conversation about past victories; same context as [[Olfos]] and [[Nemnis]].
 
 ## Known Facts
 

@@ -7,6 +7,11 @@ publish: true
 
 # Frau Echlin
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-099">Session 99</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=frau-echlin" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Frau Echlin is a mysterious attendee encountered at [[Levistus]]'s Bastion in [[Stygia]], second in the audience queue. She is described as very strong ("sehr stark") and wears no armour, dressed instead in fluid clothing. A nat-20 insight check by Lorilla revealed she is not what she appears, with the cryptic phrase "ned eleige do" (not just there for herself) suggesting concealed motives or identity.

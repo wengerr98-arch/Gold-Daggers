@@ -9,6 +9,11 @@ gallery: true
 
 # Mona
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-050---20'000-leagues">Session 50 · 20'000 Leagues</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=mona" data-label="Follow on the timeline →"></span></p>
+
 ![[Mona.webp|260]]
 
 ## Known Information

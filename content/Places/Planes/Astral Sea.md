@@ -7,6 +7,11 @@ publish: true
 
 # Astral Sea
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../../sessions/session-105">Session 105</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=astral-sea" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Astral Sea is a cosmological plane housing a red-stone astral city inhabited by elves and governed by [[Barzan]]. It serves as a transit nexus between the Material Plane and other realms, and was the site where the legendary ship [[Calamitas]] was constructed in the party's campaign.

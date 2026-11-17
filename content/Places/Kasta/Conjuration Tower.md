@@ -7,6 +7,11 @@ publish: true
 
 # Conjuration Tower
 
+<div class="gd-seen"><p><span>Visited in 3 sessions</span> <span>first <a href="../../sessions/session-080---the-currency-of-class">Session 80 · The currency of class</a></span> <span>last <a href="../../sessions/session-083---knoten">Session 83 · Knoten</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../../sessions/session-080---the-currency-of-class">Session 80</a> <span>The currency of class</span></li><li><a href="../../sessions/session-081---fussspuren-der-geheimen-titanen">Session 81</a> <span>Fussspuren der geheimen Titanen</span></li><li><a href="../../sessions/session-083---knoten">Session 83</a> <span>Knoten</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=conjuration-tower" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Conjuration Tower is one of the seven active magical school towers in [[Kasta]], housing the School of Conjuration. It serves as a center for arcane study and instruction in summoning and conjuration magic. The tower contains lecture halls, student quarters, and research areas, with established faculty overseeing training in conjuring disciplines.
 

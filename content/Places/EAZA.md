@@ -7,6 +7,11 @@ publish: true
 
 # EAZA
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-098---unsicher">Session 98 · Unsicher</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=eaza" data-label="On the timeline →"></span></p>
+
 ## Overview
 EAZA is a prominent restaurant and dining establishment located in [[Stygia]], serving as a hub for socializing, gathering information, and observing Stygian society. The establishment draws a diverse clientele and is known for its regional specialties from across planes and regions, making it a central venue in the city's social landscape.
 

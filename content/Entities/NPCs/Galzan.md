@@ -7,6 +7,11 @@ publish: true
 
 # Galzan
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-044---all-about-different-kind-of-souls">Session 44 · All about different kind of souls</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=galzan" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Galzan is Barzan's youngest uncle, referred to as the "son of his wayward brother," and a government official and political figure aligned with the establishment. At their first personal meeting, he was dismissive of Barzan. His adviser is [[Azan Aeducan]].

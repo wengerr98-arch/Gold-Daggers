@@ -11,6 +11,9 @@ publish: true
 
 # Torr's Grace
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-076---the-death-of-the-king-and-the-rise-of-new-one!">Session 76 · The Death of the King and the Rise of New One!</a></span></p></div>
+
+
 ## Known Information
 
 Torr's Grace is a two-component artefact associated with the kingship of [[Skjall]], extracted by [[Leumas]] from the [[The Monument (Seelenschredder)|Monument (Seelenschredder)]] in the [[Thronsaal]] after he claimed the throne in Session 076. It comprises the Throne Cube and a suit of Dark Plate Armor; together they represent the mantle of kingship and are linked to the [[Mantle of the Torr]]. Wearing the armour causes Leumas to grow to approximately 1.5× his normal size.

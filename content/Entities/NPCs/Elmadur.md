@@ -9,6 +9,11 @@ gallery: true
 
 # Elmadur
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-030">Session 30</a></span> <span>last <a href="../../sessions/session-031">Session 31</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=elmadur" data-label="Follow on the timeline →"></span></p>
+
 ![[elmadur.webp|260]]
 
 ## Known Information

@@ -22,7 +22,7 @@ Milly (also known as Chrazi, Kratzer, Dudette, and Mili) is [[Silk]]'s younger s
 - Session 044: Encountered in Aarum under her nickname "Dudette"; she is with Silk when Eloryn meets them. The party makes contact with her in Aarum, advancing the diary delivery mission objective.
 - Session 065: Appears (as "Mili") in Eloryn's dream-state vision — the tea-party dream sequence includes her alongside Blobbert and a tabaxi resembling Silk. Her appearance in the dream imagery is unresolved.
 - Session 071: Referenced as "Mili" — speaks from a shell and is identified by the party as long dead but undead; she cannot assist with the shell-based request, and the party also asks her about BB's soul through the shell communication.
-- Session 077: Named as "Mili" in the sidecar; referenced alongside Silk in the context of Demogorgon-related lore being discussed and skryed by the party near the session's close.
+- Session 077: Named as "Mili"; referenced alongside Silk in the context of Demogorgon-related lore being discussed and skryed by the party near the session's close.
 
 ## Known Facts
 

@@ -7,7 +7,10 @@ publish: true
 
 # Session 053 - Book of Azatoth
 
-<p class="session-meta"><span>Session 53</span> <span>Arc 3 · Salzwasser</span> <span>played 2023-05-13</span></p>
+<p class="session-meta"><span>Session 53</span> <span><a class="gd-arc-link" href="../arcs/arc-3">Arc 3 · Salzwasser</a></span> <span>played 2023-05-13</span> <span class="gd-tl-link" data-to="timeline" data-q="s=53" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/companions/loid"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Loid</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/rektor"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Rektor</span></a><a class="gd-chip" href="../entities/npcs/stevos"><img class="gd-av" src="../07_protocol-sources/old-image-repository/stevos.webp" alt="" loading="lazy"><span class="gd-chip-name">Stevos</span></a><a class="gd-chip" href="../entities/npcs/utrin"><span class="gd-av is-ph" aria-hidden="true">U</span><span class="gd-chip-name">Utrin</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -240,13 +243,13 @@ Wir springen alle zusammen in das Loch wuiii
 Wir werden reingezogen (wie Schwerkraft) und landen in einem Raum mit magical Portal wuii
 
 Es hat Tentakeln und Statuen
-![](media/image10.jpg){width="3.403173665791776in" height="4.542699037620298in"}
 
 Lorilla geht auf eine Statue und sie bewegt sich
 
 We FIGHT
 
-Nachdem Koda das Portal beschädigt sehen wir das Auge hinter dem Glas und eine Figur materialisiert sich vor dem Portal![](media/image6.jpg){width="3.601091426071741in" height="4.807548118985127in"}
+Nachdem Koda das Portal beschädigt sehen wir das Auge hinter dem Glas und eine Figur materialisiert sich vor dem
+Portal
 
 Wir zerstören, das Portal und der Raum fängt an zu zerfallen
 

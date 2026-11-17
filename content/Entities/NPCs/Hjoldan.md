@@ -5,6 +5,11 @@ publish: true
 
 # Hjoldan
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-028">Session 28</a></span> <span>last <a href="../../sessions/session-034">Session 34</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=hjoldan" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Hjoldan is the guesthouse manager (Chef Gästehaus) at the [[Kloster der Herbstgöttin]]. He was the party's first named contact upon arriving at the monastery, receiving them and assigning their rooms, and remains connected to the Gold Daggers' extended stay there across several sessions.

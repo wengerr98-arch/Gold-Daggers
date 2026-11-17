@@ -8,6 +8,9 @@ publish: true
 
 # Blade of Disaster
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-105">Session 105</a></span></p></div>
+
+
 ## Known Information
 
 The Blade of Disaster is a spell or item taken by Leumas at level-up in Session 105. Session text: "Leumas nimmt Blade of Disaster!" Properties are those of the published D&D spell/ability of the same name unless DM has made campaign-specific modifications.

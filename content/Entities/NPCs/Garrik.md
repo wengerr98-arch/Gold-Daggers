@@ -9,6 +9,11 @@ publish: true
 
 # Garrik
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-012">Session 12</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=garrik" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Garrik is a highly dangerous individual flagged by [[Yorni]] as the most dangerous person expected at the upcoming Zhurek noble family dinner. Known by the epithet "EinMannArmee" (One-Man Army), he is described as never being surprised and as caste-based rather than magical in nature. His role in the Zhurek murder investigation — whether culprit, guard, witness, or other — is unresolved.

@@ -21,7 +21,7 @@ The Basalt Tablet is an ancient basalt artefact — described also as a basalt b
 - [[Session 031]]: The stone plate and a key hidden behind it become central topics of discussion between [[Barzan]], [[Leumas]], and [[Don Hor]] during the monastery feast; [[Don Hor]] asks probing questions about the group's possession and understanding of the tablet.
 - [[Session 032]]: Discussed by [[Barzan]], [[Leumas]], and [[Udir]] in a private meeting; the decoded inscription is reviewed and deciphering the [[Kryptex]] is raised as a next step.
 - [[Session 033]]: Referenced as the stone slab/stone plate in open threads; a key hidden behind the slab remains an unresolved plot element following [[Don Hor]]'s interrogation.
-- Session 093: Mentioned as a carried item while the party handles equipment ahead of their portal encounter in [[Aarum]].
+- [[Session 093 - Lured|Session 093]]: Mentioned as a carried item while the party handles equipment ahead of their portal encounter in [[Aarum]].
 
 ## Known Facts
 

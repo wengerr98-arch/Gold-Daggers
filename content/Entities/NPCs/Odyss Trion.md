@@ -12,6 +12,11 @@ publish: true
 
 # Odyss Trion
 
+<div class="gd-seen"><p><span>Seen in 6 sessions</span> <span>first <a href="../../sessions/session-043">Session 43</a></span> <span>last <a href="../../sessions/session-105">Session 105</a></span></p><details><summary>All 6 sessions</summary><ul><li><a href="../../sessions/session-043">Session 43</a></li><li><a href="../../sessions/session-044---all-about-different-kind-of-souls">Session 44</a> <span>All about different kind of souls</span></li><li><a href="../../sessions/session-100---illumination">Session 100</a> <span>Illumination</span></li><li><a href="../../sessions/session-101---1-0-auftakt">Session 101</a> <span>1-0 Auftakt</span></li><li><a href="../../sessions/session-102">Session 102</a></li><li><a href="../../sessions/session-105">Session 105</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=odyss-trion" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Odyss Trion is a bounty hunter who has been actively pursuing the Gold Daggers party since at least Session 044. He was re-encountered in a wealthy district of the Material Plane after the party returned from Stygia, suggesting he tracks them across planar boundaries. In Session 101, Leumas successfully impersonated him at the Stygia ball and gained access to his sphere, revealing that Odyss Trion holds an active role in Stygia's political landscape with connections to war planning.

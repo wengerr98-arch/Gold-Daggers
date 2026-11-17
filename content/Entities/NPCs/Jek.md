@@ -7,6 +7,11 @@ publish: true
 
 # Jek
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-038">Session 38</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=jek" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Jek is a kobold jeweler living in the hidden kobold commune encountered by the party in Session 038. He is described as "almost completely white" and "fabulous," and he trades in gems and metals with visiting parties.

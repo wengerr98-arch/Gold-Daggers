@@ -13,10 +13,10 @@ The Northern Tribes are a faction or group of peoples referenced in connection w
 
 ## Session Appearances
 
-- Session 084: Referenced in connection with the Kasta desert region and possible Genasi origins. The session poses the question: "Are Genasi originally from north of Kasta? Are they associated with the northern tribes?"
+- [[Session 084 - chain-links|Session 084]]: Referenced in connection with the Kasta desert region and possible Genasi origins. The session poses the question: "Are Genasi originally from north of Kasta? Are they associated with the northern tribes?"
 
 ## Known Facts
 
-- Referenced in Session 084
+- Referenced in [[Session 084 - chain-links|Session 084]]
 - Associated with the region north of [[Kasta]]
 - Possible connection to Genasi / Genazi peoples

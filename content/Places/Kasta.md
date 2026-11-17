@@ -13,6 +13,11 @@ marker:
 
 # Kasta
 
+<div class="gd-seen"><p><span>Visited in 7 sessions</span> <span>first <a href="../sessions/session-079---behemoth,-leviathan-and-the-golem">Session 79 · Behemoth, Leviathan and the Golem</a></span> <span>last <a href="../sessions/session-108">Session 108</a></span></p><details><summary>All 7 sessions</summary><ul><li><a href="../sessions/session-079---behemoth,-leviathan-and-the-golem">Session 79</a> <span>Behemoth, Leviathan and the Golem</span></li><li><a href="../sessions/session-080---the-currency-of-class">Session 80</a> <span>The currency of class</span></li><li><a href="../sessions/session-083---knoten">Session 83</a> <span>Knoten</span></li><li><a href="../sessions/session-085---chain-links">Session 85</a> <span>chain-links</span></li><li><a href="../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106</a> <span>3 legendary items &amp; 3 legendary gspröch</span></li><li><a href="../sessions/session-107">Session 107</a></li><li><a href="../sessions/session-108">Session 108</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=kasta" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 Kasta is the western region of [[Hamata]] and the only democracy on the continent, governed by a ruling body known as the "Seven" — a political council shaped by magical ability and school affiliation. Bounded by the sea on one side and endless desert on the other, Kasta is home to the renowned Wizard Academy comprising eight schools of magic. The city enforces a strict social hierarchy where magical power determines political standing and legal rights, making it a center of arcane learning and political intrigue.

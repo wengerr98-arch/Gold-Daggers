@@ -5,9 +5,12 @@ modified: '2026-06-01T15:14:20.000Z'
 publish: true
 ---
 
-# Session 010 - Title Unknown
+# Session 010
 
-<p class="session-meta"><span>Session 10</span> <span>Arc 1 · Das Schwarze Gänseblümchen</span> <span>played 2020-02-23</span></p>
+<p class="session-meta"><span>Session 10</span> <span><a class="gd-arc-link" href="../arcs/arc-1">Arc 1 · Das Schwarze Gänseblümchen</a></span> <span>played 2020-02-23</span> <span class="gd-tl-link" data-to="timeline" data-q="s=10" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/brentan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Brentan</span></a><a class="gd-chip" href="../entities/npcs/galatea"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Galatea</span></a><a class="gd-chip" href="../entities/npcs/lady-ty"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Lady Ty</span></a><a class="gd-chip" href="../entities/npcs/sixt"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sixt</span></a><a class="gd-chip" href="../entities/npcs/winfried"><span class="gd-av is-ph" aria-hidden="true">W</span><span class="gd-chip-name">Winfried</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -140,7 +143,7 @@ Cookie-Pause
 - Wir hören wieder an Türen. Lorilla hört nichts. Barzan lauscht an einer anderen Tür und hört auch nichts. Eloryn hört hinter ihrer Tür ein Zischen und ein Bröckeln, hört sich nach Acid Säure an.
 
 
-- Coda hackt die Türe bei Barzan ein. Schloss war bereits kaputt, Tür schwingt auf. Direkte Tür in den nächsten Raum (10). Boden mit rotem Teppich. Vollgezeichnete Wände mit Formeln, etc. Rundum Wizzard Stuff. Arcana Check. Es kommt niemandem etwas bekannt vor. Farbe am Boden. [BB zeichnet einen Zirkel mit Runen ab.]{.mark}
+- Coda hackt die Türe bei Barzan ein. Schloss war bereits kaputt, Tür schwingt auf. Direkte Tür in den nächsten Raum (10). Boden mit rotem Teppich. Vollgezeichnete Wände mit Formeln, etc. Rundum Wizzard Stuff. Arcana Check. Es kommt niemandem etwas bekannt vor. Farbe am Boden. ==BB zeichnet einen Zirkel mit Runen ab.==
 
 - Wir hören weiter nichts an Türen. Wir gehen in den nächsten Gang rein. Barzan wird von einem Zombie angegriffen. Je 1 Punkte Schaden. Barzan tötet den Zombie.
 
@@ -265,31 +268,6 @@ Corona QUARANTÄNE
 \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_
 
 \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_
-
-## Extracted Summary
-
-Draft import of Session 010 from the converted protocol source. The session preserves the original protocol text for review and later entity extraction.
-
-## Entities Mentioned
-
-### Player Characters
-- Not extracted in first pass.
-
-### NPCs
-- Not extracted in first pass.
-
-### Locations
-- Not extracted in first pass.
-
-### Factions
-- Not extracted in first pass.
-
-### Items / Titles / Events
-- Not extracted in first pass.
-
-## Open Threads
-
-- Review the source text for campaign-specific entity extraction and canon handling.
 
 <div class="session-nav">
 

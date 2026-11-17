@@ -7,6 +7,11 @@ gallery: true
 
 # Embrach
 
+<div class="gd-seen"><p><span>Seen in 3 sessions</span> <span>first <a href="../../sessions/session-013">Session 13</a></span> <span>last <a href="../../sessions/session-020">Session 20</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../../sessions/session-013">Session 13</a></li><li><a href="../../sessions/session-019">Session 19</a></li><li><a href="../../sessions/session-020">Session 20</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=embrach" data-label="Follow on the timeline →"></span></p>
+
 ![[embrach.webp|260]]
 
 ## Known Information

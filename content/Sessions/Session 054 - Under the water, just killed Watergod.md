@@ -7,11 +7,13 @@ publish: true
 
 # Session 054 - Under the water, just killed Watergod
 
-<p class="session-meta"><span>Session 54</span> <span>Arc 3 · Salzwasser</span> <span>played 2023-06-24</span></p>
+<p class="session-meta"><span>Session 54</span> <span><a class="gd-arc-link" href="../arcs/arc-3">Arc 3 · Salzwasser</a></span> <span>played 2023-06-24</span> <span class="gd-tl-link" data-to="timeline" data-q="s=54" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/companions/loid"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Loid</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/abla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/abla.webp" alt="" loading="lazy"><span class="gd-chip-name">Abla</span></a><a class="gd-chip" href="../entities/npcs/don-hor"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Don Hor</span></a><a class="gd-chip" href="../entities/npcs/felix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/felix.webp" alt="" loading="lazy"><span class="gd-chip-name">Felix</span></a><a class="gd-chip" href="../entities/npcs/gax"><img class="gd-av" src="../07_protocol-sources/old-image-repository/gax.webp" alt="" loading="lazy"><span class="gd-chip-name">Gax</span></a><a class="gd-chip" href="../entities/npcs/noah"><img class="gd-av" src="../07_protocol-sources/old-image-repository/noah.webp" alt="" loading="lazy"><span class="gd-chip-name">Noah</span></a><a class="gd-chip" href="../entities/gods/sommergöttin"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sommergöttin</span></a><a class="gd-chip" href="../entities/npcs/tarzan"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Tarzan</span></a><a class="gd-chip" href="../entities/npcs/tolteca"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Tolteca</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 054
 <!-- source_heading: # Session 54 - Samstag, 24. Juni 2023 -->
 <!-- session_date: 2023-06-24 -->
 
@@ -94,8 +96,7 @@ Alles klärt und mer flüge rechtig ophris. mer loufe rechtig Myrolox sin Lade! 
 
 Alli händ uusgwählt und mer gänd ca. 486'000.- för eusi nice items. Däm, crazy. mer send schochle OP, eifach no as Reminder:
 
-***["Mer hätte das ganze Geld chönne uuuusgäh zom de Entertainmentdistrikt rette" Just saaayin!]{.underline}***
-![](media/image1.jpg){width="7.594898293963254in" height="4.26702646544182in"}
+***<u>"Mer hätte das ganze Geld chönne uuuusgäh zom de Entertainmentdistrikt rette" Just saaayin!</u>***
 
 Food Break
 
@@ -244,9 +245,6 @@ The party recovers after combat, expands their refuge, travels to Ophris, and la
 - Ophris
 - Cheval Blanc
 
-### Factions
-- None explicitly identified in this first-pass draft.
-
 ### Items / Titles / Events
 - Schild+1
 - book / tome
@@ -255,11 +253,6 @@ The party recovers after combat, expands their refuge, travels to Ophris, and la
 - Sanctuary expansion
 - shopping trip
 - Fight Club
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

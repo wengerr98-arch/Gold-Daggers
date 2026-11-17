@@ -8,6 +8,9 @@ publish: true
 
 # Levistus Rewards (Session 103)
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-103">Session 103</a></span></p></div>
+
+
 ## Known Information
 
 A set of personalised magic rewards given to each member of the Gold Daggers by [[Levistus]] following the Stygian Gala in Session 103. Each item is tailored to its recipient.

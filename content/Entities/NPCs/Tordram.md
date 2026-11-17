@@ -7,6 +7,11 @@ publish: true
 
 # Tordram
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-071---protokoll-bb,-leumas">Session 71 · Protokoll: BB, Leumas</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=tordram" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Tordram is a dwarf druid named by [[Yorni]] as one of three key objectives [[Dr. Mason]] is pursuing. He commanded an undead and zombie horde in the Minotaure Viertel district of [[Skjall]] and could shapeshift between his druid form, a giant rat, and a mammoth. The party fought and defeated him in Session 071; the rat-man figure seen commanding undead is confirmed as Tordram in rat form, requiring no separate stub.
@@ -21,4 +26,4 @@ Tordram is a dwarf druid named by [[Yorni]] as one of three key objectives [[Dr.
 - Commanded an undead/zombie horde in the Minotaure Viertel area of [[Skjall]].
 - Can shapeshift: druid form, giant rat form, mammoth form; the "Rattemönsch" seen commanding undead is Tordram in rat form.
 - Defeated by the party in Session 071.
-- Loot dropped: an amulet (possibly [[Amulet of Proof]]; DM to confirm), a key (possibly [[Key to the Door in Skjall]]; DM to confirm), and paired bracelets taken by Eloryn.
+- Loot dropped: an amulet (possibly [[Amulet of Proof]]), a key (possibly [[Key to the Door in Skjall]]), and paired bracelets taken by Eloryn.

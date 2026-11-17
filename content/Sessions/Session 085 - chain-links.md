@@ -6,7 +6,10 @@ publish: true
 ---
 # Session 085 - chain-links
 
-<p class="session-meta"><span>Session 85</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2025-05-20</span></p>
+<p class="session-meta"><span>Session 85</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2025-05-20</span> <span class="gd-tl-link" data-to="timeline" data-q="s=85" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/teana"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Teana</span></a><a class="gd-chip" href="../entities/npcs/brel"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Brel</span></a><a class="gd-chip" href="../entities/monsters/ed"><span class="gd-av is-ph" aria-hidden="true">E</span><span class="gd-chip-name">Ed</span></a><a class="gd-chip" href="../entities/monsters/og"><span class="gd-av is-ph" aria-hidden="true">O</span><span class="gd-chip-name">Og</span></a><a class="gd-chip" href="../entities/npcs/sujo"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sujo</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 # Session 085 - Dienstag, 20. Mai 2025
@@ -17,10 +20,7 @@ publish: true
 Protokoll: BB, Leumas
 
 
-
 In Game Location: Kasta
-
-## 
 
 ## Auf dem Skiff richtung Stadt
 
@@ -199,14 +199,9 @@ er macht en investigation 23 und am ändi vom rum gägenöbber de stäge het's e
 
 de snix gseht hender de töre en schwarze texturierte bode und e de metti öbbis belüchtet! es esch en chele sehr wahrschiinlech.
 
-![](media/image14.jpg){width="4.523498468941383in" height="3.395285433070866in"}![](media/image12.jpg){width="4.481831802274716in" height="3.3664905949256343in"}![](media/image22.jpg){width="4.538590332458443in" height="3.4071041119860017in"}![](media/image20.jpg){width="4.49179571303587in" height="3.361506999125109in"}
-
-![](media/image10.jpg){width="5.017756999125109in" height="3.766175634295713in"} ED
-![](media/image4.jpg){width="3.188221784776903in" height="2.392756999125109in"}
+ ED
 
 OG
-
-![](media/image7.jpg){width="3.367778871391076in" height="2.5385903324584427in"}
 
 cha das deng rede? frogs doch zersch mol! ghöremer vo wiitem. mer lehre de Ed und de Og kenne. de snix verseucht z'erkläre das är de jenig esch wo do ine dörf. doch leider merke de Ed und Og, dass de snix sie aagflunkeret het
 ## Extracted Summary
@@ -238,9 +233,6 @@ cha das deng rede? frogs doch zersch mol! ghöremer vo wiitem. mer lehre de Ed u
 - Ethereal Plane
 - Library
 - Blood archive / cellar under the library test circle
-
-### Factions
-- None named explicitly
 
 ### Items / Titles / Events
 - Ley-line energy phiole

@@ -7,17 +7,21 @@ publish: true
 
 # Chantale
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-090">Session 90</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=chantale" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
-Chantale is an elven NPC first referenced in Session 089. She appears in session frontmatter and sidecars rather than the main session body text, suggesting she may have been introduced or referenced in passing. She has a noted connection to [[Eloryn]], with the sidecar linking the two characters explicitly.
+Chantale is an elven NPC first referenced in Session 089. She has a noted connection to [[Eloryn]].
 
 ## Session Appearances
 
-- Session 089: Listed as a related NPC in session frontmatter/sidecar; role in this session unclear — not found in session body text.
-- Session 090: Referenced in sidecar as a possible link for [[Eloryn]] ("Eloryn ↔ Chantale"); [[Eloryn]] is found lifeless at the Entertainment District stage and subsequently recovered this session, keeping the Eloryn–Chantale thread active.
+- Session 089: Listed as a related NPC; role in this session unclear — not found in session body text.
+- Session 090: Referenced as a possible link for [[Eloryn]] ("Eloryn ↔ Chantale"); [[Eloryn]] is found lifeless at the Entertainment District stage and subsequently recovered this session, keeping the Eloryn–Chantale thread active.
 
 ## Known Facts
 
 - Race: elven.
-- Connected to [[Eloryn]] (sidecar cross-reference, Session 090).
-- Appears in session frontmatter/sidecar but not in session body text.
+- Connected to [[Eloryn]] (Session 090).

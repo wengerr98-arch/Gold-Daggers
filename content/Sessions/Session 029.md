@@ -5,9 +5,12 @@ modified: '2026-11-15T11:04:58.000Z'
 publish: true
 ---
 
-# Session 029 - Title Unknown
+# Session 029
 
-<p class="session-meta"><span>Session 29</span> <span>Arc 2 · Die Stadt der Messer</span> <span>played 2021-07-03</span></p>
+<p class="session-meta"><span>Session 29</span> <span><a class="gd-arc-link" href="../arcs/arc-2">Arc 2 · Die Stadt der Messer</a></span> <span>played 2021-07-03</span> <span class="gd-tl-link" data-to="timeline" data-q="s=29" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-29" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/don-hor"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Don Hor</span></a><a class="gd-chip" href="../entities/npcs/noah"><img class="gd-av" src="../07_protocol-sources/old-image-repository/noah.webp" alt="" loading="lazy"><span class="gd-chip-name">Noah</span></a><a class="gd-chip" href="../entities/npcs/udir"><span class="gd-av is-ph" aria-hidden="true">U</span><span class="gd-chip-name">Udir</span></a><a class="gd-chip" href="../entities/npcs/gregorius"><img class="gd-av" src="../07_protocol-sources/old-image-repository/gregorius.webp" alt="" loading="lazy"><span class="gd-chip-name">Gregorius</span></a><a class="gd-chip" href="../entities/npcs/lionel"><img class="gd-av" src="../07_protocol-sources/old-image-repository/lionel.webp" alt="" loading="lazy"><span class="gd-chip-name">Lionel</span></a><a class="gd-chip" href="../entities/npcs/addar"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Addar</span></a><a class="gd-chip" href="../entities/npcs/bendal"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Bendal</span></a><a class="gd-chip" href="../entities/npcs/dariah"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dariah</span></a><a class="gd-chip is-extra" href="../entities/npcs/fred"><img class="gd-av" src="../07_protocol-sources/old-image-repository/fred.webp" alt="" loading="lazy"><span class="gd-chip-name">Fred</span></a><a class="gd-chip is-extra" href="../entities/npcs/gramnir"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Gramnir</span></a><a class="gd-chip is-extra" href="../entities/npcs/maer"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Maer</span></a><a class="gd-chip is-extra" href="../entities/npcs/torkan"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Torkan</span></a></span></div><label class="gd-who-more" for="gd-who-29"><span class="gd-who-plus">+4</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
 
@@ -86,7 +89,7 @@ Donhor: Abt
 
 **Gespräch mit Donhorr** (Anwesend: Leumas, Barzan)
 
-[Ohne Donhor:]{.underline}
+<u>Ohne Donhor:</u>
 
 Barzan möchte ehrlich sein: über rassistische gesellschaft erzählen etc. abr auch klar legen: wir waren naiv. Wir wollten Krieg verhindern.
 

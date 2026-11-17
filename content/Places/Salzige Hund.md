@@ -8,6 +8,11 @@ publish: true
 
 # Salzige Hund
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-038">Session 38</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=salzige-hund" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Salzige Hund is a modest inn and tavern located in the village of [[Tulip]], serving as a social hub for local residents and travelers. It features attached stables and is known for welcoming both visitors and local youth. The party first visited during their overland journey east and found it a friendly, relaxed gathering place.
 

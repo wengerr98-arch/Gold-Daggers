@@ -8,6 +8,11 @@ publish: true
 
 # Sani Ambulan
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-102">Session 102</a></span> <span>last <a href="../../sessions/session-103">Session 103</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=sani-ambulan" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Sani Ambulan (also known by full name Lervick Ambulan) is a Duergar dwarf with one arm. She is a court smith for the Abadon family and has connections to Odyss Trion. She was present at the Stygian Planar Ball (Session 102), where she pointed out Odyss Trion (disguised as a Leonin in a jute sack) to BB. In Session 103, her full name Lervick Ambulan was revealed — she works for Fam. Abadon and was working for Odyss. The Ambulan surname connects her to the Ambulan family from [[Lervik]] (Yorni, Erkas, Yaen) — exact family relationship unconfirmed but surname match is noted. Note: "Lervick" in her name likely refers to the town of Lervik (the Ambulan family's origin), not a personal first name.

@@ -7,11 +7,16 @@ publish: true
 
 # Piazza
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../../sessions/session-093---lured">Session 93 · Lured</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=piazza" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Piazza is a distinctive dining and entertainment venue within [[Aarum]], functioning as an intimate, purpose-built social space. It features a theatre and single table setup, suggesting it may operate as a private or semi-private venue for select gatherings. The Piazza appears connected to [[Torren]]'s operations and business network within Aarum.
 
 ## Character
-An elegant, refined entertainment space designed for dining and dancing. The Piazza is appointed with a theatre and decorated interior suitable for social gatherings. A balcony overlooks the main space, allowing for elevated viewing. The atmosphere is festive and welcoming, attracting the city's more affluent patrons and those with connections to local power brokers. (inferred from venue type and sidecar descriptions)
+An elegant, refined entertainment space designed for dining and dancing. The Piazza is appointed with a theatre and decorated interior suitable for social gatherings. A balcony overlooks the main space, allowing for elevated viewing. The atmosphere is festive and welcoming, attracting the city's more affluent patrons and those with connections to local power brokers.
 
 ## Notable Areas
 - Theatre (internal performance space)

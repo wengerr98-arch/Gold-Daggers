@@ -10,6 +10,11 @@ publish: true
 
 # Winfried
 
+<div class="gd-seen"><p><span>Seen in 3 sessions</span> <span>first <a href="../../sessions/session-008">Session 8</a></span> <span>last <a href="../../sessions/session-010">Session 10</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../../sessions/session-008">Session 8</a></li><li><a href="../../sessions/session-009">Session 9</a></li><li><a href="../../sessions/session-010">Session 10</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=winfried" data-label="Follow on the timeline →"></span></p>
+
 
 ## Known Information
 
@@ -24,7 +29,7 @@ Winfried is the butler of [[Dr. Mason]]'s household, first named in Session 009 
 
 - Butler in [[Dr. Mason]]'s household.
 - Unfriendly toward the party and controlling in his staff role.
-- Spelled "Winfried" (Raphael, 15 Nov 2026); "Winfred" and "Winford" in the protocols are the same person.
+- Spelled "Winfried"; "Winfred" and "Winford" in the protocols are the same person.
 
 ## Merged from Winford
 

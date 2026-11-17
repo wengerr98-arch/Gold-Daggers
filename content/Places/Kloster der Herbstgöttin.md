@@ -10,6 +10,11 @@ publish: true
 
 # Kloster der Herbstgöttin
 
+<div class="gd-seen"><p><span>Visited in 6 sessions</span> <span>first <a href="../sessions/session-028">Session 28</a></span> <span>last <a href="../sessions/session-034">Session 34</a></span></p><details><summary>All 6 sessions</summary><ul><li><a href="../sessions/session-028">Session 28</a></li><li><a href="../sessions/session-029">Session 29</a></li><li><a href="../sessions/session-030">Session 30</a></li><li><a href="../sessions/session-031">Session 31</a></li><li><a href="../sessions/session-032">Session 32</a></li><li><a href="../sessions/session-034">Session 34</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=kloster-der-herbstg%C3%B6ttin" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Kloster der Herbstgöttin (Monastery of the Autumn Goddess) is a functioning religious and administrative community situated in a mountain range near [[Ophris]], reached by ascending a long stone stairway. It serves the divine order of [[Herbstgöttin Frelka]] (the Autumn Goddess) and has become a significant waypoint and sanctuary for the Gold Daggers, particularly because [[Barzan Aeducan]] grew up within its walls.

@@ -11,7 +11,7 @@ gallery: true
 
 ## Known Information
 
-Bokk is an NPC associated with [[Skjall]]. No further information was recorded in the source vault.
+Bokk is an NPC associated with [[Skjall]].
 
 ## Session Appearances
 

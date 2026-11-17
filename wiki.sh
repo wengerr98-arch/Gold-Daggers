@@ -14,6 +14,11 @@ export_vault() {
   node scripts/export-vault.mjs
   # Timeline page: does nothing unless wiki.config.yaml has timeline.enabled: true
   node scripts/build-timeline.mjs
+  # "Who was there", "Seen in" and the arc pages: need the export and (for most of their data) the timeline file
+  node scripts/build-appearances.mjs
+
+  # Table tools: does nothing unless wiki.config.yaml switches one on under table:
+  node scripts/build-table.mjs
 }
 
 case "${1:-}" in

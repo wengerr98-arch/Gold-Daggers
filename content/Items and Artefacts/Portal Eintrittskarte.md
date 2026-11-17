@@ -10,6 +10,9 @@ publish: true
 
 # Portal Eintrittskarte
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-036">Session 36</a></span></p></div>
+
+
 ## Known Information
 
 A Portal Eintrittskarte (Portal Entry Card) is a special ticket purchased at [[Der Schneeweisse Schwan]] restaurant in [[Ophris]]. The card allows the holder to re-enter the restaurant from anywhere in the world via a portal. The party purchased one for 600 gold during Session 036.

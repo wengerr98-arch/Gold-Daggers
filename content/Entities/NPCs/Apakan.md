@@ -14,7 +14,7 @@ Apakan was a former king of [[Skjall]], active approximately 500 years before th
 
 ## Session Appearances
 
-- Session 064: Referenced as the former king of [[Skjall]] (~500 years ago); mentioned alongside investigation of [[The Silent Dance Tap Room]] and its logbook.
+- [[Session 064 - Nightmare Overseer|Session 064]]: Referenced as the former king of [[Skjall]] (~500 years ago); mentioned alongside investigation of [[The Silent Dance Tap Room]] and its logbook.
 
 ## Known Facts
 

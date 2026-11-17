@@ -9,6 +9,9 @@ publish: true
 
 # Nolia Vault Book
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-081---fussspuren-der-geheimen-titanen">Session 81 · Fussspuren der geheimen Titanen</a></span></p></div>
+
+
 ## Known Information
 
 The Nolia Vault Book is a specific volume held by [[Abrahim (Ephraim)|Ephraim]], one of the Seven Wizards of Kasta (Abjuration school). It originates from the Nolia Vault — a historical archive associated with the Nolia lore thread. The contents and significance of this particular volume have not yet been described in available session material.

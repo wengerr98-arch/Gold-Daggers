@@ -7,6 +7,11 @@ publish: true
 
 # Gilgamesh Workshop
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-088---the-first-big-choice">Session 88 · the first big choice</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=gilgamesh-workshop" data-label="On the timeline →"></span></p>
+
 ## Overview
 A sprawling underground workshop operated by [[Gilgamesh]] 6000 years in the past, during an ancient era before recorded history. The party was transported here during a time jump and encountered [[Gilgamesh]], [[Jetsi]], [[Dako]], and hostile forces. Whether this location persists in the present-day timeline (perhaps as ruins) remains unknown.
 

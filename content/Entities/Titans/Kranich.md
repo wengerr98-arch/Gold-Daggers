@@ -7,6 +7,11 @@ publish: true
 
 # Kranich
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-083---knoten">Session 83 · Knoten</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=kranich" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Kranich is the Titan of the Sky ("Titan des Skys"), named and confirmed in Session 083 through Barzan's Titan lore check at [[Ha'roshon Mesugo]]. "Kranich" is the German word for crane, which may be thematically significant to the entity's nature or iconography. Kranich may be a distinct named Titan separate from [[The Titan]], or may be connected to that entity — the relationship is unconfirmed.

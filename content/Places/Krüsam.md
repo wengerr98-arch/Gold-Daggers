@@ -7,6 +7,11 @@ publish: true
 
 # Krüsam
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-043">Session 43</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=kr%C3%BCsam" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 Krüsam is a staging town accessed by teleportation, positioned as a supply and staging point for military operations toward the front lines and Helikonos. The settlement serves the adjacent harbor and is likely aligned with the kingdom's war effort against the Tritons.

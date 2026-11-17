@@ -9,6 +9,9 @@ publish: true
 
 # Control Stone
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-043">Session 43</a></span></p></div>
+
+
 ## Known Information
 
 A stone used to maintain a Dominate Person effect on [[Tritons|Triton]] soldiers during the Helikonos arc. When [[Eloryn]] locks her arm around it, it becomes "immovable" — possibly a specific magical property of the item. [[Eloryn]] destroyed this stone in Session 043, a key act in the Helikonos front confrontation. The Triton domination network appears widespread, suggesting this was one of potentially many such stones.

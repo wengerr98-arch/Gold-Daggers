@@ -12,6 +12,11 @@ publish: true
 
 # Der Schneeweisse Schwan
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../../sessions/session-036">Session 36</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=der-schneeweisse-schwan" data-label="On the timeline →"></span></p>
+
 ## Overview
 Der Schneeweisse Schwan (The Snow-White Swan) is a high-end restaurant located in [[Ophris]]. It is known for its exclusive atmosphere and innovative hospitality feature—the [[Portal Eintrittskarte]] (portal entry card)—which allows patrons who have dined here to re-enter the establishment from anywhere in the world.
 

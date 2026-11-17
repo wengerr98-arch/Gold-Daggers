@@ -5,9 +5,12 @@ modified: '2026-06-01T15:14:20.000Z'
 publish: true
 ---
 
-# Session 012 - Title Unknown
+# Session 012
 
-<p class="session-meta"><span>Session 12</span> <span>Arc 1 · Das Schwarze Gänseblümchen</span> <span>played 2020-06-06</span></p>
+<p class="session-meta"><span>Session 12</span> <span><a class="gd-arc-link" href="../arcs/arc-1">Arc 1 · Das Schwarze Gänseblümchen</a></span> <span>played 2020-06-06</span> <span class="gd-tl-link" data-to="timeline" data-q="s=12" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/felix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/felix.webp" alt="" loading="lazy"><span class="gd-chip-name">Felix</span></a><a class="gd-chip" href="../entities/npcs/robin"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Robin</span></a><a class="gd-chip" href="../entities/npcs/silk"><img class="gd-av" src="../07_protocol-sources/old-image-repository/silk.webp" alt="" loading="lazy"><span class="gd-chip-name">Silk</span></a><a class="gd-chip" href="../entities/npcs/yorni"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yorni.webp" alt="" loading="lazy"><span class="gd-chip-name">Yorni</span></a><a class="gd-chip" href="../entities/npcs/bratilda"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Bratilda</span></a><a class="gd-chip" href="../entities/npcs/edraff"><span class="gd-av is-ph" aria-hidden="true">E</span><span class="gd-chip-name">Edraff</span></a><a class="gd-chip" href="../entities/npcs/garrik"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Garrik</span></a><a class="gd-chip" href="../entities/npcs/natok"><img class="gd-av" src="../07_protocol-sources/old-image-repository/natok.webp" alt="" loading="lazy"><span class="gd-chip-name">Natok</span></a><a class="gd-chip" href="../entities/npcs/treth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/treth.webp" alt="" loading="lazy"><span class="gd-chip-name">Treth</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -230,31 +233,6 @@ ESSENSPAUSE
 \_\_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_ \_\_\_ \_\_\_ \_\_
 
 \_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_ \_\_\_ \_\_\_ \_\_\_ \_
-
-## Extracted Summary
-
-Draft import of Session 012 from the converted protocol source. The session preserves the original protocol text for review and later entity extraction.
-
-## Entities Mentioned
-
-### Player Characters
-- Not extracted in first pass.
-
-### NPCs
-- Not extracted in first pass.
-
-### Locations
-- Not extracted in first pass.
-
-### Factions
-- Not extracted in first pass.
-
-### Items / Titles / Events
-- Not extracted in first pass.
-
-## Open Threads
-
-- Review the source text for campaign-specific entity extraction and canon handling.
 
 <div class="session-nav">
 

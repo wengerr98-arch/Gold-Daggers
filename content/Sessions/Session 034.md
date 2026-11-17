@@ -5,13 +5,14 @@ modified: '2026-11-15T11:05:00.000Z'
 publish: true
 ---
 
-# Session 034 - Title Unknown
+# Session 034
 
-<p class="session-meta"><span>Session 34</span> <span>Arc 2 · Die Stadt der Messer</span> <span>played 2021-11-20</span></p>
+<p class="session-meta"><span>Session 34</span> <span><a class="gd-arc-link" href="../arcs/arc-2">Arc 2 · Die Stadt der Messer</a></span> <span>played 2021-11-20</span> <span class="gd-tl-link" data-to="timeline" data-q="s=34" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-34" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/companions/blobbert"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Blobbert</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/udir"><span class="gd-av is-ph" aria-hidden="true">U</span><span class="gd-chip-name">Udir</span></a><a class="gd-chip" href="../entities/npcs/cetzy"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Cetzy</span></a><a class="gd-chip" href="../entities/npcs/lionel"><img class="gd-av" src="../07_protocol-sources/old-image-repository/lionel.webp" alt="" loading="lazy"><span class="gd-chip-name">Lionel</span></a><a class="gd-chip" href="../entities/npcs/noah"><img class="gd-av" src="../07_protocol-sources/old-image-repository/noah.webp" alt="" loading="lazy"><span class="gd-chip-name">Noah</span></a><a class="gd-chip" href="../entities/npcs/silk"><img class="gd-av" src="../07_protocol-sources/old-image-repository/silk.webp" alt="" loading="lazy"><span class="gd-chip-name">Silk</span></a><a class="gd-chip" href="../entities/npcs/balery"><img class="gd-av" src="../07_protocol-sources/old-image-repository/balery.webp" alt="" loading="lazy"><span class="gd-chip-name">Balery</span></a><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/npcs/fred"><img class="gd-av" src="../07_protocol-sources/old-image-repository/fred.webp" alt="" loading="lazy"><span class="gd-chip-name">Fred</span></a><a class="gd-chip is-extra" href="../entities/npcs/herbstgöttin-frelka"><span class="gd-av is-ph" aria-hidden="true">H</span><span class="gd-chip-name">Herbstgöttin Frelka</span></a><a class="gd-chip is-extra" href="../entities/npcs/hjoldan"><span class="gd-av is-ph" aria-hidden="true">H</span><span class="gd-chip-name">Hjoldan</span></a><a class="gd-chip is-extra" href="../entities/npcs/naodir"><img class="gd-av" src="../07_protocol-sources/old-image-repository/naodir.webp" alt="" loading="lazy"><span class="gd-chip-name">Naodir</span></a><a class="gd-chip is-extra" href="../entities/npcs/shen"><img class="gd-av" src="../07_protocol-sources/old-image-repository/shen.webp" alt="" loading="lazy"><span class="gd-chip-name">Shen</span></a><a class="gd-chip is-extra" href="../entities/npcs/yorni"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yorni.webp" alt="" loading="lazy"><span class="gd-chip-name">Yorni</span></a></span></div><label class="gd-who-more" for="gd-who-34"><span class="gd-who-plus">+5</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
-
-
 
 
 Intro: Massiv
@@ -140,9 +141,6 @@ At Azkaban, the group examines a slain dragon, shelters from the mountain weathe
 - mountain
 - dragon corpse
 - temple entrance
-
-### Factions
-- None clearly named
 
 ### Items / Titles / Events
 - dragon spine

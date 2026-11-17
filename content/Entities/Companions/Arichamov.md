@@ -10,6 +10,11 @@ publish: true
 
 # Arichamov
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-063---the-veil">Session 63 · The Veil</a></span> <span>last <a href="../../sessions/session-064---nightmare-overseer">Session 64 · Nightmare Overseer</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=arichamov" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Arichamov is a small draconic familiar belonging to [[Sadam Salim]], known affectionately as MovMov. The creature communicates telepathically through Sadam and serves primarily as a scout, using its Blindsight to reconnoitre areas the party cannot safely approach directly.

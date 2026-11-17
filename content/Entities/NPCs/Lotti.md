@@ -9,6 +9,11 @@ publish: true
 
 # Lotti
 
+<div class="gd-seen"><p><span>Seen in 7 sessions</span> <span>first <a href="../../sessions/session-065---braiding-strings">Session 65 · Braiding Strings</a></span> <span>last <a href="../../sessions/session-107">Session 107</a></span></p><details><summary>All 7 sessions</summary><ul><li><a href="../../sessions/session-065---braiding-strings">Session 65</a> <span>Braiding Strings</span></li><li><a href="../../sessions/session-070---protokoll-bb">Session 70</a> <span>Protokoll: BB</span></li><li><a href="../../sessions/session-072---protokoll-bb,-leumas">Session 72</a> <span>Protokoll: BB, Leumas</span></li><li><a href="../../sessions/session-073---protokoll-bb,-leumas">Session 73</a> <span>Protokoll: BB, Leumas</span></li><li><a href="../../sessions/session-092---pfadfindung">Session 92</a> <span>Pfadfindung</span></li><li><a href="../../sessions/session-097---der-mit-der-waage">Session 97</a> <span>Der mit der Waage</span></li><li><a href="../../sessions/session-107">Session 107</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=lotti" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Lotti is a celestial or aasimar-adjacent entity connected to the legendary tavern known as the [[Silent Coin Taproom]] and its death-day logbook. She self-identifies as "Divienne" when asked for her name, and exists slightly out of phase with normal perception. She was forced to write a black-star death-day entry in the logbook, suggesting some form of binding or compulsion connected to the tavern. In Session 092 she revealed that [[Jetsi]] was her brother and shifted from guarded and fearful to more openly cooperative after the party's reassurance and the black flower pin, though she remained visibly alarmed about the apples.

@@ -9,6 +9,9 @@ publish: true
 
 # Bragi Book
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-094---eine-frage-der-richtigkeit">Session 94 · Eine Frage der Richtigkeit</a></span></p></div>
+
+
 ## Known Information
 
 A lore tome dedicated to the ancient dwarven god [[Bragi]], found on the altar of the sunken dwarven cathedral in [[Ylvar]]. The party recovered it during their Session 094 exploration of the Sunken City. The book appears to contain historical and religious information about [[Bragi]] and dwarven cosmology.

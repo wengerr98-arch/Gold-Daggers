@@ -9,6 +9,11 @@ publish: true
 
 # Schwan Blanc
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-037">Session 37</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=schwan-blanc" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Schwan Blanc (also known as Cheval Blanc) is a high-end leisure venue in [[Ophris]], combining a luxury spa with a beer garden. Located directly opposite the royal palace, it caters to the city's affluent clientele and serves as a fashionable destination for those seeking refined relaxation and hospitality.

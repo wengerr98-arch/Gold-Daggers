@@ -10,6 +10,11 @@ publish: true
 
 # Rosenpalast
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-012">Session 12</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=rosenpalast" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Rosenpalast (Rose Palace) is the royal palace complex of [[Nolia]], located on the highest tier of [[Dalior]]. It is the official residence of the [[Prinzessin|Princess of Nolia]] and serves as the seat of government, housing the offices of senior officials like [[Yorni]]. The palace is a grand political and ceremonial center, dealing with matters of state, diplomacy, and royal administration.
 

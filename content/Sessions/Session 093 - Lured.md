@@ -7,15 +7,16 @@ publish: true
 
 # Session 093 - Lured
 
-<p class="session-meta"><span>Session 93</span> <span>Arc 5 · Höllenfahrt</span> <span>played 2025-11-22</span></p>
+<p class="session-meta"><span>Session 93</span> <span><a class="gd-arc-link" href="../arcs/arc-5">Arc 5 · Höllenfahrt</a></span> <span>played 2025-11-22</span> <span class="gd-tl-link" data-to="timeline" data-q="s=93" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-93" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/abraxas"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Abraxas</span></a><a class="gd-chip" href="../entities/npcs/dakun"><img class="gd-av" src="../07_protocol-sources/old-image-repository/dakun.webp" alt="" loading="lazy"><span class="gd-chip-name">Dakun</span></a><a class="gd-chip" href="../entities/npcs/ken"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Ken</span></a><a class="gd-chip" href="../entities/npcs/luigi"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Luigi</span></a><a class="gd-chip" href="../entities/monsters/moloch"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Moloch</span></a><a class="gd-chip" href="../entities/npcs/nasri"><img class="gd-av" src="../07_protocol-sources/old-image-repository/nasri.webp" alt="" loading="lazy"><span class="gd-chip-name">Nasri</span></a><a class="gd-chip" href="../entities/gods/ophris"><span class="gd-av is-ph" aria-hidden="true">O</span><span class="gd-chip-name">Ophris</span></a><a class="gd-chip" href="../entities/npcs/randrus-torren"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Randrus Torren</span></a><a class="gd-chip is-extra" href="../entities/npcs/ron"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Ron</span></a><a class="gd-chip is-extra" href="../entities/gods/zima"><span class="gd-av is-ph" aria-hidden="true">Z</span><span class="gd-chip-name">Zima</span></a></span></div><label class="gd-who-more" for="gd-who-93"><span class="gd-who-plus">+2</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 # D&D Session 93 - Samstag, 22. November 2025
 
-This is a generated draft import from a converted protocol file and has not been reviewed.
 
 ## Clean Protocol Text
 
-# Session 093 - Lured
 <!-- source_heading: # D&D Session 93 - Samstag, 22. November 2025 -->
 <!-- session_date: 2025-11-22 -->
 <!-- table_notes: 831 p.b. \| Sommer \| Aarum -->
@@ -87,8 +88,6 @@ de Grossi Stei-Meat Dude esch de Chef! Er foht met eus afo rede. Mer froge wies 
 er frogt nachem jöngschte und seit wär er wenn wett ässe.
 
 Mer verbönde eus met de vier chliine und de Leumas macht en Pact-Met de Deamons! Aso mer müend de grossi abeprögle.
-
-![](media/image8.jpg){width="7.480314960629921in" height="9.972222222222221in"}
 
 ## ---Roll Initiativ---
 
@@ -189,9 +188,6 @@ In Aarum, the party meets Luigi and Torren, learns about the infection effects a
 - Aarum
 - tower
 - piazza
-
-### Factions
-- None explicitly named in the source block.
 
 ### Items / Titles / Events
 - apples

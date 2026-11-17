@@ -5,15 +5,17 @@ modified: '2026-11-15T11:04:59.000Z'
 publish: true
 ---
 
-# Session 031 - Title Unknown
+# Session 031
 
-<p class="session-meta"><span>Session 31</span> <span>Arc 2 · Die Stadt der Messer</span> <span>played 2021-08-21</span></p>
+<p class="session-meta"><span>Session 31</span> <span><a class="gd-arc-link" href="../arcs/arc-2">Arc 2 · Die Stadt der Messer</a></span> <span>played 2021-08-21</span> <span class="gd-tl-link" data-to="timeline" data-q="s=31" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/udir"><span class="gd-av is-ph" aria-hidden="true">U</span><span class="gd-chip-name">Udir</span></a><a class="gd-chip" href="../entities/npcs/elmadur"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elmadur.webp" alt="" loading="lazy"><span class="gd-chip-name">Elmadur</span></a><a class="gd-chip" href="../entities/npcs/lionel"><img class="gd-av" src="../07_protocol-sources/old-image-repository/lionel.webp" alt="" loading="lazy"><span class="gd-chip-name">Lionel</span></a><a class="gd-chip" href="../entities/npcs/balery"><img class="gd-av" src="../07_protocol-sources/old-image-repository/balery.webp" alt="" loading="lazy"><span class="gd-chip-name">Balery</span></a><a class="gd-chip" href="../entities/npcs/don-hor"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Don Hor</span></a><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/npcs/hjallbek"><span class="gd-av is-ph" aria-hidden="true">H</span><span class="gd-chip-name">Hjallbek</span></a><a class="gd-chip" href="../entities/npcs/shen"><img class="gd-av" src="../07_protocol-sources/old-image-repository/shen.webp" alt="" loading="lazy"><span class="gd-chip-name">Shen</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
 
 Bei Sam im Garten.
-
 
 
 Entschuldigt: Eliane, Tatjana
@@ -421,8 +423,6 @@ Nach einer weile schaut der Drachen die tiny hut an und hebt nachher ab
 Snix bemerkt dass der SPitz der Horns des Drachen abgebrochen ist und die Bruchstelle kommt ihr bekannt vor: sie bemerkt, dass Kodas "Stein" die Spitze des Horns ist!!
 
 den haben wir bei Maison gefunden!!! tis Maisons doing; all o this
-
-#  
 
 ## Extracted Summary
 

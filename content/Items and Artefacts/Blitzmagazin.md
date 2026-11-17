@@ -17,7 +17,7 @@ The Blitzmagazin (Lightning Magazine) is a magical weapon accessory sold by [[Na
 
 ## Session Appearances
 
-- Session 093: Mentioned as a product available from [[Nasri]] at [[The Tower]] weapons dealer.
+- [[Session 093 - Lured|Session 093]]: Mentioned as a product available from [[Nasri]] at [[The Tower]] weapons dealer.
 
 ## Known Facts
 

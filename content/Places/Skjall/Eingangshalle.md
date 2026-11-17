@@ -13,7 +13,7 @@ publish: true
 The Eingangshalle (Entrance Hall) is the massive central hall of [[Skjall]], stretching approximately 200 metres deep. It serves as the primary audience chamber where [[Maradak Dreamkiller|the Faceless King]] holds court and receives visitors. The hall is the hub of political and social life within the city, constantly busy with petitioners, merchants, and faction representatives.
 
 ## Character
-The entrance hall is grand and impressive, marked by perpetual activity. A steady stream of humanoids waits in orderly lines, some bearing flyeres from faction recruiters. The air carries the weight of formality mixed with the hum of conversation. The black obsidian monument and throne dominate the space visually, drawing the eye and commanding respect. (Sensory details inferred from sidecar context: cool stone, echoing acoustics, the scent of cold metal and stone.)
+The entrance hall is grand and impressive, marked by perpetual activity. A steady stream of humanoids waits in orderly lines, some bearing flyeres from faction recruiters. The air carries the weight of formality mixed with the hum of conversation. The black obsidian monument and throne dominate the space visually, drawing the eye and commanding respect. (Sensory details: cool stone, echoing acoustics, the scent of cold metal and stone.)
 
 ## Notable Areas
 None confirmed.

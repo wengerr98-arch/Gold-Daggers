@@ -5,12 +5,14 @@ modified: '2026-11-15T11:05:00.000Z'
 publish: true
 ---
 
-# Session 033 - Title Unknown
+# Session 033
 
-<p class="session-meta"><span>Session 33</span> <span>Arc 2 · Die Stadt der Messer</span> <span>played 2021-10-16</span></p>
+<p class="session-meta"><span>Session 33</span> <span><a class="gd-arc-link" href="../arcs/arc-2">Arc 2 · Die Stadt der Messer</a></span> <span>played 2021-10-16</span> <span class="gd-tl-link" data-to="timeline" data-q="s=33" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-33" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/companions/blobbert"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Blobbert</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/gods/zima"><span class="gd-av is-ph" aria-hidden="true">Z</span><span class="gd-chip-name">Zima</span></a><a class="gd-chip" href="../entities/gods/aria"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Aria</span></a><a class="gd-chip" href="../entities/npcs/udir"><span class="gd-av is-ph" aria-hidden="true">U</span><span class="gd-chip-name">Udir</span></a><a class="gd-chip" href="../entities/npcs/felix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/felix.webp" alt="" loading="lazy"><span class="gd-chip-name">Felix</span></a><a class="gd-chip" href="../entities/npcs/herbstgöttin-frelka"><span class="gd-av is-ph" aria-hidden="true">H</span><span class="gd-chip-name">Herbstgöttin Frelka</span></a><a class="gd-chip" href="../entities/npcs/levistus"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Levistus</span></a><a class="gd-chip" href="../entities/npcs/akaresh"><img class="gd-av" src="../07_protocol-sources/old-image-repository/akaresh.webp" alt="" loading="lazy"><span class="gd-chip-name">Akaresh</span></a><a class="gd-chip is-extra" href="../entities/npcs/don-hor"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Don Hor</span></a><a class="gd-chip is-extra" href="../entities/gods/kaldera"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Kaldera</span></a><a class="gd-chip is-extra" href="../entities/npcs/lionel"><img class="gd-av" src="../07_protocol-sources/old-image-repository/lionel.webp" alt="" loading="lazy"><span class="gd-chip-name">Lionel</span></a><a class="gd-chip is-extra" href="../entities/npcs/verus"><span class="gd-av is-ph" aria-hidden="true">V</span><span class="gd-chip-name">Verus</span></a><a class="gd-chip is-extra" href="../entities/npcs/yorni"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yorni.webp" alt="" loading="lazy"><span class="gd-chip-name">Yorni</span></a></span></div><label class="gd-who-more" for="gd-who-33"><span class="gd-who-plus">+5</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
-
 
 
 Alle da aussert Lena (Bonsi until .. Uhr) - Treffen 15 Uhr - Start 15:50
@@ -254,8 +256,6 @@ Und Barzan findet noch Munition.
 Plötzlich fallen uns diverse Nachrichten auf von Udir, Lionell und Donhor. Papierflieger die uns geschickt worden sind. Wir gehen auf den Heimweg. Der Sturm ist sich langsam am verziehen. Ein schöner Tag im Gebirge.
 
 END OF SESSION um 02:30 Uhr.
-
-#  
 
 ## Extracted Summary
 

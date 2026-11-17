@@ -7,6 +7,11 @@ publish: true
 
 # Akareth
 
+<div class="gd-seen"><p><span>Seen in 3 sessions</span> <span>first <a href="../../sessions/session-036">Session 36</a></span> <span>last <a href="../../sessions/session-052---book-of-r'lyeh">Session 52 · Book of R'Lyeh</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../../sessions/session-036">Session 36</a></li><li><a href="../../sessions/session-045">Session 45</a></li><li><a href="../../sessions/session-052---book-of-r'lyeh">Session 52</a> <span>Book of R'Lyeh</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=akareth" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Akareth is a dragon of extraordinary power described as close to godhood — a soul that cannot be destroyed by mortals. He communicates telepathically with [[Leumas]] and made a binding contract with [[Koda]] in Session 044 such that her arm acted independently in service to him, with Yorni's body promised as payment once the party kills him. Koda severed this contract in Session 045. Akareth is deeply interested in the party's Wishspell, its origin, and a massive entity larger than himself — likely a Leviathan or titan-fish — which he wants researched.

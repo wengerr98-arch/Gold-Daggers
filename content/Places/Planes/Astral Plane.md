@@ -17,7 +17,7 @@ The Astral Plane is one of the planes of existence accessible through magic or p
 
 - Appears as a vast expanse with distant luminous features visible from afar
 - Contains or is adjacent to a distant shining city (identity and significance unknown)
-- Features large floating "great bubbles" (*grossi Blasen*) observed during Session 084
+- Features large floating "great bubbles" (*grossi Blasen*) observed during [[Session 084 - chain-links|Session 084]]
 - Related to other extraplanar locations: [[Limbo]], [[Waterplane]], [[Pandemonium]], [[Deep Wilds]], [[Fury's Heart]], [[Nature House Plane]]
 - Accessible through wild magic surges or arcane concentration on ley-lines
 - First observed by [[Eloryn]] during a wild magic roll event in Session 084, who briefly perceived the plane before returning to the material world

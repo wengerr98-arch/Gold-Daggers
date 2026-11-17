@@ -8,6 +8,11 @@ publish: true
 
 # Marius Wehl
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-103">Session 103</a></span> <span>last <a href="../../sessions/session-105">Session 105</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=marius-wehl" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Marius Wehl is one of [[Odyss Trion]]'s four generals, described as a Hauptstratege (chief strategist). He was captured in Odyss's villa during the Stygian Gala raid (Session 103) and later delivered to the Ophris magic prison on behalf of Emperor [[Azan Aeducan]] (Session 105). During transport or imprisonment, a concealed Glyph of Warding in a fake tooth triggered — he survived.

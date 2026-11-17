@@ -8,6 +8,9 @@ publish: true
 
 # Moon Sickle
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-105">Session 105</a></span></p></div>
+
+
 ## Known Information
 
 The Moon Sickle is a +3 magic item purchased for Lorilla at Myrolox (the Ophris magic shop) in Session 105. Described as one of the items Lorilla asked for. Part of the equipment acquisition funded by the 600,000 gold payout (100,000 per person) received from Emperor [[Azan Aeducan]] after delivering the captured generals.

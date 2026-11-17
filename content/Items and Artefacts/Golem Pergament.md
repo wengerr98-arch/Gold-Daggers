@@ -9,6 +9,9 @@ publish: true
 
 # Golem Pergament
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-081---fussspuren-der-geheimen-titanen">Session 81 · Fussspuren der geheimen Titanen</a></span></p></div>
+
+
 ## Known Information
 
 A parchment documenting the creation of the golem encountered in the underground cavern discovered 2km below the desert outside [[Kasta]]. The document was witnessed via [[Barzan Aeducan]]'s Divine Intervention / Legend Lore ability during Session 081, and its recovery was explicitly named as a next-session objective. The document likely contains significant titan and/or golem lore.

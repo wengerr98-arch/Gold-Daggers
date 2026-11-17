@@ -7,6 +7,9 @@ publish: true
 
 # Storyteller
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-047">Session 47</a></span></p></div>
+
+
 ## Known Information
 
 Storyteller is a named sword belonging to [[Leumas]], held together by pinkish/purple smoke that gives it an otherworldly appearance. It possesses the magical ability to show past events when wielded, and bears ornamental features that [[Leumas]] himself did not know were magical. The blade appeared after Leumas's old sword was broken, and may be a reformed or successor version of that weapon.

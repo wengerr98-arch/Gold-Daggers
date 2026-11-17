@@ -9,6 +9,9 @@ publish: true
 
 # Stemmgabel (Planar)
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-078---crossroads">Session 78 · Crossroads</a></span></p></div>
+
+
 ## Known Information
 
 The Stemmgabel is a planar tuning fork used to close portals between planes. One tuning fork is required per plane — a separate version exists for the Material Plane, and others exist for individual planes such as the Wild Hunt's plane. [[Torren]] agreed to obtain the Material Plane version within a week, making this a campaign-critical item tied to the effort to close the north portal near [[Skjall]].

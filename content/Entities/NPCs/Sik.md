@@ -7,6 +7,11 @@ publish: true
 
 # Sik
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-026">Session 26</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=sik" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Sik is a kobold NPC, one of four kobolds who disappeared after the sealed lower tunnel was opened in [[Kobolddorf]]. Those who returned from the tunnel came back "completely different," and Sik's current fate is unknown.

@@ -9,6 +9,11 @@ publish: true
 
 # Untergrund (Dalior)
 
+<div class="gd-seen"><p><span>Visited in 4 sessions</span> <span>first <a href="../sessions/session-006">Session 6</a></span> <span>last <a href="../sessions/session-021">Session 21</a></span></p><details><summary>All 4 sessions</summary><ul><li><a href="../sessions/session-006">Session 6</a></li><li><a href="../sessions/session-013">Session 13</a></li><li><a href="../sessions/session-017">Session 17</a></li><li><a href="../sessions/session-021">Session 21</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=untergrund-(dalior)" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Untergrund is the lowest accessible district of [[Dalior]], a hostile underground environment positioned roughly 600 metres beneath the main city plate where magical energy is actively drained from living creatures, making it barely survivable. It serves as both a literal foundation layer of the city and as a de facto underworld operations hub, housing the [[Fightclub Untergrund]] (an organized fighting arena) and providing access to the [[Oubliette]] prison complex. First explored by the Gold Daggers in Session 013, the Untergrund remains a key zone for factional control and underworld intelligence.
@@ -20,7 +25,7 @@ A brutal, oppressive environment permeated by supernatural exhaustion. The desce
 ## Notable Areas
 
 - [[Fightclub Untergrund]] (underground arena with adjacent bar; fighting pit and management space)
-- Access stairs and trapdoors (connecting to upper city plate via the Entertainment District)
+- Access stairs and trapdoors (connecting to upper city plate via the [[Entertainment District (Dalior)|Entertainment District]])
 - Storage/administrative areas (connecting to [[Oubliette]] system via teleportation circle)
 - Undefined secondary chambers and tunnels (extent unknown; likely unmapped zones)
 
@@ -37,7 +42,7 @@ A brutal, oppressive environment permeated by supernatural exhaustion. The desce
 - Sub-locations: [[Fightclub Untergrund]] (organized fighting venue and underworld hub), [[Oubliette]] (vast multi-level underground prison accessible via teleportation circle from a storage room in Dalior's city centre).
 - Managed operationally by [[Herviar]], who works for or alongside [[Das Mehr]].
 - The arena operates as a neutral ground for organized team-based combat (teams of three noted) and as a meeting place for underworld factions.
-- Accessible via trapdoor-and-ladder system from the Entertainment District platform above.
+- Accessible via trapdoor-and-ladder system from the [[Entertainment District (Dalior)|Entertainment District]] platform above.
 - Adjacent bar area serves as a social and information-gathering space away from the arena floor.
 - Predominantly human clientele in the arena; non-human visitors are notable and memorable.
 - Arena rune network features a blood–storage–trigger pattern that mitigates exhaustion for combatants during fights, allowing sustained combat in the otherwise uninhabitable environment.

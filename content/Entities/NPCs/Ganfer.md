@@ -8,6 +8,11 @@ publish: true
 
 # Ganfer
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-101---1-0-auftakt">Session 101 · 1-0 Auftakt</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=ganfer" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Ganfer is a named Frost Giant present at [[Muryn]]'s camp, distinguished by holding the oldest memories among those gathered there. He appeared briefly in Session 101 and may be a one-session character.

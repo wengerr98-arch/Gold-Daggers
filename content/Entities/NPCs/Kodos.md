@@ -8,6 +8,11 @@ gallery: true
 
 # Kodos
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-052---book-of-r'lyeh">Session 52 · Book of R'Lyeh</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=kodos" data-label="Follow on the timeline →"></span></p>
+
 ![[Kodos.webp|260]]
 
 ## Known Information
@@ -24,4 +29,3 @@ Kodos is a Triton revolutionary described as the "former third hand" of the [[He
 - Affiliation: [[Helykonos]] revolutionary organisation
 - Role: "Former third hand" of the revolution; logistical/operational support
 - Reports under [[Uthrin]] in the revolutionary command structure
-- Old vault stub was a minimal infobox with no filled fields (image: Kodos.jpg)

@@ -7,11 +7,13 @@ publish: true
 
 # Session 070 - Protokoll: BB
 
-<p class="session-meta"><span>Session 70</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-09-21</span></p>
+<p class="session-meta"><span>Session 70</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-09-21</span> <span class="gd-tl-link" data-to="timeline" data-q="s=70" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/karoth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/karoth.webp" alt="" loading="lazy"><span class="gd-chip-name">Karoth</span></a><a class="gd-chip" href="../entities/npcs/lotti"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Lotti</span></a><a class="gd-chip" href="../entities/npcs/yorni"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yorni.webp" alt="" loading="lazy"><span class="gd-chip-name">Yorni</span></a><a class="gd-chip" href="../entities/npcs/zaos"><span class="gd-av is-ph" aria-hidden="true">Z</span><span class="gd-chip-name">Zaos</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 070
 <!-- source_heading: # Session 70 - Samstag, 21.September, 2024 -->
 <!-- session_date: 2024-09-21 -->
 
@@ -47,8 +49,6 @@ Er esh wiit ide ziit zrug, er gseht en mächtigi stadt met rote Muure und versch
 
 De Barzan esh be ehne, a big Void, Bubbles mit Brugge zwöschenand. D Bubbles send gföllt met andere Planes? De Barzan sees the Wheel of Planes..? The Elves live outside the Wheel of Planes.
 
-![](media/image50.png){width="7.480314960629921in" height="4.277777777777778in"}
-
 D Lorilla bechonnt es sending vom Noah: Be eus esh alles ok, hoffe be euch au. De Snix und de Leumas schlofe höt be eus, de Snix esh chli scary, es het mega vell zombie Horde dosse.
 
 D Lorilla antwortet z lang und werd abgschnette aber all good.
@@ -64,8 +64,6 @@ Long rest mer schlofe ide taverne. The deep Wilds esh d plane vom Fuchs und Luch
 We wake up und luege uuse es brönnt alles. chli icy chli poison, s esh eifach die füür womer hend gmeint hemmer glöscht. Mer gsehnd schwarzi Scheme wo umehopse.
 
 INITIATIVE
-
-![](media/image17.jpg){width="3.46875in" height="3.262549212598425in"}![](media/image30.jpg){width="7.480314960629921in" height="4.208333333333333in"}
 
 Lots of wildmagic, 6! Eldritch Blasts from Eloryn, Firebreath from the huge Bat, Guiding Bolt Barzan,
 
@@ -84,12 +82,6 @@ D Lorilla rüeft hallo und d Gesichter shifte aber es passiert no nüt.
 Elo probiert mol en eldritch blast. und eis vo dene stei dinger griifft eus ah. We fight theem.
 
 best fireball evaaa
-
-![](media/image46.jpg){width="3.63870406824147in" height="4.846976159230096in"}
-
-![](media/image22.jpg){width="4.144828302712161in" height="3.111508092738408in"}
-
-![](media/image5.jpg){width="7.480314960629921in" height="4.208333333333333in"}
 
 Mer chöme ah inere fortified Structure so 60 uf 60ft und es esh ergnwie sehnig und organisch met spinnenetzligem zeugs. es het zombies wo patroulliere? Mer stöhnd voredra und luege gschwennd ine. We see Yorni.
 
@@ -116,9 +108,6 @@ The party recovers after the throne room collapse, rebuilds a base plan, consult
 - old tavern site
 - space-elf plane
 - winter goddess route
-
-### Factions
-- Not identified
 
 ### Items / Titles / Events
 - Queen of Wands

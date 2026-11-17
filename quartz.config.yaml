@@ -258,6 +258,8 @@ plugins:
       enableCopyTool: false
   - source: ./plugins/gd-timeline # the Timeline page (scripts/build-timeline.mjs writes its data)
     enabled: true
+  - source: ./plugins/gd-table # table tools; adds nothing unless the export switched one on (wiki.config.yaml → table)
+    enabled: true
   - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:

@@ -10,6 +10,11 @@ gallery: true
 
 # Aubonne
 
+<div class="gd-seen"><p><span>Seen in 8 sessions</span> <span>first <a href="../../sessions/session-006">Session 6</a></span> <span>last <a href="../../sessions/session-025">Session 25</a></span></p><details><summary>All 8 sessions</summary><ul><li><a href="../../sessions/session-006">Session 6</a></li><li><a href="../../sessions/session-007">Session 7</a></li><li><a href="../../sessions/session-013">Session 13</a></li><li><a href="../../sessions/session-014">Session 14</a></li><li><a href="../../sessions/session-017">Session 17</a></li><li><a href="../../sessions/session-018">Session 18</a></li><li><a href="../../sessions/session-019">Session 19</a></li><li><a href="../../sessions/session-025">Session 25</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=aubonne" data-label="Follow on the timeline →"></span></p>
+
 ![[Aubonne.webp|260]]
 
 ## Known Information

@@ -7,6 +7,11 @@ publish: true
 
 # Charon
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-096---uferlos">Session 96 · Uferlos</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=charon" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Charon is the ferryman of the dead who operates on the [[River Styx]]. In Session 096 the party encounters him while crossing from [[Limbo]] toward [[Avernus]]— he ferries souls and charges a diamond or coin for passage. Notably, he gifted [[Eloryn]] a finger-bone that subsequent arcana investigation revealed to contain "more magic than bone."

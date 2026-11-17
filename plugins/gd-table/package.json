@@ -1,0 +1,22 @@
+{
+  "name": "gd-table",
+  "version": "0.1.0",
+  "description": "Gold Daggers wiki: small tools for the game table (each one switched on in wiki.config.yaml → table). No build step, no dependencies.",
+  "type": "module",
+  "private": true,
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": { ".": "./dist/index.js" },
+  "quartz": {
+    "name": "gd-table",
+    "displayName": "Gold Daggers table tools",
+    "description": "Loads the table tools that the export switched on (content/table-tools.json).",
+    "category": ["transformer"],
+    "version": "0.1.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 61,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

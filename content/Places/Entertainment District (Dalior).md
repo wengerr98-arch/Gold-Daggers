@@ -9,6 +9,11 @@ publish: true
 
 # Entertainment District (Dalior)
 
+<div class="gd-seen"><p><span>Visited in 12 sessions</span> <span>first <a href="../sessions/session-012">Session 12</a></span> <span>last <a href="../sessions/session-057---catching-up">Session 57 · Catching Up</a></span></p><details><summary>All 12 sessions</summary><ul><li><a href="../sessions/session-012">Session 12</a></li><li><a href="../sessions/session-015">Session 15</a></li><li><a href="../sessions/session-017">Session 17</a></li><li><a href="../sessions/session-018">Session 18</a></li><li><a href="../sessions/session-019">Session 19</a></li><li><a href="../sessions/session-020">Session 20</a></li><li><a href="../sessions/session-021">Session 21</a></li><li><a href="../sessions/session-023">Session 23</a></li><li><a href="../sessions/session-024">Session 24</a></li><li><a href="../sessions/session-025">Session 25</a></li><li><a href="../sessions/session-056---teen-robin,-felix-shenanigns">Session 56</a> <span>Teen Robin, Felix Shenanigns</span></li><li><a href="../sessions/session-057---catching-up">Session 57</a> <span>Catching Up</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=entertainment-district-(dalior)" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Entertainment District is a self-governing, renegade district within [[Dalior]], operating independently under the protection of [[Cetzy]]. Renowned for hosting the finest entertainment and food skewers on the continent, it refuses entry to city guards and functions as a community-like city within the city, with its own customs, defences, and cultural identity. Over the course of the campaign, it served as the Gold Daggers' primary base of operations before becoming a besieged holdout during the wider Dalior conflict.

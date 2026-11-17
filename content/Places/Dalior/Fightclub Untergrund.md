@@ -9,6 +9,11 @@ publish: true
 
 # Fightclub Untergrund
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../../sessions/session-036">Session 36</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=fightclub-untergrund" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Fightclub Untergrund is an underground arena and fighting venue located deep beneath [[Dalior]]'s main city plate, within the broader [[Untergrund (Dalior)]] district. Managed by [[Herviar]], this establishment serves as both a neutral ground for organized combat and a hub of information for the region's underworld factions—particularly [[Das Mehr]]. It first came to prominence as a meeting place and point of contact between the Gold Daggers party and key figures like [[Dave]] and [[Gladis Gladigator]].
 

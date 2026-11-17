@@ -7,11 +7,13 @@ publish: true
 
 # Session 071 - Protokoll: BB, Leumas
 
-<p class="session-meta"><span>Session 71</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-10-13</span></p>
+<p class="session-meta"><span>Session 71</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-10-13</span> <span class="gd-tl-link" data-to="timeline" data-q="s=71" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/tordram"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Tordram</span></a><a class="gd-chip" href="../entities/gods/wintergöttin"><span class="gd-av is-ph" aria-hidden="true">W</span><span class="gd-chip-name">Wintergöttin</span></a><a class="gd-chip" href="../entities/npcs/yorni"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yorni.webp" alt="" loading="lazy"><span class="gd-chip-name">Yorni</span></a><a class="gd-chip" href="../entities/gods/aria"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Aria</span></a><a class="gd-chip" href="../entities/npcs/nameo"><img class="gd-av" src="../07_protocol-sources/old-image-repository/nameo.webp" alt="" loading="lazy"><span class="gd-chip-name">Nameo</span></a><a class="gd-chip" href="../entities/npcs/sammie"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sammie</span></a><a class="gd-chip" href="../entities/npcs/yaenne"><span class="gd-av is-ph" aria-hidden="true">Y</span><span class="gd-chip-name">Yaenne</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 071
 <!-- source_heading: # DND WEEK Session 71 - Sonntag, 13. Oktober 2024 -->
 <!-- session_date: 2024-10-13 -->
 
@@ -36,8 +38,6 @@ Snix und Leumas flüüge uf eus zue, de Snix esh chli am struggle.
 Mer tusche eus uus und catche up was alles passiert esch. Wanda het am Leumas sini Seele gmacht. Wanda macht allgemein Seele.
 
 mer send of de Plattform: dette enne esch de Yorni amene Pult am schaffe.
-
-![](media/image37.jpg){width="7.480314960629921in" height="5.902777777777778in"}
 
 d'elloryn luegt eri muschle ah. Os de moschle louft emmerno wasser. und sie ghört os de moschle en stemm. es esch d'mili. sie händ issues ou, am jetsi sini töre goht nömme uuuf. mer ghöre sie loschtigerwiis ou und mer säge ere hallo. me cha sogar chle driiluege. d'mili esch lang tot am läbe gsiii, aso undead. d'ello frogt no nach de seele vo de BB und sie tusche sech öbber s'tot-sii uuuus. d'ello frogt öbb d'mili cha es chössi dor d'moschle rüehre, goht leider ned :(
 
@@ -155,10 +155,7 @@ mer stealthe nochle ome e de range vo de wentergöttin. mer ghöre weder wie 10'
 
 Brudi und Leumas luege no zo wentergöttin öbbere, de brudi gseht en wiitere nagel wo ere dor backe gooht. mer caste fairy fire centerd of her. e de hoffnig mer gsähnd felech öbbis. mer loufe före.
 
-![](media/image7.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
 faerie fire ide area be de Wintergöttin.
-![](media/image12.jpg){width="7.480314960629921in" height="9.972222222222221in"}
 
 BB luegt d'nägel aah öbme sie cha uusezue. 21 för zom uusezieh. es send eher dorne aus nägel.
 
@@ -176,11 +173,7 @@ De Old-Barzan: Aria, es esch de Rattemönsch wodi aagreffe het! und de Old-Barza
 
 mer send bäck em norde und möche eus ready en Druid z'fighte
 
-![](media/image13.jpg){width="7.480314960629921in" height="9.972222222222221in"}![](media/image41.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
-Bigby's Hand:![](media/image35.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
-![](media/image40.jpg){width="7.480314960629921in" height="9.972222222222221in"}![](media/image38.jpg){width="7.480314960629921in" height="9.972222222222221in"}![](media/image26.jpg){width="7.480314960629921in" height="9.972222222222221in"}
+Bigby's Hand:
 
 Round 1
 
@@ -270,7 +263,7 @@ d'elloryn fender drü sache: Amulett, en schlössel, es päärli paired braclets
 
 De Barzan macht fortify und get ere 120 temp hitpoints. För en Moment macht de Barzan Blickkontakt met de Wintergöttin. Er rüeft ere Zue " wennd Hilf Aria, denn kontaktier mi!"
 
-[Es schiint als wär de Reste vo erne Erennerige vo de Aria e ere denne?]{.mark} De Barzan gspört es Füür e sech enne und wie sini Magie schwankt ufn art.
+==Es schiint als wär de Reste vo erne Erennerige vo de Aria e ere denne?== De Barzan gspört es Füür e sech enne und wie sini Magie schwankt ufn art.
 
 Mer mache eus rechtig zrug zu de Armee ufe Weg. z Vorderst Vore KODA & Nameo.
 
@@ -306,10 +299,6 @@ The party regroups in the Minotaur quarter, reconnects with Wanda and Yorni, unc
 - meat house
 - taverne
 - winter-goddess route
-
-
-### Factions
-- Not identified
 
 
 ### Items / Titles / Events

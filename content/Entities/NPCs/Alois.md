@@ -7,6 +7,11 @@ publish: true
 
 # Alois
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-048---die-hochzeit">Session 48 · Die Hochzeit</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=alois" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Alois is a named hydra kept as a pet by the [[Prinzessin|Queen]] of the [[Rosenpalast]]. She is housed in the castle stalls alongside giant geese (approximately 2–2.5m tall, wearing a red ribbon), and the party made use of those geese as cover during their infiltration of the wedding.

@@ -7,11 +7,14 @@ publish: true
 
 # Session 099
 
-<p class="session-meta"><span>Session 99</span> <span>Arc 5 · Höllenfahrt</span> <span>played 2026-04-03</span></p>
+<p class="session-meta"><span>Session 99</span> <span><a class="gd-arc-link" href="../arcs/arc-5">Arc 5 · Höllenfahrt</a></span> <span>played 2026-04-03</span> <span class="gd-tl-link" data-to="timeline" data-q="s=99" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-99" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/levistus"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Levistus</span></a><a class="gd-chip" href="../entities/gods/aria"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Aria</span></a><a class="gd-chip" href="../entities/npcs/felix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/felix.webp" alt="" loading="lazy"><span class="gd-chip-name">Felix</span></a><a class="gd-chip" href="../entities/npcs/frau-echlin"><span class="gd-av is-ph" aria-hidden="true">F</span><span class="gd-chip-name">Frau Echlin</span></a><a class="gd-chip" href="../entities/npcs/general-meirad"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">General Meirad</span></a><a class="gd-chip" href="../entities/npcs/kathlan"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Kathlan</span></a><a class="gd-chip" href="../entities/npcs/ken-paul"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Ken Paul</span></a><a class="gd-chip" href="../entities/npcs/marseili"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Marseili</span></a><a class="gd-chip is-extra" href="../entities/npcs/sarlsaqui"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sarlsaqui</span></a><a class="gd-chip is-extra" href="../entities/gods/zima"><span class="gd-av is-ph" aria-hidden="true">Z</span><span class="gd-chip-name">Zima</span></a></span></div><label class="gd-who-more" for="gd-who-99"><span class="gd-who-plus">+2</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
 
-# Session 099 - Title Unknown
+# Session 099
 <!-- source_heading: # D&D Session 99 - Samstag, 3. April 2026 -->
 <!-- session_date: 2026-04-03 -->
 <!-- table_notes: 831 p.b. \| Sommer \| Stygia -->
@@ -25,7 +28,7 @@ Leumas 19 hm why didn't look at the friedhof?
 
 Mer starte met Research:
 
-[Snix & Lorilla]{.underline}
+<u>Snix & Lorilla</u>
 
 Elfe vergässene Krieg -\> was esch die Aussenwahrnemung vo de Elfe
 
@@ -39,7 +42,7 @@ Insight Roll: 26
 
 sie fende ab und zue schriibfähler. the Council esch sehr random und es send äuwä ned die hellschte elfe dette. Was no speziell esch ofe art.
 
-[Barzan]{.underline}
+<u>Barzan</u>
 
 Oldest Knowledge
 
@@ -53,7 +56,7 @@ De Barzan het es Buech öbber die vergässene Spezies vo de Planes uuusegsuecht.
 
 es tönt vo ehm so, aus wäri ei kataklysmische event passiert wo 90% uuusglösche het. öbbe 1000 Johr e de vergangeheit. Es macht de aaschin es fähle sache e de iiträg.
 
-[BB]{.underline}
+<u>BB</u>
 
 Vergässene Krieg, ppl ufde Brugg
 
@@ -67,9 +70,7 @@ Osserdäm öbere Felix, e schreckleche Chriegsfüehrer, vell toti und en schlach
 
 Auflistung von den Statuen:
 
-![](media/image15.jpg){width="4.309423665791776in" height="4.214827209098862in"}
-
-[Leumas & Eloryn]{.underline}
+<u>Leumas & Eloryn</u>
 
 Killings of Gods
 
@@ -180,8 +181,6 @@ MAP?!
 
 ## The FIGHT
 
-![](media/image14.jpg){width="6.4950787401574805in" height="8.666666666666666in"}
-
 The floor is Rumba
 
 Runde Prep
@@ -195,226 +194,64 @@ Runde Prep
 
 Runde 1
 
-+-----------------+----------------------------------------------------+
-| Leumas          | RIFLE! 19 + 10 explosive schade on speed           |
-|                 |                                                    |
-|                 | Inspo for BB                                       |
-+-----------------+----------------------------------------------------+
-| BB              | Fireball 24 ofe dragon, smooth - chaos balt 24     |
-|                 | force damage, bonus action mote, 18 punkte -       |
-|                 | radiant damage                                     |
-+-----------------+----------------------------------------------------+
-| Barzan          | aura of purity                                     |
-+-----------------+----------------------------------------------------+
-| Lorilla         | MoonBeam on lazy, con save, nat 1,                 |
-|                 |                                                    |
-|                 | Damage from Moon Beam,, lorilla secklet öbber      |
-|                 | kante und verwandlet sech e d flädermuuuus         |
-+-----------------+----------------------------------------------------+
-| Dragon          | Dextery savings, breath weapon,                    |
-|                 |                                                    |
-|                 | Leumas und Barzan blocked mitm Schild              |
-|                 |                                                    |
-|                 | BB nemmts voll                                     |
-+-----------------+----------------------------------------------------+
-| Tripple         | 5pts bludgeoning und 19 schade ufe Leumas Ooze     |
-|                 | Punches                                            |
-|                 |                                                    |
-|                 | DC 15 Athletics or Strength saves to not be        |
-|                 | grappled                                           |
-|                 |                                                    |
-|                 | 1 hit ufe Barzan, 9pts bludgeoning und 14 acid     |
-|                 |                                                    |
-|                 | grappled aber freedom of movement                  |
-+-----------------+----------------------------------------------------+
-| Lazy            | 15 ft moves                                        |
-+-----------------+----------------------------------------------------+
-| Speed           | 60f movement acid damages                          |
-|                 |                                                    |
-|                 | Silvery Barbs advantage for Lorilla no crit for    |
-|                 | barzan                                             |
-+-----------------+----------------------------------------------------+
-| Annihilation    | rising out of the Ooze uh oh                       |
-|                 |                                                    |
-|                 | Attacks bat                                        |
-|                 |                                                    |
-|                 | dex save Saves mit silverybarbs und inspo          |
-|                 |                                                    |
-|                 | two more attacks                                   |
-|                 |                                                    |
-|                 | 20 force                                           |
-|                 |                                                    |
-|                 | 21 force                                           |
-|                 |                                                    |
-|                 | strength saving throw 12                           |
-|                 |                                                    |
-|                 | he engulfed Lorilla!                               |
-+=================+====================================================+
+|   |   |
+|---|---|
+| Leumas | RIFLE! 19 + 10 explosive schade on speed<br>Inspo for BB |
+| BB | Fireball 24 ofe dragon, smooth - chaos balt 24 force damage, bonus action mote, 18 punkte - radiant damage |
+| Barzan | aura of purity |
+| Lorilla | MoonBeam on lazy, con save, nat 1,<br>Damage from Moon Beam,, lorilla secklet öbber kante und verwandlet sech e d flädermuuuus |
+| Dragon | Dextery savings, breath weapon,<br>Leumas und Barzan blocked mitm Schild<br>BB nemmts voll |
+| Tripple | 5pts bludgeoning und 19 schade ufe Leumas Ooze Punches<br>DC 15 Athletics or Strength saves to not be grappled<br>1 hit ufe Barzan, 9pts bludgeoning und 14 acid<br>grappled aber freedom of movement |
+| Lazy | 15 ft moves |
+| Speed | 60f movement acid damages<br>Silvery Barbs advantage for Lorilla no crit for barzan |
+| Annihilation | rising out of the Ooze uh oh<br>Attacks bat<br>dex save Saves mit silverybarbs und inspo<br>two more attacks<br>20 force<br>21 force<br>strength saving throw 12<br>he engulfed Lorilla! |
 
 Runde 2
 
-+-----------------+----------------------------------------------------+
-| Leumas          | Attack with the CANNON on Speed                    |
-|                 |                                                    |
-|                 | 85 Siege Damage Force Damage                       |
-|                 |                                                    |
-|                 | HOW DO YOU WANNA DO THIIIS                         |
-|                 |                                                    |
-|                 | Barzan dex save well Speed explodiert. 14 acid     |
-+-----------------+----------------------------------------------------+
-| BB              | start turn in the oze, thunderstepped away und de  |
-|                 | dragon esch tot! fireball, dex save 24, 39 punkte  |
-|                 | schaden lightning, Mote 40 radiant damage          |
-+-----------------+----------------------------------------------------+
-| Barzan          | steel wind strike mit sorcery points ranged        |
-|                 |                                                    |
-|                 | hits aaalll the creatures sogar mitme nat 1.\      |
-|                 | ah nei doch ned                                    |
-|                 |                                                    |
-|                 | all gone usser annihilation.                       |
-+-----------------+----------------------------------------------------+
-| legendary       | Leumas is large.                                   |
-| annihilation    |                                                    |
-|                 | DC 23 strength saving throw.                       |
-|                 |                                                    |
-|                 | Er spuckt en chliine Blob nebe Leumas und en       |
-|                 | Tentacle chonnt usm bode und zieht de Luemas in    |
-|                 | Ooze ine.                                          |
-+-----------------+----------------------------------------------------+
-| Lorilla         | 26 force damage, 19 acid damage,                   |
-|                 |                                                    |
-|                 | GARGANTUAN WHALE! 25 to hit und denne 14 punkte    |
-|                 | force damage. schwimmt im acid zum Schleumi.       |
-+-----------------+----------------------------------------------------+
-| Dragon          | dead                                               |
-+-----------------+----------------------------------------------------+
-| Tripple         | dead                                               |
-+-----------------+----------------------------------------------------+
-| Lazy            | dead                                               |
-+-----------------+----------------------------------------------------+
-| Speed           | dead                                               |
-+-----------------+----------------------------------------------------+
-| Annihilation    | Leumas wird verschluckt.                           |
-|                 |                                                    |
-|                 | BB goes down.                                      |
-+=================+====================================================+
+|   |   |
+|---|---|
+| Leumas | Attack with the CANNON on Speed<br>85 Siege Damage Force Damage<br>HOW DO YOU WANNA DO THIIIS<br>Barzan dex save well Speed explodiert. 14 acid |
+| BB | start turn in the oze, thunderstepped away und de dragon esch tot! fireball, dex save 24, 39 punkte schaden lightning, Mote 40 radiant damage |
+| Barzan | steel wind strike mit sorcery points ranged<br>hits aaalll the creatures sogar mitme nat 1.<br>ah nei doch ned<br>all gone usser annihilation. |
+| legendary annihilation | Leumas is large.<br>DC 23 strength saving throw.<br>Er spuckt en chliine Blob nebe Leumas und en Tentacle chonnt usm bode und zieht de Luemas in Ooze ine. |
+| Lorilla | 26 force damage, 19 acid damage,<br>GARGANTUAN WHALE! 25 to hit und denne 14 punkte force damage. schwimmt im acid zum Schleumi. |
+| Dragon | dead |
+| Tripple | dead |
+| Lazy | dead |
+| Speed | dead |
+| Annihilation | Leumas wird verschluckt.<br>BB goes down. |
 
 Runde 3
 
-+-----------------+----------------------------------------------------+
-| Leumas          | damage at the beginning of his turn                |
-|                 |                                                    |
-|                 | er schwimmt ufe                                    |
-|                 |                                                    |
-|                 | movemente ufde mittleri stei                       |
-|                 |                                                    |
-|                 | Heals himself 48pts                                |
-|                 |                                                    |
-|                 | Inspo für Brudi                                    |
-+-----------------+----------------------------------------------------+
-| BB              | stabilizes, 1 hp                                   |
-+-----------------+----------------------------------------------------+
-|                 | 50 punkte schaden auf BB                           |
-+-----------------+----------------------------------------------------+
-| Barzan          | started acid, 26 punkte nor no 13                  |
-|                 |                                                    |
-|                 | absorb elements, resistance until the start of his |
-|                 | next turn                                          |
-|                 |                                                    |
-|                 | Masss cure wwwwooooundd                            |
-+-----------------+----------------------------------------------------+
-| Lorilla         | gains 20 hp, looses 21 hp                          |
-|                 |                                                    |
-|                 | moon Beam move ufe annihilation 24                 |
-|                 |                                                    |
-|                 | drops whale back to bat                            |
-+-----------------+----------------------------------------------------+
-| Dragon          | dead                                               |
-+-----------------+----------------------------------------------------+
-| Tripple         | dead                                               |
-+-----------------+----------------------------------------------------+
-| Lazy            | dead                                               |
-+-----------------+----------------------------------------------------+
-| Speed           | dead                                               |
-+-----------------+----------------------------------------------------+
-| Legendary       | schloooht bb                                       |
-+-----------------+----------------------------------------------------+
-| Anni            | Cone of cold on Barzan und Leumas.                 |
-|                 |                                                    |
-|                 | 24 points damage und strength saving throws        |
-|                 |                                                    |
-|                 | 8 und 8 beidi weder im ooze.                       |
-|                 |                                                    |
-|                 | freeedom of movement so good this fight!!!!!       |
-+=================+====================================================+
+|   |   |
+|---|---|
+| Leumas | damage at the beginning of his turn<br>er schwimmt ufe<br>movemente ufde mittleri stei<br>Heals himself 48pts<br>Inspo für Brudi |
+| BB | stabilizes, 1 hp |
+|   | 50 punkte schaden auf BB |
+| Barzan | started acid, 26 punkte nor no 13<br>absorb elements, resistance until the start of his next turn<br>Masss cure wwwwooooundd |
+| Lorilla | gains 20 hp, looses 21 hp<br>moon Beam move ufe annihilation 24<br>drops whale back to bat |
+| Dragon | dead |
+| Tripple | dead |
+| Lazy | dead |
+| Speed | dead |
+| Legendary | schloooht bb |
+| Anni | Cone of cold on Barzan und Leumas.<br>24 points damage und strength saving throws<br>8 und 8 beidi weder im ooze.<br>freeedom of movement so good this fight!!!!! |
 
 Runde 4
 
-+-----------------+----------------------------------------------------+
-| Leumas          | schwimmmt use und bliibt vor mer und healt mi 90   |
-|                 | pts!!                                              |
-+-----------------+----------------------------------------------------+
-| BB              | 2x disintegrate: 71 + 93 + 37                      |
-|                 |                                                    |
-|                 | chaos round:\                                      |
-|                 | barzan 74 - allli frightend, vom barzan            |
-|                 |                                                    |
-|                 | Lorilla 25 - unicorn                               |
-|                 |                                                    |
-|                 | Leumas 70 - summoning fireworks                    |
-|                 |                                                    |
-|                 | BB 59 - a letter appears,                          |
-|                 |                                                    |
-|                 | anni cha sech für 61 täg ned betrinke              |
-|                 |                                                    |
-|                 | - 26 moonbeam                                      |
-+-----------------+----------------------------------------------------+
-| Barzan          | takes 16 bludgeoning und acid 14                   |
-|                 |                                                    |
-|                 | MACE HITS                                          |
-|                 |                                                    |
-|                 | 6 bludgeoning SMITE 38.                            |
-+-----------------+----------------------------------------------------+
-| Lorilla         | Back in the AIIIIR Firebreath!                     |
-|                 |                                                    |
-|                 | 30 punkte fiaaaa, halfed, 15:                      |
-|                 |                                                    |
-|                 | Healing word on barzan: 23                         |
-+-----------------+----------------------------------------------------+
-| Anni            | Moon beam damage                                   |
-|                 |                                                    |
-|                 | 13 punkt schade                                    |
-|                 |                                                    |
-|                 | Cone of cold                                       |
-|                 |                                                    |
-|                 | Leumas saves                                       |
-|                 |                                                    |
-|                 | volle schade füre rest                             |
-|                 |                                                    |
-|                 | 52                                                 |
-|                 |                                                    |
-|                 | Barza esh ussserhalb vo de Range                   |
-|                 |                                                    |
-|                 | Moonbeam is gone                                   |
-|                 |                                                    |
-|                 | Barzan wird geboxt. 1 hit 21 schade Barzan force   |
-|                 | und 22 acid. Halfing it mit absorb elements. 11    |
-|                 | schade uf acid.                                    |
-+=================+====================================================+
+|   |   |
+|---|---|
+| Leumas | schwimmmt use und bliibt vor mer und healt mi 90 pts!! |
+| BB | 2x disintegrate: 71 + 93 + 37<br>chaos round:<br>barzan 74 - allli frightend, vom barzan<br>Lorilla 25 - unicorn<br>Leumas 70 - summoning fireworks<br>BB 59 - a letter appears,<br>anni cha sech für 61 täg ned betrinke<br>- 26 moonbeam |
+| Barzan | takes 16 bludgeoning und acid 14<br>MACE HITS<br>6 bludgeoning SMITE 38. |
+| Lorilla | Back in the AIIIIR Firebreath!<br>30 punkte fiaaaa, halfed, 15:<br>Healing word on barzan: 23 |
+| Anni | Moon beam damage<br>13 punkt schade<br>Cone of cold<br>Leumas saves<br>volle schade füre rest<br>52<br>Barza esh ussserhalb vo de Range<br>Moonbeam is gone<br>Barzan wird geboxt. 1 hit 21 schade Barzan force und 22 acid. Halfing it mit absorb elements. 11 schade uf acid. |
 
 Runde 5
 
-+-----------------+----------------------------------------------------+
-| Leumas          | annihilate canon                                   |
-|                 |                                                    |
-|                 | 22 to hit                                          |
-|                 |                                                    |
-|                 | 12+16+14+7+11                                      |
-|                 |                                                    |
-|                 | HOW DO YOU WANNA DO THIIIIIS                       |
-|                 |                                                    |
-|                 | LASERBOOM BOOOOM                                   |
-+=================+====================================================+
+|   |   |
+|---|---|
+| Leumas | annihilate canon<br>22 to hit<br>12+16+14+7+11<br>HOW DO YOU WANNA DO THIIIIIS<br>LASERBOOM BOOOOM |
 
 ## plötzlech schnippets und mer send em Thron
 

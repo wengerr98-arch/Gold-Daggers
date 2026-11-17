@@ -57,7 +57,7 @@ strip_headings:
   - '^open questions$'
 
 keep_properties: [title, aliases, tags, description]
-hidden_tags: [dm_only, dm-only, imported-protocol, old-vault-migration, gold-daggers]
+hidden_tags: [dm_only, dm-only, imported-protocol, old-vault-migration, gold-daggers, manual-review, lore-critical]
 
 # Portraits: the first image a character note embeds, or an image file named exactly like the note.
 portraits:
@@ -108,6 +108,12 @@ timeline:
   default_zoom: arcs            # the page opens at: eras | years | arcs | sessions | days
   ephraim_offset: 1321          # Ephraim's count = p.B. + 1321
   draft_note: "Draft — dates not yet confirmed by the DM."
+  # Navigation extras, all on unless set to false:
+  aliases: true                 # the search finds people and places by the other names of their published note
+  story_search: true            # the search box also searches the text of events and of what the party was told
+  places: true                  # follow a place; "on the map" links where the place has a pin
+  # "On the timeline →" under the title of session, character and place pages (only where they are in the timeline)
+  backlinks: true
 
 home:
   mode: generated
@@ -126,6 +132,12 @@ sessions:
   header: true
   nav: true
   played_date: true
+  # "Who was there": a strip of small portraits under the header line — the party, then everyone else who
+  # appears in that session (from links in the session note and the timeline's player-known events).
+  # Only characters with a published page are shown. On phones the strip folds after who_phone_cap faces (+N).
+  # Written by scripts/build-appearances.mjs, which wiki.sh runs after the export and the timeline builder.
+  who_was_there: true
+  who_phone_cap: 8
 
 # Most session protocols were hard-wrapped at 72 characters by the import, which shows as ragged half-lines
 # on phones. true = the export joins those wrapped lines back into flowing paragraphs (short lines, lists,
@@ -133,5 +145,137 @@ sessions:
 text:
   unwrap: true
   wrap_width: 72
+
+# Clean-ups of converter and import leftovers, done while exporting (the vault is never changed).
+cleanup:
+  # Tables the protocol converter wrote as +----+----+ boxes (sessions 082, 094, 097, 099, 100, 105) become
+  # normal tables. A table with merged cells or a broken shape is kept as a preformatted block instead.
+  grid_tables: true
+  # One row of very long texts side by side (the four phrases in session 082):
+  # sections = each column's heading with its text underneath · table = keep them side by side
+  grid_tables_long: sections
+  # Picture embeds the converter left behind ("media/image8.jpg"). The export looks for the file in the vault
+  # (same file name, in a folder named after the protocol part the session came from). Found: published like
+  # any other picture. Not found: the broken embed is dropped and listed in the export report.
+  # false = leave the broken embeds on the pages.
+  missing_images: true
+  # Pictures in these folders never go online, even if a note embeds one (they are listed in the report instead).
+  image_blocked_folders: [99_System, 08_indexes]
+  # The import's word "sidecar" (its side file per session), in about 70 lines, mostly on NPC pages:
+  #   keep   – leave the lines as they are in the vault
+  #   reword – "in the sidecar" → "in the session notes", "sidecar entities list" → "the session's list of names", …
+  #   remove – take out the part that only says where the import found a name; the rest of the line stays
+  #            (a few sentences need the reference and are reworded instead). Before/after for every line
+  #            is in the export report.
+  sidecar: remove
+  # Links like [[Session 084]] when the note is called "Session 084 - Knoten": the link opens that page
+  # instead of becoming plain text. The words on the page stay "Session 084".
+  session_links: true
+  # Sessions 040–050 carry their protocol inside a ```text code fence, which shows as one long grey code box
+  # (no paragraphs, sideways scrolling on phones). true = the fence lines are left out, the text shows as
+  # normal text and goes through the same DM filters as everything else.
+  protocol_fences: true
+  # Headings the import left behind: the note's title a second time under "Clean Protocol Text", headings
+  # without words ("##"), and the next session's heading stuck to the end of a protocol ("# Weekend 23").
+  stray_headings: true
+  # The converter wrote highlighted/underlined words as [words]{.mark} and [words]{.underline}; the brackets
+  # show on the page. true = they become a real highlight / underline.
+  converter_marks: true
+  # Where the import tool cut a long note it left a line "... [OUTPUT TRUNCATED - 12203 chars omitted …] ...".
+  # true = the page says truncation_label there instead. (The missing text is listed in the export report.)
+  truncation_notes: true
+  truncation_label: "*(A part of the protocol is missing here.)*"
+  # Remarks the import wrote for its own review, not for readers: "Draft import of Session 020 from the converted
+  # protocol source …", "- Not extracted in first pass.", "(stub needed)", "— DM to confirm", "Confidence: low — …",
+  # "Old vault entry existed but was empty", "A duplicate stub exists at <file>", "- Title Unknown" in a session heading.
+  # true = only the remark is taken out (the whole line when it is nothing else, otherwise just that clause);
+  # a heading that had nothing but such lines under it goes too. The fact next to a "DM to confirm" stays on the
+  # page — the export report lists every shortened line so you can decide whether it should be public.
+  import_notes: true
+  # Links that point at a name no note has, although the note they mean exists ("[[Entertainment District]]" while
+  # the note is "Entertainment District (Dalior)"). link-aliases.yaml lists such names with the note they mean;
+  # true = those links open that note (the words on the page stay as written). Names not in the file stay plain text.
+  link_aliases: true
+  link_aliases_file: link-aliases.yaml
+  # Lines that give the DM as the source of a fact: "confirmed by DM", "per DM correction note", "classified by the
+  # DM", "(DM note)", "pending DM confirmation" — on character, place and item pages (not in session protocols).
+  # The fact may be one the party was never told at the table.
+  #   keep   – nothing changes; the export report lists every such line so you can check them
+  #   remove – a list entry goes as a whole; in running text the sentence that names the DM goes
+  dm_sourced: keep
+  # Real-world details of the players in the protocols: the header lines "Anwesend: …", "Protokoll: …",
+  # "Location: …" / "Ort: …" (who was at the table, who wrote, where you met), links to D&D Beyond profiles
+  # (the address carries the player's account name) and D&D Beyond sheets embedded in character pages.
+  #   keep  – published as they are
+  #   strip – the header lines go ("In Game Location:" stays), a profile link becomes the plain character name,
+  #           an embedded sheet goes together with its "Character Sheet" heading
+  player_details: strip
+  # Header lines that name only characters ("Anwesend: BB, Barzan, Snix") or an in-game place stay: they are story.
+  player_details_ingame_names: [BB, Barzan, Bruder Barzan, Lorilla, Eloryn, Elloryn, Snix, Leumas, Koda, God, the GOD, DM, Brel, Loxodon-Bibliothekar, de goldie däggies, EVERYONE, EVEEEERYBOOOODY]
+  player_details_ingame_places: [Tempel]
+  # What stays of a former Word @-mention once its e-mail address is taken out (needs email_addresses: true):
+  #   keep       – the name as written
+  #   first_name – only the first name
+  mention_names: first_name
+  # Notes that hold nothing but the import's placeholder ("No information currently recorded for …. This stub is a
+  # placeholder …", "*(No session appearances recorded.)*", "- Aliases: X") — a reader lands on a title and nothing else.
+  # true = such notes are not published; links to them become plain text. The export report always lists them,
+  # also while this is off. hide_empty_max_words: how many real words a note may have and still count as empty
+  # (0 = only notes with nothing at all; a picture always counts as content).
+  hide_empty: false
+  hide_empty_max_words: 0
+  # The wiki is public. E-mail addresses (Word @mentions came through as [Name](mailto:address)) are taken
+  # out at export; the linked name stays. The export report says which notes had one.
+  email_addresses: true
+  # Same for links to shared documents (Google Docs/Sheets/Drive, OneDrive/SharePoint, Dropbox, Notion): anyone who
+  # finds the link could open the document. The link words stay; a bare link becomes "(link removed)".
+  doc_links: true
+  # A removed document link can point to a copy of that document kept as a note in the vault instead
+  # (e.g. the players' inventory). Left side: a part of the document's address that identifies it; right side:
+  # the vault note. The note must be published (include_folders / include_notes), otherwise the link words stay
+  # plain text. Keep real addresses in the local wiki.config.yaml only — this file is public.
+  # doc_link_targets:
+  #   "<document id from the address>": "02_campaign Bible/Player Documents/Inventory"
+
+# "Seen in" on character pages (under the title and portrait): first and last session, how many, and a
+# fold-out list of all of them. Same sources as "Who was there". Places get "Visited in", items "Mentioned in".
+# appearance_lists: for these kinds the note's own "## Session Appearances" list counts as well
+# (characters | places | items). Items have no other source; for characters and places that list also holds
+# sessions where they are only talked about, so it is left out by default.
+seen_in:
+  enabled: true
+  places: true
+  items: true
+  appearance_lists: [items]
+
+# Arc pages: one page per arc of home.arcs, in the folder below — its sessions (title, date played, the first
+# lines of the summary the session note already has), the years it covers, the most-seen characters and places.
+# The front page's arcs table and the arc label in each session header link to them.
+# No text is written for these pages; summaries: false leaves the summary lines out.
+arc_pages:
+  enabled: true
+  folder: Arcs
+  characters: 12        # how many of the most-seen characters (besides the party)
+  places: 8
+  summaries: true
+  summary_length: 260   # characters; longer summaries are cut at a word and end in …
+  skip_summaries: ['^Draft import of Session']   # placeholder summaries of the import: not shown
+
+# Table tools: small things to use at the game table. Each has its own switch; all off by default.
+# They need no live updates: whatever they remember stays in the visitor's own browser, on that device.
+# Built by scripts/build-table.mjs after the export; shown by plugins/gd-table.
+table:
+  # Spotlight: "Show at the table" under every portrait (one portrait, full screen, for the TV or a phone held up)
+  # and a Line-up page: pick portraits before the session, step through them during play. The page is not linked
+  # from the front page; it is in the explorer and at /line-up.
+  spotlight: true
+  spotlight_title: Line-up
+  # Who is this? — a portrait quiz over the Gallery's portraits (face → name, name → face). Linked on the front page.
+  quiz: false
+  quiz_title: Who is this
+  # Logbook: "Pin" and "Add a note" under every page title, and a Logbook page that lists them (with backup file).
+  # Private to each reader's browser; the DM cannot see them. Linked on the front page.
+  logbook: true
+  logbook_title: Logbook
 
 review_keywords: [dm, dm only, secret, spoiler, geheim, twist, true identity, wahre identität, hidden, verborgen]

@@ -4,6 +4,12 @@ publish: true
 image: '[[Thavyra.webp]]'
 gallery: true
 ---
+
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-002">Session 2</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=thavyra" data-label="Follow on the timeline →"></span></p>
+
 ![[Thavyra.webp|260]]
 
 

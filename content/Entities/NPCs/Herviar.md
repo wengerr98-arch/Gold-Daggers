@@ -10,6 +10,11 @@ gallery: true
 
 # Herviar
 
+<div class="gd-seen"><p><span>Seen in 3 sessions</span> <span>first <a href="../../sessions/session-013">Session 13</a></span> <span>last <a href="../../sessions/session-021">Session 21</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../../sessions/session-013">Session 13</a></li><li><a href="../../sessions/session-017">Session 17</a></li><li><a href="../../sessions/session-021">Session 21</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=herviar" data-label="Follow on the timeline →"></span></p>
+
 ![[herviar.webp|260]]
 
 ## Known Information

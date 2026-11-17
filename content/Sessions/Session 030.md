@@ -5,9 +5,12 @@ modified: '2026-11-15T11:04:59.000Z'
 publish: true
 ---
 
-# Session 030 - Title Unknown
+# Session 030
 
-<p class="session-meta"><span>Session 30</span> <span>Arc 2 · Die Stadt der Messer</span> <span>played 2021-08-14</span></p>
+<p class="session-meta"><span>Session 30</span> <span><a class="gd-arc-link" href="../arcs/arc-2">Arc 2 · Die Stadt der Messer</a></span> <span>played 2021-08-14</span> <span class="gd-tl-link" data-to="timeline" data-q="s=30" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/udir"><span class="gd-av is-ph" aria-hidden="true">U</span><span class="gd-chip-name">Udir</span></a><a class="gd-chip" href="../entities/npcs/don-hor"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Don Hor</span></a><a class="gd-chip" href="../entities/npcs/granil"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Granil</span></a><a class="gd-chip" href="../entities/npcs/elmadur"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elmadur.webp" alt="" loading="lazy"><span class="gd-chip-name">Elmadur</span></a><a class="gd-chip" href="../entities/npcs/fred"><img class="gd-av" src="../07_protocol-sources/old-image-repository/fred.webp" alt="" loading="lazy"><span class="gd-chip-name">Fred</span></a><a class="gd-chip" href="../entities/npcs/lionel"><img class="gd-av" src="../07_protocol-sources/old-image-repository/lionel.webp" alt="" loading="lazy"><span class="gd-chip-name">Lionel</span></a><a class="gd-chip" href="../entities/npcs/noah"><img class="gd-av" src="../07_protocol-sources/old-image-repository/noah.webp" alt="" loading="lazy"><span class="gd-chip-name">Noah</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -39,7 +42,8 @@ auf mich oder Leumas. Barzan braucht Divination. Opfert fancy wine Frage:
 
 Was haben wir vergessen für unsere Reise?
 
-*Eine Krähe erschrickt und fliegt panisch weg, wirft **[2]{.underline}** Kelche mit Wasser, Wein, Bier und Tee.* Lorilla meint wir brauchen einen Pflug. Krähe symbolisiert Tod, Intelligenz, Freiheit, Magie, Veränderung, Zielstrebigkeit/Mut.
+*Eine Krähe erschrickt und fliegt panisch weg, wirft **<u>2</u>**
+Kelche mit Wasser, Wein, Bier und Tee.* Lorilla meint wir brauchen einen Pflug. Krähe symbolisiert Tod, Intelligenz, Freiheit, Magie, Veränderung, Zielstrebigkeit/Mut.
 
 Koda spricht Buff Dude an um zu fragen wo der Fitnessraum ist. Trainingplatz bei Sonnenaufgang. Lorilla macht conjure animal Krähe. Lionell macht auch identify auf the sun. Er sieht auch keine Magie aber scheint eine andere Art von Magie zu sein, "Überreste" von einem Event. (vergessener Krieg??) Granil Chef Labor. Bücher zu Magiequelle, Ebene die so funktioniert. Lionell ist dran Knochen zurück zum Leben zu erwecken. wir schauen morgen im labor/Bibli.
 
@@ -70,8 +74,6 @@ Er zeigt uns die Karte wo der verlassene Tempel ist. Barzan sieht aber noch ande
 Probleme mit Stürmen und Wetter. Eine Gruppe traf Sturm Elementals an auch auf der Abkürzung. Nur eine Gruppe kam bis vor den Tempel. Brücke zum Eingang über ein mini Tal mit Fluss. Runder Eingang links Text, rechts unten zu oben noch Türe? Nachricht scheint abzubrechen. Ein Brief ist eine Skizze: Die Form erinnert an Kryptex von Barzan. Die Skizze scheint einfach eine Schraffur des Loches des Kryptex zu sein.
 
 Magentempel Hinweise auf den vergessenen Krieg.
-
-![](media/image1.png){width="2.839060586176728in" height="2.839060586176728in"}
 
 Wir besprechen Exit Strategie, Polymorph sparen und dann Leumas und Koda fliegen uns raus, Lorilla verwandelt sich in etwas kleines und hält sich fest.
 
@@ -123,19 +125,27 @@ Wir gehen Zmittag essen und treffen Fred. Er ist gestresst am Essen er muss Nach
 
 **Charakter Spickzettel**
 
-- [Barzan]{.underline} (aus Königreich Ophris, Westen)
+- Barzan
+  (aus Königreich Ophris, Westen)
 
-- [Big Brush]{.underline} (aus Amare)
+- Big
+  Brush
+  (aus Amare)
 
-- [Eloryn Agharath]{.underline} (aus dem Meer)
+- Eloryn
+  Agharath
+  (aus dem Meer)
 
-- [Koda]{.underline} (The Bearbarian)
+- Koda (The
+  Bearbarian)
 
-- [Leumas]{.underline} (Barde)
+- Leumas
+  (Barde)
 
 - Lorilla Timbers (Waldgnom)
 
-- [Snix]{.underline} (Waise, Kobold, sucht seine Schwester)
+- Snix
+  (Waise, Kobold, sucht seine Schwester)
 
 \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_
 

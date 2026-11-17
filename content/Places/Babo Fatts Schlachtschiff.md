@@ -7,6 +7,11 @@ publish: true
 
 # Babo Fatts Schlachtschiff
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-035">Session 35</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=babo-fatts-schlachtschiff" data-label="On the timeline →"></span></p>
+
 ## Overview
 A ship-based restaurant and tavern located in Shicla, within the [[Ophris]] region. The party visited during Session 035 to dine and gather local news, where they learned of military setbacks in [[Nolia]]. The establishment appears to serve as an informal information hub for travelers and locals.
 

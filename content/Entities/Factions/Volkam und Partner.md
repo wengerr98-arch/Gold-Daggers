@@ -15,7 +15,7 @@ Volkam und Partner (also "Volkam & Partner") was a criminal organisation control
 
 ## Session Appearances
 
-- Session 040: Antagonist organisation; the party stormed their brewery headquarters and killed Felbrim Volkam. The golem ("Goldie") and brewery were seized by the party.
+- [[Session 040 - Deals like Daggers|Session 040]]: Antagonist organisation; the party stormed their brewery headquarters and killed Felbrim Volkam. The golem ("Goldie") and brewery were seized by the party.
 
 ## Known Facts
 

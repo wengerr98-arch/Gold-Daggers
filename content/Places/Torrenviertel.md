@@ -9,6 +9,11 @@ publish: true
 
 # Torrenviertel
 
+<div class="gd-seen"><p><span>Visited in 5 sessions</span> <span>first <a href="../sessions/session-039">Session 39</a></span> <span>last <a href="../sessions/session-095---die-vergessene-schwelle">Session 95 · Die vergessene Schwelle</a></span></p><details><summary>All 5 sessions</summary><ul><li><a href="../sessions/session-039">Session 39</a></li><li><a href="../sessions/session-040---deals-like-daggers">Session 40</a> <span>Deals like Daggers</span></li><li><a href="../sessions/session-078---crossroads">Session 78</a> <span>Crossroads</span></li><li><a href="../sessions/session-093---lured">Session 93</a> <span>Lured</span></li><li><a href="../sessions/session-095---die-vergessene-schwelle">Session 95</a> <span>Die vergessene Schwelle</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=torrenviertel" data-label="On the timeline →"></span></p>
+
 ## Overview
 Torrenviertel is a commercial and industrial district of [[Aarum]] centred on metalworking and foundry operations. Controlled by the [[Torren Family]], it serves as a stronghold of their economic power within the city. The district's character is defined by heat, commerce, and the omnipresent coat of arms of its ruling family.
 

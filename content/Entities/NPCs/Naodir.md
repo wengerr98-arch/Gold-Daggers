@@ -8,6 +8,11 @@ gallery: true
 
 # Naodir
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-034">Session 34</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=naodir" data-label="Follow on the timeline →"></span></p>
+
 ![[Naodir.webp|260]]
 
 ## Known Information

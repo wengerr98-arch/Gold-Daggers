@@ -7,7 +7,10 @@ publish: true
 
 # Session 102
 
-<p class="session-meta"><span>Session 102</span> <span>Arc 6 (current)</span> <span>831 p.B., Sommer, Aarum</span> <span>played 2026-06-22</span></p>
+<p class="session-meta"><span>Session 102</span> <span><a class="gd-arc-link" href="../arcs/arc-6">Arc 6 (current)</a></span> <span>831 p.B., Sommer, Aarum</span> <span>played 2026-06-22</span> <span class="gd-tl-link" data-to="timeline" data-q="s=102" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/odyss-trion"><span class="gd-av is-ph" aria-hidden="true">O</span><span class="gd-chip-name">Odyss Trion</span></a><a class="gd-chip" href="../entities/gods/asmodeus"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Asmodeus</span></a><a class="gd-chip" href="../entities/npcs/levistus"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Levistus</span></a><a class="gd-chip" href="../entities/npcs/plasna"><span class="gd-av is-ph" aria-hidden="true">P</span><span class="gd-chip-name">Plasna</span></a><a class="gd-chip" href="../entities/npcs/sani-ambulan"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sani Ambulan</span></a><a class="gd-chip" href="../entities/npcs/verus"><span class="gd-av is-ph" aria-hidden="true">V</span><span class="gd-chip-name">Verus</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -155,7 +158,6 @@ Gold Daggers froge: alle Personen mit Nothing an sich müssen die 5te Höll / Eb
 
 Asmodeus verlangt 650 HP för die Partie — vo esch de Asmodeus alänge nüt passiert.
 
-**Das Spielfeld:** [embedded game board image — not importable]
 
 ## Die Partie beginnt
 

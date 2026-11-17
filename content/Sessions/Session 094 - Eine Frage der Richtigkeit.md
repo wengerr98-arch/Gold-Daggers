@@ -7,36 +7,21 @@ publish: true
 
 # Session 094 - Eine Frage der Richtigkeit
 
-<p class="session-meta"><span>Session 94</span> <span>Arc 5 · Höllenfahrt</span> <span>played 2025-12-13</span></p>
+<p class="session-meta"><span>Session 94</span> <span><a class="gd-arc-link" href="../arcs/arc-5">Arc 5 · Höllenfahrt</a></span> <span>played 2025-12-13</span> <span class="gd-tl-link" data-to="timeline" data-q="s=94" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/abraxas"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Abraxas</span></a><a class="gd-chip" href="../entities/gods/asmodeus"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Asmodeus</span></a><a class="gd-chip" href="../entities/gods/bragi"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Bragi</span></a><a class="gd-chip" href="../entities/npcs/stefan"><img class="gd-av" src="../07_protocol-sources/old-image-repository/stefan.webp" alt="" loading="lazy"><span class="gd-chip-name">Stefan</span></a><a class="gd-chip" href="../entities/npcs/susra-und-kafra"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Susra und Kafra</span></a><a class="gd-chip" href="../entities/npcs/ysra"><span class="gd-av is-ph" aria-hidden="true">Y</span><span class="gd-chip-name">Ysra</span></a></span></div></div>
+
 
 # D&D Session 94 - Samstag, 13. Dezember 2025
 
-This is a generated draft import from a converted protocol file and has not been reviewed.
 
 ## Clean Protocol Text
 
-# Session 094 - Eine Frage der Richtigkeit
 <!-- source_heading: # D&D Session 94 - Samstag, 13. Dezember 2025 -->
 <!-- session_date: 2025-12-13 -->
 <!-- table_notes: 831 p.b. \| Sommer \| Aarum -->
 
 Unsere heutige Location:
-
-![](media/image1.jpg){width="6.966617454068241in" height="6.84375in"}
-
-![](media/image11.jpg){width="6.102034120734908in" height="6.28125in"}
-
-![](media/image7.jpg){width="7.480314960629921in" height="5.611111111111111in"}
-
-![](media/image6.jpg){width="5.346078302712161in" height="4.011510279965004in"}
-
-![](media/image4.jpg){width="5.457023184601924in" height="4.0948436132983375in"}
-
-![](media/image12.jpg){width="7.480314960629921in" height="5.611111111111111in"}
-
-![](media/image9.jpg){width="7.480314960629921in" height="5.611111111111111in"}
-
-![](media/image2.jpg){width="4.915225284339457in" height="3.688593613298338in"}
 
 ## Bem Abraxas
 
@@ -238,192 +223,67 @@ Es esh en KRAKEN
 
 ## the Fight
 
-![](media/image3.jpg){width="4.904756124234471in" height="6.542760279965004in"}
-
 Runde 1
 
-+-----------+-----------------------------------------------------------+
-| Kraken    | Tidal Wave, de Barzan macht Schild Aegis, 21 doesn't safe |
-|           | for Leumas, no safe for Lorilla                           |
-|           |                                                           |
-|           | 44pts Schade für lorilla und Leumas, 22 füre Barzan. no   |
-|           | 25 schade före leumas und lorilla no 50 schade. CON saves |
-|           | vo de lorilla nat 20 or nothing AND SHE GETS IT           |
-|           |                                                           |
-|           | Tentacle hit. 33 to hit Barzan 27 Bludgeoning damage. 14  |
-|           | Acid total 41. Concentration is lost for Barzan           |
-+-----------+-----------------------------------------------------------+
-| Leumas    | Wisdom 18 save vom Oktopus he saves. Inspo für Brudi      |
-+-----------+-----------------------------------------------------------+
-| Elo       | HEX, DIS uf wisdom, Eldritch blaasts 21 hits 11 points of |
-|           | damage                                                    |
-|           |                                                           |
-|           | fumble crumble loose your next turn. noooo                |
-+-----------+-----------------------------------------------------------+
-| Lorilla   | 37 points of heal! Spirit Totem                           |
-+-----------+-----------------------------------------------------------+
-| Legendary | slap mit acid                                             |
-| action    |                                                           |
-| Kraken    |                                                           |
-+-----------+-----------------------------------------------------------+
-| BB        | Bonus Action Mote, Radiant Damage, verry nice! fireball   |
-|           | met saucy points to thunderdamage, dex 21, 28 punkte      |
-|           | schaden!                                                  |
-+-----------+-----------------------------------------------------------+
-| Legendary | moves to eloryn oh nawr                                   |
-| action    |                                                           |
-| Kraken    |                                                           |
-+-----------+-----------------------------------------------------------+
-| Barzan    | wisdom 21 saving throw mit disadvantage, und legendary    |
-|           | resistance und er saved                                   |
-+===========+===========================================================+
+|   |   |
+|---|---|
+| Kraken | Tidal Wave, de Barzan macht Schild Aegis, 21 doesn't safe for Leumas, no safe for Lorilla<br>44pts Schade für lorilla und Leumas, 22 füre Barzan. no 25 schade före leumas und lorilla no 50 schade. CON saves vo de lorilla nat 20 or nothing AND SHE GETS IT<br>Tentacle hit. 33 to hit Barzan 27 Bludgeoning damage. 14 Acid total 41. Concentration is lost for Barzan |
+| Leumas | Wisdom 18 save vom Oktopus he saves. Inspo für Brudi |
+| Elo | HEX, DIS uf wisdom, Eldritch blaasts 21 hits 11 points of damage<br>fumble crumble loose your next turn. noooo |
+| Lorilla | 37 points of heal! Spirit Totem |
+| Legendary action Kraken | slap mit acid |
+| BB | Bonus Action Mote, Radiant Damage, verry nice! fireball met saucy points to thunderdamage, dex 21, 28 punkte schaden! |
+| Legendary action Kraken | moves to eloryn oh nawr |
+| Barzan | wisdom 21 saving throw mit disadvantage, und legendary resistance und er saved |
 
 Runde 2
 
-+-----------+-----------------------------------------------------------+
-| Kraken    | Tidal Wave again, Barzan het sech no gmovet und safed d   |
-|           | elo und d bb!                                             |
-|           |                                                           |
-|           | Lorilla und Leumas nähme 53pts Schade und no 53 pts       |
-|           | schade. Concentration gone.                               |
-|           |                                                           |
-|           | Lorilla down SAVED BY THE BOOK! 1HP                       |
-|           |                                                           |
-|           | 27 Schade füre Barzan 18 to hit füre slap doesnt hit.     |
-|           |                                                           |
-|           | Kraken moves, attack of opportunity no hit                |
-+-----------+-----------------------------------------------------------+
-| Leumas    | WIS save 18, doesn't save. SLOWWWWWWW -2AC, -2DEX, no     |
-|           | reactions, only action or bonus action. no multiattack.   |
-|           | Save at end of its turn. leumas stoht vor d Lorilla.      |
-+-----------+-----------------------------------------------------------+
-| Legendary | He hits Lorilla. 31 Schade                                |
-| action    |                                                           |
-| Kraken    |                                                           |
-+-----------+-----------------------------------------------------------+
-| Elo       | lost her turn                                             |
-+-----------+-----------------------------------------------------------+
-| Lorilla   | Death save                                                |
-+-----------+-----------------------------------------------------------+
-| BB        | feelign agility zo de Lorilla und denne Thunderstep,      |
-|           | carefull spell, und back zo de Crew! Con 21, 13 punkte    |
-|           | schade, dann noch eine Mote! 17 hits, 18 radiant damage   |
-+-----------+-----------------------------------------------------------+
-| Legendary | schloht de schleumi! Silbery barbs und er trefft ned      |
-| Kraken    |                                                           |
-| Action    | De Leumas                                                 |
-+-----------+-----------------------------------------------------------+
-| Barzan    | 5th level mass cure! 32 Heal                              |
-+-----------+-----------------------------------------------------------+
-| Legendary | nat 1 er verhederet sich und verlüürt si nächst turn      |
-| Kraken    |                                                           |
-+===========+===========================================================+
+|   |   |
+|---|---|
+| Kraken | Tidal Wave again, Barzan het sech no gmovet und safed d elo und d bb!<br>Lorilla und Leumas nähme 53pts Schade und no 53 pts schade. Concentration gone.<br>Lorilla down SAVED BY THE BOOK! 1HP<br>27 Schade füre Barzan 18 to hit füre slap doesnt hit.<br>Kraken moves, attack of opportunity no hit |
+| Leumas | WIS save 18, doesn't save. SLOWWWWWWW -2AC, -2DEX, no reactions, only action or bonus action. no multiattack. Save at end of its turn. leumas stoht vor d Lorilla. |
+| Legendary action Kraken | He hits Lorilla. 31 Schade |
+| Elo | lost her turn |
+| Lorilla | Death save |
+| BB | feelign agility zo de Lorilla und denne Thunderstep, carefull spell, und back zo de Crew! Con 21, 13 punkte schade, dann noch eine Mote! 17 hits, 18 radiant damage |
+| Legendary Kraken Action | schloht de schleumi! Silbery barbs und er trefft ned<br>De Leumas |
+| Barzan | 5th level mass cure! 32 Heal |
+| Legendary Kraken | nat 1 er verhederet sich und verlüürt si nächst turn |
 
 Runde 3
 
-+-----------+-----------------------------------------------------------+
-| Kraken    | no tuurn no recharge for tidal wave lovely                |
-+-----------+-----------------------------------------------------------+
-| legendary | nat 1 wild magic. 25 a unicorn appears                    |
-| action    |                                                           |
-|           | de leumas duet weder beautifully uswiiche, majestic       |
-+-----------+-----------------------------------------------------------+
-| Leumas    | freedom of movement uf sich selber, 30ft om ehn ome       |
-+-----------+-----------------------------------------------------------+
-| Elo       | Staff of POOOWAA, Hold Monster WIS SAVE! Legendary        |
-|           | Resistance                                                |
-|           |                                                           |
-|           | innate sorcery on                                         |
-+-----------+-----------------------------------------------------------+
-| Legendary | Slap Leumas 19 to hit doesn't hit. Leumas pure grace      |
-| action    | wiicht uus                                                |
-+-----------+-----------------------------------------------------------+
-| Lorilla   | Mass cure Wounds 35 heal, wild shape Hunter Shark         |
-+-----------+-----------------------------------------------------------+
-| legendary | slap Leumas 28 silvery barbs aber es esh 26               |
-| action    |                                                           |
-|           | finally 29 bludgeoing, 6 acid, insgesamt 35.              |
-|           | Concentration für slow is uuup                            |
-+-----------+-----------------------------------------------------------+
-| BB        | nat 1 bonus action, mote                                  |
-|           |                                                           |
-|           | Fireball 36 damage thunder                                |
-+-----------+-----------------------------------------------------------+
-| Barzan    | Spiritual Weapon 21 to hit, hits!                         |
-+===========+===========================================================+
+|   |   |
+|---|---|
+| Kraken | no tuurn no recharge for tidal wave lovely |
+| legendary action | nat 1 wild magic. 25 a unicorn appears<br>de leumas duet weder beautifully uswiiche, majestic |
+| Leumas | freedom of movement uf sich selber, 30ft om ehn ome |
+| Elo | Staff of POOOWAA, Hold Monster WIS SAVE! Legendary Resistance<br>innate sorcery on |
+| Legendary action | Slap Leumas 19 to hit doesn't hit. Leumas pure grace wiicht uus |
+| Lorilla | Mass cure Wounds 35 heal, wild shape Hunter Shark |
+| legendary action | slap Leumas 28 silvery barbs aber es esh 26<br>finally 29 bludgeoing, 6 acid, insgesamt 35. Concentration für slow is uuup |
+| BB | nat 1 bonus action, mote<br>Fireball 36 damage thunder |
+| Barzan | Spiritual Weapon 21 to hit, hits! |
 
 Runde 4
 
-+-----------+-----------------------------------------------------------+
-| Kraken    | Tidal Wave leumas saves!! 27 full damage, 14 half damage  |
-|           | und de Leumas tätscht id wand 27 vom leumas dex safe. 39  |
-|           | für d lorilla, 20 före Leumas                             |
-|           |                                                           |
-|           | Slow safe nat 1 looses his next turnnnnnnnn               |
-+-----------+-----------------------------------------------------------+
-| Leumas    | Tashas other wordly guise. Lower Planes immune to fire    |
-|           | and poison, flyyying +2 AC all attacks are magical,       |
-|           | double attack                                             |
-|           |                                                           |
-|           | Nadelschuss wo zersplitteret                              |
-|           |                                                           |
-|           | 1d10 knarre 2d8 needle und 1d6 lightning total 21 schade! |
-|           |                                                           |
-|           | another shot 4d8 für d explosion munition total 36        |
-|           | Schade!                                                   |
-+-----------+-----------------------------------------------------------+
-| legendary | Slap Leumas hits, 22 bludgeoning damage 17 acid total 39  |
-| action    |                                                           |
-|           | Con save 20                                               |
-+-----------+-----------------------------------------------------------+
-| Elo       | spray of cards, cone dex save fails it is blinded 5d10 32 |
-|           | Schade insgesamt!                                         |
-+-----------+-----------------------------------------------------------+
-| legendary | wildly thrashes, verseucht de Leumas s hitte. 29 to hit   |
-| action    |                                                           |
-|           | 16 schade bludegoning und 10acid                          |
-+-----------+-----------------------------------------------------------+
-| Lorilla   | Wild resurgence shark again bonus action. Moon Beaaaam!   |
-|           |                                                           |
-|           | Con save 18 he fails.                                     |
-+-----------+-----------------------------------------------------------+
-| legendary | wildly thrashes ufe Barzan disadvantage 19 doesn't hit    |
-| action    |                                                           |
-+-----------+-----------------------------------------------------------+
-| BB        | con save för Disintegration, legendary resistance         |
-+-----------+-----------------------------------------------------------+
-| Barzan    | heals Leumas 31 punkte radiant mit de Pfanne,             |
-+-----------+-----------------------------------------------------------+
-| legendary | thrashing hittet de barzan ned.                           |
-| action    |                                                           |
-|           | BBs hands are knives..                                    |
-+===========+===========================================================+
+|   |   |
+|---|---|
+| Kraken | Tidal Wave leumas saves!! 27 full damage, 14 half damage und de Leumas tätscht id wand 27 vom leumas dex safe. 39 für d lorilla, 20 före Leumas<br>Slow safe nat 1 looses his next turnnnnnnnn |
+| Leumas | Tashas other wordly guise. Lower Planes immune to fire and poison, flyyying +2 AC all attacks are magical, double attack<br>Nadelschuss wo zersplitteret<br>1d10 knarre 2d8 needle und 1d6 lightning total 21 schade!<br>another shot 4d8 für d explosion munition total 36 Schade! |
+| legendary action | Slap Leumas hits, 22 bludgeoning damage 17 acid total 39<br>Con save 20 |
+| Elo | spray of cards, cone dex save fails it is blinded 5d10 32 Schade insgesamt! |
+| legendary action | wildly thrashes, verseucht de Leumas s hitte. 29 to hit<br>16 schade bludegoning und 10acid |
+| Lorilla | Wild resurgence shark again bonus action. Moon Beaaaam!<br>Con save 18 he fails. |
+| legendary action | wildly thrashes ufe Barzan disadvantage 19 doesn't hit |
+| BB | con save för Disintegration, legendary resistance |
+| Barzan | heals Leumas 31 punkte radiant mit de Pfanne, |
+| legendary action | thrashing hittet de barzan ned.<br>BBs hands are knives.. |
 
 Runde 5
 
-+----------+-----------------------------------------------------------+
-| Kraken   | three slaps disadvantage                                  |
-|          |                                                           |
-|          | lorilla 24+15=39 con 19 moonbeam is gone                  |
-|          |                                                           |
-|          | barzan doesnt hit                                         |
-|          |                                                           |
-|          | barzan does hit 14+10= 24 Bratpfanne esh no do            |
-|          |                                                           |
-|          | movement                                                  |
-|          |                                                           |
-|          | blinded saving throw still blinded                        |
-|          |                                                           |
-|          | opportunity attacks                                       |
-|          |                                                           |
-|          | leumas dissonant whisper                                  |
-|          |                                                           |
-|          | Lorilla bisst nat 20! 26 Schade!                          |
-|          |                                                           |
-|          | Barzan hits 30 radiant!                                   |
-|          |                                                           |
-|          | Barzan how do you want to do this!                        |
-+==========+===========================================================+
+|   |   |
+|---|---|
+| Kraken | three slaps disadvantage<br>lorilla 24+15=39 con 19 moonbeam is gone<br>barzan doesnt hit<br>barzan does hit 14+10= 24 Bratpfanne esh no do<br>movement<br>blinded saving throw still blinded<br>opportunity attacks<br>leumas dissonant whisper<br>Lorilla bisst nat 20! 26 Schade!<br>Barzan hits 30 radiant!<br>Barzan how do you want to do this! |
 
 ## Out of Fight!
 
@@ -466,9 +326,6 @@ The party returns to Aarum after the nine hells, revisits impressions of Abraxas
 
 ### Locations
 - Aarum
-
-### Factions
-- None explicitly named in the source block.
 
 ### Items / Titles / Events
 - golden apples

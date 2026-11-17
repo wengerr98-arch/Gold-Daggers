@@ -9,11 +9,16 @@ publish: true
 
 # The Silent Dance Tap Room
 
+<div class="gd-seen"><p><span>Visited in 5 sessions</span> <span>first <a href="../sessions/session-064---nightmare-overseer">Session 64 · Nightmare Overseer</a></span> <span>last <a href="../sessions/session-076---the-death-of-the-king-and-the-rise-of-new-one!">Session 76 · The Death of the King and the Rise of New One!</a></span></p><details><summary>All 5 sessions</summary><ul><li><a href="../sessions/session-064---nightmare-overseer">Session 64</a> <span>Nightmare Overseer</span></li><li><a href="../sessions/session-073---protokoll-bb,-leumas">Session 73</a> <span>Protokoll: BB, Leumas</span></li><li><a href="../sessions/session-074---protokoll-bb,-leumas">Session 74</a> <span>Protokoll: BB, Leumas</span></li><li><a href="../sessions/session-075">Session 75</a></li><li><a href="../sessions/session-076---the-death-of-the-king-and-the-rise-of-new-one!">Session 76</a> <span>The Death of the King and the Rise of New One!</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=the-silent-dance-tap-room" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Silent Dance Tap Room is a mobile, dream-manifested tavern that materializes as a physical house when a glass taken from within it is filled with beer. Appearing as an uncanny, empty tavern resembling Skjall's architecture, it houses historical artifacts from the forgotten war and is presided over by "Lottie," a barkeeper-like statue. The venue functions as both a location of strategic importance to factions seeking historical knowledge and a nexus point for otherworldly entities and dangers.
 
 ## Character
-The tavern manifests as an impossible structure: rooms shift visibility, doors lead unexpectedly between floors, and the exterior appears to be held aloft by many unseen hands and arms beneath it. The atmosphere is ethereal and unsettling—windows and sight lines change without explanation, and visibility between party members is unstable. The space smells of aged wood and stone, with a faint dreamlike quality that suggests the location exists partially outside normal reality. (Derived from Session 064 sidecar descriptions and session logs.)
+The tavern manifests as an impossible structure: rooms shift visibility, doors lead unexpectedly between floors, and the exterior appears to be held aloft by many unseen hands and arms beneath it. The atmosphere is ethereal and unsettling—windows and sight lines change without explanation, and visibility between party members is unstable. The space smells of aged wood and stone, with a faint dreamlike quality that suggests the location exists partially outside normal reality.
 
 ## Notable Areas
 - Back room (behind the bar / trestle area) — where the [[Logbook (Silent Dance Tap Room)]] was originally stored

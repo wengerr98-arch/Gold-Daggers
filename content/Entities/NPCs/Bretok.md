@@ -7,6 +7,11 @@ publish: true
 
 # Bretok
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-059---delusions-of-a-savior">Session 59 · Delusions of a savior</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=bretok" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Bretok is a BugBear merchant who operates a barter stall in the BugBear Viertel (BugBear Quarter) of [[Skjall]]. He is approximately 170 cm tall, wears glasses, and works behind a counter. He became positively disposed toward the party after a successful trade interaction with them.

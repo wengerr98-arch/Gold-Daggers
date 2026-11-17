@@ -78,6 +78,61 @@ article table {
   a.internal { background: none; padding: 0; }
 }
 
+// ---------- "who was there" (scripts/build-appearances.mjs) ----------
+// small round portraits with the name beside them; no portrait = the initial, as on the timeline
+.gd-av {
+  width: 1.7rem; height: 1.7rem; flex: none; display: inline-block; margin: 0 !important;
+  border-radius: 50% !important; border: 1px solid var(--lightgray);
+  object-fit: cover; object-position: 50% 20%; background: var(--lightgray);
+  &.is-ph {
+    display: inline-flex; align-items: center; justify-content: center; background: transparent;
+    font-family: var(--headerFont); font-size: 0.9rem; line-height: 1; color: var(--gray);
+  }
+}
+article a.gd-chip {
+  display: inline-flex; align-items: center; gap: 0.4rem; min-width: 0; max-width: 100%;
+  padding: 0.1rem 0; background: none; color: var(--darkgray); font-size: 0.86rem; font-weight: 400; line-height: 1.2; text-decoration: none;
+  &:hover { color: var(--dark); .gd-av { border-color: var(--gray); } }
+  .gd-chip-name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .gd-chip-n { color: var(--gray); font-family: var(--codeFont); font-size: 0.68rem; }
+}
+.gd-who {
+  margin: -0.9rem 0 1.6rem; padding-bottom: 0.7rem; border-bottom: 1px solid var(--lightgray);
+  .gd-who-group { display: flex; align-items: flex-start; gap: 0.2rem 0.9rem; margin-top: 0.45rem; }
+  .gd-who-label {
+    flex: none; width: 5.6rem; color: var(--gray); font-family: var(--codeFont); font-size: 0.68rem;
+    letter-spacing: 0.06em; text-transform: uppercase; line-height: 1.9rem;
+  }
+  .gd-who-list { display: flex; flex-wrap: wrap; gap: 0.3rem 1rem; min-width: 0; }
+  > input { position: absolute; width: 1px; height: 1px; opacity: 0; pointer-events: none; }
+  .gd-who-more { display: none; }
+}
+
+// "Seen in" under a character's title and portrait (also "Visited in" for places, "Mentioned in" for items)
+.gd-seen {
+  margin: 0.2rem 0 1.4rem; padding: 0.45rem 0 0.5rem; border-top: 1px solid var(--lightgray); border-bottom: 1px solid var(--lightgray);
+  color: var(--gray); font-family: var(--codeFont); font-size: 0.72rem; letter-spacing: 0.04em; line-height: 1.9;
+  p { margin: 0; text-transform: uppercase; }
+  p span:not(:last-child)::after { content: "·"; margin: 0 0.35em 0 0.6em; color: var(--lightgray); filter: brightness(1.8); }
+  a.internal { background: none; padding: 0; font-weight: 400; color: var(--darkgray); text-decoration: underline; text-decoration-color: var(--lightgray); text-underline-offset: 3px; }
+  summary { cursor: pointer; width: fit-content; text-transform: uppercase; }
+  ul { margin: 0.4rem 0 0.2rem; padding: 0; list-style: none; columns: 14rem auto; column-gap: 1.6rem; }
+  li { break-inside: avoid; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  li span { font-family: var(--bodyFont); font-size: 0.82rem; letter-spacing: 0; font-style: italic; }
+}
+
+// arc pages (Arcs/): most-seen faces with their session counts, places, the sessions with their summary lines
+.session-meta a.gd-arc-link, .session-meta a.gd-arc-link.internal { background: none; padding: 0; color: inherit; font-weight: inherit; text-decoration: underline; text-decoration-color: var(--lightgray); text-underline-offset: 3px; &:hover { color: var(--dark); } }
+.gd-who.gd-who-arc { margin-top: 0; border-bottom: 0; padding-bottom: 0; }
+.gd-arc-places {
+  display: flex; flex-wrap: wrap; gap: 0.2rem 1.2rem;
+  a.internal { background: none; padding: 0; }
+}
+.gd-chip-n { color: var(--gray); font-family: var(--codeFont); font-size: 0.68rem; }
+.gd-arc-date { margin-left: 0.5rem; color: var(--gray); font-family: var(--codeFont); font-size: 0.7rem; letter-spacing: 0.04em; white-space: nowrap; }
+.gd-arc-sum { display: block; margin: 0.1rem 0 0.7rem; color: var(--gray); font-size: 0.9rem; line-height: 1.5; }
+.session-nav.gd-arc-nav p { flex-wrap: wrap; }
+
 // ---------- phones (players mostly read on phones); nothing here applies above 600px ----------
 @media (max-width: 600px) {
   // long German compounds and names must wrap instead of pushing the page sideways
@@ -109,4 +164,28 @@ article table {
   // session header and footer links
   .session-meta { font-size: 0.68rem; }
   .session-nav a.internal { padding: 0.4rem 0; display: inline-block; }
+
+  // who was there: label above the faces; long casts fold behind "+N"
+  .gd-who .gd-who-group { display: block; }
+  .gd-who .gd-who-label { display: block; width: auto; line-height: 1.6; margin-bottom: 0.2rem; }
+  .gd-who .gd-who-list { gap: 0.35rem 0.9rem; }
+  article a.gd-chip { padding: 0.25rem 0; }
+  .gd-who > input:not(:checked) ~ .gd-who-group .is-extra { display: none; }
+  .gd-who .gd-who-more {
+    display: inline-block; margin-top: 0.5rem; padding: 0.25rem 0.7rem; border: 1px solid var(--lightgray); border-radius: 999px;
+    color: var(--gray); font-family: var(--codeFont); font-size: 0.74rem; cursor: pointer;
+  }
+  .gd-who > input:focus-visible ~ .gd-who-more { outline: 1px solid var(--gray); }
+  .gd-who .gd-who-less, .gd-who > input:checked ~ .gd-who-more .gd-who-plus { display: none; }
+  .gd-who > input:checked ~ .gd-who-more .gd-who-less { display: inline; }
+
+  // seen in: each fact on its own line, taller rows for thumbs
+  .gd-seen p span { display: block; }
+  .gd-seen p span::after { content: none !important; }
+  .gd-seen summary { padding: 0.25rem 0; }
+  .gd-seen li { line-height: 2.2; white-space: normal; }
+
+  // arc pages
+  article ul:has(.gd-arc-sum) { padding-left: 1.1rem; }
+  .gd-arc-places { gap: 0.5rem 1.2rem; }
 }

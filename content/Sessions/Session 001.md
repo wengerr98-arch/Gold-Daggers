@@ -5,9 +5,12 @@ modified: '2026-06-22T18:03:34.000Z'
 publish: true
 ---
 
-# Session 001 - Title Unknown
+# Session 001
 
-<p class="session-meta"><span>Session 1</span> <span>Arc 1 · Das Schwarze Gänseblümchen</span> <span>played 2019-08-25</span></p>
+<p class="session-meta"><span>Session 1</span> <span><a class="gd-arc-link" href="../arcs/arc-1">Arc 1 · Das Schwarze Gänseblümchen</a></span> <span>played 2019-08-25</span> <span class="gd-tl-link" data-to="timeline" data-q="s=1" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -96,31 +99,6 @@ Nina und Sam im Keller eine Spinne getötet.
 
 \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_
 \_\_\_\_ \_\_\_ \_
-
-## Extracted Summary
-
-Draft import of Session 001 from the converted protocol source. The session preserves the original protocol text for review and later entity extraction.
-
-## Entities Mentioned
-
-### Player Characters
-- Not extracted in first pass.
-
-### NPCs
-- Not extracted in first pass.
-
-### Locations
-- Not extracted in first pass.
-
-### Factions
-- Not extracted in first pass.
-
-### Items / Titles / Events
-- Not extracted in first pass.
-
-## Open Threads
-
-- Review the source text for campaign-specific entity extraction and canon handling.
 
 <div class="session-nav">
 

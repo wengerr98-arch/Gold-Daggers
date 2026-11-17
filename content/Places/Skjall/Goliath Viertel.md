@@ -9,6 +9,11 @@ publish: true
 
 # Goliath Viertel
 
+<div class="gd-seen"><p><span>Visited in 3 sessions</span> <span>first <a href="../../sessions/session-069---objectives">Session 69 · Objectives</a></span> <span>last <a href="../../sessions/session-075">Session 75</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../../sessions/session-069---objectives">Session 69</a> <span>Objectives</span></li><li><a href="../../sessions/session-074---protokoll-bb,-leumas">Session 74</a> <span>Protokoll: BB, Leumas</span></li><li><a href="../../sessions/session-075">Session 75</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=goliath-viertel" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Goliath Viertel (Goliath Quarter) is one of four major racial districts within [[Skjall]], serving as the cultural and spiritual center of the city's Goliath population. As the keepers of funerary rites and necromantic labour, the Goliaths have shaped this district into a place of deep significance, blending sacred burial practices with arcane knowledge. The quarter houses [[Sanktum Elend]], an important archive and sanctuary, and is connected to the broader Skjall mystique through ancient obelisks and sealed crypts.
 

@@ -1,0 +1,18 @@
+# Links in the vault that point at a note name that doesn't exist, although the note they mean does.
+# Left: the name as it is written in the link. Right: the note it should open.
+# Used by the export when cleanup.link_aliases is on; the words on the page stay as they are written.
+# Only entries where the target is beyond doubt (same name with a place in brackets, a spelling variant,
+# a title in front of the name, a name the note itself calls a misspelling). The lasting fix is to correct
+# the link in the vault, or to add the left-hand name as an alias of the note; then the line here can go.
+Entertainment District: Entertainment District (Dalior)
+04_Places/Skjall/Obelisks: Obelisks
+Skjall (Stadt): Skjall
+Trev: Treth
+Divination Tower (Kasta): Divination Tower
+The Gold Daggers: Gold Daggers
+Kohlen-Höhle: Kohle-Höhle
+Silberner Vorhang: Der silberne Vorhang
+Chasta: Kasta
+Archivistin Teana: Teana
+Susra: Susra und Kafra
+Kafra: Susra und Kafra

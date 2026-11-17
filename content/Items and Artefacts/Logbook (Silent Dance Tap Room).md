@@ -9,6 +9,9 @@ publish: true
 
 # Logbook (Silent Dance Tap Room)
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-064---nightmare-overseer">Session 64 · Nightmare Overseer</a></span></p></div>
+
+
 ## Known Information
 
 A logbook recovered from behind the bar of [[The Silent Dance Tap Room]] during Session 064. Its entries are dated and marked with black stars at significant points; it references both the Agarath and [[Barzan Aeducan|Aeducan]] family names, tying it directly to the forgotten war lore thread. The item is known in-session as "Logbuch" and is considered structurally sensitive lore connecting to [[Barzan Aeducan]]'s family history.

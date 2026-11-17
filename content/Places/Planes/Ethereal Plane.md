@@ -8,6 +8,11 @@ publish: true
 
 # Ethereal Plane
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../../sessions/session-085---chain-links">Session 85 · chain-links</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=ethereal-plane" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Ethereal Plane is a plane of existence with a distinctly religious (rather than wizard-made) origin, known to the campaign world for approximately 100–200 years. Inhabited by unknown watchers who appear unfriendly to outsiders, it is accessible via spells like Etherealness and serves as a transit point for creatures like phase spiders between itself and the Material Plane.

@@ -7,6 +7,11 @@ publish: true
 
 # Tongath Schlucht
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-045">Session 45</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=tongath-schlucht" data-label="On the timeline →"></span></p>
+
 ## Overview
 Tongath Schlucht is a large chasm located to the right of [[Helykonos]], the Triton city. It serves as a geographic hazard and ongoing threat to the region, with rumors of monsters that periodically emerge from its depths. The chasm represents a significant environmental danger and potential plot element in the Helikonos arc.
 

@@ -7,6 +7,11 @@ publish: true
 
 # Azatoth
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-052---book-of-r'lyeh">Session 52 · Book of R'Lyeh</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=azatoth" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Azatoth is the "blind idiot god," a cosmic deity who rules the Waterplane and the deep seas. He is the power source behind the Waterplane's chain of rule: [[R'lyeh|R'Lhey]] was Azatoth's first warlock and conquered the seas through this pact, with [[Shen]] implied as a successor in that chain. Azatoth's lore was revealed through the [[Book of Azatoth]] recovered in Session 052, confirming him as a genuine campaign entity rather than a generic Lovecraftian reference.

@@ -6,6 +6,12 @@ publish: true
 image: '[[radvian.webp]]'
 gallery: true
 ---
+
+<div class="gd-seen"><p><span>Seen in 4 sessions</span> <span>first <a href="../../sessions/session-035">Session 35</a></span> <span>last <a href="../../sessions/session-101---1-0-auftakt">Session 101 · 1-0 Auftakt</a></span></p><details><summary>All 4 sessions</summary><ul><li><a href="../../sessions/session-035">Session 35</a></li><li><a href="../../sessions/session-036">Session 36</a></li><li><a href="../../sessions/session-037">Session 37</a></li><li><a href="../../sessions/session-101---1-0-auftakt">Session 101</a> <span>1-0 Auftakt</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=radvian" data-label="Follow on the timeline →"></span></p>
+
 ![[radvian.webp|260]]
 
 

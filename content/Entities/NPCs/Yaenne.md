@@ -9,6 +9,11 @@ publish: true
 
 # Yaenne
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-071---protokoll-bb,-leumas">Session 71 · Protokoll: BB, Leumas</a></span> <span>last <a href="../../sessions/session-074---protokoll-bb,-leumas">Session 74 · Protokoll: BB, Leumas</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=yaenne" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Yaenne is [[Yorni]]'s sister and an active threat to the party. She was named by Yorni as his intended replacement agent for the current mission, and the party was explicitly warned that she must not find them first — implying she is dangerous and actively searching for them. She has been confirmed as hostile: in Session 073, she planted a poisoned pink-wrapped cake in the sewers to trick [[Snix]], who failed a Con save and gained a compulsion/obsession trail. She is also connected to a book that [[Dr. Mason]] is actively seeking.

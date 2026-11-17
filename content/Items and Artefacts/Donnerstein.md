@@ -9,6 +9,9 @@ publish: true
 
 # Donnerstein
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-012">Session 12</a></span></p></div>
+
+
 ## Known Information
 
 The Donnerstein (German: *thunder stone*) is a named campaign item brought by [[Koda]] to a forge in [[Dalior]] for smithing work. The smith ([[Edraff]] / [[Natok]]) indicated that additional material is required before work on the item can proceed. Its ultimate form — weapon, armour component, or otherwise — has not yet been revealed.

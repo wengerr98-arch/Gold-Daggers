@@ -7,6 +7,11 @@ publish: true
 
 # Windnoise
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-091">Session 91</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=windnoise" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Windnoise is an Air Genasi NPC associated with the [[Grosser Hirte]], the nature deity, and appears in the Hirt's forest domain. She is seeking her heart/flower, which is currently held by [[Yum Ka'ax]], a fey patron — an open thread from earlier sessions. Barzan recognizes Windnoise from a prior vision or POV encounter, suggesting an ongoing connection or shared history between her and the party.

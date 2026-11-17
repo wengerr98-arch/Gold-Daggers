@@ -5,9 +5,12 @@ modified: '2026-06-01T15:14:20.000Z'
 publish: true
 ---
 
-# Session 021 - Title Unknown
+# Session 021
 
-<p class="session-meta"><span>Session 21</span> <span>Arc 2 · Die Stadt der Messer</span> <span>played 2021-01-03</span></p>
+<p class="session-meta"><span>Session 21</span> <span><a class="gd-arc-link" href="../arcs/arc-2">Arc 2 · Die Stadt der Messer</a></span> <span>played 2021-01-03</span> <span class="gd-tl-link" data-to="timeline" data-q="s=21" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/herviar"><img class="gd-av" src="../07_protocol-sources/old-image-repository/herviar.webp" alt="" loading="lazy"><span class="gd-chip-name">Herviar</span></a><a class="gd-chip" href="../entities/npcs/gladis-gladigator"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Gladis Gladigator</span></a><a class="gd-chip" href="../entities/npcs/murtada"><img class="gd-av" src="../07_protocol-sources/old-image-repository/murtada.webp" alt="" loading="lazy"><span class="gd-chip-name">Murtada</span></a><a class="gd-chip" href="../entities/npcs/silk"><img class="gd-av" src="../07_protocol-sources/old-image-repository/silk.webp" alt="" loading="lazy"><span class="gd-chip-name">Silk</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -77,31 +80,6 @@ publish: true
 - Wir erscheinen in der Mitte eines Weges in der Wildnis. Zwei Hydras stehen links und rechts von uns.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## Extracted Summary
-
-Draft import of Session 021 from the converted protocol source. The session preserves the original protocol text for review and later entity extraction.
-
-## Entities Mentioned
-
-### Player Characters
-- Not extracted in first pass.
-
-### NPCs
-- Not extracted in first pass.
-
-### Locations
-- Not extracted in first pass.
-
-### Factions
-- Not extracted in first pass.
-
-### Items / Titles / Events
-- Not extracted in first pass.
-
-## Open Threads
-
-- Review the source text for campaign-specific entity extraction and canon handling.
 
 <div class="session-nav">
 

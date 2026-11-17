@@ -11,6 +11,11 @@ gallery: true
 
 # Silk
 
+<div class="gd-seen"><p><span>Seen in 26 sessions</span> <span>first <a href="../../sessions/session-006">Session 6</a></span> <span>last <a href="../../sessions/session-104">Session 104</a></span></p><details><summary>All 26 sessions</summary><ul><li><a href="../../sessions/session-006">Session 6</a></li><li><a href="../../sessions/session-007">Session 7</a></li><li><a href="../../sessions/session-012">Session 12</a></li><li><a href="../../sessions/session-013">Session 13</a></li><li><a href="../../sessions/session-014">Session 14</a></li><li><a href="../../sessions/session-015">Session 15</a></li><li><a href="../../sessions/session-017">Session 17</a></li><li><a href="../../sessions/session-018">Session 18</a></li><li><a href="../../sessions/session-019">Session 19</a></li><li><a href="../../sessions/session-020">Session 20</a></li><li><a href="../../sessions/session-021">Session 21</a></li><li><a href="../../sessions/session-022">Session 22</a></li><li><a href="../../sessions/session-023">Session 23</a></li><li><a href="../../sessions/session-024">Session 24</a></li><li><a href="../../sessions/session-025">Session 25</a></li><li><a href="../../sessions/session-034">Session 34</a></li><li><a href="../../sessions/session-036">Session 36</a></li><li><a href="../../sessions/session-040---deals-like-daggers">Session 40</a> <span>Deals like Daggers</span></li><li><a href="../../sessions/session-044---all-about-different-kind-of-souls">Session 44</a> <span>All about different kind of souls</span></li><li><a href="../../sessions/session-047">Session 47</a></li><li><a href="../../sessions/session-049---crime-against-the-currency-(the-heist)">Session 49</a> <span>Crime against the currency (The Heist)</span></li><li><a href="../../sessions/session-056---teen-robin,-felix-shenanigns">Session 56</a> <span>Teen Robin, Felix Shenanigns</span></li><li><a href="../../sessions/session-068---breach">Session 68</a> <span>Breach</span></li><li><a href="../../sessions/session-077---results">Session 77</a> <span>Results</span></li><li><a href="../../sessions/session-090">Session 90</a></li><li><a href="../../sessions/session-104">Session 104</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=silk" data-label="Follow on the timeline →"></span></p>
+
 ![[silk.webp|260]]
 
 ## Known Information
@@ -40,9 +45,9 @@ Silk (full name: Smooth Silk) is a Tabaxi NPC who was formerly captured and brou
 - Session 049: Central role in the Zentralbank heist — briefed Barzan on the bank layout, helped plan the operation, handled warded movement and ritual magic inside the vault. Retained Pira Devei's body after the soul-switch sequence, with stated intent to use it later.
 - Session 056: Explains that the district can no longer freely raid the city; trade network and supplies are under pressure from the ongoing war. BB gives Silk several colors; Silk recommends contacts for sourcing paint. Working on escape planning alongside the district community.
 - Session 065: Appears in Eloryn's dream-state vision at the tea-party sequence alongside Blobberd (Blobbert) and Mili (Milly). Whether this reflects a real connection, shared dream-space, or symbolic projection is unresolved.
-- Session 068: Referenced in the sidecar as a faction/anchor for the Gold Daggers' base of operations in the Entertainment District while the party operates in Skjall.
-- Session 077: Named in the sidecar; referenced alongside Mili (Milly) in the context of Demogorgon-related lore being discussed.
-- Session 090: Referenced in sidecar in the context of Eloryn and Leumas being found lifeless at the Entertainment District stage and subsequently recovered — Silk's base remains an implicit background anchor.
+- Session 068: Referenced as a faction/anchor for the Gold Daggers' base of operations in the Entertainment District while the party operates in Skjall.
+- Session 077: Referenced alongside Mili (Milly) in the context of Demogorgon-related lore being discussed.
+- Session 090: Referenced in the context of Eloryn and Leumas being found lifeless at the Entertainment District stage and subsequently recovered — Silk's base remains an implicit background anchor.
 - Session 104: Serving as interim leader of Aarum while Torr is absent.
 
 ## Known Facts

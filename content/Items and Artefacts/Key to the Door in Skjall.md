@@ -10,6 +10,9 @@ publish: true
 
 # Key to the Door in Skjall
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-049---crime-against-the-currency-(the-heist)">Session 49 · Crime against the currency (The Heist)</a></span></p></div>
+
+
 ## Known Information
 
 An elongated obsidian stone looted from the Maradak Dreamkiller vault room in the [[Zentralbank]] during the Session 049 heist. It is described as looking "like a Key to a Gate" and its purpose is to unlock the northern gate/door in [[Skjall]] — a passage connected to the [[Wild Hunt]]. The item is now in party possession and is considered campaign-critical.

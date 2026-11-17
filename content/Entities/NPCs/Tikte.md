@@ -7,6 +7,11 @@ publish: true
 
 # Tikte
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-026">Session 26</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=tikte" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Tikte is a named kobold NPC from [[Kobolddorf]] who serves as a guide within the settlement. She led the party to the locked sleeping quarters and restricted areas on two separate occasions, suggesting she holds some trusted or official position within the kobold community.

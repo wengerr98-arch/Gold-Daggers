@@ -10,6 +10,9 @@ publish: true
 
 # Buch mit Sklavenhandel-Infos
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-025">Session 25</a></span></p></div>
+
+
 ## Known Information
 
 A book containing the names and origins of enslaved people from Nolia, Ophris, and Amarre. Koda received this item in Session 025 and began reading it, recognising place names connected to her own origins. It is a story-critical item directly tied to Koda's backstory and her character-driven goals in Act 2.

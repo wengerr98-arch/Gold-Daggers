@@ -7,6 +7,11 @@ publish: true
 
 # Genasi Market
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../../sessions/session-080---the-currency-of-class">Session 80 · The currency of class</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=genasi-market" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Genasi Market is a Bedouin-style tent market that sprawls at the city limits of [[Kasta]], serving as a trading hub for merchants, travelers, and craftspeople. It is particularly frequented by Genasi who maintain strong cultural and commercial ties to the desert, and it functions as both a market and a social gathering place. The market connects the ordered city of Kasta with the open desert beyond, offering goods and knowledge not always readily available within the city walls.
 

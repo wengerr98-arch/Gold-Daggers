@@ -10,6 +10,9 @@ publish: true
 
 # Kaltstahl
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-093---lured">Session 93 · Lured</a></span></p></div>
+
+
 ## Known Information
 
 Kaltstahl (Cold Steel) is a crafting material used in the construction of magical items and weapons, tracked as a campaign-specific substance rather than a generic material. It is priced at 2,000–3,000 gold per kilo and is used for crafting planar weapons and artefacts. It was previously used for Sarmulin's religious emblem.

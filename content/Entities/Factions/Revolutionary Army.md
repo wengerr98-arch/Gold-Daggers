@@ -23,4 +23,4 @@ The Revolutionary Army is a faction operating in the region near the gorge/equat
 - Operate in the gorge/equator arc region
 - Known contact: [[Utrin]]
 - Maintain a stronghold visited by the party in Session 053
-- "The Principle" may be a leadership title within this faction (DM to confirm)
+- "The Principle" may be a leadership title within this faction

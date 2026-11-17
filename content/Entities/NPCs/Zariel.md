@@ -9,6 +9,11 @@ publish: true
 
 # Zariel
 
+<div class="gd-seen"><p><span>Seen in 5 sessions</span> <span>first <a href="../../sessions/session-097---der-mit-der-waage">Session 97 · Der mit der Waage</a></span> <span>last <a href="../../sessions/session-105">Session 105</a></span></p><details><summary>All 5 sessions</summary><ul><li><a href="../../sessions/session-097---der-mit-der-waage">Session 97</a> <span>Der mit der Waage</span></li><li><a href="../../sessions/session-100---illumination">Session 100</a> <span>Illumination</span></li><li><a href="../../sessions/session-103">Session 103</a></li><li><a href="../../sessions/session-104">Session 104</a></li><li><a href="../../sessions/session-105">Session 105</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=zariel" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Zariel (alias Zaria) is a figure connected to portal-closure operations and the infernal command structure. In Session 100 the party identified an open thread involving Zariel and portals; in Session 101 a military seal carried by [[Ken]] was linked to Zariel, placing this entity within the broader Stygia ball political arc. Whether this is the standard D&D archdevil of [[Avernus]] or a campaign-specific entity remains unconfirmed.

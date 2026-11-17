@@ -7,6 +7,11 @@ publish: true
 
 # Mushroom Realm (Seelenschredder)
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../../sessions/session-076---the-death-of-the-king-and-the-rise-of-new-one!">Session 76 · The Death of the King and the Rise of New One!</a></span> <span>last <a href="../../sessions/session-077---results">Session 77 · Results</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=mushroom-realm-(seelenschredder)" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Mushroom Realm is a strange inner dimension or sub-space accessible from within [[The Monument (Seelenschredder)]] in [[Skjall]]. Characterized by the presence of massive mushrooms and otherworldly flora, it functions as a transitional realm where souls—those captured by the Wild Hunt—exist as floating spores. It is home to [[Thautok]] (alias Eradrin), an ancient former ruler of Skjall. "Mushroom Realm" is a working title; the canonical name is pending DM confirmation.
@@ -31,7 +36,6 @@ None confirmed.
 - The floor appears to extend infinitely
 - The air contains spores—souls captured by the Wild Hunt, held in this realm
 - [[Thautok]] (alias Eradrin) inhabits or appears within this space
-- Referenced by old vault image `Mushrooms inside the Monument.jpg`
 - "Mushroom Realm" is a working title — canonical name unconfirmed
 - Information about the Wild Hunt and the Wall was shared with BB during Session 075
 - A corrupted opponent was encountered and defeated in this realm during Session 076

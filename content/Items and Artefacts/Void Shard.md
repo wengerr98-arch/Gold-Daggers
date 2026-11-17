@@ -8,7 +8,10 @@ publish: true
 
 # Void Shard
 
-> ⚠️ Lore-significant artifact. [[Enara]] was found trapped inside. Do not canonize identity of Enara without DM confirmation.
+<div class="gd-seen"><p><span>Mentioned in 2 sessions</span> <span>first <a href="../sessions/session-104">Session 104</a></span> <span>last <a href="../sessions/session-105">Session 105</a></span></p></div>
+
+
+> [[Enara]] was found trapped inside.
 
 ## Known Information
 

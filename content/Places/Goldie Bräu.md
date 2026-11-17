@@ -12,6 +12,11 @@ publish: true
 
 # Goldie Bräu
 
+<div class="gd-seen"><p><span>Visited in 3 sessions</span> <span>first <a href="../sessions/session-078---crossroads">Session 78 · Crossroads</a></span> <span>last <a href="../sessions/session-094---eine-frage-der-richtigkeit">Session 94 · Eine Frage der Richtigkeit</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../sessions/session-078---crossroads">Session 78</a> <span>Crossroads</span></li><li><a href="../sessions/session-093---lured">Session 93</a> <span>Lured</span></li><li><a href="../sessions/session-094---eine-frage-der-richtigkeit">Session 94</a> <span>Eine Frage der Richtigkeit</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=goldie-br%C3%A4u" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 A brewery in the western quarter (Westliches Viertel) of [[Aarum]] on [[Ophris]], formerly known as Volkam's Brauerei. The Gold Daggers seized it in Session 040 after eliminating Fellbrün Volkam and his construct partner, and have since maintained it as their primary operational base and commercial enterprise in the city. It produces beer, supplies the party, and serves as their Aarum headquarters.
@@ -30,8 +35,8 @@ The brewery occupies a run-down quarter that resembles the Torren-controlled are
 ## Key Figures
 
 - **[[Goldie]]** — Golem; brews beer here under contract with the Gold Daggers. Originally Volkam's construct, now the party's property.
-- **Kafra** — Brewery manager and operations lead. Formerly Volkam's employee; rehired and promoted by the party. Twin sister of Susra. Pay raised to 20 gold per week as of Session 078.
-- **Susra** — Kafra's identical twin sister; works as support staff and general assistant. Hired alongside Kafra; wages tracked with her sister.
+- **[[Susra und Kafra|Kafra]]** — Brewery manager and operations lead. Formerly Volkam's employee; rehired and promoted by the party. Twin sister of Susra. Pay raised to 20 gold per week as of Session 078.
+- **[[Susra und Kafra|Susra]]** — Kafra's identical twin sister; works as support staff and general assistant. Hired alongside Kafra; wages tracked with her sister.
 
 ## Known Facts
 

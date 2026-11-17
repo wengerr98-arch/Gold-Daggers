@@ -5,9 +5,12 @@ modified: '2026-06-01T15:14:20.000Z'
 publish: true
 ---
 
-# Session 022 - Title Unknown
+# Session 022
 
-<p class="session-meta"><span>Session 22</span> <span>Arc 2 · Die Stadt der Messer</span> <span>played 2021-01-09</span></p>
+<p class="session-meta"><span>Session 22</span> <span><a class="gd-arc-link" href="../arcs/arc-2">Arc 2 · Die Stadt der Messer</a></span> <span>played 2021-01-09</span> <span class="gd-tl-link" data-to="timeline" data-q="s=22" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-22" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/companions/sturm"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sturm</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/kebasch"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Kebasch</span></a><a class="gd-chip" href="../entities/npcs/mogak"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Mogak</span></a><a class="gd-chip" href="../entities/npcs/special"><img class="gd-av" src="../07_protocol-sources/old-image-repository/special.webp" alt="" loading="lazy"><span class="gd-chip-name">Special</span></a><a class="gd-chip" href="../entities/npcs/das-letzte-opfer"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Das letzte Opfer</span></a><a class="gd-chip" href="../entities/npcs/fritora"><span class="gd-av is-ph" aria-hidden="true">F</span><span class="gd-chip-name">Fritora</span></a><a class="gd-chip" href="../entities/npcs/gogok"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Gogok</span></a><a class="gd-chip" href="../entities/npcs/odem"><span class="gd-av is-ph" aria-hidden="true">O</span><span class="gd-chip-name">Odem</span></a><a class="gd-chip" href="../entities/npcs/rom"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Rom</span></a><a class="gd-chip is-extra" href="../entities/npcs/silk"><img class="gd-av" src="../07_protocol-sources/old-image-repository/silk.webp" alt="" loading="lazy"><span class="gd-chip-name">Silk</span></a><a class="gd-chip is-extra" href="../entities/npcs/treth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/treth.webp" alt="" loading="lazy"><span class="gd-chip-name">Treth</span></a></span></div><label class="gd-who-more" for="gd-who-22"><span class="gd-who-plus">+2</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
 
@@ -142,31 +145,6 @@ Silk gibt uns auf einem Kroki ein paar Standpunkte mit Leitern im Entertainment 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_
-
-## Extracted Summary
-
-Draft import of Session 022 from the converted protocol source. The session preserves the original protocol text for review and later entity extraction.
-
-## Entities Mentioned
-
-### Player Characters
-- Not extracted in first pass.
-
-### NPCs
-- Not extracted in first pass.
-
-### Locations
-- Not extracted in first pass.
-
-### Factions
-- Not extracted in first pass.
-
-### Items / Titles / Events
-- Not extracted in first pass.
-
-## Open Threads
-
-- Review the source text for campaign-specific entity extraction and canon handling.
 
 <div class="session-nav">
 

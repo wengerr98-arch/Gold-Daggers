@@ -12,6 +12,11 @@ publish: true
 
 # Rakshasa Tempel
 
+<div class="gd-seen"><p><span>Visited in 11 sessions</span> <span>first <a href="../sessions/session-006">Session 6</a></span> <span>last <a href="../sessions/session-089---nine-futures">Session 89 · nine futures</a></span></p><details><summary>All 11 sessions</summary><ul><li><a href="../sessions/session-006">Session 6</a></li><li><a href="../sessions/session-007">Session 7</a></li><li><a href="../sessions/session-014">Session 14</a></li><li><a href="../sessions/session-015">Session 15</a></li><li><a href="../sessions/session-017">Session 17</a></li><li><a href="../sessions/session-018">Session 18</a></li><li><a href="../sessions/session-020">Session 20</a></li><li><a href="../sessions/session-022">Session 22</a></li><li><a href="../sessions/session-023">Session 23</a></li><li><a href="../sessions/session-024">Session 24</a></li><li><a href="../sessions/session-089---nine-futures">Session 89</a> <span>nine futures</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=rakshasa-tempel" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Rakshasa Tempel is the Gold Daggers' primary bar and base of operations within the [[Entertainment District (Dalior)]]. Named for the near-immortal Rakshasa that serves as its supernatural protector, the temple functions as a gathering hub for adventurers, merchants, and allies. Its protection permits magical use on the premises without triggering the city's alarm systems—a rare privilege in [[Dalior]].
@@ -22,7 +27,7 @@ A vibrant, welcoming bar atmosphere filled with the ambient sounds of conversati
 
 ## Notable Areas
 
-- Cellar (stub needed) — underground chamber, formerly infested with large black humanoid rat-furred creatures (cleared by the Gold Daggers in Session 006 for 35 gold); later served as overnight shelter during the party's rescue missions
+- Cellar — underground chamber, formerly infested with large black humanoid rat-furred creatures (cleared by the Gold Daggers in Session 006 for 35 gold); later served as overnight shelter during the party's rescue missions
 - Teleportation circle — present on the premises; used to transport [[Shelandria Van Meehren]] (Shelly) to the city in Session 014
 
 ## Key Figures

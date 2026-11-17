@@ -11,6 +11,11 @@ publish: true
 
 # Tolteca
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-054---under-the-water,-just-killed-watergod">Session 54 · Under the water, just killed Watergod</a></span> <span>last <a href="../../sessions/session-057---catching-up">Session 57 · Catching Up</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=tolteca" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Tolteca (also known as "Jugo Toteka" and "Waldbrand-Jugo" / Wildfire-Jugo) is one of [[Azan Aeducan]]'s former adventuring companions, a group nicknamed the "Katastrophenen" after natural disasters. She is described as a "grosse Händlerin" — a major merchant figure — and is reportedly positioned at the northern border, making her a potential future contact for the party. A dedicated vault room in the [[Zentralbank]] bore the Tolteca name and contained heat-based magical gear and lore materials.

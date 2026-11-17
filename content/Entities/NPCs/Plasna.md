@@ -10,6 +10,11 @@ publish: true
 
 # Plasna
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-102">Session 102</a></span> <span>last <a href="../../sessions/session-103">Session 103</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=plasna" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Plasna is a semi-successful trader from Stigia who attended the Planar Ball. After the Gold Daggers outdrrank her in an impromptu drinking contest on the red carpet, a Gold Daggers Sigil appeared on her back — placing her under their contract. She then provided intelligence on other Ball attendees, including pointing out [[Odyss Trion]]'s movement toward [[Asmodeus]] and identifying [[Sani Ambulan]] in Asmodeus's entourage. She has nine people under her in her own network.

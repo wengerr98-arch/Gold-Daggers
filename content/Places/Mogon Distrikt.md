@@ -7,6 +7,11 @@ publish: true
 
 # Mogon Distrikt
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-006">Session 6</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=mogon-distrikt" data-label="On the timeline →"></span></p>
+
 ## Overview
 Mogon Distrikt is a distinct district within [[Dalior]], the major city of [[Nolia]]. It is geographically and administratively separate from the [[Entertainment District (Dalior)|Entertainment District]], though both serve as urban quarters. The district contains taverns and bars serving the local population, including establishments with underground cellars.
 
@@ -21,7 +26,7 @@ None confirmed.
 
 ## Known Facts
 - Located in [[Dalior]] (city of [[Nolia]]).
-- Distinct from the [[Entertainment District (Dalior)|Entertainment District]] (confirmed in sidecar notes).
+- Distinct from the [[Entertainment District (Dalior)|Entertainment District]].
 - Contains a bar with a rat-plague cellar connected to the [[Rakshasa Tempel]].
 
 ## First Appearance

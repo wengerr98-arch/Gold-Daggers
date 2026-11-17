@@ -7,6 +7,9 @@ publish: true
 
 # Book of Azatoth
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-052---book-of-r'lyeh">Session 52 · Book of R'Lyeh</a></span></p></div>
+
+
 ## Known Information
 
 A large 2-metre tome recovered from the sarcophagus of a giant crab creature at the bottom of the [[Mariannengraben-Spalt]] fissure near [[Helikonos]]. The book is a story-critical item containing cosmological lore about the Waterplane power structure, detailing the origins of [[Azatoth]]'s first warlock R'Lhey and the chain of rule leading to [[Shen]].

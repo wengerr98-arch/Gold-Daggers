@@ -21,4 +21,3 @@ Hylrus is an Archfey, one of three Archfeys connected to the party's Fey plane. 
 - Archfey; one of three Archfeys connected to the party's Fey plane
 - Associated with a traveling circus
 - Named by Barzan in conversation with Azan Aeducan at the Ophris Palace (Session 104)
-- Confidence: low — named only, no further detail known

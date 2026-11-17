@@ -9,6 +9,11 @@ gallery: true
 
 # Special
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-022">Session 22</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=special" data-label="Follow on the timeline →"></span></p>
+
 ![[Special.webp|260]]
 
 ## Known Information

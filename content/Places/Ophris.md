@@ -13,6 +13,11 @@ marker:
 
 # Ophris
 
+<div class="gd-seen"><p><span>Visited in 11 sessions</span> <span>first <a href="../sessions/session-028">Session 28</a></span> <span>last <a href="../sessions/session-105">Session 105</a></span></p><details><summary>All 11 sessions</summary><ul><li><a href="../sessions/session-028">Session 28</a></li><li><a href="../sessions/session-034">Session 34</a></li><li><a href="../sessions/session-035">Session 35</a></li><li><a href="../sessions/session-036">Session 36</a></li><li><a href="../sessions/session-037">Session 37</a></li><li><a href="../sessions/session-054---under-the-water,-just-killed-watergod">Session 54</a> <span>Under the water, just killed Watergod</span></li><li><a href="../sessions/session-058---first-day-in-the-yard">Session 58</a> <span>First day in the yard</span></li><li><a href="../sessions/session-078---crossroads">Session 78</a> <span>Crossroads</span></li><li><a href="../sessions/session-079---behemoth,-leviathan-and-the-golem">Session 79</a> <span>Behemoth, Leviathan and the Golem</span></li><li><a href="../sessions/session-104">Session 104</a></li><li><a href="../sessions/session-105">Session 105</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=ophris" data-label="On the timeline →"></span></p>
+
 ## Overview
 Ophris is an independent city-state governed by King [[Azan Aeducan]], with a powerful military presence and fine dwarf-run facilities. It maintains diplomatic standing as an important player in planar politics and resistance efforts against [[Mason]]. The city granted the Gold Daggers formal authority to speak in its name and announced a formal alliance with [[Skjall]].
 

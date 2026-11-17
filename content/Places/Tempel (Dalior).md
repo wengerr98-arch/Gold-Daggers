@@ -10,6 +10,11 @@ publish: true
 
 # Tempel (Dalior)
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../sessions/session-025">Session 25</a></span> <span>last <a href="../sessions/session-049---crime-against-the-currency-(the-heist)">Session 49 · Crime against the currency (The Heist)</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=tempel-(dalior)" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Tempel (also known as the Rakshasa Tempel) is the Gold Daggers' primary bar and base of operations within the [[Entertainment District (Dalior)]]. Named for the near-immortal Rakshasa that serves as its supernatural protector, the temple functions as a gathering hub for adventurers, merchants, and allies. Its protection permits magical use on the premises without triggering the city's alarm systems—a rare privilege in [[Dalior]].

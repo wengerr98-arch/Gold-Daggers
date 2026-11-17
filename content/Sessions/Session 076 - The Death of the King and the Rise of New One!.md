@@ -7,11 +7,13 @@ publish: true
 
 # Session 076 - The Death of the King and the Rise of New One!
 
-<p class="session-meta"><span>Session 76</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-10-18</span></p>
+<p class="session-meta"><span>Session 76</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-10-18</span> <span class="gd-tl-link" data-to="timeline" data-q="s=76" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/companions/loid"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Loid</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/das-letzte-opfer"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Das letzte Opfer</span></a><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/npcs/tazar"><img class="gd-av" src="../07_protocol-sources/old-image-repository/tazar.webp" alt="" loading="lazy"><span class="gd-chip-name">Tazar</span></a><a class="gd-chip" href="../entities/npcs/thautok"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Thautok</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 076
 <!-- source_heading: # DND WEEK Session 76 - Freitag, 18. Oktober 2024 -->
 <!-- session_date: 2024-10-18 -->
 
@@ -73,14 +75,10 @@ Mer senke schnäll em schwarze goo! De Snix esh als erst dor d töre und lauft r
 
 Mer löse s R
 
-![](media/image6.jpg){width="7.480314960629921in" height="5.611111111111111in"}![](media/image31.jpg){width="7.480314960629921in" height="5.611111111111111in"}
-
 mer müend zo de andere Töre cho und de wörfel zeigt eus de wäg. Mer müend als 6 chöpfigi crew platz ha.
 
 Mer send dor alli kerbene gloffe wos ofem wörfel het und schaffes döre! De Leumas stoht be de Töre, met em schlössel e de hand, töre gooht
 uuuuf - amazing. en wält met pilz esch hende draa, it looks beautiful! (look at the pictures)
-
-![](media/image9.jpg){width="7.480314960629921in" height="5.611111111111111in"}
 
 Mer löse s Rätsel und gönd dor d Tööre ine! d'Wanda cha grad no anere attacke vom letschte opfer uuswiche.
 
@@ -142,9 +140,9 @@ Opfer teleportiert weg ufe, macht area necrotic damage und cold damage, goht en 
 
 Snix De Snix flügt ufe und stabby staab, er macht en poisom charge. 58pts Schade daaamn
 
-Elo 9 ELDRITCH BLASTS und 6 hitte!! 6d10 + 6d6 + 18 [78 POINTS DAMAGE + Shard 6 POINT =]{.mark}
+Elo 9 ELDRITCH BLASTS und 6 hitte!! 6d10 + 6d6 + 18 ==78 POINTS DAMAGE + Shard 6 POINT ===
 
-> [84 Points Damage]{.mark}
+> ==84 Points Damage==
 
 Barzan Heal of Wanda, 70 points restored, no blind, no deafend, no poison
 
@@ -164,13 +162,13 @@ Opfer hits Barzan 13pt schade + 40pts Schade (de Barzan keeps concentration) Nat
 
 Snix Snix goht hendenoche! Stabby Stab eine hitted, 37 pt schade met eim schwert!
 
-Elo 9 ELDRITCH BLASTS und 6 hitte, eine NAT 20!! 45pts Schade 23pts Schade [77 SCHADE]{.mark} total
+Elo 9 ELDRITCH BLASTS und 6 hitte, eine NAT 20!! 45pts Schade 23pts Schade ==77 SCHADE== total
 
-> met shard. [MACHINE GUN ELI]{.mark}
+> met shard. ==MACHINE GUN ELI==
 
 Barzan Heal 29pts
 
-[LEGENDARY ACTION OPFER hits Lorilla 12 pts piercing und 30 bludgeoning und con save vo de Lorilla bend luck und wildmagic shenanigans]{.mark}
+==LEGENDARY ACTION OPFER hits Lorilla 12 pts piercing und 30 bludgeoning und con save vo de Lorilla bend luck und wildmagic shenanigans==
 
 Barzan unsichtbar
 
@@ -208,7 +206,7 @@ Wanda mote - no hit :( so sorry! fireball dex 20 save, 29 - esch save!) schade: 
 
 > punkte schaden
 
-[Legendary Action unsichtbar but we don't know]{.mark}
+==Legendary Action unsichtbar but we don't know==
 
 **Runde 5**
 
@@ -224,9 +222,10 @@ Snix Snix werd weder zu snix nömme potted plant und reverse gravity hört uuf. 
 
 > 13 pt schade
 
-[Legendary Action dex save für elo, Wanda Leumas. Leumas esh down.]{.mark}
+==Legendary Action dex save für elo, Wanda Leumas. Leumas esh
+down.==
 
-Elo 9 ELDRRITCH BLASTS [MACHINE GUN ELI 5 blasts hit. 74 schade]{.mark}
+Elo 9 ELDRRITCH BLASTS ==MACHINE GUN ELI 5 blasts hit. 74 schade==
 
 Barzan Leumas Heal 80 und blindness etc goone.
 
@@ -254,7 +253,7 @@ Lorilla wither and bloom 6th level: con save 18, 5d6 halbiert. Schaden: 20 rolle
 
 Heal: 9 punkte heal of lorilla
 
-[Legendary Action emulating gaze 26 wisdom save de Barzan faild und 15 pts damage]{.mark}
+==Legendary Action emulating gaze 26 wisdom save de Barzan faild und 15 pts damage==
 
 Wanda nat one ufe mote und chaos bolt hitted aber
 

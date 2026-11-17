@@ -7,6 +7,11 @@ publish: true
 
 # Wilma
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-049---crime-against-the-currency-(the-heist)">Session 49 · Crime against the currency (The Heist)</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=wilma" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Wilma is a rogue and lockpicker introduced by [[Cheers]] as "D'Wilma" for the Zentralbank heist in Session 049. Her defining skill is her ability to unlock any lock, and she proved essential in solving the vault's star-constellation style mechanical puzzle. She was part of what the party internally nicknamed the "Scoobie Doo crew."

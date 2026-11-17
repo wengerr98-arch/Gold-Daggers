@@ -7,13 +7,18 @@ publish: true
 
 # Sentinel
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-079---behemoth,-leviathan-and-the-golem">Session 79 · Behemoth, Leviathan and the Golem</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=sentinel" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 The Sentinel is a mechanical construct encountered in the desert ruins outside Kasta, notable for its silver and gold elements. It was destroyed in combat in Session 079, after which [[Snix]] extracted a glowing blue handball-sized ball of liquid from inside it — identified by [[BB]] as "pure essence of life. It is no school of magic we know." This energy core became known as [[Mana]], suggesting the Sentinel was powered by life force. It is likely a relic of the industrial magic era, connected to the Forgotten War and the technology described in *[[Die Wege zur Industriellen Nutzung von Magie]]*.
 
 ## Session Appearances
 
-- Session 079: Encountered and destroyed in the desert ruins east of Kasta; launched a grenade in combat (Round 4); mana core extracted by [[Snix]] after destruction.
+- [[Session 079 - Behemoth, Leviathan and the Golem|Session 079]]: Encountered and destroyed in the desert ruins east of Kasta; launched a grenade in combat (Round 4); mana core extracted by [[Snix]] after destruction.
 
 ## Known Facts
 

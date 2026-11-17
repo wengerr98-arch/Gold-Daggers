@@ -7,6 +7,11 @@ publish: true
 
 # Bog
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-062---escalating">Session 62 · Escalating</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=bog" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Bog is a minotaur and one of the Skjall faction leaders, assembled for meetings following major crises in the city. He represents the Minotaur faction within Skjall's multi-species leadership structure, appearing in discussions about both the defeat of The Mother and the later threat posed by the monument, curfews, and Wild Hunt crisis.

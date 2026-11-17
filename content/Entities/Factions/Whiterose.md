@@ -16,7 +16,7 @@ Whiterose (also "White Rose") is a criminal faction operating in [[Aarum]], run 
 ## Session Appearances
 
 - [[Session 039]]: Mentioned briefly as a known Aarum entity disliked by an unnamed contact ("Dudette doesn't like Whiterose, Tower whatever"). Linked to [[Madame Dimdelle]] per DM correction note.
-- Session 041: Referenced by Torren as a rival faction — White Rose wants to claim more district space, creating territorial conflict with the Tower. Torren describes younger, more aggressive thieves who steal from him as possibly associated with White Rose.
+- [[Session 041 - Deals like Daggers|Session 041]]: Referenced by Torren as a rival faction — White Rose wants to claim more district space, creating territorial conflict with the Tower. Torren describes younger, more aggressive thieves who steal from him as possibly associated with White Rose.
 - [[Session 042]]: [[Madame Dimdelle]]'s Pocket Dimension facility was dismantled by the Gold Daggers; the future of Whiterose leadership and district territory became an open question following the faction dinner.
 
 ## Known Facts

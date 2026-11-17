@@ -6,7 +6,10 @@ publish: true
 ---
 # Session 105
 
-<p class="session-meta"><span>Session 105</span> <span>Arc 6 (current)</span> <span>played 2026-06-25</span></p>
+<p class="session-meta"><span>Session 105</span> <span><a class="gd-arc-link" href="../arcs/arc-6">Arc 6 (current)</a></span> <span>played 2026-06-25</span> <span class="gd-tl-link" data-to="timeline" data-q="s=105" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/odyss-trion"><span class="gd-av is-ph" aria-hidden="true">O</span><span class="gd-chip-name">Odyss Trion</span></a><a class="gd-chip" href="../entities/npcs/abrahim-(ephraim)"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Abrahim (Ephraim)</span></a><a class="gd-chip" href="../entities/npcs/brevin"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Brevin</span></a><a class="gd-chip" href="../entities/npcs/don-hor"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Don Hor</span></a><a class="gd-chip" href="../entities/npcs/helen-dravik"><span class="gd-av is-ph" aria-hidden="true">H</span><span class="gd-chip-name">Helen Dravik</span></a><a class="gd-chip" href="../entities/npcs/levistus"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Levistus</span></a><a class="gd-chip" href="../entities/npcs/marius-wehl"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Marius Wehl</span></a><a class="gd-chip" href="../entities/npcs/shen"><img class="gd-av" src="../07_protocol-sources/old-image-repository/shen.webp" alt="" loading="lazy"><span class="gd-chip-name">Shen</span></a><a class="gd-chip" href="../entities/npcs/zariel"><span class="gd-av is-ph" aria-hidden="true">Z</span><span class="gd-chip-name">Zariel</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -65,8 +68,6 @@ Cast One 3rd Level Spell, 1-5 no recharge bis Dawn, 6 auto recharge / Laeral\'s 
 - zephyr armor (light!)
 
 - 
-
-### 
 
 ### WEAPONS:
 
@@ -163,548 +164,123 @@ Lorilla 8
 
 Barzan 6
 
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| **Surprise**               |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Odys                       | Spirit guardians um ehn ome mitme item.                                                                                                 |
-|                            |                                                                                                                                         |
-|                            | Nomol es holzbrett item und en wollke vo messer wo om ehn                                                                               |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| **Round 1**                |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| BB                         | Aufstehen, crown of stars, Innate sorcery                                                                                               |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Crew                       | Mangonell ufde einti dreadknot                                                                                                          |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Snix                       | De Snix aktiviert tattoos                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | Lightning Bolt! DEX 15 19 roll                                                                                                          |
-|                            |                                                                                                                                         |
-|                            | Er het +4 of Dex - sone louch!                                                                                                          |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Leumas                     | Tasha's otherworldly guise                                                                                                              |
-|                            |                                                                                                                                         |
-|                            | lower planes?                                                                                                                           |
-|                            |                                                                                                                                         |
-|                            | er flügt gschwennd use und schüüsst uf eini vo de düüse vo sim schiff mit de explosion gun.                                             |
-|                            |                                                                                                                                         |
-|                            | 2 attacks                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | NAT 20                                                                                                                                  |
-|                            |                                                                                                                                         |
-|                            | 50 schade! für die Düse                                                                                                                 |
-|                            |                                                                                                                                         |
-|                            | 30 to hit                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 31 Schade                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | meh gseht irgendwas chli kaputt goh ade Düse                                                                                            |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Elo                        | Elo stoht uuf, Flüüge als bonus action                                                                                                  |
-|                            |                                                                                                                                         |
-|                            | Hold Person WIS 16                                                                                                                      |
-|                            |                                                                                                                                         |
-|                            | 34 he saves                                                                                                                             |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| legendary Odys             | er aktiviert es Item hender sim rögge                                                                                                   |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Lorilla                    | ufstoh, öber s Gländer lehne                                                                                                            |
-|                            |                                                                                                                                         |
-|                            | Confusion WIS 21                                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | leider saved vom odys                                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | Spirit Totem                                                                                                                            |
-|                            |                                                                                                                                         |
-|                            | Temps 21                                                                                                                                |
-|                            |                                                                                                                                         |
-|                            | advantage on strength cheks and saving throws                                                                                           |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| legendary Dreadnoughts     | Anti Magic Cone                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Barzan                     | stoht uuf, louft rechtig BB und denne Accelerate! Bonus Action Rüeft er rechtig Elo Dex Hex!                                            |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| legendary Dreadnoughts     | Anti Magic Cone                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Astral Dreadnoughts Blue   | Verseucht am Odys sis segel z packe und riisst es stück segel use                                                                       |
-|                            |                                                                                                                                         |
-|                            | nomol!                                                                                                                                  |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Astral Dreadnoughts Purple | Charisma Saving Throw                                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | barzan save bend luch                                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | wild magic                                                                                                                              |
-|                            |                                                                                                                                         |
-|                            | leumas und BB confused 🙁                                                                                                               |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| **Round 2**                |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Odys                       | De odis gompt uf euses Boot, bonus action casted er öppis                                                                               |
-|                            |                                                                                                                                         |
-|                            | Als action speer ufe Snix. 21 to hit (shield!!)                                                                                         |
-|                            |                                                                                                                                         |
-|                            | 14 to hit no hit                                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | 22 to hit no hit
+|   |   |
+|---|---|
+| **Surprise** |   |
+| Odys | Spirit guardians um ehn ome mitme item.<br>Nomol es holzbrett item und en wollke vo messer wo om ehn |
+| **Round 1** |   |
+| BB | Aufstehen, crown of stars, Innate sorcery |
+| Crew | Mangonell ufde einti dreadknot |
+| Snix | De Snix aktiviert tattoos<br>Lightning Bolt! DEX 15 19 roll<br>Er het +4 of Dex - sone louch! |
+| Leumas | Tasha's otherworldly guise<br>lower planes?<br>er flügt gschwennd use und schüüsst uf eini vo de düüse vo sim schiff mit de explosion gun.<br>2 attacks<br>NAT 20<br>50 schade! für die Düse<br>30 to hit<br>31 Schade<br>meh gseht irgendwas chli kaputt goh ade Düse |
+| Elo | Elo stoht uuf, Flüüge als bonus action<br>Hold Person WIS 16<br>34 he saves |
+| legendary Odys | er aktiviert es Item hender sim rögge |
+| Lorilla | ufstoh, öber s Gländer lehne<br>Confusion WIS 21<br>leider saved vom odys<br>Spirit Totem<br>Temps 21<br>advantage on strength cheks and saving throws |
+| legendary Dreadnoughts | Anti Magic Cone |
+| Barzan | stoht uuf, louft rechtig BB und denne Accelerate! Bonus Action Rüeft er rechtig Elo Dex Hex! |
+| legendary Dreadnoughts | Anti Magic Cone |
+| Astral Dreadnoughts Blue | Verseucht am Odys sis segel z packe und riisst es stück segel use<br>nomol! |
+| Astral Dreadnoughts Purple | Charisma Saving Throw<br>barzan save bend luch<br>wild magic<br>leumas und BB confused 🙁 |
+| **Round 2** |   |
+| Odys | De odis gompt uf euses Boot, bonus action casted er öppis<br>Als action speer ufe Snix. 21 to hit (shield!!)<br>14 to hit no hit<br>22 to hit no hit |
 
-... [OUTPUT TRUNCATED - 12203 chars omitted out of 62203 total] ...
+*(A part of the protocol is missing here.)*
 
-n                                                                                    |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Barzan                     | Messerli nähme effect                                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | 15 schade blades                                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | 12 schade spirit guardians                                                                                                              |
-|                            |                                                                                                                                         |
-|                            | dispel magic ufe schleumi THANK YOUU!                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | De Barzan stoht grad vor ehn häre so guets goht                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Astral Dreadnoughts Purple | checke s boot vom Odys und s esh weg                                                                                                    |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Astral Dreadnoughts blue   | checke s boot vom Odys und s esh weg                                                                                                    |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| **Round 3**                |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Odys                       | 4 angriffe auf Barzan                                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | 4 hits                                                                                                                                  |
-|                            |                                                                                                                                         |
-|                            | 26 schade                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 31 schade                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 26 schade                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 29 schade                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | reaction decelerate vom Barzan -16 schade                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 12 schade füre Leumas well er geswitcht het platz mitm gorathun                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| BB acc 2                   | 1 action: mote und denne Desintegrate, legendary resistance                                                                             |
-|                            |                                                                                                                                         |
-|                            | 2 action: Fireball met Thunderdamage, 32                                                                                                |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Crew                       | Mangonell leider no hit                                                                                                                 |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Snix                       | Advantage ufe erst                                                                                                                      |
-|                            |                                                                                                                                         |
-|                            | first one hits mit sneak attack                                                                                                         |
-|                            |                                                                                                                                         |
-|                            | 44 schade!                                                                                                                              |
-|                            |                                                                                                                                         |
-|                            | bonus action: hide                                                                                                                      |
-|                            |                                                                                                                                         |
-|                            | 26                                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Leumas                     | Spirit Guardtians & knives                                                                                                              |
-|                            |                                                                                                                                         |
-|                            | 11 + X Schade                                                                                                                           |
-|                            |                                                                                                                                         |
-|                            | Zwei attacks leider hittet keini                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | Bardic füre Barzan                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| legendary Odys             | WIS 24 für alli und etz müent alli öpper agriffe                                                                                        |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Elo                        | flügt chli abe                                                                                                                          |
-|                            |                                                                                                                                         |
-|                            | casts heat metal ufe schild                                                                                                             |
-|                            |                                                                                                                                         |
-|                            | no more hex                                                                                                                             |
-|                            |                                                                                                                                         |
-|                            | 11 damage und en CON save vo ehm                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | bonus action 3 eldritch blasts                                                                                                          |
-|                            |                                                                                                                                         |
-|                            | NAT20= 13 schade                                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | 26 hits= 5 schade                                                                                                                       |
-|                            |                                                                                                                                         |
-|                            | 18 no hit                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | shard aktiviert leider nix                                                                                                              |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Lorilla                    | half damage spirit guardians 8 schade                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | bonus action: Ashardalon Stride bis zum Odys                                                                                            |
-|                            |                                                                                                                                         |
-|                            | Multiattack advantage                                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | crushing fists                                                                                                                          |
-|                            |                                                                                                                                         |
-|                            | 23 melee trifft                                                                                                                         |
-|                            |                                                                                                                                         |
-|                            | 28 trifft                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 39 bludgeoning + 6 thunder damage + 1 füür schade vo de bonus action                                                                    |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Barzan                     | Needles ufe Odis grevious Wounds                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | no immunities                                                                                                                           |
-|                            |                                                                                                                                         |
-|                            | bonus action healing trinke (es passiert nix)                                                                                           |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Astral Dreadnoughts Purple | beidi griiffe s boot ah                                                                                                                 |
-|                            |                                                                                                                                         |
-|                            | 20 hits = 39 schade                                                                                                                     |
-|                            |                                                                                                                                         |
-|                            | 33 hits = 45 schade                                                                                                                     |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Astral Dreadnoughts blue   |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| **Round 4**                |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Odys                       | Schleumi haue                                                                                                                           |
-|                            |                                                                                                                                         |
-|                            | 3 hits 32 + 39 + 20 -14 weggno vom barzan                                                                                               |
-|                            |                                                                                                                                         |
-|                            | bonus action                                                                                                                            |
-|                            |                                                                                                                                         |
-|                            | 1 hit banishing smite                                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | 23 schade wenn er jetz unter 50 gheit banishment ufd material plane                                                                     |
-|                            |                                                                                                                                         |
-|                            | De Leumas esh eifach i sim Heimatdorf                                                                                                   |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| BB acc 3                   | Fireball                                                                                                                                |
-|                            |                                                                                                                                         |
-|                            | disintegrade                                                                                                                            |
-|                            |                                                                                                                                         |
-|                            | 2x Legendary verbaucht! (3 pro tag?)                                                                                                    |
-|                            |                                                                                                                                         |
-|                            | 1x Mote 33 to hit, 20 Radiant Damage verdoppelt uf 40                                                                                   |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Crew                       | Mangonella                                                                                                                              |
-|                            |                                                                                                                                         |
-|                            | 18 ufe dreadnought                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Snix                       | Direkt vor sini FRESSE                                                                                                                  |
-|                            |                                                                                                                                         |
-|                            | DEX 19 FAIL                                                                                                                             |
-|                            |                                                                                                                                         |
-|                            | Lightning!                                                                                                                              |
-|                            |                                                                                                                                         |
-|                            | 34 Schade verdoppelt uf 68!                                                                                                             |
-|                            |                                                                                                                                         |
-|                            | bonus action hide                                                                                                                       |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Leumas                     | back ufm dorfplatz betet zu de sommergöttin                                                                                             |
-|                            |                                                                                                                                         |
-|                            | hail mary                                                                                                                               |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Elo                        | 6 eldritch Blasts                                                                                                                       |
-|                            |                                                                                                                                         |
-|                            | 18                                                                                                                                      |
-|                            |                                                                                                                                         |
-|                            | 29 hit = 24 schade verdoppelt uf 48                                                                                                     |
-|                            |                                                                                                                                         |
-|                            | 23                                                                                                                                      |
-|                            |                                                                                                                                         |
-|                            | 19                                                                                                                                      |
-|                            |                                                                                                                                         |
-|                            | 19                                                                                                                                      |
-|                            |                                                                                                                                         |
-|                            | 1                                                                                                                                       |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Lorilla                    | spirit guardians für lorilla und snix düemmer no rolle                                                                                  |
-|                            |                                                                                                                                         |
-|                            | earthshaker aura no save!                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | no reactions füre odys                                                                                                                  |
-|                            |                                                                                                                                         |
-|                            | 16 schade verdoppelt uf 32                                                                                                              |
-|                            |                                                                                                                                         |
-|                            | 2 verdoppelt uf 4 fire schade                                                                                                           |
-|                            |                                                                                                                                         |
-|                            | double Multiattack!!                                                                                                                    |
-|                            |                                                                                                                                         |
-|                            | 26                                                                                                                                      |
-|                            |                                                                                                                                         |
-|                            | 22 no hit                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 20 no hit                                                                                                                               |
-|                            |                                                                                                                                         ||                            | 29                                                                                                                                      |
-|                            |                                                                                                                                         |
-|                            | 2 hits = 48 bludgeoning (96) + 13 (26) thunder                                                                                          |
-|                            |                                                                                                                                         |
-|                            | bonus action: knuckle bound fail speed reduced                                                                                          |
-|                            |                                                                                                                                         |
-|                            | und schüpfe                                                                                                                             |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Legendary Odys             | Swap                                                                                                                                    |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Barzan                     | Moves                                                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | Steeelwind strike (distant spell sorcery points)                                                                                        |
-|                            |                                                                                                                                         |
-|                            | Ufe Odis 24 to hit 29: guiding Bolt! -\> 24 radiant damage (48)                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Astral Dreadnoughts Purple | Multiattack                                                                                                                             |
-|                            |                                                                                                                                         |
-|                            | 40 schade                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | und 45 schade                                                                                                                           |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Astral Dreadnoughts blue   | bite                                                                                                                                    |
-|                            |                                                                                                                                         |
-|                            | 37 schade                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 19 schade                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 17 schade                                                                                                                               |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| **Round 5**                |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Odys                       | er gseht d Elo bem Segel                                                                                                                |
-|                            |                                                                                                                                         |
-|                            | 3 Agriff ufd Elo                                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | 31 = 34                                                                                                                                 |
-|                            |                                                                                                                                         |
-|                            | 23 = 39                                                                                                                                 |
-|                            |                                                                                                                                         |
-|                            | 36 (crit :() =63                                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | banishing smite :(                                                                                                                      |
-|                            |                                                                                                                                         |
-|                            | 30 to hit                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 16 schade und smite 23 schade                                                                                                           |
-|                            |                                                                                                                                         |
-|                            | D Elo esh under 50                                                                                                                      |
-|                            |                                                                                                                                         |
-|                            | D Elo findet sech zrug in Helykonos                                                                                                     |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| BB acc 4                   | wisdom 24 saving före Odys: 20 not natural                                                                                              |
-|                            |                                                                                                                                         |
-|                            | Odys ist eine kleine Schildkröte                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | Zirkel am Bode nach Kasta und Scheff folgt am spell ufd material plane                                                                  |
-|                            |                                                                                                                                         |
-|                            | es gett en Bruchlandig                                                                                                                  |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Crew                       | luege das s scheff ned usenand gheit                                                                                                    |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Snix                       | hold action falls d schildkrot ned schildkrot bliibt                                                                                    |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Leumas (ausserhalb Dalior) | er chillt ufnes bänkli und meditiert                                                                                                    |
-|                            |                                                                                                                                         |
-|                            | healt sech selber                                                                                                                       |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Elo (Helykonos)            | D Elo luegt ume in Helykonos. War es gseht recht zerstört uus.                                                                          |
-|                            |                                                                                                                                         |
-|                            | Elo healt au.                                                                                                                           |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Lorilla                    | 5th level mass cure wounds!                                                                                                             |
-|                            |                                                                                                                                         |
-|                            | 29 heal                                                                                                                                 |
-|                            |                                                                                                                                         |
-|                            | movement rechtig schildkrot                                                                                                             |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Barzan                     | heal of sech und het vergässe no öbbis zrüefe                                                                                           |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| **Round 6**                |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Odys                       | biisst d lorilla                                                                                                                        |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| BB acc 5                   | Probiert d Schildkrot en Nothing Shard inetue! Aber das passt ehm ned und er verwandlet sech zrogg. Opposed athletics 14 gäge 30 so no. |
-|                            |                                                                                                                                         |
-|                            | 2ti Action: Fireball carefull spell, 23 er saved ned! whoop whoop 21 firedamage und deno es Mote: 39 Radiant Damage                     |
-|                            |                                                                                                                                         |
-|                            | 13 Punkte whirlwind damage                                                                                                              |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| hold action snix           | NAT 20                                                                                                                                  |
-|                            |                                                                                                                                         |
-|                            | 6d6 necrotic 26 halved **13**                                                                                                           |
-|                            |                                                                                                                                         |
-|                            | sneakattack, schwert & tattoo 64 + 7 (**71**)                                                                                           |
-|                            |                                                                                                                                         |
-|                            | 24 trifft                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | **15**                                                                                                                                  |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Crew                       | Schiff zusammenhalten                                                                                                                   |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| legendary Odys             | starting to look hurt, transformiert sech in Königsform TORR                                                                            |
-|                            |                                                                                                                                         |
-|                            | +----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Snix                       | 14 pünkt schade                                                                                                                         |
-|                            |                                                                                                                                         |
-|                            | 29 to hit = 39 Punkte Schaden                                                                                                           |
-|                            |                                                                                                                                         |
-|                            | 23 to hit =16 Punkte Schaden                                                                                                            |
-|                            |                                                                                                                                         |
-|                            | bonus action disengage                                                                                                                  |
-|                            |                                                                                                                                         |
-|                            | und hindere flüge                                                                                                                       |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Leumas                     | Ofem Bänkli am acho em Momänt                                                                                                           |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Elo                        | in Helykonos               
 
-... [OUTPUT TRUNCATED - 24029 chars omitted out of 74029 total] ...
+|   |   |
+|---|---|
+| Barzan | Messerli nähme effect<br>15 schade blades<br>12 schade spirit guardians<br>dispel magic ufe schleumi THANK YOUU!<br>De Barzan stoht grad vor ehn häre so guets goht |
+| Astral Dreadnoughts Purple | checke s boot vom Odys und s esh weg |
+| Astral Dreadnoughts blue | checke s boot vom Odys und s esh weg |
+| **Round 3** |   |
+| Odys | 4 angriffe auf Barzan<br>4 hits<br>26 schade<br>31 schade<br>26 schade<br>29 schade<br>reaction decelerate vom Barzan -16 schade<br>12 schade füre Leumas well er geswitcht het platz mitm gorathun |
+| BB acc 2 | 1 action: mote und denne Desintegrate, legendary resistance<br>2 action: Fireball met Thunderdamage, 32 |
+| Crew | Mangonell leider no hit |
+| Snix | Advantage ufe erst<br>first one hits mit sneak attack<br>44 schade!<br>bonus action: hide<br>26 |
+| Leumas | Spirit Guardtians & knives<br>11 + X Schade<br>Zwei attacks leider hittet keini<br>Bardic füre Barzan |
+| legendary Odys | WIS 24 für alli und etz müent alli öpper agriffe |
+| Elo | flügt chli abe<br>casts heat metal ufe schild<br>no more hex<br>11 damage und en CON save vo ehm<br>bonus action 3 eldritch blasts<br>NAT20= 13 schade<br>26 hits= 5 schade<br>18 no hit<br>shard aktiviert leider nix |
+| Lorilla | half damage spirit guardians 8 schade<br>bonus action: Ashardalon Stride bis zum Odys<br>Multiattack advantage<br>crushing fists<br>23 melee trifft<br>28 trifft<br>39 bludgeoning + 6 thunder damage + 1 füür schade vo de bonus action |
+| Barzan | Needles ufe Odis grevious Wounds<br>no immunities<br>bonus action healing trinke (es passiert nix) |
+| Astral Dreadnoughts Purple | beidi griiffe s boot ah<br>20 hits = 39 schade<br>33 hits = 45 schade |
+| Astral Dreadnoughts blue |   |
+| **Round 4** |   |
+| Odys | Schleumi haue<br>3 hits 32 + 39 + 20 -14 weggno vom barzan<br>bonus action<br>1 hit banishing smite<br>23 schade wenn er jetz unter 50 gheit banishment ufd material plane<br>De Leumas esh eifach i sim Heimatdorf |
+| BB acc 3 | Fireball<br>disintegrade<br>2x Legendary verbaucht! (3 pro tag?)<br>1x Mote 33 to hit, 20 Radiant Damage verdoppelt uf 40 |
+| Crew | Mangonella<br>18 ufe dreadnought |
+| Snix | Direkt vor sini FRESSE<br>DEX 19 FAIL<br>Lightning!<br>34 Schade verdoppelt uf 68!<br>bonus action hide |
+| Leumas | back ufm dorfplatz betet zu de sommergöttin<br>hail mary |
+| Elo | 6 eldritch Blasts<br>18<br>29 hit = 24 schade verdoppelt uf 48<br>23<br>19<br>19<br>1 |
+| Lorilla | spirit guardians für lorilla und snix düemmer no rolle<br>earthshaker aura no save!<br>no reactions füre odys<br>16 schade verdoppelt uf 32<br>2 verdoppelt uf 4 fire schade<br>double Multiattack!!<br>26<br>22 no hit<br>20 no hit<br>29<br>2 hits = 48 bludgeoning (96) + 13 (26) thunder<br>bonus action: knuckle bound fail speed reduced<br>und schüpfe |
+| Legendary Odys | Swap |
+| Barzan | Moves<br>Steeelwind strike (distant spell sorcery points)<br>Ufe Odis 24 to hit 29: guiding Bolt! -\> 24 radiant damage (48) |
+| Astral Dreadnoughts Purple | Multiattack<br>40 schade<br>und 45 schade |
+| Astral Dreadnoughts blue | bite<br>37 schade<br>19 schade<br>17 schade |
+| **Round 5** |   |
+| Odys | er gseht d Elo bem Segel<br>3 Agriff ufd Elo<br>31 = 34<br>23 = 39<br>36 (crit :() =63<br>banishing smite :(<br>30 to hit<br>16 schade und smite 23 schade<br>D Elo esh under 50<br>D Elo findet sech zrug in Helykonos |
+| BB acc 4 | wisdom 24 saving före Odys: 20 not natural<br>Odys ist eine kleine Schildkröte<br>Zirkel am Bode nach Kasta und Scheff folgt am spell ufd material plane<br>es gett en Bruchlandig |
+| Crew | luege das s scheff ned usenand gheit |
+| Snix | hold action falls d schildkrot ned schildkrot bliibt |
+| Leumas (ausserhalb Dalior) | er chillt ufnes bänkli und meditiert<br>healt sech selber |
+| Elo (Helykonos) | D Elo luegt ume in Helykonos. War es gseht recht zerstört uus.<br>Elo healt au. |
+| Lorilla | 5th level mass cure wounds!<br>29 heal<br>movement rechtig schildkrot |
+| Barzan | heal of sech und het vergässe no öbbis zrüefe |
+| **Round 6** |   |
+| Odys | biisst d lorilla |
+| BB acc 5 | Probiert d Schildkrot en Nothing Shard inetue! Aber das passt ehm ned und er verwandlet sech zrogg. Opposed athletics 14 gäge 30 so no.<br>2ti Action: Fireball carefull spell, 23 er saved ned! whoop whoop 21 firedamage und deno es Mote: 39 Radiant Damage<br>13 Punkte whirlwind damage |
+| hold action snix | NAT 20<br>6d6 necrotic 26 halved **13**<br>sneakattack, schwert & tattoo 64 + 7 (**71**)<br>24 trifft<br>**15** |
+| Crew | Schiff zusammenhalten |
+| legendary Odys | starting to look hurt, transformiert sech in Königsform TORR |
+| Snix | 14 pünkt schade<br>29 to hit = 39 Punkte Schaden<br>23 to hit =16 Punkte Schaden<br>bonus action disengage<br>und hindere flüge |
+| Leumas | Ofem Bänkli am acho em Momänt |
+| Elo | in Helykonos |
 
-                                                                            |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Snix                       | Goht zum Odys,                                                                                                                          |
-|                            |                                                                                                                                         |
-|                            | 22 trifft ned                                                                                                                           |
-|                            |                                                                                                                                         |
-|                            | 20 trifft ned                                                                                                                           |
-|                            |                                                                                                                                         |
-|                            | bonus action dodge                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Leumas                     |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Elo                        |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Lorilla                    |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Barzan                     |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| **Round 9**                |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Odys                       | 2 Angriff ufe                                                                                                                           |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| BB                         | Fireball: DEX 24 und Thunder! 22 Thunder Damage                                                                                         |
-|                            |                                                                                                                                         |
-|                            | mote 30 to hit! und 18 Punkte Radiant Damage                                                                                            |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| CREW!                      | Balistas                                                                                                                                |
-|                            |                                                                                                                                         |
-|                            | hitte leider ned                                                                                                                        |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| legendary                  | Odys Melee ufe snix shield und disadvante 32 schade                                                                                     |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Snix                       | bonus action disengage wiiter hindere                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | life transferance! 23 schade füre snix                                                                                                  |
-|                            |                                                                                                                                         |
-|                            | 46 füre Barzan!!                                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | WOOOOW                                                                                                                                  |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Leumas                     | :(                                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Elo                        | :(                                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Lorilla                    | :(                                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Barzan                     | Stoht uuf!                                                                                                                              |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| legendary Odys             | er klatscht!\                                                                                                                           |
-|                            | bb macht 9 Punkte schaden an Snix. Snix ist safe                                                                                        |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| **Round 10**               |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Odys                       | chonnt zu de BB                                                                                                                         |
-|                            |                                                                                                                                         |
-|                            | 3 angrifff - alli träffe.                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 30 Schaden                                                                                                                              |
-|                            |                                                                                                                                         |
-|                            | 30 Schaden                                                                                                                              |
-|                            |                                                                                                                                         |
-|                            | 27 Schaden                                                                                                                              |
-|                            |                                                                                                                                         |
-|                            | nat 20 banishing smite - silvery barbs! somit kein nat 20 punkte schaden                                                                |
-|                            |                                                                                                                                         |
-|                            | 20 schaden plus 35 punkte schaden smite und sie esch wäg ofere demiplane                                                                |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| BB                         | :( stable uf 0 in irgendere demiplane                                                                                                   |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| CREW!                      | trifft nicht                                                                                                                            |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Snix                       | 14 schade vode knives                                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | advantage                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 24 trifft                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 22 trifft ned                                                                                                                           |
-|                            |                                                                                                                                         |
-|                            | 41 punkte schaden                                                                                                                       |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Legendary Odys             | angriff auf Snix: 23 schaden                                                                                                            |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Leumas                     | 🙁                                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Elo                        | 🙁                                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Lorilla                    | 🙁                                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Barzan                     | De Barzan louft före: 18+9 to hit! YES                                                                                                  |
-|                            |                                                                                                                                         |
-|                            | 5 damage und es divine Smite för 11 Radiant Damage                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| legendary Odys             | 30 to hit barzan                                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | 28 schade                                                                                                                               |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| **Round 11**               |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Odys                       | gseht mega fucked uus mitllerwiile                                                                                                      |
-|                            |                                                                                                                                         |
-|                            | grifft nomol de Barzan ah                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 1.  hittet ned!                                                                                                                         |
-|                            |                                                                                                                                         |
-|                            | 2.  hits                                                                                                                                |
-|                            |                                                                                                                                         |
-|                            | 3.  hits                                                                                                                                |
-|                            |                                                                                                                                         |
-|                            | 28 schade und de Barzan -11 = 17                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | 23 schade und de Barzan esh down                                                                                                        |
-|                            |                                                                                                                                         |
-|                            | letsht hit ufe snix trifft aber ned!                                                                                                    |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| BB                         |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| CREW!                      | Leumas & Elo                                                                                                                            |
-|                            |                                                                                                                                         |
-|                            | no hits                                                                                                                                 |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Snix                       | Bonus action steady aim                                                                                                                 |
-|                            |                                                                                                                                         |
-|                            | 21 trifft ned de erst                                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | nat 1                                                                                                                                   |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Leumas                     | 🙁                                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Elo                        | 🙁                                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Lorilla                    | 🙁                                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Barzan                     | 🙁                                                                                                                                      |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| **Round 12**               |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Odys                       | 21 no hit                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 21 no hit                                                                                                                               |
-|                            |                                                                                                                                         |
-|                            | 25 just hits: 30 Punkte Schaden                                                                                                         |
-|                            |                                                                                                                                         |
-|                            | 21 no hit                                                                                                                               |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| BB                         |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| CREW!                      |                                                                                                                                         |
-+----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Snix                       | Steady aim, 25 to hit! Trifft und met sneak attack:                                                                                     |
-|                            |                                                                                                                                         |
-|                            | 39 !!!!!!!! Er het no 34 ghaaaa!!!!!!                                                                                                   |
-|                            |                                                                                                                                         |
-|                            | HOW DO YOU WANT TO DO THIS!                                                                                                             |
-|                            |                                                                                                                                         |
-|                            | De Snix schlitzt ehm s Bei uuf vo unde ufe!                                                                                             |
-+============================+=========================================================================================================================================+
+*(A part of the protocol is missing here.)*
+
+
+|   |   |
+|---|---|
+| Snix | Goht zum Odys,<br>22 trifft ned<br>20 trifft ned<br>bonus action dodge |
+| Leumas |   |
+| Elo |   |
+| Lorilla |   |
+| Barzan |   |
+| **Round 9** |   |
+| Odys | 2 Angriff ufe |
+| BB | Fireball: DEX 24 und Thunder! 22 Thunder Damage<br>mote 30 to hit! und 18 Punkte Radiant Damage |
+| CREW! | Balistas<br>hitte leider ned |
+| legendary | Odys Melee ufe snix shield und disadvante 32 schade |
+| Snix | bonus action disengage wiiter hindere<br>life transferance! 23 schade füre snix<br>46 füre Barzan!!<br>WOOOOW |
+| Leumas | :( |
+| Elo | :( |
+| Lorilla | :( |
+| Barzan | Stoht uuf! |
+| legendary Odys | er klatscht!<br>bb macht 9 Punkte schaden an Snix. Snix ist safe |
+| **Round 10** |   |
+| Odys | chonnt zu de BB<br>3 angrifff - alli träffe.<br>30 Schaden<br>30 Schaden<br>27 Schaden<br>nat 20 banishing smite - silvery barbs! somit kein nat 20 punkte schaden<br>20 schaden plus 35 punkte schaden smite und sie esch wäg ofere demiplane |
+| BB | :( stable uf 0 in irgendere demiplane |
+| CREW! | trifft nicht |
+| Snix | 14 schade vode knives<br>advantage<br>24 trifft<br>22 trifft ned<br>41 punkte schaden |
+| Legendary Odys | angriff auf Snix: 23 schaden |
+| Leumas | 🙁 |
+| Elo | 🙁 |
+| Lorilla | 🙁 |
+| Barzan | De Barzan louft före: 18+9 to hit! YES<br>5 damage und es divine Smite för 11 Radiant Damage |
+| legendary Odys | 30 to hit barzan<br>28 schade |
+| **Round 11** |   |
+| Odys | gseht mega fucked uus mitllerwiile<br>grifft nomol de Barzan ah<br>1.  hittet ned!<br>2.  hits<br>3.  hits<br>28 schade und de Barzan -11 = 17<br>23 schade und de Barzan esh down<br>letsht hit ufe snix trifft aber ned! |
+| BB |   |
+| CREW! | Leumas & Elo<br>no hits |
+| Snix | Bonus action steady aim<br>21 trifft ned de erst<br>nat 1 |
+| Leumas | 🙁 |
+| Elo | 🙁 |
+| Lorilla | 🙁 |
+| Barzan | 🙁 |
+| **Round 12** |   |
+| Odys | 21 no hit<br>21 no hit<br>25 just hits: 30 Punkte Schaden<br>21 no hit |
+| BB |   |
+| CREW! |   |
+| Snix | Steady aim, 25 to hit! Trifft und met sneak attack:<br>39 !!!!!!!! Er het no 34 ghaaaa!!!!!!<br>HOW DO YOU WANT TO DO THIS!<br>De Snix schlitzt ehm s Bei uuf vo unde ufe! |
 
 --- Out of Initiative ----
 

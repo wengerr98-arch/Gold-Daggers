@@ -10,6 +10,9 @@ publish: true
 
 # Golem Contract (Volkams Brauerei)
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-040---deals-like-daggers">Session 40 · Deals like Daggers</a></span></p></div>
+
+
 ## Known Information
 
 A magic scroll/contract that controls the brewery golem "Goldie," who works at [[Goldie Bräu]]. The contract was retrieved by the party from Volkam's safe after killing Felbrim Volkam. The golem's commands can be rewritten by performing a ritual using magical paper, ink, and 1,000gp worth of incense per line.

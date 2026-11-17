@@ -7,6 +7,11 @@ publish: true
 
 # Sanktum Elend
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../../sessions/session-058---first-day-in-the-yard">Session 58 · First day in the yard</a></span> <span>last <a href="../../sessions/session-061---change">Session 61 · Change</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=sanktum-elend" data-label="On the timeline →"></span></p>
+
 ## Overview
 Sanktum Elend is a hybrid institution in [[Skjall]]'s Goliath district that combines sacred funerary and necromantic functions with an active emo, nu-rock, and pop-punk music venue. Its dual purpose—serving both as an archive of ancient Goliath history and spiritual knowledge, and as a modern performance space—makes it a distinctive and complex place within the frozen city's landscape. The crypts beneath hold secrets tied to [[Skjall]]'s history and the [[Wintergöttin]].
 

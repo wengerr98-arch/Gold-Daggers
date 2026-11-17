@@ -10,6 +10,11 @@ publish: true
 
 # Ylvar
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../../sessions/session-094---eine-frage-der-richtigkeit">Session 94 · Eine Frage der Richtigkeit</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=ylvar" data-label="On the timeline →"></span></p>
+
 ## Overview
 Ylvar is an ancient sunken dwarven city located in the underground passages far beneath [[Aarum]]. Once a thriving settlement with distinctive fachwärk architecture and violet/purple aesthetics, it now lies in ruin in the deep undercity. The city contains a significant cathedral and various treasures, making it both historically important and a source of valuable artifacts.
 

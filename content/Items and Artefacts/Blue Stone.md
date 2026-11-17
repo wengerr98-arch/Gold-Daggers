@@ -9,6 +9,9 @@ publish: true
 
 # Blue Stone
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-084---chain-links">Session 84 · chain-links</a></span></p></div>
+
+
 ## Known Information
 
 A blue stone found at the [[Ha'roshon Mesugo]] desert pool obelisk site. It is made of the same material as the [[Torr Key]], though confirmed to be distinct from that item. When brought near the obelisks in conjunction with the Torr Key, it resonates — suggesting some functional or ritual relationship between the two objects.

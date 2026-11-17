@@ -7,13 +7,18 @@ publish: true
 
 # The Desert Golem
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-081---fussspuren-der-geheimen-titanen">Session 81 · Fussspuren der geheimen Titanen</a></span> <span>last <a href="../../sessions/session-082---vier-phrasen-der-geschichte">Session 82 · Vier phrasen der geschichte</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=the-desert-golem" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 The Desert Golem is a massive construct found guarding a buried desert chamber near [[Kasta]], requiring life essence (blood or sacrifice) to function. BB recognised the runic instruction language engraved on it as similar to the [[Golem Contract (Volkams Brauerei)|Goldie golem contract]], suggesting a shared coding system. A Legend Lore result identified the wizard **Jakob** as the one who sacrificed themselves to create this golem. After the encounter, the party carried the golem away inside a [[Schrumpfglas|shrinking glass]], effectively making it a held artefact — see also [[The Desert Golem (Item)]].
 
 ## Session Appearances
 
-- Session 082: Encountered in a buried desert chamber near [[Kasta]]. Guards the chamber containing the sealed Ziz. Party defeats and subdues it, then transports it in a shrinking glass.
+- [[Session 082 - Vier phrasen der geschichte|Session 082]]: Encountered in a buried desert chamber near [[Kasta]]. Guards the chamber containing the sealed Ziz. Party defeats and subdues it, then transports it in a shrinking glass.
 
 ## Known Facts
 

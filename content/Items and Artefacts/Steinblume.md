@@ -11,6 +11,9 @@ publish: true
 
 # Steinblume
 
+<div class="gd-seen"><p><span>Mentioned in 2 sessions</span> <span>first <a href="../sessions/session-017">Session 17</a></span> <span>last <a href="../sessions/session-018">Session 18</a></span></p></div>
+
+
 ## Known Information
 
 The Steinblume is a mysterious flower with a stone-like stem and three trunks, each bearing a different bloom: a rose, a snowdrop, and an unopened bud. [[Lorilla]] received it from a large fox in a woodland dream-vision during Session 017, and [[Barzan]] identified its stone stem the following morning. The flower originates from southern [[Nolia]] and appears to possess active magic — studying it granted Lorilla a vision and temporary hit points.

@@ -9,6 +9,11 @@ publish: true
 
 # Auktionshaus
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-023">Session 23</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=auktionshaus" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Auktionshaus is a public auction house in [[Dalior]] that serves as a front for a slave trafficking operation. Located in the wealthy second tier (zweite Platte) of the city, it conceals a hidden tunnel system connecting to an underground network of enslaved captives. The building came to the party's attention when they discovered records linking the crime lord [[Koda]] to the slave trade operation.
 

@@ -7,6 +7,11 @@ publish: true
 
 # Nebu
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-026">Session 26</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=nebu" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Nebu is a kobold NPC from [[Kobolddorf]] who was among four kobolds that disappeared after the sealed lower tunnel was opened. Those who returned from the tunnel came back "completely different," leaving the kobold community frightened about the fate of the missing four.

@@ -13,6 +13,11 @@ marker:
 
 # Nolia
 
+<div class="gd-seen"><p><span>Visited in 4 sessions</span> <span>first <a href="../sessions/session-047">Session 47</a></span> <span>last <a href="../sessions/session-109---ich-laufe-nur">Session 109 · Ich laufe nur</a></span></p><details><summary>All 4 sessions</summary><ul><li><a href="../sessions/session-047">Session 47</a></li><li><a href="../sessions/session-048---die-hochzeit">Session 48</a> <span>Die Hochzeit</span></li><li><a href="../sessions/session-092---pfadfindung">Session 92</a> <span>Pfadfindung</span></li><li><a href="../sessions/session-109---ich-laufe-nur">Session 109</a> <span>Ich laufe nur</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=nolia" data-label="On the timeline →"></span></p>
+
 ## Overview
 Nolia is a major nation in the wider world with significant political and military reach across the region. It maintains a sophisticated political infrastructure, including a royal household and formal government ministries. The nation projects power through military presence, labour agreements with neighbouring states (notably [[Helikonos]]), and major diplomatic events. By the campaign's timeline, Nolia's direct military involvement in regional conflicts has largely withdrawn, though political interests and independent operatives continue to act in Nolia's favour.
 

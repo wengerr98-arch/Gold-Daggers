@@ -7,11 +7,13 @@ publish: true
 
 # Session 068 - Breach
 
-<p class="session-meta"><span>Session 68</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-08-16</span></p>
+<p class="session-meta"><span>Session 68</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-08-16</span> <span class="gd-tl-link" data-to="timeline" data-q="s=68" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/beat"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Beat</span></a><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/npcs/felix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/felix.webp" alt="" loading="lazy"><span class="gd-chip-name">Felix</span></a><a class="gd-chip" href="../entities/npcs/maradak-dreamkiller"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Maradak Dreamkiller</span></a><a class="gd-chip" href="../entities/npcs/silk"><img class="gd-av" src="../07_protocol-sources/old-image-repository/silk.webp" alt="" loading="lazy"><span class="gd-chip-name">Silk</span></a><a class="gd-chip" href="../entities/npcs/yorni"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yorni.webp" alt="" loading="lazy"><span class="gd-chip-name">Yorni</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 068
 <!-- source_heading: # Session 68 - Freitag, 16.August, 2024 -->
 <!-- session_date: 2024-08-16 -->
 
@@ -169,7 +171,7 @@ Mer entscheide d Wentergöttin zum sanktum elend z locke, demet sie ufruumt und 
 
 De barzan überleit öber götter noche und ob sie chönne sterbe. D Arya het sech uftrennt, Kithrun esh ide Erde inne und Ophris esh no jung gsi. Ophris was Stability. Ein Gott esh eifach verschwunde, de Zima.
 
-[Be was verwötsche mer de Mason mehrmols (3 mol)?]{.mark}
+==Be was verwötsche mer de Mason mehrmols (3 mol)?==
 
 Götter iispere!!!!!!!!
 
@@ -202,9 +204,6 @@ The party investigates a planar breach, encounters a huge lynx-like threat, and 
 ### Locations
 - Dreamhouse im Ork-Viertel
 - Thronsaal
-
-### Factions
-- Not identified
 
 ### Items / Titles / Events
 - Feywild shard

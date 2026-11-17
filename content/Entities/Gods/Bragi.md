@@ -11,6 +11,11 @@ publish: true
 
 # Bragi
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-094---eine-frage-der-richtigkeit">Session 94 · Eine Frage der Richtigkeit</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=bragi" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Bragi is an ancient dwarven god of poetry ("Gott der Poesie") who predates the generation of [[Aria]]. A book dedicated to Bragi was discovered in the sunken dwarven cathedral in [[Ylvar]] during Session 094, suggesting that his worship was once embedded in dwarven sacred architecture and that he holds historical significance in the campaign's cosmology.

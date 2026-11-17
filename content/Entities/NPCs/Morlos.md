@@ -7,6 +7,11 @@ publish: true
 
 # Morlos
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-052---book-of-r'lyeh">Session 52 · Book of R'Lyeh</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=morlos" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Morlos is a Triton former general and long-time supporter of the Helikonos revolutionary movement, having backed the cause for approximately 15 years. He operates a food truck and is a trusted, well-known figure within the revolutionary community. He has a prosthetic limb from an earlier conflict.

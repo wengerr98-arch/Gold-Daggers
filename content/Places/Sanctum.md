@@ -28,9 +28,9 @@ None confirmed.
 - Invoked and maintained by [[Barzan Aeducan]]
 - Functions as the party's persistent base/refuge aboard the ship
 - Serves as a place for the crew to rest, read, and wait between operations
-- Barzan performed a magical ritual within the Sanctum in Session 060, experiencing a lore vision related to Skjall and the wall's power
+- Barzan performed a magical ritual within the Sanctum in [[Session 060 - Exhaustion|Session 060]], experiencing a lore vision related to Skjall and the wall's power
 - Also referred to as "Barzan's Sanctum" and "Sanctum (Nautiloid)"
-- The party first returned to the Sanctum after the Helikonos operation in Session 055
+- The party first returned to the Sanctum after the Helikonos operation in [[Session 055 - Punching up|Session 055]]
 
 ## First Appearance
 - Session 055: The party returned to the Sanctum aboard the boat after the Helikonos operation

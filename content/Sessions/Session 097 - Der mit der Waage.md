@@ -7,11 +7,13 @@ publish: true
 
 # Session 097 - Der mit der Waage
 
-<p class="session-meta"><span>Session 97</span> <span>Arc 5 · Höllenfahrt</span> <span>played 2026-02-28</span></p>
+<p class="session-meta"><span>Session 97</span> <span><a class="gd-arc-link" href="../arcs/arc-5">Arc 5 · Höllenfahrt</a></span> <span>played 2026-02-28</span> <span class="gd-tl-link" data-to="timeline" data-q="s=97" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/gods/anubis"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Anubis</span></a><a class="gd-chip" href="../entities/monsters/cerberus"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Cerberus</span></a><a class="gd-chip" href="../entities/npcs/agnes"><img class="gd-av" src="../07_protocol-sources/old-image-repository/agnes.webp" alt="" loading="lazy"><span class="gd-chip-name">Agnes</span></a><a class="gd-chip" href="../entities/npcs/levistus"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Levistus</span></a><a class="gd-chip" href="../entities/npcs/lotti"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Lotti</span></a><a class="gd-chip" href="../entities/npcs/zariel"><span class="gd-av is-ph" aria-hidden="true">Z</span><span class="gd-chip-name">Zariel</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 097 - Der mit der Waage
 <!-- source_heading: # D&D Session 97 - Samstag, 28. Februar 2026 -->
 <!-- session_date: 2026-02-28 -->
 <!-- table_notes: 831 p.b. \| Sommer \| die Grenze -->
@@ -56,39 +58,20 @@ Cerberus 4
 
 Runde 1
 
-+-----------------+----------------------------------------------------+
-| Snix            | bemerkt de stemmigswächsel und reagiert sofort! 18 |
-|                 | punkte schaden, 6 davon lighting                   |
-+-----------------+----------------------------------------------------+
-| BB              | thunderstep, thunderdamage an cerberus und denne   |
-|                 | 90 fuess wäg                                       |
-+-----------------+----------------------------------------------------+
-| Lorilla         | casted confusion, wisdom saving throw - cerberus   |
-|                 | esch confused! muess en d10 wörfle                 |
-+-----------------+----------------------------------------------------+
-| Barzan          | Earthquake a telli öberem cerberus um die grossi   |
-|                 | stalaktite zlöse                                   |
-|                 |                                                    |
-|                 | Fuuus! esch en schrei und telli foht afo bäbbe!    |
-|                 | und en riiise stalaktit lööstsech und gheit abe!   |
-+-----------------+----------------------------------------------------+
-| Legendary       | the howl vom fluss, charisma save 14, alli osser d |
-|                 | lorilla saved -\> lorilla esch 48 punkte psychic   |
-|                 | damage, keine reactions mehr und disadvantage bes  |
-|                 | zom ändi vom turn                                  |
-+-----------------+----------------------------------------------------+
-| Schleumi        | de Leumas werd huge und casted circle of power.    |
-|                 | Advantage saving throws und halfdamage wer 0       |
-+-----------------+----------------------------------------------------+
-| legendary dog   | versuecht de snix z bisse aber es goht ned         |
-+-----------------+----------------------------------------------------+
-| Ello            | phantasmal killer! 14 schade how do you wanna do   |
-|                 | this                                               |
-+=================+====================================================+
+|   |   |
+|---|---|
+| Snix | bemerkt de stemmigswächsel und reagiert sofort! 18 punkte schaden, 6 davon lighting |
+| BB | thunderstep, thunderdamage an cerberus und denne 90 fuess wäg |
+| Lorilla | casted confusion, wisdom saving throw - cerberus esch confused! muess en d10 wörfle |
+| Barzan | Earthquake a telli öberem cerberus um die grossi stalaktite zlöse<br>Fuuus! esch en schrei und telli foht afo bäbbe! und en riiise stalaktit lööstsech und gheit abe! |
+| Legendary | the howl vom fluss, charisma save 14, alli osser d lorilla saved -\> lorilla esch 48 punkte psychic damage, keine reactions mehr und disadvantage bes zom ändi vom turn |
+| Schleumi | de Leumas werd huge und casted circle of power. Advantage saving throws und halfdamage wer 0 |
+| legendary dog | versuecht de snix z bisse aber es goht ned |
+| Ello | phantasmal killer! 14 schade how do you wanna do this |
 
 de cerberus
 
-[re-roll initiative]{.underline}
+<u>re-roll initiative</u>
 
 barzan 18
 
@@ -110,33 +93,17 @@ nomol en pull zom Tor!
 
 Runde 2
 
-+-----------------+----------------------------------------------------+
-| Barzan          | er gseht dorre näbel und het en moment voller      |
-|                 | klarheit und ou er ghört d stemm, accelerate elo   |
-+-----------------+----------------------------------------------------+
-| BB              | plant                                              |
-+-----------------+----------------------------------------------------+
-| Ello            | dududududu 9 eldritch blasts es nat 20 3 hitte,    |
-|                 | louft zo de stalakmite omsoch dette feschthebe     |
-+-----------------+----------------------------------------------------+
-| Snix            | lighting strike, dex 19, ke save vom cerberus und  |
-|                 | denne en nervöse blitz os sim schwärt!             |
-+-----------------+----------------------------------------------------+
-| Legendary       | attack. drü bess ofe barzan, goht down und verlürt |
-|                 | en arm! er verlührt sis bewusst! Mürre in der      |
-|                 | Luft, em chopf ghörter mer begleite dech           |
-+-----------------+----------------------------------------------------+
-| Cerberus        | leumas grappeled ultra vell damage restrained      |
-|                 | prone 41 + 36 + 46 + 22                            |
-|                 |                                                    |
-|                 | Leumas down                                        |
-+-----------------+----------------------------------------------------+
-| Lorrilla        | mass cure wounds 26 plus 10                        |
-+-----------------+----------------------------------------------------+
-| legendary       | 44 + 30 schade                                     |
-+-----------------+----------------------------------------------------+
-| Leumas          | death save                                         |
-+=================+====================================================+
+|   |   |
+|---|---|
+| Barzan | er gseht dorre näbel und het en moment voller klarheit und ou er ghört d stemm, accelerate elo |
+| BB | plant |
+| Ello | dududududu 9 eldritch blasts es nat 20 3 hitte, louft zo de stalakmite omsoch dette feschthebe |
+| Snix | lighting strike, dex 19, ke save vom cerberus und denne en nervöse blitz os sim schwärt! |
+| Legendary | attack. drü bess ofe barzan, goht down und verlürt en arm! er verlührt sis bewusst! Mürre in der Luft, em chopf ghörter mer begleite dech |
+| Cerberus | leumas grappeled ultra vell damage restrained prone 41 + 36 + 46 + 22<br>Leumas down |
+| Lorrilla | mass cure wounds 26 plus 10 |
+| legendary | 44 + 30 schade |
+| Leumas | death save |
 
 Runde 3
 

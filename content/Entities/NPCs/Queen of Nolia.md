@@ -7,7 +7,12 @@ publish: true
 
 # Queen of Nolia
 
-> Note: Personal name not yet known in-world. "Queen of Nolia" is a title placeholder. Update filename and title when her canonical name is confirmed by DM.
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-037">Session 37</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=queen-of-nolia" data-label="Follow on the timeline →"></span></p>
+
+> Note: Personal name not yet known in-world. "Queen of Nolia" is a title placeholder.
 
 ## Known Information
 

@@ -7,6 +7,11 @@ publish: true
 
 # Ronross
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-045">Session 45</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=ronross" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Ronross is a Triton refugee teacher who offered the party shelter in his home within [[Helykonos]] if they could manage to gain entry to the Triton city. His offer represented an active plot hook heading into Session 046, though it remains unconfirmed whether it was ever taken up.

@@ -1,0 +1,27 @@
+/* Gold Daggers table tools — shared pieces. Colours come from the Quartz theme variables, so light
+   ("bone") and dark ("lamp-black") follow the site. No gold: gold belongs to the party title. */
+.gd-table-fallback { color: var(--gray); }
+.gdt { font-size: 0.95rem; line-height: 1.5; color: var(--darkgray); }
+.gdt p { margin: 0; }
+.gdt-btn, .gdt button {
+  font: inherit; font-size: 0.84rem; color: var(--darkgray); background: none; cursor: pointer;
+  border: 1px solid var(--lightgray); border-radius: var(--radius, 2px); padding: 0.3rem 0.7rem; min-height: 2.2rem;
+}
+.gdt-btn:hover, .gdt button:hover { color: var(--dark); border-color: var(--gray); }
+.gdt-btn:focus-visible, .gdt button:focus-visible, .gdt input:focus-visible, .gdt textarea:focus-visible, .gdt a:focus-visible { outline: 2px solid var(--secondary); outline-offset: 2px; }
+.gdt button[aria-pressed="true"], .gdt-btn[aria-pressed="true"] { background: var(--lightgray); color: var(--dark); }
+.gdt button.gdt-main { border-color: var(--secondary); color: var(--secondary); }
+.gdt button.gdt-plain { border: 0; padding: 0.3rem 0.5rem; color: var(--gray); }
+.gdt [hidden] { display: none !important; }
+.gdt button.gdt-plain[aria-pressed="true"] { background: none; color: var(--dark); }
+.gdt button:disabled { opacity: 0.4; cursor: default; }
+.gdt input[type="search"], .gdt input[type="text"], .gdt textarea {
+  font: inherit; color: var(--dark); background: var(--light); border: 1px solid var(--lightgray);
+  border-radius: var(--radius, 2px); padding: 0.45rem 0.6rem; width: 100%; box-sizing: border-box;
+}
+.gdt-lbl, .gdt-note {
+  font-family: var(--codeFont); font-size: 0.72rem; letter-spacing: 0.06em; color: var(--gray);
+}
+.gdt-lbl { text-transform: uppercase; }
+.gdt-row { display: flex; flex-wrap: wrap; gap: 0.5rem 0.7rem; align-items: center; }
+.gdt a.internal { background: none; padding: 0; font-weight: inherit; line-height: inherit; }

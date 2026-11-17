@@ -7,6 +7,11 @@ publish: true
 
 # Hilde
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-037">Session 37</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=hilde" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Hilde is a mage and researcher living in [[Ophris]] with connections to the Feywild. She deals in rare books and magical goods, and sold BB a Feywild-related book containing a Plane Binding spell for 3000 gold. She accepted BB's black ring with golden inlays and red diamond as collateral for the transaction.

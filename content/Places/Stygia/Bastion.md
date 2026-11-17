@@ -10,6 +10,11 @@ publish: true
 
 # Bastion
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../../sessions/session-099">Session 99</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=bastion" data-label="On the timeline →"></span></p>
+
 ## Known Information
 
 The Bastion is [[Levistus]]'s tower and seat of power within [[Stygia]], serving as both an administrative centre and the venue for his formal audience system. It contains a staffed reception area, a lift system that transports visitors between levels, and a formal waiting queue used by politically significant attendees. The party was brought directly to the lift upon arrival in Session 099.

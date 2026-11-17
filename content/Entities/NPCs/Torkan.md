@@ -7,6 +7,11 @@ publish: true
 
 # Torkan
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-029">Session 29</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=torkan" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Torkan is a minor dwarf associated with the [[Kloster der Herbstgöttin]] monastery community. He appeared in Sessions 031–032 as a member of [[Gregorius]]'s team during the monastery drinking contest, where he became extremely drunk (sturzbetrunken).

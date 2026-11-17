@@ -3,12 +3,14 @@ tags:
   - item
   - artefact
   - cosmological
-  - lore-critical
 modified: '2026-06-14T17:37:09.000Z'
 publish: true
 ---
 
 # First Djinn Skull
+
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-094---eine-frage-der-richtigkeit">Session 94 · Eine Frage der Richtigkeit</a></span></p></div>
+
 
 ## Known Information
 

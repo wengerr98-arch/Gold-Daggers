@@ -11,6 +11,9 @@ publish: true
 
 # The Tower
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-042">Session 42</a></span> <span>last <a href="../../sessions/session-044---all-about-different-kind-of-souls">Session 44 · All about different kind of souls</a></span></p></div>
+
+
 ## Known Information
 
 The Tower (also referred to as the Turm Gang) is a faction based in [[Aarum]], operating from a church-like structure with guarded entry, winding stairs, and graffiti-covered walls. The building is located at the end of Aarum's Marmorstrasse (the marble/prostitution street) and is distinguished as the only place in [[Aarum]] with living plants. It is named after the Tarot Card "The Tower." The faction is co-led by Nasri and her brother Dakun (who has a mechanical arm), with Nasri as the sole possessor of the recipe and production capacity for the faction's munitions, including a revolver rifle design intended for mass production. The Tower's primary stated goal is to blast open the cave ceiling and expand their territory, and they are in active conflict with the [[Whiterose]] faction over district space. The party used the Tower as a base during their time in [[Aarum]].

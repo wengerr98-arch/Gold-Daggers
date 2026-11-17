@@ -7,7 +7,10 @@ publish: true
 
 # Session 081 - Fussspuren der geheimen Titanen
 
-<p class="session-meta"><span>Session 81</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2025-03-15</span></p>
+<p class="session-meta"><span>Session 81</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2025-03-15</span> <span class="gd-tl-link" data-to="timeline" data-q="s=81" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/gods/anubis"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Anubis</span></a><a class="gd-chip" href="../entities/npcs/brel"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Brel</span></a><a class="gd-chip" href="../entities/npcs/mahdi"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Mahdi</span></a><a class="gd-chip" href="../entities/monsters/the-desert-golem"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">The Desert Golem</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -19,10 +22,9 @@ publish: true
 Protokoll: BB, Leumas
 
 
-
 In Game Location: Kasta
 
-## [THE WIZARDS]{.mark}
+## ==THE WIZARDS==
 
 Bader - Necromancie (death)
 
@@ -39,6 +41,7 @@ Saman - Enchantment (make things do stuff)
 Talia - Evokation (destroy stuff)
 
 ## Zurück bei Brel im Zimmer zwei-null-sieben
+
 Anwesend: Brel
 
 Notizen:
@@ -61,9 +64,9 @@ Bibliothekarin esch unbekannt. aber sie verteilt anschiiinend "päss" und het en
 
 er ladet eus no iii verbii zcho zo ehm en unterricht.
 
-##  
-
 ## Auf zur Bibliothek (Wissen steht für sich alleine)
+
+Anwesend:
 
 Notizen:
 
@@ -145,6 +148,7 @@ De Barzan und BB gönnd go froge öbbsi ere score chönnd erhöhe! resp. wie das
 De Barzan chonnt zomene very old loxodon! De Barzan erkondigt sech nach de iiistuuufig, es esch ergendwie falsch! Leider esch sin background ned annerkannt! De Alti Loxodon bietet ehm en Tescht as. resp. eus allne. Mer gönd es tescht zenter abe.
 
 ## Magiesches Test-Center! Schriftlich,Mündlich und Praktisch!
+
 Anwesend: Loxodon-Bibliothekar
 
 Notizen:
@@ -315,6 +319,7 @@ De leumas konzentriert sech uf Fäde und chonnt fash ine Trance.
 langsam semmer 40/50 km weg vode Stadt. Es werde emmer wie meh tüferi Hügel statt sehr grossi.
 
 ### into the darkness!
+
 Anwesend: de goldie däggies
 
 Notizen:
@@ -353,15 +358,11 @@ de Barzan wett es grossesstöck 4 of 4 of 4 meter lightning glass pyramid uuusst
 
 Mer pressiere und hole s monster iih. Es esh us Lehm?? Met Ruune?! EN GOLEM!
 
-![](media/image24.jpg){width="3.6980850831146106in" height="4.924008092738408in"}
-
 De Barzan macht divine intervention zum legend lore ohni materials z caste uf dä golem oder was au emmer.
 
 De Barzan fendt sech inere Werkstatt, riiiesig wie en Werft. Er gseht en Loxodon wo am schaffe esh met Lehm usw. Er werd älter und me gseht wiener am Golem wiiterschaffet. Hunderti vo Spells. Timelapse. De Loxodrom öffnet sinii Pulsadern und loht sech im golem loh verschwende. En ältere andere Loxodon in fancy robe luegt zue und schriibt es Pergament fertig. Exorbitante Robe dä ander Loxodon gseht very high up uus.
 
 Humunkuli chömme use
-
-![](media/image23.jpg){width="4.551966316710411in" height="6.072027559055118in"}
 
 INITIATIVE
 
@@ -380,8 +381,6 @@ Lorilla Ashardolon's Stride - Fire Feet bonus action, Lorilla haut eine metm Sta
 Barzan Wisdom save vo de Homunculi, de Barzan macht handgestene und es get iiskristalles und
 
 > casts Slowed
-
-![](media/image19.jpg){width="4.171561679790027in" height="5.559423665791776in"}
 
 Round 2
 
@@ -518,11 +517,6 @@ Next time hole mer das Golem Pergament!
 - Anubis grave
 - skiff
 - Titan lore
-
-## Open Threads
-
-- Continue following the session-specific lead on the next imported batch.
-- Verify any unclear named figure in later review if it becomes relevant.
 
 <div class="session-nav">
 

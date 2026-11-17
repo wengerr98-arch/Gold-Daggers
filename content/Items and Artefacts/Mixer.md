@@ -9,6 +9,9 @@ publish: true
 
 # Mixer
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-026">Session 26</a></span></p></div>
+
+
 ## Known Information
 
 The Mixer (also called "Küchenmaschine") is a large bladed cylinder gifted to [[Eloryn]] by [[Geppo]] during a visit to his workshop. The gift was presented with great fanfare — announced as "FIRST PRESENT!" — though its precise purpose, whether as a weapon or a kitchen implement, has not been confirmed.

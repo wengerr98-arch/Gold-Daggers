@@ -16,7 +16,7 @@ The Engraved Rock is a carved stone bearing the symbol of the outer planes. Leum
 
 ## Session Appearances
 
-- Session 094: Leumas purchases the engraved rock from Ysra for 600 gold.
+- [[Session 094 - Eine Frage der Richtigkeit|Session 094]]: Leumas purchases the engraved rock from Ysra for 600 gold.
 
 ## Known Facts
 

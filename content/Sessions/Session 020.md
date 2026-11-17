@@ -5,9 +5,12 @@ modified: '2026-06-01T15:14:20.000Z'
 publish: true
 ---
 
-# Session 020 - Title Unknown
+# Session 020
 
-<p class="session-meta"><span>Session 20</span> <span>Arc 1 · Das Schwarze Gänseblümchen</span> <span>played 2020-11-15</span></p>
+<p class="session-meta"><span>Session 20</span> <span><a class="gd-arc-link" href="../arcs/arc-1">Arc 1 · Das Schwarze Gänseblümchen</a></span> <span>played 2020-11-15</span> <span class="gd-tl-link" data-to="timeline" data-q="s=20" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/crank"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Crank</span></a><a class="gd-chip" href="../entities/npcs/embrach"><img class="gd-av" src="../07_protocol-sources/old-image-repository/embrach.webp" alt="" loading="lazy"><span class="gd-chip-name">Embrach</span></a><a class="gd-chip" href="../entities/npcs/kathi"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Kathi</span></a><a class="gd-chip" href="../entities/npcs/oliver"><img class="gd-av" src="../07_protocol-sources/old-image-repository/oliver.webp" alt="" loading="lazy"><span class="gd-chip-name">Oliver</span></a><a class="gd-chip" href="../entities/npcs/silk"><img class="gd-av" src="../07_protocol-sources/old-image-repository/silk.webp" alt="" loading="lazy"><span class="gd-chip-name">Silk</span></a><a class="gd-chip" href="../entities/gods/zima"><span class="gd-av is-ph" aria-hidden="true">Z</span><span class="gd-chip-name">Zima</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -77,31 +80,6 @@ publish: true
 - ENDE.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## Extracted Summary
-
-Draft import of Session 020 from the converted protocol source. The session preserves the original protocol text for review and later entity extraction.
-
-## Entities Mentioned
-
-### Player Characters
-- Not extracted in first pass.
-
-### NPCs
-- Not extracted in first pass.
-
-### Locations
-- Not extracted in first pass.
-
-### Factions
-- Not extracted in first pass.
-
-### Items / Titles / Events
-- Not extracted in first pass.
-
-## Open Threads
-
-- Review the source text for campaign-specific entity extraction and canon handling.
 
 <div class="session-nav">
 

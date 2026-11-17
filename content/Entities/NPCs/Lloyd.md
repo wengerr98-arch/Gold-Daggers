@@ -14,6 +14,11 @@ publish: true
 
 # Lloyd
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106 · 3 legendary items &amp; 3 legendary gspröch</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=lloyd" data-label="Follow on the timeline →"></span></p>
+
 ## Overview
 
 Lloyd is the party's Nautiloid — a living ship/vessel that serves as their primary means of transportation. The name "Lloyd" is a nickname used with many spelling variations (Lloyd, Lloid, Loyd).

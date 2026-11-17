@@ -9,6 +9,9 @@ publish: true
 
 # Wand of Wanda
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-077---results">Session 77 · Results</a></span></p></div>
+
+
 ## Known Information
 
 The Wand of Wanda (also known as the Staff of Wanda) is the personal staff of [[Queen of Wands]], required to restore her full power. It was made to vanish by [[Zima]] (God of Justice), and recovering it is an active side-quest assigned to the party by Wanda in Session 077.

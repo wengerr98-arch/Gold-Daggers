@@ -7,20 +7,19 @@ publish: true
 
 # Session 095 - Die vergessene Schwelle
 
-<p class="session-meta"><span>Session 95</span> <span>Arc 5 · Höllenfahrt</span> <span>played 2026-01-16</span></p>
+<p class="session-meta"><span>Session 95</span> <span><a class="gd-arc-link" href="../arcs/arc-5">Arc 5 · Höllenfahrt</a></span> <span>played 2026-01-16</span> <span class="gd-tl-link" data-to="timeline" data-q="s=95" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/dakun"><img class="gd-av" src="../07_protocol-sources/old-image-repository/dakun.webp" alt="" loading="lazy"><span class="gd-chip-name">Dakun</span></a><a class="gd-chip" href="../entities/npcs/randrus-torren"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Randrus Torren</span></a><a class="gd-chip" href="../entities/npcs/abrahim-(ephraim)"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Abrahim (Ephraim)</span></a><a class="gd-chip" href="../entities/npcs/abraxas"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Abraxas</span></a><a class="gd-chip" href="../entities/npcs/millie"><img class="gd-av" src="../07_protocol-sources/old-image-repository/millie.webp" alt="" loading="lazy"><span class="gd-chip-name">Millie</span></a><a class="gd-chip" href="../entities/npcs/nasri"><img class="gd-av" src="../07_protocol-sources/old-image-repository/nasri.webp" alt="" loading="lazy"><span class="gd-chip-name">Nasri</span></a><a class="gd-chip" href="../entities/npcs/snigli"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Snigli</span></a><a class="gd-chip" href="../entities/npcs/ysra"><span class="gd-av is-ph" aria-hidden="true">Y</span><span class="gd-chip-name">Ysra</span></a></span></div></div>
+
 
 # D&D Session 95 - Samstag, 16. Januar 2026
 
-This is a generated draft import from a converted protocol file and has not been reviewed.
 
 ## Clean Protocol Text
 
-# Session 095 - Die vergessene Schwelle
 <!-- source_heading: # D&D Session 95 - Samstag, 16. Januar 2026 -->
 <!-- session_date: 2026-01-16 -->
 <!-- table_notes: 831 p.b. \| Sommer \| Aarum -->
-
-### 
 
 ## in der Kirche nach dem Kampf
 
@@ -39,8 +38,6 @@ Elo: Het es Festive / Christmas Outfit en Dunkelblau, Prunkvoll und Happy
 Leumas: dunkelgrün, prunkvoll, bierfestival, für dosse nöcht ade natur
 
 BB: Viele verschiedene Farben. Rot, Violett, Blau. Mixed Metals: super prunkvoll, met edelstei und stickereien. Handels-Festival. colors:
-
-![](media/image10.png){width="1.1717836832895887in" height="2.3676049868766404in"}
 
 Barzan: Minimalista, Weisse Robe, schneeweiss mit zwei Goldstreifen. Es esch zwar schlecht, aber emmer no sehr prunktvoll
 
@@ -164,15 +161,15 @@ Barzan 78 A set of Prayer Chimes
 
 Wir sind nun wieder zurück auf dem Boot mit den Artefakten.
 
-[Elo Kerze]{.underline}
+<u>Elo Kerze</u>
 
 schwarzgraue Flamme der Kerze sie wirft schatten und kein Licht.
 
-[Barzan]{.underline}
+<u>Barzan</u>
 
 ei Glogge lüttet emmer zfrüeh. die andere send dissonant.
 
-[BB]{.underline}
+<u>BB</u>
 
 heilige text und en rassle: Sie foht de text afo läse und me chonnt zersch ned ganz druuuus, es werd ke name gnennt sondern eher so allgemein geredet. Aber d fußnote send sehr persöhnlech und involviert. es goht om s'erschte liecht em juni, d'wärmi am meer, korrektur: sonnenwende -\> anstatt s'erschte liecht... es schiint aus hätti en gott säuber text korrigiert. Be de Rassle, sie rasslet mängisch vone leige. D ysra erklärt dases sone stadt gett vo elfe (roti stadt)
 
@@ -327,7 +324,7 @@ Snix: nat 1 investigation history 20
 
 Wild magic: 85 -\> d6 1, d4 -\> 3 = eloryn doppelt so gross!
 
-**[Legend Lore of "Mana"]{.underline}**
+**<u>Legend Lore of "Mana"</u>**
 
 de Barzan macht sis ritual und er löst sech vo sim körperleche gefäß. er goht tüüf e d'wüeschti womer d autonotoms? gseh händ. er gseht wie sie onderem sand sech iigfonde händ un gewartet händ. mega lang. en länglech baute loxodon Ephraim - de Barzan gseht en zom erschte mol e vollem Antlitz. De Barzan suecht wiiter nach de Herkunft. Er gseht wie die Gläserni chogle iigsetzt werd und es sigil e de luft gmacht werd und wiesi zrogg gönd zom Wörkshop, wosi härgstellt worde send. Dette hets en Brunne, umgäh vo 100erdte zirkel und rune und zeiche wo alli ofe bronne uusgrechtet send. öbber schweisst die choggle zue. Vorem zuetue, eschsi uufgföllt worde em bronne. er goht wiiter zrogg e de ziit und alles louft wiiter rückwärts. er gseht en person wo vor sech am härloufe esch und am nochedänke. er verfolgt die person ene kampf, wo honderti loxodon stärbed. und wiiter zrogg e de ziit esches de Abrahim und är trenkt osme brunne, wo ähnlech esch wie dä osem wörkshop. doch dä bronne het ke zirkel und sigils wo physisch vorhande send. die reini vorstelligschraft vom abrahim het dezue gfüehrt, dass är cha sini magic e d realität umsetzte! und es het en 1600 johr koschtet, zom das weder rekreiere em jetzige Kasta e sim wörkshop!
 
@@ -355,8 +352,6 @@ Jetz no die spetzigi Siite, eifach es cleans loch wie es schussloch.
 
 Mer mache eus ufe Weg zude Calamitas und wenn d Ysra de no nacheme andere Weg id Höll froge, zum usefende wer all die Portal emmer ufmacht
 
-##  
-
 ## To Do
 
 - ~~Surry Pope Robe~~
@@ -367,7 +362,7 @@ Mer mache eus ufe Weg zude Calamitas und wenn d Ysra de no nacheme andere Weg id
 
 - Levistus eingesperrt
 
-# [Inventory]{.underline}
+# <u>Inventory</u>
 
 ## Extracted Summary
 
@@ -382,16 +377,10 @@ After the battle in Aarum’s undercity, the party explores the old cathedral, f
 - Snix
 - Elo
 
-### NPCs
-- None explicitly named in the source block.
-
 ### Locations
 - Aarum
 - undercity
 - old cathedral
-
-### Factions
-- None explicitly named in the source block.
 
 ### Items / Titles / Events
 - pope outfits

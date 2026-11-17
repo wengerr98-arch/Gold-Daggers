@@ -9,6 +9,11 @@ publish: true
 
 # Volkam & Partner
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-040---deals-like-daggers">Session 40 · Deals like Daggers</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=volkam--and--partner" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Volkam & Partner is an aggressive credit and debt-collection firm based in [[Aarum]], feared by market traders as enforcers who physically coerce debtors. The firm is owned by [[Fellbrün Volkam]] and represents a significant economic power in [[Aarum]]'s underworld and merchant scene. Note: "Volkram & Partner" (appearing in the Session 039 transcript) is a transcription error — the canonical spelling is Volkam.

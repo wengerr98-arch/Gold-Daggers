@@ -10,6 +10,9 @@ publish: true
 
 # Obelisks
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-063---the-veil">Session 63 · The Veil</a></span></p></div>
+
+
 ## Known Information
 
 The Obelisks are large emerald-like stone structures that emerge from the ground at fixed locations. They are linked to an ancient giant-era religious schism and feature a rune-sealed door with a blood-activation mechanism. When activated, they trigger access to [[The Veil]] — the border between the Material Plane and the afterlife. Multiple obelisks exist at different locations; this stub covers all known instances as the same type of object.

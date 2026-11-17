@@ -7,6 +7,11 @@ publish: true
 
 # Kasimir
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-089---nine-futures">Session 89 · nine futures</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=kasimir" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Kasimir is a kobold who appeared in Snix's future vision during Session 089. He was one of several named kobold combatants fighting in an arena inside an old gravel mine (alte Kiesmine) with approximately 100 kobolds present. Whether he exists in the current timeline remains uncertain.

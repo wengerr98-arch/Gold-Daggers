@@ -9,6 +9,9 @@ publish: true
 
 # Creation Chalk
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-089---nine-futures">Session 89 · nine futures</a></span></p></div>
+
+
 ## Known Information
 
 A massive piece of chalk found on [[Wizard Island]] in BB's future vision during Session 089. The session describes the party finding giant chalk pieces (30–40cm and 120cm) with apparent creation powers ("mer chönnd alles met de chriiide kreiiiere" — "we can create anything with the chalk"). The item appears connected to the central anti-nothingness/creation thread and may be the counter-force to the spreading Silence/nothingness affliction, making it potentially campaign-critical.

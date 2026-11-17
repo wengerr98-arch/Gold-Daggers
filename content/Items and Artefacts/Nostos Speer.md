@@ -10,6 +10,9 @@ publish: true
 
 # Nostos Speer
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106 · 3 legendary items &amp; 3 legendary gspröch</a></span></p></div>
+
+
 ## Known Information
 
 The Nostos Speer is a Legendary +3 spear obtained from the Loot of Odyss after [[Odyss Trion]]'s defeat (Session 106). Distributed to [[Leumas]].

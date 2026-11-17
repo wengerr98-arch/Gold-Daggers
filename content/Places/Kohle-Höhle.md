@@ -10,6 +10,11 @@ publish: true
 
 # Kohle-Höhle
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-013">Session 13</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=kohle-h%C3%B6hle" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 Kohle-Höhle (Coal Cave / Charcoal Den) is a casino and game hall in the [[Entertainment District (Dalior)]], housed in an establishment themed to resemble a mine shaft. Originally owned by a Dragonborn couple, the venue was temporarily closed in mourning after one co-owner died in childbirth (Session 012), but reopened shortly after (Session 013). It remains a central entertainment venue in the district.

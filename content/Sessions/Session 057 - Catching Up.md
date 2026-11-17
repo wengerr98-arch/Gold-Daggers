@@ -7,11 +7,13 @@ publish: true
 
 # Session 057 - Catching Up
 
-<p class="session-meta"><span>Session 57</span> <span>Arc 3 · Salzwasser</span> <span>played 2023-11-18</span></p>
+<p class="session-meta"><span>Session 57</span> <span><a class="gd-arc-link" href="../arcs/arc-3">Arc 3 · Salzwasser</a></span> <span>played 2023-11-18</span> <span class="gd-tl-link" data-to="timeline" data-q="s=57" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-57" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/dakun"><img class="gd-av" src="../07_protocol-sources/old-image-repository/dakun.webp" alt="" loading="lazy"><span class="gd-chip-name">Dakun</span></a><a class="gd-chip" href="../entities/npcs/nasri"><img class="gd-av" src="../07_protocol-sources/old-image-repository/nasri.webp" alt="" loading="lazy"><span class="gd-chip-name">Nasri</span></a><a class="gd-chip" href="../entities/npcs/randrus-torren"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Randrus Torren</span></a><a class="gd-chip" href="../entities/npcs/felix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/felix.webp" alt="" loading="lazy"><span class="gd-chip-name">Felix</span></a><a class="gd-chip" href="../entities/npcs/karnick"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Karnick</span></a><a class="gd-chip" href="../entities/npcs/natok"><img class="gd-av" src="../07_protocol-sources/old-image-repository/natok.webp" alt="" loading="lazy"><span class="gd-chip-name">Natok</span></a><a class="gd-chip" href="../entities/npcs/noah"><img class="gd-av" src="../07_protocol-sources/old-image-repository/noah.webp" alt="" loading="lazy"><span class="gd-chip-name">Noah</span></a><a class="gd-chip" href="../entities/npcs/nonna"><span class="gd-av is-ph" aria-hidden="true">N</span><span class="gd-chip-name">Nonna</span></a><a class="gd-chip is-extra" href="../entities/npcs/tolteca"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Tolteca</span></a><a class="gd-chip is-extra" href="../entities/npcs/udir"><span class="gd-av is-ph" aria-hidden="true">U</span><span class="gd-chip-name">Udir</span></a><a class="gd-chip is-extra" href="../entities/npcs/yazi"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yazi.webp" alt="" loading="lazy"><span class="gd-chip-name">Yazi</span></a></span></div><label class="gd-who-more" for="gd-who-57"><span class="gd-who-plus">+3</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
 
-# Session 057
 <!-- source_heading: # Session 57 - Samstag, 18. November 2023 -->
 <!-- session_date: 2023-11-18 -->
 
@@ -32,11 +34,11 @@ Intro Raphi
 
 \-
 
-**[Die Begegnungen mit Felix]{.underline}**
+**<u>Die Begegnungen mit Felix</u>**
 
 Wir sind im Raum mit Felix.
 
-[Koda]{.underline}
+<u>Koda</u>
 
 **NAT 20 - amazing saving throw**
 
@@ -44,7 +46,7 @@ Koda sagt zum Drachen im Hammer: "jetzte gsesch mol rechtigi macht"
 
 Koda begibt sich in die Dunkelheit von Felix. Sie umgibt Koda und versucht sie zu übernehmen. Doch die Wut in Koda verhindert das! Sie hat Visionen, wie sie Länder regiert. Das Gefühl in ihr, die Wut wird stärker und bringt sie wieder zurück in den Raum.
 
-[Snix]{.underline}
+<u>Snix</u>
 
 **Wisdom Saving Throw: 2 (-1) 1, aber ned NAT 1**
 
@@ -52,7 +54,7 @@ Snix gibt Felix die Hand. Snix fällt in die ewige Dunkelheit und prallt voll au
 
 Koda: Nat 20 um Snix aus dem Raum zu tragen. Draussen reagiert Snix aber noch immer nicht. Es bilden sich in den Augen von Snix, mehrere Augen resp. Pupillen.
 
-[Eloryn]{.underline}
+<u>Eloryn</u>
 
 **Wisdom Saving Throw: 13 :( this is not goood**
 
@@ -118,10 +120,6 @@ Es ist ein Monsterangriiiifff!!!
 Wir gehen schauen wo die Schildkröte ist, wahrscheinlich beim Lift. Die Leute am Hafen fliehen.
 
 DRAGONTORTOISE
-
-![](media/image17.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
-![](media/image14.jpg){width="7.480314960629921in" height="9.972222222222221in"}
 
 Lorilla fliegt Leumas um ihn rum und Snix geht mit. Snix kann draconic. Die Tortoise sucht Mama.
 
@@ -289,7 +287,7 @@ Wir verabschieden uns und machen uns auf zu koda und natok bei der baby tortoise
 
 Wir verbringen den Rest des Abends zusammen, gemütliches Feuer.
 
-**[Wild Hunt Legend Lore\]{.underline}**
+**<u>Wild Hunt Legend Lore\</u>**
 
 Räucherstäbli Kreis, Snix und Leumas tanzen. Barzan chants. Mit leuchtend weissen Augen schaut er nach vorne.
 
@@ -307,7 +305,7 @@ Snix versucht Dakun Drakonisch zu erklären. Er bringt ein paar Wörter bei und 
 
 Wir holen Tools zum enchanten. Torren leiht uns noch ein Buch zum enchantment.
 
-**[Downtime activities]{.underline}**
+**<u>Downtime activities</u>**
 
 Leumas lernt gerben und jagt ein paar Hirsche. Stinky. Noch schwierig.
 
@@ -352,24 +350,13 @@ The party catches up in Aarum and settles into a quieter coordination session af
 - Leumas
 - Eloryn
 
-### NPCs
-- None explicitly identified in this first-pass draft.
-
 ### Locations
 - Aarum
-
-### Factions
-- None explicitly identified in this first-pass draft.
 
 ### Items / Titles / Events
 - catching up
 - long rest
 - coordination
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

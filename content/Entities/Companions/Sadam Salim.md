@@ -8,6 +8,11 @@ publish: true
 
 # Sadam Salim
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-063---the-veil">Session 63 · The Veil</a></span> <span>last <a href="../../sessions/session-064---nightmare-overseer">Session 64 · Nightmare Overseer</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=sadam-salim" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Sadam Salim is a Drow elf Warlock who travels with his draconic familiar [[Arichamov]] (also called MovMov). He met the Gold Daggers in [[Skjall]] while seeking entry into the [[Wild Hunt]], having been a solo traveller for roughly 60 years and coming from a Fremen-like desert culture in the Kasta region. His people are oppressed by Orks, though over time with the Gold Daggers he has begun to shed some of his prejudices.

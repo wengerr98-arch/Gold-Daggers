@@ -8,6 +8,11 @@ publish: true
 
 # Gilgamesh
 
+<div class="gd-seen"><p><span>Seen in 4 sessions</span> <span>first <a href="../../sessions/session-088---the-first-big-choice">Session 88 · the first big choice</a></span> <span>last <a href="../../sessions/session-101---1-0-auftakt">Session 101 · 1-0 Auftakt</a></span></p><details><summary>All 4 sessions</summary><ul><li><a href="../../sessions/session-088---the-first-big-choice">Session 88</a> <span>the first big choice</span></li><li><a href="../../sessions/session-089---nine-futures">Session 89</a> <span>nine futures</span></li><li><a href="../../sessions/session-090">Session 90</a></li><li><a href="../../sessions/session-101---1-0-auftakt">Session 101</a> <span>1-0 Auftakt</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=gilgamesh" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Gilgamesh is a Yuan-Ti and the first magic user in campaign lore — she is the creator of the first Titan, not a titan herself. She was instructed in titan creation by either Jetzy or the Succubus (likely the Succubus), and created the first and only titan she ever made. She has helped multiple times before and has been in the Chele (the cold/void?) more than once. The party encountered her 6,000 years in the past during a time jump, discovering her operating a workshop where Sarrukh figures and [[Urochar]] were present — she escaped via Thunderstep when the party arrived. She is 20 Ernte old and casts magic in a wizard style.

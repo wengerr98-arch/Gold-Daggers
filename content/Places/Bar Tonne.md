@@ -7,6 +7,11 @@ publish: true
 
 # Bar Tonne
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-037">Session 37</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=bar-tonne" data-label="On the timeline →"></span></p>
+
 ## Overview
 A dive bar located in [[Ophris]] that serves as a private meeting place for the city's underworld leadership. The bar hosts a secluded back room—a cellar with a round table—used for confidential briefings and negotiations. It was the site of the party's first formal meeting with King [[Azan Aeducan]], where they received their initial mission briefing for the Aarum assignment.
 

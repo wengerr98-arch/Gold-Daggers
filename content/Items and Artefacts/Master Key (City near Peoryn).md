@@ -7,6 +7,9 @@ publish: true
 
 # Master Key (City near Peoryn)
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-050---20'000-leagues">Session 50 · 20'000 Leagues</a></span></p></div>
+
+
 ## Known Information
 
 The Master Key is a unique key that opens every lock in an unnamed city near [[Peoryn]], described as "Einziger Key, der die Tür öffnet" — the only key that opens the door. The city itself serves as the party's safe house location (referred to as "immer verregnete Stadt nahe Peoryn"). The key was referenced in Session 050 as a significant item the party holds.

@@ -7,11 +7,13 @@ publish: true
 
 # Session 066
 
-<p class="session-meta"><span>Session 66</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-05-18</span></p>
+<p class="session-meta"><span>Session 66</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-05-18</span> <span class="gd-tl-link" data-to="timeline" data-q="s=66" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/companions/loid"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Loid</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/karoth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/karoth.webp" alt="" loading="lazy"><span class="gd-chip-name">Karoth</span></a><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/npcs/kuruki"><img class="gd-av" src="../07_protocol-sources/old-image-repository/kuruki.webp" alt="" loading="lazy"><span class="gd-chip-name">Kuruki</span></a><a class="gd-chip" href="../entities/npcs/maradak-dreamkiller"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Maradak Dreamkiller</span></a><a class="gd-chip" href="../entities/npcs/nameo"><img class="gd-av" src="../07_protocol-sources/old-image-repository/nameo.webp" alt="" loading="lazy"><span class="gd-chip-name">Nameo</span></a><a class="gd-chip" href="../entities/npcs/noah"><img class="gd-av" src="../07_protocol-sources/old-image-repository/noah.webp" alt="" loading="lazy"><span class="gd-chip-name">Noah</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 066
 <!-- source_heading: # Session 66 - Samstag, 18. Mai, 2024 -->
 <!-- session_date: 2024-05-18 -->
 
@@ -79,7 +81,7 @@ Etwa 2 Tage in der Zukunft, Lorilla ist in einem Schneesturm. Sie ist mit sehr s
 
 NEW MINI! Bat Form!
 
-Fotos Unte![](media/image7.png){width="7.480314960629921in" height="9.972222222222221in"}![](media/image3.png){width="7.480314960629921in" height="9.972222222222221in"}
+Fotos Unte
 
 Je wiiter d Lorilla weg flügt desto meh checkt sie wer sie esh und gseht d Muur. D Fledermuus rüert d Lorilla id muur ine und sie chrüücht zu eusem Huus zrug.
 
@@ -151,7 +153,7 @@ D Lorilla rutscht uuus. Prone. De Golem dräit sech om und nemmt d Lorilla. Sie 
 
 INITIATIVE!
 
-**[Runde 1]{.underline}**
+**<u>Runde 1</u>**
 
 Leumas 25
 
@@ -167,37 +169,45 @@ Snix 8
 
 Barzan 4
 
-**[Leumas:]{.underline}**
+**<u>Leumas:</u>**
 
 De Leumas lauft wiiter in character und get sech Long Strider.
 
-**[SnowQueen:]{.underline}**
+**<u>SnowQueen:</u>**
 
 Die andere wärde aagreffe und de Barzan esch iiiigfrooore. Es paar lüchtendi ouge luege osem Huus use und lachet.
 
-**[BB:]{.underline}** macht BigBy's Hand zwischen Barzan und dem Haus. Sie secklet zom nächsten Haus und geht in Deckung.
+**<u>BB:</u>** macht BigBy's Hand zwischen Barzan und dem Haus.
+Sie secklet zom nächsten Haus und geht in Deckung.
 
-**[Golem:]{.underline}** Er läuft richtung BB und BB hat plötzlich sehr kalt!
+**<u>Golem:</u>** Er läuft richtung BB und BB hat plötzlich sehr
+kalt!
 
-**[Lorilla:]{.underline}** Ist aufgestanden und geht zum Golem als Eisbär
+**<u>Lorilla:</u>** Ist aufgestanden und geht zum Golem als
+Eisbär
 
-**[Snix:]{.underline}** Snix flügt theatralisch vöre bes zum Golem, aktiviert Tattos, Performance oder Indimidation 14 mit advantage.
+**<u>Snix:</u>** Snix flügt theatralisch vöre bes zum Golem,
+aktiviert Tattos, Performance oder Indimidation 14 mit advantage.
 
-**[Barzan:]{.underline}** Nat 20 wohoo no longer petrified
+**<u>Barzan:</u>** Nat 20 wohoo no longer petrified
 
-**[Leumas:]{.underline}** Chonnt zu de Wintergöttin! Präsentiert s Gulasch
+**<u>Leumas:</u>** Chonnt zu de Wintergöttin! Präsentiert s
+Gulasch
 
-**[SnowQueen:]{.underline}** gets out of house attacks snix. "dnd input" es fliegen Eiszapfen an Snix vorbei und der dritte Eiszapfen wehrt snix mit Shield ab!
+**<u>SnowQueen:</u>** gets out of house attacks snix. "dnd input"
+es fliegen Eiszapfen an Snix vorbei und der dritte Eiszapfen wehrt snix mit Shield ab!
 
 Dazwischen: DEX Save von BB zum start: 18 dex, very nice
 
-**[BB:]{.underline}** lädt Barzan auf Big By's Hand und moved inter das haus. BB macht thunderstep und geht weit weg.
+**<u>BB:</u>** lädt Barzan auf Big By's Hand und moved inter das
+haus. BB macht thunderstep und geht weit weg.
 
-**[Wintergöttin?]{.underline}** Wisdom Safe Leumas fail er foht mad afoh lache. Er bechonnt chralle? Sache versenke im Schnee. Ähnlech wie sini Felix Form? Alle sind sini Feinde mer wie au d Göttin und d Golems.
+**<u>Wintergöttin?</u>** Wisdom Safe Leumas fail er foht mad afoh
+lache. Er bechonnt chralle? Sache versenke im Schnee. Ähnlech wie sini Felix Form? Alle sind sini Feinde mer wie au d Göttin und d Golems.
 
-**[Lorilla:]{.underline}** Bär trifft nicht
+**<u>Lorilla:</u>** Bär trifft nicht
 
-**[Snix:]{.underline}** Fliegt rauf, sturzflug messer auf Golem
+**<u>Snix:</u>** Fliegt rauf, sturzflug messer auf Golem
 
 wir werden ab hier nicht mehr alles protokollieren
 
@@ -325,9 +335,6 @@ Lorilla returns badly transformed, the group handles her recovery, then moves in
 - Taverne
 - Sanktum
 
-### Factions
-- None explicitly identified in this first-pass draft.
-
 ### Items / Titles / Events
 - Magic Animal Wand
 - diamond dust
@@ -337,11 +344,6 @@ Lorilla returns badly transformed, the group handles her recovery, then moves in
 - Koda/Lorilla backstory cutaway
 - Wild Hunt
 - moon crisis
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

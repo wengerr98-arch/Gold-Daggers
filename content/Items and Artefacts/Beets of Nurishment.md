@@ -20,4 +20,4 @@ The Beets of Nurishment is a glass jar containing 10–15 small spherical beets 
 - A glass jar containing 10–15 small spherical beets
 - One beet provides a full day's nourishment for one person
 - Found during a dungeon crawl in [[Session 009]]
-- Note: "Nurishment" is the in-session/protocol spelling; "Nourishment" may be the corrected form — DM to confirm
+- Note: "Nurishment" is the in-session/protocol spelling; "Nourishment" may be the corrected form

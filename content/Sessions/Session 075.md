@@ -7,11 +7,13 @@ publish: true
 
 # Session 075
 
-<p class="session-meta"><span>Session 75</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-10-17</span></p>
+<p class="session-meta"><span>Session 75</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-10-17</span> <span class="gd-tl-link" data-to="timeline" data-q="s=75" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/npcs/felix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/felix.webp" alt="" loading="lazy"><span class="gd-chip-name">Felix</span></a><a class="gd-chip" href="../entities/npcs/yorni"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yorni.webp" alt="" loading="lazy"><span class="gd-chip-name">Yorni</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 075
 <!-- source_heading: # DND WEEK Session 75 - Donnerstag, 17. Oktober 2024 -->
 <!-- session_date: 2024-10-17 -->
 
@@ -51,10 +53,6 @@ meanwhile be de töre und de andere Gold Daggers: rechtig wildhunt foohts afoo b
 
 Das esch s'loch e de wand:
 
-![](media/image4.jpg){width="5.545089676290464in" height="4.293484251968504in"}
-
-![](media/image44.jpg){width="4.059424759405075in" height="5.412565616797901in"}
-
 Mer positionere eus und händ dank mending und chle bletzle ziit eus z'positioniere.
 
 Mer versueche s'monschter chle zlänke, dases en klare dorchbroch gett und sobald s'loch gnueg gross esch schmeisst d'eloryn d'molotov cocktails und de snix und d'lorilla möche denne fire attack.
@@ -73,11 +71,12 @@ de damage werd gerolled! Lorilla: 33, snix 16 und de d'mollis
 
 142 punkte schaden zom start!
 
-d'wand brecht dore be de explosion - das monschter chonnt före:![](media/image24.jpg){width="7.480314960629921in" height="9.972222222222221in"}![](media/image11.jpg){width="7.480314960629921in" height="9.972222222222221in"}![](media/image39.jpg){width="7.480314960629921in" height="5.611111111111111in"}
+d'wand brecht dore be de explosion - das monschter chonnt
+före:
 
 Initiative!
 
-**[Runde 1]{.underline}**
+**<u>Runde 1</u>**
 
 Leumas: Gunshots, leider ned gange. D Kugel esh eifach versunke eeeew
 
@@ -99,7 +98,7 @@ Wanda: secklet före und luegt hender em stei före und macht mind sliver! int 2
 
 > save, nat 20 för 35. de spell fendet kei halt! firebolt 23 to hit, hits! 19 punkte schaden!
 
-**[Runde 2]{.underline}**
+**<u>Runde 2</u>**
 
 Leumas: De Leumas checkt daser gad echli müeh het und mach glich en attack. Corruption bliibt.
 
@@ -119,7 +118,7 @@ Snix: flüügt und stabby stab, eine trifft "was nur zwei wörfel" 23 pönkt sch
 
 Wanda: secklet zom brudi! Thunderstep, con save 9, somet 21 punkte donner schaden! brudi esch frei
 
-**[Runde 3]{.underline}**
+**<u>Runde 3</u>**
 
 Leumas: Inspo für Lorilla, emmer no corrupted
 

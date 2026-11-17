@@ -11,6 +11,11 @@ publish: true
 
 # Helykonos
 
+<div class="gd-seen"><p><span>Visited in 12 sessions</span> <span>first <a href="../sessions/session-045">Session 45</a></span> <span>last <a href="../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106 · 3 legendary items &amp; 3 legendary gspröch</a></span></p><details><summary>All 12 sessions</summary><ul><li><a href="../sessions/session-045">Session 45</a></li><li><a href="../sessions/session-046">Session 46</a></li><li><a href="../sessions/session-047">Session 47</a></li><li><a href="../sessions/session-050---20'000-leagues">Session 50</a> <span>20'000 Leagues</span></li><li><a href="../sessions/session-051---book-of-yavin">Session 51</a> <span>Book of Yavin</span></li><li><a href="../sessions/session-052---book-of-r'lyeh">Session 52</a> <span>Book of R'Lyeh</span></li><li><a href="../sessions/session-053---book-of-azatoth">Session 53</a> <span>Book of Azatoth</span></li><li><a href="../sessions/session-055---punching-up">Session 55</a> <span>Punching up</span></li><li><a href="../sessions/session-089---nine-futures">Session 89</a> <span>nine futures</span></li><li><a href="../sessions/session-090">Session 90</a></li><li><a href="../sessions/session-105">Session 105</a></li><li><a href="../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106</a> <span>3 legendary items &amp; 3 legendary gspröch</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=helykonos" data-label="On the timeline →"></span></p>
+
 ## Known Information
 
 Helykonos (also known as Helikonos, historically as Shi Cheng and Tritonia) is an underwater Triton city built on the back of a colossal living crab, accessible only through underwater travel and located beneath the waters of an ancient seabed. Ruled by the tyrant [[Shen]] since his murder of the previous king [[Klereth]], the city has endured strict monarchic control, the mass use of control stones to dominate key professionals, and the forced import of Nohlia human laborers on two-month rotations. As of Session 055 the city is in active civil war, with an active revolutionary movement, fleeing refugees, and a mixed Triton-refugee community beginning to form at the shipyard.

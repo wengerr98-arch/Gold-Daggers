@@ -7,7 +7,10 @@ publish: true
 
 # Session 087
 
-<p class="session-meta"><span>Session 87</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2025-05-22</span></p>
+<p class="session-meta"><span>Session 87</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2025-05-22</span> <span class="gd-tl-link" data-to="timeline" data-q="s=87" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/gods/cithrul"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Cithrul</span></a><a class="gd-chip" href="../entities/gods/ereshkigal"><span class="gd-av is-ph" aria-hidden="true">E</span><span class="gd-chip-name">Ereshkigal</span></a><a class="gd-chip" href="../entities/npcs/mahdi"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Mahdi</span></a><a class="gd-chip" href="../entities/gods/nergal"><span class="gd-av is-ph" aria-hidden="true">N</span><span class="gd-chip-name">Nergal</span></a><a class="gd-chip" href="../entities/monsters/shakali"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Shakali</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -17,7 +20,6 @@ publish: true
 ## Titel: 
 
 Protokoll: BB, Leumas
-
 
 
 In Game Location: Kasta
@@ -143,11 +145,7 @@ der Aufbruch nach Nord Osten und das
 
 De Leumas inspiriert eus metme coole Song am nächste Morge womer los göhnd id Wüesti.
 
-##  
-
 ## vor dem Tor
-
-![](media/image3.jpg){width="7.480314960629921in" height="5.611111111111111in"}
 
 mer gsähnd met em skiff vo wiit här es riiiiisigs toor wo emene felse esch.
 
@@ -202,8 +200,6 @@ D Elo saved ere con save ned und werd 13 johr jünger: weder 23
 lorilla und Snix füehlesech weder einigermasse - de snix esch iibudlet und d'lorilla esch en skorpion. de snix goht zo de elo und d'lorilla het
 
 BB gseht en Statue vor sech und es esch en wisdom saving throw 16 - 20 not natural
-
-![](media/image1.jpg){width="7.662565616797901in" height="5.746924759405075in"}
 
 BB goht go d'statue aaluege. investigation check 31 - mega alti statue und sie het zwenig sand droffe!
 
@@ -546,9 +542,6 @@ Session 087 is a split, single-session import across two dated source blocks. Th
 - Desert gate
 - Hidden cavern / ancient city
 - Mountain / desert region
-
-### Factions
-- None clearly identified
 
 ### Items / Titles / Events
 - Object engraved with a symbol of the Outer Planes worth at least 500 gp

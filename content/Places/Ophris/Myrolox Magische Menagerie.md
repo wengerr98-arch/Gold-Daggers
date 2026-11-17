@@ -10,6 +10,11 @@ publish: true
 
 # Myrolox Magische Menagerie
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../../sessions/session-034">Session 34</a></span> <span>last <a href="../../sessions/session-035">Session 35</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=myrolox-magische-menagerie" data-label="On the timeline →"></span></p>
+
 ## Overview
 A magic item shop located in [[Ophris]], operated by Myrolox. The shop serves as a purveyor of enchanted goods and magical artifacts to adventurers and wealthy patrons passing through the city. The party conducted a major shopping expedition here during Session 054.
 

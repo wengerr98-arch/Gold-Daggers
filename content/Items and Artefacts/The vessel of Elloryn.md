@@ -13,7 +13,7 @@ The vessel of Elloryn is an item connected to [[Eloryn]]'s Pact of the Djinn war
 
 ## Session Appearances
 
-- Session 069: The vessel linked to [[Eloryn]] is described as destabilizing/leaking during the battle at The Monument.
+- [[Session 069 - Objectives|Session 069]]: The vessel linked to [[Eloryn]] is described as destabilizing/leaking during the battle at The Monument.
 
 ## Known Facts
 

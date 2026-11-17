@@ -11,6 +11,11 @@ publish: true
 
 # Blobbert
 
+<div class="gd-seen"><p><span>Seen in 7 sessions</span> <span>first <a href="../../sessions/session-009">Session 9</a></span> <span>last <a href="../../sessions/session-052---book-of-r'lyeh">Session 52 · Book of R'Lyeh</a></span></p><details><summary>All 7 sessions</summary><ul><li><a href="../../sessions/session-009">Session 9</a></li><li><a href="../../sessions/session-025">Session 25</a></li><li><a href="../../sessions/session-026">Session 26</a></li><li><a href="../../sessions/session-032">Session 32</a></li><li><a href="../../sessions/session-033">Session 33</a></li><li><a href="../../sessions/session-034">Session 34</a></li><li><a href="../../sessions/session-052---book-of-r'lyeh">Session 52</a> <span>Book of R'Lyeh</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=blobbert" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Blobbert is an Imp familiar belonging to [[Eloryn]], known to the Gold Daggers mostly as a grumpy goldfish. He served extensively as a forward scout and assassination delivery vector before being fought and killed by Eloryn herself during the raid on the crab structure beneath Helikonos. After his death he returned to the Waterplane and was rebound to Eloryn's pocket dimension in a transformed form, with his familiar bond taking on new properties.

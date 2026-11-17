@@ -7,6 +7,9 @@ publish: true
 
 # Kryptex
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-012">Session 12</a></span></p></div>
+
+
 ## Known Information
 
 A named puzzle-box device with encoded contents, currently held by [[Barzan Aeducan]]. Three wrong attempts to open it trigger a controlled explosion. Inside are two objects of unknown but adaptive power — their nature appears to change depending on whoever contacts them. It is a campaign-specific prop, not a standard D&D magic item, and was inspected by [[Felix]] in Session 012.

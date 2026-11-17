@@ -7,7 +7,10 @@ publish: true
 
 # Session 035
 
-<p class="session-meta"><span>Session 35</span> <span>Arc 2 · Die Stadt der Messer</span> <span>played 2022-01-15</span></p>
+<p class="session-meta"><span>Session 35</span> <span><a class="gd-arc-link" href="../arcs/arc-2">Arc 2 · Die Stadt der Messer</a></span> <span>played 2022-01-15</span> <span class="gd-tl-link" data-to="timeline" data-q="s=35" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/glargrit"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Glargrit</span></a><a class="gd-chip" href="../entities/npcs/das-letzte-opfer"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Das letzte Opfer</span></a><a class="gd-chip" href="../entities/npcs/radvian"><img class="gd-av" src="../07_protocol-sources/old-image-repository/radvian.webp" alt="" loading="lazy"><span class="gd-chip-name">Radvian</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -97,8 +100,6 @@ In der zweiten Runde wird jedes Team in ein separates Zimmer geführt. Wir solle
 Wir werden alle gefangen genommen, Snix kämpft aber noch, Lorilla wird eine Fliege.
 
 Sie setzen uns auf Stühle, die Zwergin befragt uns. Sie sind Vigilantes? Radvian die Zwergin ist mit dem König aufgewachsen. Sie lassen uns aber dann frei. Sie will einfach, dass wir nichts anrichten.
-
-#  
 
 ## Extracted Summary
 

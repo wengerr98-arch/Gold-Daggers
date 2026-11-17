@@ -5,9 +5,12 @@ modified: '2026-06-22T18:03:35.000Z'
 publish: true
 ---
 
-# Session 004 - Title Unknown
+# Session 004
 
-<p class="session-meta"><span>Session 4</span> <span>Arc 1 · Das Schwarze Gänseblümchen</span></p>
+<p class="session-meta"><span>Session 4</span> <span><a class="gd-arc-link" href="../arcs/arc-1">Arc 1 · Das Schwarze Gänseblümchen</a></span> <span class="gd-tl-link" data-to="timeline" data-q="s=4" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/calboretta"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Calboretta</span></a><a class="gd-chip" href="../entities/npcs/crank"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Crank</span></a><a class="gd-chip" href="../entities/npcs/nedda"><span class="gd-av is-ph" aria-hidden="true">N</span><span class="gd-chip-name">Nedda</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -139,31 +142,6 @@ Burger King Mittagspause
 
 \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_
 \_\_\_\_ \_\_\_ \_
-
-## Extracted Summary
-
-Draft import of Session 004 from the converted protocol source. The session preserves the original protocol text for review and later entity extraction.
-
-## Entities Mentioned
-
-### Player Characters
-- Not extracted in first pass.
-
-### NPCs
-- Not extracted in first pass.
-
-### Locations
-- Not extracted in first pass.
-
-### Factions
-- Not extracted in first pass.
-
-### Items / Titles / Events
-- Not extracted in first pass.
-
-## Open Threads
-
-- Review the source text for campaign-specific entity extraction and canon handling.
 
 <div class="session-nav">
 

@@ -7,11 +7,13 @@ publish: true
 
 # Session 069 - Objectives
 
-<p class="session-meta"><span>Session 69</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-08-17</span></p>
+<p class="session-meta"><span>Session 69</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-08-17</span> <span class="gd-tl-link" data-to="timeline" data-q="s=69" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/npcs/felix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/felix.webp" alt="" loading="lazy"><span class="gd-chip-name">Felix</span></a><a class="gd-chip" href="../entities/npcs/maradak-dreamkiller"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Maradak Dreamkiller</span></a><a class="gd-chip" href="../entities/monsters/dyrrn"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dyrrn</span></a><a class="gd-chip" href="../entities/npcs/yorni"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yorni.webp" alt="" loading="lazy"><span class="gd-chip-name">Yorni</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 069
 <!-- source_heading: # Session 69 - Samstag, 17.August, 2024 -->
 <!-- session_date: 2024-08-17 -->
 
@@ -63,8 +65,6 @@ mer gönd zrogg zom thronsaal. de König esch sech am vorbereite, zieht langasm 
 
 mer group hudle und bespräche met em könig. mer informiere ehn dröbber das de mason wett d'wentergöttin snape, mer händ en mega coole plan gmacht amazing.
 
-![](media/image10.jpg){width="7.480314960629921in" height="5.611111111111111in"}
-
 Ready to fight
 
 mer send em thronsaal und send ahand vo de grafik obe uufgstellt! be de bugbears send healer troops platzierzt wo eus selle prechte!
@@ -77,17 +77,11 @@ mer bechöme en short rest.
 
 mer crackle en wish-bone, ello und leumas. ello öffnets und leumas chas zue tue at will!
 
-![](media/image33.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
 En Armee vo Zombies, Geister und Zombies allne vorah. En ältere Herr, schwarzi robe. MASON.
 
 Es klopft ade Töre. De Felix arrives!
 
 WE WILL MEET MASON IN BATTLE.
-
-![](media/image36.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
-![](media/image32.png){width="7.479166666666667in" height="9.262549212598426in"}
 
 Mer rede metm Mason, er erklärt eus waser vorhet.
 
@@ -107,7 +101,8 @@ Barzan Bless fourth level +1d4
 
 Leumas Longstrider für Elo, Felix und Barzan
 
-[Mason Legendary lightens gravity and almighty Push zum de König weg pushe. König decides to succeed. Legendary Resistance. 6x pro tag!]{.mark}
+==Mason Legendary lightens gravity and almighty Push zum de König weg pushe. König decides to succeed. Legendary Resistance. 6x pro
+tag!==
 
 Felix misty step, cone of cold. 59pts of damage
 
@@ -116,8 +111,6 @@ Lorilla Mooooonbeam, Bear Spirit
 Snix Perception nat 20, D Armee stoht still und de Snix gseht das öppis dor d Armee doreflitzt
 
 es esh d Affefiguuuuur! Stabby stab ufe Aff. Both hit. 38 domage.
-
-![](media/image3.jpg){width="7.480314960629921in" height="9.972222222222221in"}
 
 mer verlönd de mason fight und lönd de Torr und Fixu met ehm lo deale. mer fighte lieber de monkey bem monumänt.
 
@@ -139,7 +132,7 @@ Barzan Hold monster fails, Bless is dropped
 
 Leumas moves closer, Long Strider on himself, bonus action inspo
 
-[Legendary Action he tries to push eloryn, 20 doesn't hiiiiiiit]{.mark}
+==Legendary Action he tries to push eloryn, 20 doesn't hiiiiiiit==
 
 Lorilla GIANT BAT sie well de Aff wegrüere abem podest, leider nix.
 
@@ -152,8 +145,6 @@ BB louft zo de creature, resp. zo de elo. denne thunderstep met de elo und con s
 Eloryn Still stunned :(
 
 soulnados send am appeare
-
-![](media/image27.jpg){width="7.480314960629921in" height="9.972222222222221in"}
 
 Runde 3
 
@@ -185,7 +176,7 @@ Lorilla BAT strength opposed IT WORKS! She drops him 100feet 10d10 domage! 42pt 
 
 Snix stabby staaaab 34pts Schade
 
-[Legendary Action Monkey]{.mark}
+==Legendary Action Monkey==
 
 BB nüt funktionier nütt, komischi energy em ruuum, safe
 
@@ -294,9 +285,6 @@ The party regroups at the meat shredder, receives a message from Yorni, and lear
 ### Locations
 - Meat Shredder
 - Thronsaal
-
-### Factions
-- Not identified
 
 ### Items / Titles / Events
 - Koda

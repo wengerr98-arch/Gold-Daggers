@@ -7,6 +7,11 @@ publish: true
 
 # Stefe
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-026">Session 26</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=stefe" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Stefe is a kobold NPC who disappeared along with three others after the sealed lower tunnel in [[Kobolddorf]] was opened. He is the brother of [[Dave]], giving this disappearance direct relevance to an active companion's backstory.

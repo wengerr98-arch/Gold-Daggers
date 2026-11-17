@@ -17,7 +17,7 @@ The Kletternde Kirche (Climbing Church) is a named church organization reference
 ## Session Appearances
 
 - Session 048: Named in a letter Lorilla reads ("Dr Priester der kletternden Kirche"); the letter is addressed to "M." (possibly Mason). A spy servant describes the priest as "a very difficult person."
-- Session 049: Referenced in the sidecar as an active faction; the group discusses Kletternde Kirche connections in the context of Mason and the broader political situation following the heist.
+- Session 049: Referenced as an active faction; the group discusses Kletternde Kirche connections in the context of Mason and the broader political situation following the heist.
 
 ## Known Facts
 

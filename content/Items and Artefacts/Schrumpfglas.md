@@ -10,6 +10,9 @@ publish: true
 
 # Schrumpfglas
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-093---lured">Session 93 · Lured</a></span></p></div>
+
+
 ## Known Information
 
 The Schrumpfglas (Shrinking Glass) is a magical container that stores items at reduced size. It was used in Session 093 to store the [[Lightning Glass]] shard and was subsequently loaned to [[Dakun]] the blacksmith for his work.
@@ -23,4 +26,4 @@ The Schrumpfglas (Shrinking Glass) is a magical container that stores items at r
 - Function: stores items at reduced size
 - Known contents: [[Lightning Glass]] shard / Blitzshard
 - Loaned to: [[Dakun]] (blacksmith) in Session 093
-- May also have been used to carry [[The Desert Golem]] (noted in Correction Memory S082)
+- May also have been used to carry [[The Desert Golem]]

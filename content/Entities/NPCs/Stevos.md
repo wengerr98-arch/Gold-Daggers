@@ -4,6 +4,12 @@ publish: true
 image: '[[Stevos.webp]]'
 gallery: true
 ---
+
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-052---book-of-r'lyeh">Session 52 · Book of R'Lyeh</a></span> <span>last <a href="../../sessions/session-053---book-of-azatoth">Session 53 · Book of Azatoth</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=stevos" data-label="Follow on the timeline →"></span></p>
+
 ![[Stevos.webp|260]]
 
 

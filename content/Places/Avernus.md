@@ -8,6 +8,11 @@ publish: true
 
 # Avernus
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../sessions/session-096---uferlos">Session 96 · Uferlos</a></span> <span>last <a href="../sessions/session-105">Session 105</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=avernus" data-label="On the timeline →"></span></p>
+
 ## Overview
 Avernus is an infernal plane region accessible from the material plane via an active portal network and by crossing the River Styx with Charon's aid. The landscape is one of desolation and arcane resonance, serving as a strategic mobilization point for infernal forces in a broader coalition forming for a coming conflict. The party first entered Avernus in Session 096 while traversing a route through the Lower Planes guided by Ysra.
 

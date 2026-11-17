@@ -5,9 +5,12 @@ modified: '2026-06-01T15:14:20.000Z'
 publish: true
 ---
 
-# Session 013 - Title Unknown
+# Session 013
 
-<p class="session-meta"><span>Session 13</span> <span>Arc 1 · Das Schwarze Gänseblümchen</span> <span>played 2020-06-21</span></p>
+<p class="session-meta"><span>Session 13</span> <span><a class="gd-arc-link" href="../arcs/arc-1">Arc 1 · Das Schwarze Gänseblümchen</a></span> <span>played 2020-06-21</span> <span class="gd-tl-link" data-to="timeline" data-q="s=13" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-13" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/companions/dave"><img class="gd-av" src="../07_protocol-sources/old-image-repository/dave.webp" alt="" loading="lazy"><span class="gd-chip-name">Dave</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/gladis-gladigator"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Gladis Gladigator</span></a><a class="gd-chip" href="../entities/npcs/herviar"><img class="gd-av" src="../07_protocol-sources/old-image-repository/herviar.webp" alt="" loading="lazy"><span class="gd-chip-name">Herviar</span></a><a class="gd-chip" href="../entities/npcs/alex"><img class="gd-av" src="../07_protocol-sources/old-image-repository/alex.webp" alt="" loading="lazy"><span class="gd-chip-name">Alex</span></a><a class="gd-chip" href="../entities/npcs/arachne"><img class="gd-av" src="../07_protocol-sources/old-image-repository/arachne.webp" alt="" loading="lazy"><span class="gd-chip-name">Arachne</span></a><a class="gd-chip" href="../entities/npcs/aubonne"><img class="gd-av" src="../07_protocol-sources/old-image-repository/aubonne.webp" alt="" loading="lazy"><span class="gd-chip-name">Aubonne</span></a><a class="gd-chip" href="../entities/npcs/embrach"><img class="gd-av" src="../07_protocol-sources/old-image-repository/embrach.webp" alt="" loading="lazy"><span class="gd-chip-name">Embrach</span></a><a class="gd-chip" href="../entities/npcs/greta"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Greta</span></a><a class="gd-chip" href="../entities/npcs/muryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/muryn.webp" alt="" loading="lazy"><span class="gd-chip-name">Muryn</span></a><a class="gd-chip is-extra" href="../entities/npcs/natok"><img class="gd-av" src="../07_protocol-sources/old-image-repository/natok.webp" alt="" loading="lazy"><span class="gd-chip-name">Natok</span></a><a class="gd-chip is-extra" href="../entities/npcs/robin"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Robin</span></a><a class="gd-chip is-extra" href="../entities/npcs/silk"><img class="gd-av" src="../07_protocol-sources/old-image-repository/silk.webp" alt="" loading="lazy"><span class="gd-chip-name">Silk</span></a><a class="gd-chip is-extra" href="../entities/npcs/treth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/treth.webp" alt="" loading="lazy"><span class="gd-chip-name">Treth</span></a></span></div><label class="gd-who-more" for="gd-who-13"><span class="gd-who-plus">+4</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
 
@@ -234,31 +237,6 @@ Juni 2020. -->
 
 \_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_
 \_\_\_ \_ \_\_\_ \_\_\_ \_\_\_ \_
-
-## Extracted Summary
-
-Draft import of Session 013 from the converted protocol source. The session preserves the original protocol text for review and later entity extraction.
-
-## Entities Mentioned
-
-### Player Characters
-- Not extracted in first pass.
-
-### NPCs
-- Not extracted in first pass.
-
-### Locations
-- Not extracted in first pass.
-
-### Factions
-- Not extracted in first pass.
-
-### Items / Titles / Events
-- Not extracted in first pass.
-
-## Open Threads
-
-- Review the source text for campaign-specific entity extraction and canon handling.
 
 <div class="session-nav">
 

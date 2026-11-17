@@ -8,6 +8,9 @@ publish: true
 
 # Chains of the Loyal Hound
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-097---der-mit-der-waage">Session 97 · Der mit der Waage</a></span></p></div>
+
+
 ## Known Information
 
 An ability or artefact tied to [[Cerberus]] and referenced in Session 097. It can bind a creature to its location. Whether this is Cerberus's inherent legendary ability or a distinct named item remains unclear.
@@ -20,4 +23,4 @@ An ability or artefact tied to [[Cerberus]] and referenced in Session 097. It ca
 
 - Effect: can bind a creature to its location
 - Associated with [[Cerberus]] / the loyal hound guardian
-- Status: may be Cerberus's legendary ability, a named campaign item, or a standard mechanic — DM clarification pending
+- Status: may be Cerberus's legendary ability, a named campaign item, or a standard mechanic

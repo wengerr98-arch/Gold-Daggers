@@ -7,6 +7,11 @@ publish: true
 
 # Keftan
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-024">Session 24</a></span> <span>last <a href="../../sessions/session-025">Session 25</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=keftan" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Keftan is an NPC recognised by [[Eloryn]] as the man who tried to pull Leumas away during a gelatinous cube attack. Impressed by his bravery, Eloryn rewarded him with 4 gold and invited him to the [[Tempel (Dalior)|Tempel]], the party's headquarters.

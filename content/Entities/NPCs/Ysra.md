@@ -7,6 +7,11 @@ publish: true
 
 # Ysra
 
+<div class="gd-seen"><p><span>Seen in 4 sessions</span> <span>first <a href="../../sessions/session-094---eine-frage-der-richtigkeit">Session 94 · Eine Frage der Richtigkeit</a></span> <span>last <a href="../../sessions/session-101---1-0-auftakt">Session 101 · 1-0 Auftakt</a></span></p><details><summary>All 4 sessions</summary><ul><li><a href="../../sessions/session-094---eine-frage-der-richtigkeit">Session 94</a> <span>Eine Frage der Richtigkeit</span></li><li><a href="../../sessions/session-095---die-vergessene-schwelle">Session 95</a> <span>Die vergessene Schwelle</span></li><li><a href="../../sessions/session-096---uferlos">Session 96</a> <span>Uferlos</span></li><li><a href="../../sessions/session-101---1-0-auftakt">Session 101</a> <span>1-0 Auftakt</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=ysra" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Ysra is a mysterious figure from [[Bragian]], a historical dwarven city-state later absorbed by [[Ophris]], who was discovered frozen and imprisoned in the ancient sunken city of [[Ylvar]] beneath [[Aarum]]. She was freed by the [[Gold Daggers]] in Session 094, agreed to join the crew, and subsequently served as navigator and guide on their infernal journey. She possesses knowledge of infernal travel cosmology and owns the Brandcreme from [[Jårnfestning]], which serves as a portal destination anchor.

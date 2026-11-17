@@ -16,6 +16,5 @@ The Wheel of Planes is the structured cosmological arrangement of all planes of 
 
 - The Wheel is the standard planar structure of the cosmology; planes are described as bubbles in a void, connected by bridges.
 - Space elves live outside the Wheel of Planes, in regions external to its structure.
-- An old vault image file (`wheel of planes.png`) may contain additional cosmological detail about the Wheel's true structure.
 - [[Deep Wilds]] and [[Limbo]] (the [[Former White Rose]] pocket dimension) may be part of or related to the Wheel.
 - [[The Veil]] serves as the border between the Material Plane and the afterlife within this cosmological framework.

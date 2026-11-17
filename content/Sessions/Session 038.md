@@ -7,7 +7,10 @@ publish: true
 
 # Session 038
 
-<p class="session-meta"><span>Session 38</span> <span>Arc 2 · Die Stadt der Messer</span> <span>played 2022-04-16</span></p>
+<p class="session-meta"><span>Session 38</span> <span><a class="gd-arc-link" href="../arcs/arc-2">Arc 2 · Die Stadt der Messer</a></span> <span>played 2022-04-16</span> <span class="gd-tl-link" data-to="timeline" data-q="s=38" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-38" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/das-letzte-opfer"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Das letzte Opfer</span></a><a class="gd-chip" href="../entities/npcs/ginra"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Ginra</span></a><a class="gd-chip" href="../entities/npcs/aaramit"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Aaramit</span></a><a class="gd-chip" href="../entities/npcs/edri"><span class="gd-av is-ph" aria-hidden="true">E</span><span class="gd-chip-name">Edri</span></a><a class="gd-chip" href="../entities/npcs/grangir"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Grangir</span></a><a class="gd-chip" href="../entities/npcs/jek"><span class="gd-av is-ph" aria-hidden="true">J</span><span class="gd-chip-name">Jek</span></a><a class="gd-chip" href="../entities/npcs/lasla"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Lasla</span></a><a class="gd-chip" href="../entities/npcs/madame-dimdelle"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Madame Dimdelle</span></a><a class="gd-chip is-extra" href="../entities/npcs/scott"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Scott</span></a><a class="gd-chip is-extra" href="../entities/npcs/tec"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Tec</span></a><a class="gd-chip is-extra" href="../entities/npcs/vic"><span class="gd-av is-ph" aria-hidden="true">V</span><span class="gd-chip-name">Vic</span></a></span></div><label class="gd-who-more" for="gd-who-38"><span class="gd-who-plus">+3</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
 
@@ -226,8 +229,6 @@ BB
 Lorilla
 
 Koda
-
-# Weekend Day 1 - Donstag, 19.05.2022
 
 ## Extracted Summary
 

@@ -16,11 +16,11 @@ The Ophris Combat Medics are a group of healers affiliated with the [[Ophris Fac
 
 ## Session Appearances
 
-- Session 069: An unnamed elder dwarf healer (one of this group) revives Koda during the battle. The group is identified as Ophris-affiliated medics deployed to Skjall.
+- [[Session 069 - Objectives|Session 069]]: An unnamed elder dwarf healer (one of this group) revives Koda during the battle. The group is identified as Ophris-affiliated medics deployed to Skjall.
 
 ## Known Facts
 
 - Affiliated with the [[Ophris Faction]]
 - Deployed to [[Skjall]] as combat medics
 - Includes at least one elder dwarf healer (unnamed)
-- The elder dwarf healer revived Koda during the battle in Session 069
+- The elder dwarf healer revived Koda during the battle in [[Session 069 - Objectives|Session 069]]

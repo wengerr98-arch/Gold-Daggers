@@ -7,7 +7,10 @@ publish: true
 
 # Session 088 - the first big choice
 
-<p class="session-meta"><span>Session 88</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2025-06-14</span></p>
+<p class="session-meta"><span>Session 88</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2025-06-14</span> <span class="gd-tl-link" data-to="timeline" data-q="s=88" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/gilgamesh"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Gilgamesh</span></a><a class="gd-chip" href="../entities/npcs/cetzy"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Cetzy</span></a><a class="gd-chip" href="../entities/gods/succubus"><img class="gd-av" src="../07_protocol-sources/old-image-repository/succubus.webp" alt="" loading="lazy"><span class="gd-chip-name">Succubus</span></a><a class="gd-chip" href="../entities/monsters/urochar"><span class="gd-av is-ph" aria-hidden="true">U</span><span class="gd-chip-name">Urochar</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -32,15 +35,11 @@ Back zo de Cave und mer loufe d'stäge durab!
 
 mer ghöre en Hammerschlag ab und zue wo dur d'halle hallt! unerschrocke loufemer wiiter und mer ghöre öbbis wo en grosse topf omerüehre. De Snix schmöckt brönnte Ton.
 
-![](media/image17.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
 Mer chöme abe und gsänd as erschts mol füess und es esch en chliini figur am drome ome husch. de Snix gseht die person und gseht dass sie en Sarrukh esch, die erschti Humanoide Spezies. Nochfahre send Yuan Ti.
 
 BB Arcana check 17 - gseht us wiene Humunkuli, aber esch schwär zäge.
 
 mer loufe wiiter und wänd eus bemerkbar mache und mer gsähnd zweu neui gstalte. es esch en junge Jetsi und en Sukkubus, wo de brudi Barzan schomol troffe het. Sie esch vom Jorni de Patreon.
-
-![](media/image15.jpg){width="3.388718285214348in" height="4.49224956255468in"}![](media/image2.jpg){width="3.419284776902887in" height="4.511414041994751in"}
 
 fuck yeah!
 
@@ -71,8 +70,6 @@ aber sie erkennt eus ned! sie esch die erschti follower vom Jetsi! de jetsi rede
 sukkubus cheggt wo de barzan erklärt vo wo mer send! und de barzan gspört en schnuuf em äcke!
 
 Jetsi seit zo de Dako, helf ene, aber machs ned zu offesechtlech!
-
-![](media/image16.jpg){width="2.541061898512686in" height="3.388082895888014in"}![](media/image5.jpg){width="2.550016404199475in" height="3.393167104111986in"}![](media/image21.jpg){width="6.236508092738408in" height="6.1705129046369205in"}
 
 Roll initiative:
 

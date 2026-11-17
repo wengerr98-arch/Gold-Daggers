@@ -18,4 +18,4 @@ The Nature House Plane is an extraplanar domain and the current seat of [[Demogo
 - Home to Demogorgon's demonic kingdom and [[Wild Hunt]] forces
 - Campaign-relevant: the Wild Hunt conflict is anchored here
 - Previously Demogorgon occupied [[Fury's Heart]] in the Abyss before relocating to this plane
-- First identified and named by Tautok in Session 077
+- First identified and named by Tautok in [[Session 077 - Results|Session 077]]

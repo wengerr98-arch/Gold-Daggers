@@ -7,6 +7,11 @@ publish: true
 
 # Dariah
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-029">Session 29</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=dariah" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Dariah is a member of the [[Kloster der Herbstgöttin]] community who appears briefly across Sessions 031 and 032. She was part of Gregorius's team in the monastery drinking contest and lost to Leumas. Her role appears limited to these two sessions with no further appearances on record.

@@ -7,11 +7,13 @@ publish: true
 
 # Session 059 - Delusions of a savior
 
-<p class="session-meta"><span>Session 59</span> <span>Arc 3 · Salzwasser</span> <span>played 2024-02-03</span></p>
+<p class="session-meta"><span>Session 59</span> <span><a class="gd-arc-link" href="../arcs/arc-3">Arc 3 · Salzwasser</a></span> <span>played 2024-02-03</span> <span class="gd-tl-link" data-to="timeline" data-q="s=59" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/maradak-dreamkiller"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Maradak Dreamkiller</span></a><a class="gd-chip" href="../entities/npcs/bretok"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Bretok</span></a><a class="gd-chip" href="../entities/npcs/karoth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/karoth.webp" alt="" loading="lazy"><span class="gd-chip-name">Karoth</span></a><a class="gd-chip" href="../entities/npcs/nameo"><img class="gd-av" src="../07_protocol-sources/old-image-repository/nameo.webp" alt="" loading="lazy"><span class="gd-chip-name">Nameo</span></a><a class="gd-chip" href="../entities/npcs/noah"><img class="gd-av" src="../07_protocol-sources/old-image-repository/noah.webp" alt="" loading="lazy"><span class="gd-chip-name">Noah</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 059
 <!-- source_heading: # Session 59 - Samstag, 03, Februar, 2024 -->
 <!-- session_date: 2024-02-03 -->
 
@@ -256,25 +258,14 @@ The group wakes into a new day in Skjall, runs an early dice ritual, and starts 
 - Lorilla
 - Elloryn
 
-### NPCs
-- None explicitly identified in this first-pass draft.
-
 ### Locations
 - Skjall
 - Eingangshalle
 - Thronsaal
 
-### Factions
-- None explicitly identified in this first-pass draft.
-
 ### Items / Titles / Events
 - dice ritual
 - morning setup
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

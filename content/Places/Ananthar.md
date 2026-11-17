@@ -11,7 +11,7 @@ publish: true
 Ananthar is a distant city that the party has identified as a travel destination of strategic importance. First referenced in Session 098 as part of the party's longer-term goals, it remains largely unexplored but represents a significant waypoint or destination in their planar journey. The exact nature of Ananthar—whether it is a major settlement, a planar hub, or a place of specific power—has not yet been revealed.
 
 ## Character
-Details of Ananthar's physical appearance, atmosphere, and environment remain unknown. (Information needed from future sessions or DM clarification.)
+Details of Ananthar's physical appearance, atmosphere, and environment remain unknown.
 
 ## Notable Areas
 None confirmed.

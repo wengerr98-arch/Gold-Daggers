@@ -7,11 +7,13 @@ publish: true
 
 # Session 067
 
-<p class="session-meta"><span>Session 67</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-06-15</span></p>
+<p class="session-meta"><span>Session 67</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-06-15</span> <span class="gd-tl-link" data-to="timeline" data-q="s=67" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/maradak-dreamkiller"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Maradak Dreamkiller</span></a><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/npcs/erasen"><img class="gd-av" src="../07_protocol-sources/old-image-repository/erasen.webp" alt="" loading="lazy"><span class="gd-chip-name">Erasen</span></a><a class="gd-chip" href="../entities/npcs/karoth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/karoth.webp" alt="" loading="lazy"><span class="gd-chip-name">Karoth</span></a><a class="gd-chip" href="../entities/npcs/kiathen"><img class="gd-av" src="../07_protocol-sources/old-image-repository/kiathen.webp" alt="" loading="lazy"><span class="gd-chip-name">Kiathen</span></a><a class="gd-chip" href="../entities/npcs/kuruki"><img class="gd-av" src="../07_protocol-sources/old-image-repository/kuruki.webp" alt="" loading="lazy"><span class="gd-chip-name">Kuruki</span></a><a class="gd-chip" href="../entities/npcs/natok"><img class="gd-av" src="../07_protocol-sources/old-image-repository/natok.webp" alt="" loading="lazy"><span class="gd-chip-name">Natok</span></a><a class="gd-chip" href="../entities/npcs/noah"><img class="gd-av" src="../07_protocol-sources/old-image-repository/noah.webp" alt="" loading="lazy"><span class="gd-chip-name">Noah</span></a><a class="gd-chip" href="../entities/gods/nyx"><img class="gd-av" src="../07_protocol-sources/old-image-repository/nyx.webp" alt="" loading="lazy"><span class="gd-chip-name">Nyx</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 067
 <!-- source_heading: # Session 67 - Samstag, 15.Juni, 2024 -->
 <!-- session_date: 2024-06-15 -->
 
@@ -36,8 +38,6 @@ snix goht met em natok go tanze. lorilla goht met em noah go dance. allgemein d'
 Leumas gseht sin Moment und wott zu de Kuruki. Er nemmt eri Hand und füehrt sie weg.
 
 uuuuuh sie gönd is Sanktum. Mit ere Fläsche Wii und en Picknick Decki.
-
-![](media/image10.jpg){width="5.038591426071741in" height="3.5368383639545056in"}
 
 Kuruki Beschrieb
 
@@ -237,9 +237,6 @@ The party spends time in the Goliath quarter, learns more about the wall and the
 - Sanktum
 - Skjall
 
-### Factions
-- None explicitly identified in this first-pass draft.
-
 ### Items / Titles / Events
 - picknick decki
 - sending
@@ -249,11 +246,6 @@ The party spends time in the Goliath quarter, learns more about the wall and the
 - earthquake
 - moon crisis
 - limbo approach
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

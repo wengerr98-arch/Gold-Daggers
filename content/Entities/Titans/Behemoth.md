@@ -7,6 +7,11 @@ publish: true
 
 # Behemoth
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-080---the-currency-of-class">Session 80 · The currency of class</a></span> <span>last <a href="../../sessions/session-083---knoten">Session 83 · Knoten</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=behemoth" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Behemoth is the Earth Titan, one half of the named titan pair "Leviathan und Behemoth" from Kasta cosmological lore. Named alongside [[Leviathan]] (the Water Titan) via a History check in Session 080, Behemoth is a campaign-specific lore entity — distinct from the generic D&D creature of the same name. Its existence forms part of the cosmological backdrop the party must now actively engage with.

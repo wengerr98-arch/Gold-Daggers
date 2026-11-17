@@ -9,6 +9,9 @@ publish: true
 
 # Medallion of Siaroddin
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-019">Session 19</a></span></p></div>
+
+
 ## Known Information
 
 The Medallion of Siaroddin is a named artefact linked to [[Siaroddin]], the state deity of [[Nolia]]. It appears to have liquid metal or swirling ink beneath its surface, and is valued at approximately 1,000 gold per piece. Most significantly, the medallion does not register on the city's bell-based magic-tracking system, making it invaluable for anyone wishing to avoid magical detection. Multiple individuals are known to carry one: Yorni, two mages, a paladin, and Trev — who is actively learning to reproduce them.

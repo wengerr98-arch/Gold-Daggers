@@ -7,6 +7,11 @@ publish: true
 
 # Limbo
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../../sessions/session-096---uferlos">Session 96 · Uferlos</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=limbo" data-label="On the timeline →"></span></p>
+
 ## Overview
 Limbo is an outer plane serving as both a buffer zone and approach corridor to [[Skjall]]. In the campaign, it functions as a cosmological frontier between the Material Plane and deeper infernal regions—Dr. Mason travelled through it to reach Skjall, and the party itself passed through it as part of a greater infernal journey. Ysra describes Limbo's role in the cosmological geography connecting the planes.
 
@@ -19,5 +24,5 @@ Limbo is an outer plane serving as both a buffer zone and approach corridor to [
 - An unnatural snowstorm from [[Skjall]] extends into Limbo, intensifying near the throne hall
 - A giant snow, ice, and crystal creature has been observed stamping out cold shockwaves in Limbo
 - A blue-black-clad old woman with a black staff was seen on the wall, apparently driving the cold pulses
-- [[Dr. Mason]] was recorded to be approximately three days away via Limbo as of Session 065
+- [[Dr. Mason]] was recorded to be approximately three days away via Limbo as of [[Session 065 - Braiding Strings|Session 065]]
 - [[Maradak Dreamkiller]] and Nameo were tasked with intercepting Mason in Limbo

@@ -10,6 +10,9 @@ publish: true
 
 # Die Reisen von Ervir
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-017">Session 17</a></span></p></div>
+
+
 ## Known Information
 
 *Die Reisen von Ervir* (also known by the earlier spelling *Erwirs Reisen*) is a small picture book about a bard named Ervir who repeatedly encounters kings on his travels. In one memorable episode, a king is found living alone in a countryside hut, having forgotten his own kingdom, and the bard leads him back before the tale resolves itself faster than it began — spanning thirteen kings in total. The book was stolen by [[Snix]] from a glass-roofed library in the Entertainment District during Session 017.

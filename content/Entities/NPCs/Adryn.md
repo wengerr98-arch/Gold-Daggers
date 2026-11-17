@@ -7,6 +7,11 @@ publish: true
 
 # Adryn
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-046">Session 46</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=adryn" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Adryn is a prostitute and informant encountered by [[Eloryn]] in Helikonos. She provided substantial intelligence about city conditions, human workers, escape routes, and confirmed that a rebel group still exists in the city. After [[Eloryn]] explained an escape route to her, she was considering using it herself.

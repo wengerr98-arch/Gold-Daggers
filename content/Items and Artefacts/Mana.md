@@ -10,6 +10,9 @@ publish: true
 
 # Mana
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-079---behemoth,-leviathan-and-the-golem">Session 79 · Behemoth, Leviathan and the Golem</a></span></p></div>
+
+
 ## Known Information
 
 Mana is a handball-sized glowing ball of liquid blue energy extracted by [[Snix]] from inside a destroyed [[Sentinel]] construct in the desert ruins outside [[Kasta]] during Session 079. [[BB]] identified it as "pure essence of life" belonging to no known school of magic, making it a distinct form of energy unlike anything in the standard eight magical schools. Its presence inside the Sentinel suggests that the industrial constructs of the Forgotten War era were powered by pure life essence, possibly connected to the tower-machines described in *[[Die Wege zur Industriellen Nutzung von Magie]]* that harvest ambient life force and emotions.

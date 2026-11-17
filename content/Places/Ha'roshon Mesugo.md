@@ -9,6 +9,11 @@ publish: true
 
 # Ha'roshon Mesugo
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../sessions/session-083---knoten">Session 83 · Knoten</a></span> <span>last <a href="../sessions/session-084---chain-links">Session 84 · chain-links</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=ha'roshon-mesugo" data-label="On the timeline →"></span></p>
+
 ## Overview
 Ha'roshon Mesugo (meaning "First of its Kind") is an ancient desert ruin serving as a ritual and religious site connected to a pre-existing continental civilization. Located deep in the desert, it is reached via star map navigation and features a complex of sacred structures centered around washing and burning rituals tied to the Sonneouge symbol.
 
@@ -28,7 +33,7 @@ A sprawling ruin of stone obelisks and weathered architecture, the site evokes a
 
 ## Known Facts
 - Name translates as "First of its Kind" (confirmed from session context).
-- Located in the desert; accessed via star map derived from Session 083 puzzle scroll.
+- Located in the desert; accessed via star map derived from [[Session 083 - Knoten|Session 083]] puzzle scroll.
 - Contains metal obelisks (non-magical), a wanne/pool (washing basin), a burning site with paper fragments ("Shame Notes," Shame Zedeli), and a temple with upper story.
 - Guarded by two entities: the sand Golem and the [[Tomb Tapper]].
 - The party performed an ancient burning-and-washing ritual here (Session 083), completing the site's ceremonial requirement.

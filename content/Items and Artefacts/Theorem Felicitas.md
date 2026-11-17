@@ -13,11 +13,11 @@ Theorem Felicitas is a book discovered during the Session 049 heist of the [[Zen
 
 ## Session Appearances
 
-- Session 049: Discovered in the vault during the heist; reveals [[Dr. Mason]]'s deep involvement with [[Felix]]'s curse.
+- [[Session 049 - Crime against the currency (The Heist)|Session 049]]: Discovered in the vault during the heist; reveals [[Dr. Mason]]'s deep involvement with [[Felix]]'s curse.
 
 ## Known Facts
 
 - Found in a vault during the [[Zentralbank]] heist
 - Written by or commissioned by [[Dr. Mason]]
 - Subject matter: [[Felix]]'s curse and Mason's attempts to break it
-- Origin: Session 049
+- Origin: [[Session 049 - Crime against the currency (The Heist)|Session 049]]

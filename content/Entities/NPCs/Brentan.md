@@ -7,6 +7,11 @@ publish: true
 
 # Brentan
 
+<div class="gd-seen"><p><span>Seen in 5 sessions</span> <span>first <a href="../../sessions/session-010">Session 10</a></span> <span>last <a href="../../sessions/session-056---teen-robin,-felix-shenanigns">Session 56 · Teen Robin, Felix Shenanigns</a></span></p><details><summary>All 5 sessions</summary><ul><li><a href="../../sessions/session-010">Session 10</a></li><li><a href="../../sessions/session-017">Session 17</a></li><li><a href="../../sessions/session-050---20'000-leagues">Session 50</a> <span>20'000 Leagues</span></li><li><a href="../../sessions/session-052---book-of-r'lyeh">Session 52</a> <span>Book of R'Lyeh</span></li><li><a href="../../sessions/session-056---teen-robin,-felix-shenanigns">Session 56</a> <span>Teen Robin, Felix Shenanigns</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=brentan" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Brentan is an ancient, extraordinarily strong dwarf folk hero, freed from Dr. Mason's basement dungeon in Session 010. He is the uncle of Sixt and a grandfather figure to Brovin's community in Lerchen. Goliath archival texts at Sanktum Elend identify him as the only known person to have entered the Wild Hunt and returned alive. Roughly 200–300 years ago he participated in a lethal survival tournament in [[Skjall]], defeated a massive monster behind a special door, and walked away — an event that shapes the party's understanding of the Wall's activation mystery.

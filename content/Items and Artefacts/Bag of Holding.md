@@ -9,6 +9,9 @@ publish: true
 
 # Bag of Holding
 
+<div class="gd-seen"><p><span>Mentioned in 7 sessions</span> <span>first <a href="../sessions/session-012">Session 12</a></span> <span>last <a href="../sessions/session-052---book-of-r'lyeh">Session 52 · Book of R'Lyeh</a></span></p><details><summary>All 7 sessions</summary><ul><li><a href="../sessions/session-012">Session 12</a></li><li><a href="../sessions/session-020">Session 20</a></li><li><a href="../sessions/session-029">Session 29</a></li><li><a href="../sessions/session-030">Session 30</a></li><li><a href="../sessions/session-042">Session 42</a></li><li><a href="../sessions/session-047">Session 47</a></li><li><a href="../sessions/session-052---book-of-r'lyeh">Session 52</a> <span>Book of R'Lyeh</span></li></ul></details></div>
+
+
 ## Known Information
 
 A Bag of Holding belonging to [[Lorilla]], used as persistent party-critical storage equipment. First confirmed in Session 012 when Robin returned party belongings from it. As of Session 047, the party holds at least two Bags of Holding — a second was recovered from under the city administration office.

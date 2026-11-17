@@ -10,6 +10,9 @@ publish: true
 
 # Heart of the Wilde Hunt
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-077---results">Session 77 · Results</a></span></p></div>
+
+
 ## Known Information
 
 The heart of the [[Wild Hunt]], described by Tautok in Session 077 as a small portable mushroom. This is a campaign-critical item: "S'Herz vo de Wildhunt! Es esh en chliine Pilz! Portabel!" (The Heart of the Wild Hunt! It is a small mushroom! Portable!). Its full significance to the Wild Hunt's power and the party's objectives has yet to be determined.

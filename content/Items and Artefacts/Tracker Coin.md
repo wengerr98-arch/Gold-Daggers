@@ -10,6 +10,9 @@ publish: true
 
 # Tracker Coin
 
+<div class="gd-seen"><p><span>Mentioned in 2 sessions</span> <span>first <a href="../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106 · 3 legendary items &amp; 3 legendary gspröch</a></span> <span>last <a href="../sessions/session-107">Session 107</a></span></p></div>
+
+
 ## Known Information
 
 [[Yorni]] secretly enchanted one of the Gold Daggers' coins as a tracking device, allowing him to know the party's location at all times. The party discovered this in Session 106 via an Arcana check (22) — identified as "Warlock Stuff with a tracker coin." [[Barzan Aeducan]] returned Yorni's money (including the coin) when the party gave [[Erkas]] back. In Session 107, Barzan attempted to dispel the tracking magic with various numerical inputs, all of which failed. Current status of the tracker is unknown.

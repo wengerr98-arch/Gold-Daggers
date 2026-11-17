@@ -7,6 +7,11 @@ publish: true
 
 # Der silberne Vorhang
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../sessions/session-015">Session 15</a></span> <span>last <a href="../sessions/session-020">Session 20</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=der-silberne-vorhang" data-label="On the timeline →"></span></p>
+
 ## Overview
 Der silberne Vorhang is an expensive, high-end hotel in [[Dalior]], situated at the highest point of the floor plate—a commanding position in the city. The establishment caters to wealthy guests and provides upscale accommodation, fine dining, and refined atmosphere.
 
@@ -24,7 +29,7 @@ None confirmed.
 - Expensive, high-end hotel in [[Dalior]].
 - Located at the highest point of the floor plate (elevated position within the city).
 - Features a fine dining restaurant.
-- The Gold Daggers deactivated the Lichblumen (glow-flowers) from this location and set off fireworks over the Entertainment District.
+- The Gold Daggers deactivated the Lichblumen (glow-flowers) from this location and set off fireworks over the [[Entertainment District (Dalior)|Entertainment District]].
 - Guests are expected to wear fine clothes and observe formal dining etiquette.
 
 ## First Appearance

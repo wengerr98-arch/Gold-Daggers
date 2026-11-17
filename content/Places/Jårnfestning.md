@@ -14,7 +14,7 @@ publish: true
 Jårnfestning (the Iron Fortress) is an independent island enclave accessible via a planar portal. Once connected to the mainland, contact was severed approximately 50 years ago, and its current state remains unknown. The island is known for its production of valuable resources, particularly iron and [[Kaltstahl]], and hosts a diverse population of humanoid races with their own culture and governance.
 
 ## Character
-A rough, industrial realm. The island's inhabitants describe it as superior to the mainland, with distinctive dark reddish and bluish eggs found there, suggesting unique native fauna. The architecture and scale suggest a well-established community capable of resource production. (Details on atmosphere and architecture drawn from limited sidecar references; more confirmation needed on climate, building style, and day-to-day culture.)
+A rough, industrial realm. The island's inhabitants describe it as superior to the mainland, with distinctive dark reddish and bluish eggs found there, suggesting unique native fauna. The architecture and scale suggest a well-established community capable of resource production.
 
 ## Notable Areas
 None confirmed.

@@ -7,7 +7,10 @@ publish: true
 
 # Session 051 - Book of Yavin
 
-<p class="session-meta"><span>Session 51</span> <span>Arc 3 · Salzwasser</span> <span>played 2023-05-11</span></p>
+<p class="session-meta"><span>Session 51</span> <span><a class="gd-arc-link" href="../arcs/arc-3">Arc 3 · Salzwasser</a></span> <span>played 2023-05-11</span> <span class="gd-tl-link" data-to="timeline" data-q="s=51" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/companions/loid"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Loid</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/shen"><img class="gd-av" src="../07_protocol-sources/old-image-repository/shen.webp" alt="" loading="lazy"><span class="gd-chip-name">Shen</span></a><a class="gd-chip" href="../entities/titans/the-titan"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">The Titan</span></a><a class="gd-chip" href="../entities/npcs/achmed"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Achmed</span></a><a class="gd-chip" href="../entities/npcs/joldos"><span class="gd-av is-ph" aria-hidden="true">J</span><span class="gd-chip-name">Joldos</span></a><a class="gd-chip" href="../entities/npcs/olfos"><span class="gd-av is-ph" aria-hidden="true">O</span><span class="gd-chip-name">Olfos</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -97,8 +100,6 @@ Loid hat auch Angst, neue Portale gehen auf, weitere Schiffe erscheinen.
 
 THE MAP IS OUT
 
-![](media/image13.jpg){width="5.354166666666667in" height="4.362450787401575in"}
-
 Die Boote gehen in Formation, wir gehen mal mit dem Flow.
 
 Lorilla, Snix, BB gehen je an eine Kanone.
@@ -119,7 +120,7 @@ Lorilla, Snix, BB und Leumas gehen je an eine Kanone und wir machen uns parat de
 
 WE FIGHT
 
-[Initiative]{.mark}
+==Initiative==
 
 Eloryn
 

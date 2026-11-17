@@ -10,6 +10,9 @@ publish: true
 
 # Card no 4
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-019">Session 19</a></span></p></div>
+
+
 ## Known Information
 
 A flying numbered card (no. 4) that [[BB]] grabbed during Session 019. Upon grabbing it she immediately vanished and found herself in an open field — a dramatic session-ending event. The card number implies it is part of a set and is likely connected to [[BB's Tarot Cards]].

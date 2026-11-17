@@ -7,11 +7,13 @@ publish: true
 
 # Session 096 - Uferlos
 
-<p class="session-meta"><span>Session 96</span> <span>Arc 5 · Höllenfahrt</span> <span>played 2026-02-06</span></p>
+<p class="session-meta"><span>Session 96</span> <span><a class="gd-arc-link" href="../arcs/arc-5">Arc 5 · Höllenfahrt</a></span> <span>played 2026-02-06</span> <span class="gd-tl-link" data-to="timeline" data-q="s=96" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/companions/calamitas"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Calamitas</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/charon"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Charon</span></a><a class="gd-chip" href="../entities/monsters/cerberus"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Cerberus</span></a><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/npcs/levistus"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Levistus</span></a><a class="gd-chip" href="../entities/npcs/ysra"><span class="gd-av is-ph" aria-hidden="true">Y</span><span class="gd-chip-name">Ysra</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 096 - Uferlos
 <!-- source_heading: # D&D Session 96 - Freitag, 06. Februar 2026 -->
 <!-- session_date: 2026-02-06 -->
 <!-- table_notes: 831 p.b. \| Sommer \| Aarum -->
@@ -131,8 +133,6 @@ De Mason het die Törre/Obeliks boue und mer send weder am Ufer vom Fluss.
 Und mer gsähnd en grosse hässige hund.
 
 Do startemer s'nöchschte mol:
-
-![](media/image16.jpg){width="6.4950787401574805in" height="8.666666666666666in"}
 
 
 ## Extracted Summary

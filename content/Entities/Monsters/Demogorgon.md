@@ -11,6 +11,11 @@ publish: true
 
 # Demogorgon
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-077---results">Session 77 · Results</a></span> <span>last <a href="../../sessions/session-091">Session 91</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=demogorgon" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Demogorgon is the Prince of the Abyss, an enormous two-headed demon approximately 18 feet tall. His two heads are named **Aemul** (left — charismatic and intelligent) and **Hethradiah** (right — feral, chaos-seeking, resistant to separation). He was formerly based at [[Fury's Heart]] in the Abyss but relocated his demonic kingdom to the [[Nature House Plane]].

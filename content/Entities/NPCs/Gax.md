@@ -8,6 +8,11 @@ gallery: true
 
 # Gax
 
+<div class="gd-seen"><p><span>Seen in 5 sessions</span> <span>first <a href="../../sessions/session-025">Session 25</a></span> <span>last <a href="../../sessions/session-054---under-the-water,-just-killed-watergod">Session 54 · Under the water, just killed Watergod</a></span></p><details><summary>All 5 sessions</summary><ul><li><a href="../../sessions/session-025">Session 25</a></li><li><a href="../../sessions/session-026">Session 26</a></li><li><a href="../../sessions/session-027">Session 27</a></li><li><a href="../../sessions/session-028">Session 28</a></li><li><a href="../../sessions/session-054---under-the-water,-just-killed-watergod">Session 54</a> <span>Under the water, just killed Watergod</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=gax" data-label="Follow on the timeline →"></span></p>
+
 ![[Gax.webp|260]]
 
 ## Known Information

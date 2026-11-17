@@ -9,6 +9,9 @@ publish: true
 
 # Ring of Bone Growth (Snix)
 
+<div class="gd-seen"><p><span>Mentioned in 4 sessions</span> <span>first <a href="../sessions/session-012">Session 12</a></span> <span>last <a href="../sessions/session-029">Session 29</a></span></p><details><summary>All 4 sessions</summary><ul><li><a href="../sessions/session-012">Session 12</a></li><li><a href="../sessions/session-022">Session 22</a></li><li><a href="../sessions/session-028">Session 28</a></li><li><a href="../sessions/session-029">Session 29</a></li></ul></details></div>
+
+
 ## Known Information
 
 The Ring of Bone Growth is a supernatural binding manifesting on [[Snix]]'s hand as a reddish-metallic ring fused to the bone, formed as bone growth after the smoky figure [[Das letzte Opfer]] visited Snix. It is connected to [[The Eight Swords]] set and to [[Das letzte Opfer]]'s broader claim over the eight sword-bearers and their marks. [[Das letzte Opfer]] has stated that [[Dr. Mason]] created both the ring and the [[Combustion Sword]].

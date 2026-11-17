@@ -7,6 +7,11 @@ publish: true
 
 # Haus am See
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../sessions/session-001">Session 1</a></span> <span>last <a href="../sessions/session-002">Session 2</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=haus-am-see" data-label="On the timeline →"></span></p>
+
 ## Overview
 Haus am See (German: "house at the lake") is a residential structure situated on the shore of a lake. The building has served as a sanctuary for various inhabitants and contains furnishings and personal effects of value, suggesting it was once or still is a dwelling of some consequence.
 

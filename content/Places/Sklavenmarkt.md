@@ -10,6 +10,11 @@ publish: true
 
 # Sklavenmarkt
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-005">Session 5</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=sklavenmarkt" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Sklavenmarkt (Slave Market) is a public venue located on the Zweite Platte (second plateau) in [[Dalior]]. It is the primary slave trading location in the city, specializing in the sale of unusual and rare races — virtually anyone except humans. The location serves as both a marketplace and a seat of official city authority during sales events.
 

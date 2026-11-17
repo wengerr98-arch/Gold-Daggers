@@ -9,6 +9,11 @@ publish: true
 
 # Oda
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-101---1-0-auftakt">Session 101 · 1-0 Auftakt</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=oda" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Oda (also known as Dako) is a bear shifter who serves as the helper and companion of [[Gilgamesh]]. Encountered 6,000 years in the past at Gilgamesh's Workshop, Oda became frightened during the party's confrontation and fled alongside Gilgamesh via Thunderstep. Whether Oda is a historical figure from that era or remains active in the present timeline is unknown.

@@ -7,6 +7,11 @@ publish: true
 
 # Ereshkigal
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-087">Session 87</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=ereshkigal" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Ereshkigal is an ancient deity encountered in campaign lore, paired with [[Nergal]] as his consort ("sini Frou"). She is associated with a shrine situated beside a lake near the same mountain site as Nergal's shrine, at an ancient settlement complex that predates the campaign calendar. Both she and Nergal appear to be pre-calendar deities tied to the desert gate complex and ancient Genasi/ley-line history.

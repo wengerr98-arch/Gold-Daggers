@@ -8,6 +8,9 @@ publish: true
 
 # Blade of Avernus
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-105">Session 105</a></span></p></div>
+
+
 ## Known Information
 
 The Blade of Avernus is a Legendary Vorpal Sword artifact — a cursed longsword comparable to the R'lhey Schwert. Barzan was trying it out in Session 105 after it was acquired as Avernus loot. Full curse mechanics not yet fully explored.

@@ -9,6 +9,11 @@ publish: true
 
 # Glargrit
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-035">Session 35</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=glargrit" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Glargrit is a smith and craftsperson operating in the Industrie Distrikt of Shicla within [[Ophris]], notable for glowing eyes and a bushy beard. He works alone and is renowned for exceptional metalwork — most significantly, he forged [[Koda]]'s Dragon-Horn Hammer from the horn and spine of the dragon [[Akaresh]], a major campaign milestone. He also offered to reshape [[Leumas]]'s dagger into a stiletto, and was working on a metal backpack when the party first visited.

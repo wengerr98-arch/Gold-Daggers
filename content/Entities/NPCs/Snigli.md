@@ -9,6 +9,11 @@ publish: true
 
 # Snigli
 
+<div class="gd-seen"><p><span>Seen in 4 sessions</span> <span>first <a href="../../sessions/session-089---nine-futures">Session 89 · nine futures</a></span> <span>last <a href="../../sessions/session-095---die-vergessene-schwelle">Session 95 · Die vergessene Schwelle</a></span></p><details><summary>All 4 sessions</summary><ul><li><a href="../../sessions/session-089---nine-futures">Session 89</a> <span>nine futures</span></li><li><a href="../../sessions/session-090">Session 90</a></li><li><a href="../../sessions/session-091">Session 91</a></li><li><a href="../../sessions/session-095---die-vergessene-schwelle">Session 95</a> <span>Die vergessene Schwelle</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=snigli" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Snigli is a kobold NPC and confirmed sibling of [[Snix]], closely resembling her. She first appeared in Snix's future vision as an opponent in an arena fight at an old gravel mine (alte Kiesmine) surrounded by roughly 100 kobolds. Snigli has been trapped in [[Pandemonium]] for a significant period, and by Session 091 the two siblings appear to have stabilised a bond through a switching event.

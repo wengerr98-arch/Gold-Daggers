@@ -7,6 +7,9 @@ publish: true
 
 # Returning Tattoo
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-051---book-of-yavin">Session 51 · Book of Yavin</a></span></p></div>
+
+
 ## Known Information
 
 The Returning Tattoo is a magical tattoo that allows its bearer to recall a non-living object at the end of an action. It was originally found on the dead body of Olfos at the ocean floor and was retrieved by Eloryn. BB painted the tattoo onto Koda's hand in Session 051, after which it began to glow upon activation.

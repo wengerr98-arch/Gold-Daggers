@@ -9,6 +9,11 @@ publish: true
 
 # Oubliette
 
+<div class="gd-seen"><p><span>Visited in 3 sessions</span> <span>first <a href="../sessions/session-021">Session 21</a></span> <span>last <a href="../sessions/session-023">Session 23</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../sessions/session-021">Session 21</a></li><li><a href="../sessions/session-022">Session 22</a></li><li><a href="../sessions/session-023">Session 23</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=oubliette" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Oubliette is a vast, multi-level underground prison complex approximately 600 metres beneath the city of [[Dalior]], created and operated by [[Dr. Mason]] as an experimental confinement and control system. Originally holding roughly 700 prisoners across three distinct environmental zones, the facility was completely evacuated by the Gold Daggers in Session 023, sparking widespread riots across Dalior's upper levels.

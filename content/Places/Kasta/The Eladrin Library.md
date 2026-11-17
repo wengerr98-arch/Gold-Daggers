@@ -10,6 +10,11 @@ publish: true
 
 # The Eladrin Library
 
+<div class="gd-seen"><p><span>Visited in 3 sessions</span> <span>first <a href="../../sessions/session-081---fussspuren-der-geheimen-titanen">Session 81 · Fussspuren der geheimen Titanen</a></span> <span>last <a href="../../sessions/session-086---chain-links">Session 86 · chain-links</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../../sessions/session-081---fussspuren-der-geheimen-titanen">Session 81</a> <span>Fussspuren der geheimen Titanen</span></li><li><a href="../../sessions/session-085---chain-links">Session 85</a> <span>chain-links</span></li><li><a href="../../sessions/session-086---chain-links">Session 86</a> <span>chain-links</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=the-eladrin-library" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Eladrin Library (also known as Zentralbibliothek or Eladrin Bibliothek) is a major academic and research institution within [[Kasta]]. It serves as a center of magical knowledge and learning, housing extensive collections of books and archives. The library also contains restricted magical infrastructure—including the Blood Archive in its cellar—that binds its users to Kasta's city barrier dome.
 
@@ -25,7 +30,7 @@ A grand, multi-tiered structure of increasing elegance and antiquity as one asce
 
 ## Key Figures
 - [[Brel]]: Wizard instructor in room 207; consulted by party on matters of Titans, Saul, and Diviners
-- Archivistin Teana: Archivist and administrative figure; holds divination knowledge; shocked to learn the party still lives after 400 years of conflict
+- [[Teana|Archivistin Teana]]: Archivist and administrative figure; holds divination knowledge; shocked to learn the party still lives after 400 years of conflict
 - [[Ed]]: Beholder-type guardian behind the steel door
 - [[Og]]: Beholder-type guardian behind the steel door
 

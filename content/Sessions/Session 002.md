@@ -5,9 +5,12 @@ modified: '2026-06-22T18:03:34.000Z'
 publish: true
 ---
 
-# Session 002 - Title Unknown
+# Session 002
 
-<p class="session-meta"><span>Session 2</span> <span>Arc 1 · Das Schwarze Gänseblümchen</span> <span>played 2019-09-14</span></p>
+<p class="session-meta"><span>Session 2</span> <span><a class="gd-arc-link" href="../arcs/arc-1">Arc 1 · Das Schwarze Gänseblümchen</a></span> <span>played 2019-09-14</span> <span class="gd-tl-link" data-to="timeline" data-q="s=2" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">Mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/askot"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Askot</span></a><a class="gd-chip" href="../entities/npcs/thavyra"><img class="gd-av" src="../07_protocol-sources/old-image-repository/thavyra.webp" alt="" loading="lazy"><span class="gd-chip-name">Thavyra</span></a><a class="gd-chip" href="../entities/npcs/yorni"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yorni.webp" alt="" loading="lazy"><span class="gd-chip-name">Yorni</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -35,31 +38,6 @@ mühelig, versteckte Dinge, eher so einbrechen, unentdeckt bleiben
 
 \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_
 \_\_\_\_ \_\_\_ \_
-
-## Extracted Summary
-
-Draft import of Session 002 from the converted protocol source. The session preserves the original protocol text for review and later entity extraction.
-
-## Entities Mentioned
-
-### Player Characters
-- Not extracted in first pass.
-
-### NPCs
-- Not extracted in first pass.
-
-### Locations
-- Not extracted in first pass.
-
-### Factions
-- Not extracted in first pass.
-
-### Items / Titles / Events
-- Not extracted in first pass.
-
-## Open Threads
-
-- Review the source text for campaign-specific entity extraction and canon handling.
 
 <div class="session-nav">
 

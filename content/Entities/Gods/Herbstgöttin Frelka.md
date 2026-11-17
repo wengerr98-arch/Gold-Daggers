@@ -16,9 +16,9 @@ Herbstgöttin Frelka (Autumn Goddess Frelka) is a deity whose monastery, [[Klost
 
 ## Session Appearances
 
-- Session 028: Indirectly referenced — the party is staying at her monastery (Kloster der Herbstgöttin) during this session; listed in the session entity sidecar under uncertainty/manual review.
+- Session 028: Indirectly referenced — the party is staying at her monastery (Kloster der Herbstgöttin) during this session.
 - Session 029: Leumas's divine sense detects the Autumn Goddess present during his storytelling moment at the kobold village burial. The party's stated destination is the Kloster der Herbstgöttin (monastery associated with her).
-- Session 031: Referenced in the sidecar open thread — Leumas is expected to receive guidance from Frelka; her monastery is the site of the harvest feast and the trial that the party undergoes this session.
+- Session 031: Referenced in an open thread — Leumas is expected to receive guidance from Frelka; her monastery is the site of the harvest feast and the trial that the party undergoes this session.
 - Session 033: Barzan defends wearing her religious emblem during interrogation by Don Hor; Leumas argues that Barzan needs the emblem to continue spreading the goddess's word; the emblem becomes an explicit point of tension during the monastery proceedings.
 - Session 041: Leumas meditates and tries to receive a sign from Frelka (Frejlka) but receives none; her silence becomes a source of unresolved tension as Barzan separately contacts the Summer Goddess instead.
 - Session 042: Responds to Barzan's Divine Intervention and fixes the problem with the ceiling and shafts in the Pocket Dimension; her active intervention confirms that she remains reachable by Barzan in Session 042 after her silence in Session 041.

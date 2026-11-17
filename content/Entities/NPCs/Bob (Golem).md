@@ -14,6 +14,11 @@ publish: true
 
 # Bob (Golem)
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-108">Session 108</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=bob-(golem)" data-label="Follow on the timeline →"></span></p>
+
 ## Overview
 
 Bob is a colossal Golem — hundreds of meters tall — with a pyramid on its back that contains [[Anubis]]. Named by [[Abrahim (Ephraim)|Ephraim]], who built it but notes "not like this" — the current form uses different materials than the original design.
@@ -41,10 +46,6 @@ Ephraim explains the Golem was built differently than his original design:
 - A man was involved with the Behemoth component
 - A woman was involved with the Leviathan component
 - A failsafe was built in — this is [[The Monument (Skjall)|the Monument in Skjall]]
-
-## Relationship to Other Entities
-
-**Needs review:** Relationship to [[Enoch]] (Fourth Titan), [[The Desert Golem]], and [[The Titan]] is unclear. May be same entity under different names, or distinct constructs.
 
 ## Known Facts
 

@@ -9,7 +9,7 @@ publish: true
 
 ## Known Information
 
-Trilio is a minor NPC known only through a letter sent to [[BB]] in Session 042. The letter indicates that Trilio knows some traders in [[Aarum]]. No further details have been confirmed.
+Trilio is a minor NPC known only through a letter sent to [[BB]] in Session 042. The letter indicates that Trilio knows some traders in [[Aarum]].
 
 ## Session Appearances
 

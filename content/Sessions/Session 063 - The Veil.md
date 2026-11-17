@@ -7,11 +7,13 @@ publish: true
 
 # Session 063 - The Veil
 
-<p class="session-meta"><span>Session 63</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-03-16</span></p>
+<p class="session-meta"><span>Session 63</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-03-16</span> <span class="gd-tl-link" data-to="timeline" data-q="s=63" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/companions/sadam-salim"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sadam Salim</span></a><a class="gd-chip" href="../entities/companions/arichamov"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Arichamov</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/karoth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/karoth.webp" alt="" loading="lazy"><span class="gd-chip-name">Karoth</span></a><a class="gd-chip" href="../entities/npcs/maradak-dreamkiller"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Maradak Dreamkiller</span></a><a class="gd-chip" href="../entities/npcs/nameo"><img class="gd-av" src="../07_protocol-sources/old-image-repository/nameo.webp" alt="" loading="lazy"><span class="gd-chip-name">Nameo</span></a><a class="gd-chip" href="../entities/npcs/noah"><img class="gd-av" src="../07_protocol-sources/old-image-repository/noah.webp" alt="" loading="lazy"><span class="gd-chip-name">Noah</span></a><a class="gd-chip" href="../entities/gods/ophris"><span class="gd-av is-ph" aria-hidden="true">O</span><span class="gd-chip-name">Ophris</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 063
 <!-- source_heading: # Session 63 - Samstag, 16, März, 2024 -->
 <!-- session_date: 2024-03-16 -->
 
@@ -167,11 +169,9 @@ wir sehen "The Veil" - der Vorhang zwischen Leben und Tod
 
 Er rennt auf auf uns zu aber für BB ist er noch ein wenig durchsichtig, doch wärend er auf uns zu rennt nimmt er form an und wird schärfer.
 
-![](media/image13.jpg){width="5.512038495188102in" height="7.346826334208224in"}
-
 Vorbereitungsrunde.
 
-[Round 1]{.mark}
+==Round 1==
 
 Leumas: Snix inspiration. Greater invisibility.
 
@@ -197,7 +197,7 @@ BB: attack mit bigbis händ und dann noch fireball! aber nur half damage.
 
 Legendary action stomp.
 
-[Round 2]{.mark}
+==Round 2==
 
 Leumas: dimension door mit BB und inspo für BB
 
@@ -215,7 +215,7 @@ Snix: Titty Stab,
 
 BB. stabilize
 
-[Round 3]{.mark}
+==Round 3==
 
 Leumas: 35 death save, does not save
 
@@ -239,7 +239,7 @@ Snix: dash bonus action und fire bolt uf giant
 
 BB: disintegrate! 19 save, boy does'nt save! so it is! 43+40 = 83 punkte schaden!
 
-[Round 4]{.mark}
+==Round 4==
 
 Leumas: death saving throw
 
@@ -259,7 +259,7 @@ Snix: Dash hitss 38 Points
 
 BB: Polymorph on Leumas Giant ape movement
 
-[ROUND 5]{.mark}
+==ROUND 5==
 
 Leumas: Giant ape multiattack one hit crit 42 Points damage
 
@@ -279,7 +279,7 @@ Stat: 168 HP Giant
 
 BB: fireball, no dex save vom giant, somet: 35 punkte schaden!
 
-[ROUND 6]{.mark}
+==ROUND 6==
 
 Leumas: wisdom 17 fail vom giant slowed. half speed -2 AC -2 Dex saves no reactions
 
@@ -392,17 +392,17 @@ I sinre Todeserfahrig damals heter gemerkt das de Tod ned öppis mega shclemms e
 
 Barzan well sech meh uf s Läbe konzentriere. Er denkt zrug a eusi schönste chline Moment, Fröndschafte und leit sini Gier nach Bewusstsii, Bestimmig ab. Weniger sini Rolle sondern eifach är, de Barzan.
 
-[Groll: Sadam legt seinen Groll auf Orks ab.]{.mark}
+==Groll: Sadam legt seinen Groll auf Orks ab.==
 
-[Verbundlosigkeit: Eloryn zu Blobbard und ihrer Familie]{.mark}
+==Verbundlosigkeit: Eloryn zu Blobbard und ihrer Familie==
 
-[Geschichte: Snix meditiert zu seiner Familie und sinre Schwöster woner härchonnt]{.mark}
+==Geschichte: Snix meditiert zu seiner Familie und sinre Schwöster woner härchonnt==
 
-[Ehrlichkeit: Agnes's Death for BB.]{.mark}
+==Ehrlichkeit: Agnes's Death for BB.==
 
-[Verbundenheit: Commitment Issues fixed Leumas.]{.mark}
+==Verbundenheit: Commitment Issues fixed Leumas.==
 
-[Gier: Barzan legt sini Gier nach Bestimmig und Purpose ab.]{.mark}
+==Gier: Barzan legt sini Gier nach Bestimmig und Purpose ab.==
 
 die letschti rune erlüüüchtet wo de barzan ouno sini bestemmig uufgäh het. resp. henderfrögt het. mer bespräche wasmer wänd mache. mer händ longstrider und jump! de barzan macht en Religion check und denne no en wisdom check! mer send ned so bonde wie of de material plane. de barzan verseucht e de luft am loufe. mer fende use dasmer eifach chönne eus bewege wiemer wänd. de barzan schwebt ofe wand zue und er loht sech lo goooh, er loht sech druuf iiiiih! er loht lo go vo sim körperleche dosii und goht eifach dor d'wand dore. mer folge am barzan sim prinzip. mer lönd lo goh vom bode und triibet und schwömmed dor d'loft dore. alli wältleche gsetzt dore. besmer zom thronrum chömed. d'flamme send em thronruum grüen. mer gsähnd en huufe röschtige ome tronruuum ome. fasch chle öberlappend gsähmer om zähn ome es gsecht! (zähn vo de wildhunt) es schiint es fiiins gsecht zsii, schwachs kinn und eher jung.
 
@@ -504,9 +504,6 @@ The group meets Sadam, learns about the wall and the healer Noah, and works thro
 - Dance Hall
 - Healer area
 
-### Factions
-- None explicitly identified in this first-pass draft.
-
 ### Items / Titles / Events
 - Wall
 - Ruby (1000G)
@@ -515,11 +512,6 @@ The group meets Sadam, learns about the wall and the healer Noah, and works thro
 - healer surgery
 - wall status update
 - dream / meditation sequence
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

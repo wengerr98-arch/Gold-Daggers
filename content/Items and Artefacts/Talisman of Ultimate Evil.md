@@ -9,6 +9,9 @@ publish: true
 
 # Talisman of Ultimate Evil
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106 · 3 legendary items &amp; 3 legendary gspröch</a></span></p></div>
+
+
 ## Known Information
 
 The Talisman of Ultimate Evil is a very spiky, intensely evil amulet found on a skeleton inside a small crypt beneath a mountain peak in the far north (Session 106). [[BB]] unearthed it using Mold Earth and picked it up — immediately upon contact her appearance began shifting: her eyes became more evil-looking and her fur/hair wilder. The item has 6 charges and is described as "absolutely crazy."

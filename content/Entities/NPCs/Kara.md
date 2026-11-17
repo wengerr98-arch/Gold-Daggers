@@ -9,6 +9,11 @@ gallery: true
 
 # Kara
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-036">Session 36</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=kara" data-label="Follow on the timeline →"></span></p>
+
 ![[kara.webp|260]]
 
 ## Known Information

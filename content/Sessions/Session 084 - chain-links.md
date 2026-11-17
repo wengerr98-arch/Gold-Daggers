@@ -7,7 +7,10 @@ publish: true
 
 # Session 084 - chain-links
 
-<p class="session-meta"><span>Session 84</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2025-05-19</span></p>
+<p class="session-meta"><span>Session 84</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2025-05-19</span> <span class="gd-tl-link" data-to="timeline" data-q="s=84" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/abrahim-(ephraim)"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Abrahim (Ephraim)</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -17,7 +20,6 @@ publish: true
 ## Titel: chain-links
 
 Protokoll: BB, Leumas
-
 
 
 In Game Location: Kasta
@@ -137,11 +139,6 @@ Antwort von Abraham: A däm punkt fendi en förmlechi vorstellig sinnvoll, min n
 - blue stone
 - Abra inscription
 - scroll
-
-## Open Threads
-
-- Continue following the session-specific lead on the next imported batch.
-- Verify any unclear named figure in later review if it becomes relevant.
 
 <div class="session-nav">
 

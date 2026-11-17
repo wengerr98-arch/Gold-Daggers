@@ -9,6 +9,9 @@ publish: true
 
 # The Desert Golem (Artefact)
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-082---vier-phrasen-der-geschichte">Session 82 · Vier phrasen der geschichte</a></span></p></div>
+
+
 ## Known Information
 
 A massive wizard-created golem, now miniaturised and carried by the party inside a shrinking glass (a skull-shaped glass sphere). Originally a guardian of the buried desert chamber near [[Kasta]], it was shrunk after the party's encounter and is now effectively an artefact in their possession. It was created by the wizard **Jakob**, who sacrificed themselves in the process; its runic coding language was recognised by BB as similar to the [[Golem Contract (Volkams Brauerei)|Goldie golem contract]].

@@ -7,6 +7,9 @@ publish: true
 
 # Calamitas
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-096---uferlos">Session 96 · Uferlos</a></span></p></div>
+
+
 ## Known Information
 
 Calamitas is the ship built by Barzan and [[Bravin]] in the shipyard of the astral sea city and named by Barzan at the end of Session 090. The ship carries the whole party and navigates the Astral Sea back to the Material Plane. The name is a deliberate in-world callback to [[Felix]] (whose alias is Felix Calamitas/Kalamitas) — per DM correction, it is a distinct entity named in his honour, not Felix himself.

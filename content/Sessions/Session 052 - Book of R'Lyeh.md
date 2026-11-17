@@ -7,7 +7,10 @@ publish: true
 
 # Session 052 - Book of R'Lyeh
 
-<p class="session-meta"><span>Session 52</span> <span>Arc 3 · Salzwasser</span> <span>played 2023-05-12</span></p>
+<p class="session-meta"><span>Session 52</span> <span><a class="gd-arc-link" href="../arcs/arc-3">Arc 3 · Salzwasser</a></span> <span>played 2023-05-12</span> <span class="gd-tl-link" data-to="timeline" data-q="s=52" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-52" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/companions/loid"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Loid</span></a><a class="gd-chip" href="../entities/companions/blobbert"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Blobbert</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/akareth"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Akareth</span></a><a class="gd-chip" href="../entities/npcs/stevos"><img class="gd-av" src="../07_protocol-sources/old-image-repository/stevos.webp" alt="" loading="lazy"><span class="gd-chip-name">Stevos</span></a><a class="gd-chip" href="../entities/npcs/ahmed"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Ahmed</span></a><a class="gd-chip" href="../entities/gods/azatoth"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Azatoth</span></a><a class="gd-chip" href="../entities/npcs/brentan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Brentan</span></a><a class="gd-chip" href="../entities/npcs/bronils"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Bronils</span></a><a class="gd-chip" href="../entities/npcs/brovir"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Brovir</span></a><a class="gd-chip" href="../entities/npcs/kevos"><img class="gd-av" src="../07_protocol-sources/old-image-repository/kevos.webp" alt="" loading="lazy"><span class="gd-chip-name">Kevos</span></a><a class="gd-chip is-extra" href="../entities/npcs/kodos"><img class="gd-av" src="../07_protocol-sources/old-image-repository/kodos.webp" alt="" loading="lazy"><span class="gd-chip-name">Kodos</span></a><a class="gd-chip is-extra" href="../entities/npcs/mahlyn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/mahlyn.webp" alt="" loading="lazy"><span class="gd-chip-name">Mahlyn</span></a><a class="gd-chip is-extra" href="../entities/npcs/millie"><img class="gd-av" src="../07_protocol-sources/old-image-repository/millie.webp" alt="" loading="lazy"><span class="gd-chip-name">Millie</span></a><a class="gd-chip is-extra" href="../entities/npcs/morlos"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Morlos</span></a><a class="gd-chip is-extra" href="../entities/npcs/navos"><img class="gd-av" src="../07_protocol-sources/old-image-repository/navos.webp" alt="" loading="lazy"><span class="gd-chip-name">Navos</span></a><a class="gd-chip is-extra" href="../entities/npcs/uthrin"><img class="gd-av" src="../07_protocol-sources/old-image-repository/uthrin.webp" alt="" loading="lazy"><span class="gd-chip-name">Uthrin</span></a><a class="gd-chip is-extra" href="../entities/npcs/yazi"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yazi.webp" alt="" loading="lazy"><span class="gd-chip-name">Yazi</span></a></span></div><label class="gd-who-more" for="gd-who-52"><span class="gd-who-plus">+7</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
 
@@ -77,8 +80,6 @@ End for Today (11.5.23)
 
 Restarting the session! Okaaaay, let's go! (12.05.23)
 
-![](media/image3.png){width="1.6115080927384078in" height="0.8799682852143482in"}
-
 Roommates (quasi) -\> Snix, Barzan und BB. Barzan hat in der Nacht das Gefühl, dass ihm etwas den Atem klaut. Als er aufwacht, bemerkt er eine schwarze Nebelgestalt über ihm. Vermutlich von Snix dings da. Baaaam Barzan castet True Seeing.
 
 Snix riecht ebenfalls den Rauch. Snix wacht auf und erkennt es im Schlaf und hält seine Messer nahe bei ihm. Beim Aufwachen befindet er sich nicht im Zimmer, aber in der Wüste mit Statuen und schwebenden Ketten und Sandsturm. 2 Schemen: Kleinere und grössere Form. Snix rennt los auf die Gestalten. Statuen kommen immer wieder in den Weg, er rennt jedoch immer weiter. Statuen zerbröseln beim Kontakt. Trotz all dem Rennen kommt er nicht näher an die Gestalten. Messerhafte Schatten.
@@ -125,7 +126,7 @@ Koda nailed weiterhin die Rissschliessung.
 
 Aber, es kommen nochmals zwei Tentakel raus. Koda schneidet das Tentakel gleich mit dem Riss durch. Ein weiterer zielt auf Lorilla aka Ancient Wale, aber wunderbar abgewehrt! einfach herrlich, wie es läuft.
 
-auf den letzten Metern zieht es Koda in die Waterplane, aber sie konnte sich gleich noch retten mit einem nicen move. plötzlich schnellen Tentakel aus dem Riss und ziehen den Riss wieder auf ( oh no ) aber Koda und Lorilla Regeln. Tentakeln werden in ihre Plane zurück geballert! Riss ist zu!!![](media/image2.png){width="0.8838976377952756in" height="0.8838976377952756in"}
+auf den letzten Metern zieht es Koda in die Waterplane, aber sie konnte sich gleich noch retten mit einem nicen move. plötzlich schnellen Tentakel aus dem Riss und ziehen den Riss wieder auf ( oh no ) aber Koda und Lorilla Regeln. Tentakeln werden in ihre Plane zurück geballert! Riss ist zu!!
 
 Wir inspizieren Leumas' Rüstung. BB kann sie aus der Wand entfernen. Leumas hat wieder all seine Sachen. Auch die Schrumpfgläser, Schnaps, unser Auto, unsere Küche etc. Vieles geht in den Bag of holding bei BB.
 
@@ -236,8 +237,6 @@ Wir prüfen ob wir direkt in's Loch können - und ja, wir können!
 Wir sind super sneakie und huschen darunter. Einer nach dem anderen. Wir sind in einem langen Tunnel und dieser ist sehr dunkel. Wir gehen durch die Kruste der Krabbe und es geht weiter durch die Innereien. Nach einem guten Stück kommen wir aus der Krabbe unten wieder Raus. Wir sehen eine Mini-Schlucht, in dieser ist eine schwarze Masse, die goldig flickert.
 
 He brings de Map:
-
-![](media/image9.jpg){width="7.479166666666667in" height="6.65504593175853in"}
 
 No one is there. Es scheint verlassen. Wir schauen uns um und es scheint nicht's zu passieren.
 
@@ -365,9 +364,6 @@ The party kills the prisoners, returns to the harbor, repairs and remodels the b
 - harbor
 - boat
 - Helikonos
-
-### Factions
-- None explicitly named
 
 ### Items / Titles / Events
 - Boat layout

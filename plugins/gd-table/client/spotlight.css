@@ -1,0 +1,43 @@
+/* Spotlight: one portrait, full screen. The stage is always dark, in both themes. */
+.gdt-showbar { margin: -0.4rem 0 1rem; }
+.gdt-stage {
+  position: fixed; inset: 0; z-index: 9999; background: #0b0a08; color: #d8d0bf;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  touch-action: manipulation; user-select: none; -webkit-user-select: none;
+}
+.gdt-stage-fig { flex: 1 1 auto; min-height: 0; width: 100%; display: flex; align-items: center; justify-content: center; padding: 1.2rem 1.2rem 0; box-sizing: border-box; }
+.gdt-stage-fig img { max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 2px; margin: 0; filter: none; }
+.gdt-stage-name {
+  flex: 0 0 auto; margin: 0; padding: 0.7rem 1rem 3.6rem; text-align: center;
+  font-family: var(--headerFont); font-size: clamp(1.6rem, 4.2vw, 3.4rem); letter-spacing: 0.02em; line-height: 1.15; color: #e8e0cf;
+}
+.gdt-stage.is-dark .gdt-stage-fig, .gdt-stage.is-dark .gdt-stage-name, .gdt-stage.no-names .gdt-stage-name { visibility: hidden; }
+.gdt-stage-ctl {
+  position: absolute; left: 0; right: 0; bottom: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.4rem;
+  padding: 0.6rem 0.6rem calc(0.6rem + env(safe-area-inset-bottom, 0px)); transition: opacity 0.4s ease;
+}
+.gdt-stage.is-idle .gdt-stage-ctl { opacity: 0; }
+.gdt-stage.is-idle { cursor: none; }
+.gdt-stage-ctl button {
+  font-family: var(--codeFont); font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase;
+  color: #a39a88; background: rgba(11, 10, 8, 0.7); border: 1px solid #3a352d; border-radius: 2px;
+  padding: 0.45rem 0.7rem; min-height: 2.4rem; min-width: 2.6rem; cursor: pointer;
+}
+.gdt-stage-ctl button:hover, .gdt-stage-ctl button[aria-pressed="true"] { color: #e8e0cf; border-color: #6b6354; }
+.gdt-stage-ctl button:focus-visible { outline: 2px solid #a39a88; outline-offset: 2px; }
+
+/* the line-up page */
+.gd-lineup { margin: 1.2rem 0 3rem; }
+.gdt-lu { display: grid; gap: 1.1rem; }
+.gdt-lu-list, .gdt-lu-hits { list-style: none; margin: 0; padding: 0; }
+.gdt-lu-list li, .gdt-lu-hits li { display: flex; align-items: center; gap: 0.7rem; padding: 0.35rem 0; border-bottom: 1px solid var(--lightgray); margin: 0; }
+.gdt-lu-hits li { cursor: pointer; }
+.gdt-lu-hits li:hover .gdt-lu-name { color: var(--secondary); }
+.gdt-lu img { width: 2.6rem; height: 2.6rem; object-fit: cover; object-position: top; border-radius: 2px; margin: 0; flex: 0 0 auto; }
+.gdt-lu-name { flex: 1 1 auto; min-width: 0; font-family: var(--headerFont); font-size: 1.1rem; color: var(--dark); }
+.gdt-lu-no { font-family: var(--codeFont); font-size: 0.72rem; color: var(--gray); width: 1.4rem; text-align: right; }
+.gdt-lu-empty { color: var(--gray); font-style: italic; }
+@media (max-width: 600px) {
+  .gdt-stage-fig { padding: 0.6rem 0.6rem 0; }
+  .gdt-stage-name { padding-bottom: 6.2rem; }
+}

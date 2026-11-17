@@ -12,6 +12,11 @@ publish: true
 
 # Ha-lefaním
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-087">Session 87</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=ha-lefan%C3%ADm" data-label="On the timeline →"></span></p>
+
 ## Overview
 Ha-lefaním is an ancient hidden city located on the far side of a massive stone gate set into the desert mountains. Approximately 6,000 years old, it predates the first world-breaking and remains home to a thriving mixed-race settlement sustained by underground gardens, fields, and water sources fed by ley-line confluence. The site is sacred to the deities Nergal and Ereshkigal, whose shrines mark the gate and lakeshore. Access is guarded by a treacherous pyramid complex with reality-warping properties.
 

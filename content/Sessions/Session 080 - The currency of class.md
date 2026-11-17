@@ -7,11 +7,13 @@ publish: true
 
 # Session 080 - The currency of class
 
-<p class="session-meta"><span>Session 80</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2025-02-15</span></p>
+<p class="session-meta"><span>Session 80</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2025-02-15</span> <span class="gd-tl-link" data-to="timeline" data-q="s=80" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-80" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/mahdi"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Mahdi</span></a><a class="gd-chip" href="../entities/npcs/abrahim-(ephraim)"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Abrahim (Ephraim)</span></a><a class="gd-chip" href="../entities/gods/anubis"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Anubis</span></a><a class="gd-chip" href="../entities/npcs/bader"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Bader</span></a><a class="gd-chip" href="../entities/titans/behemoth"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Behemoth</span></a><a class="gd-chip" href="../entities/npcs/brel"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Brel</span></a><a class="gd-chip" href="../entities/gods/cithrul"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Cithrul</span></a><a class="gd-chip" href="../entities/npcs/dros"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dros</span></a><a class="gd-chip is-extra" href="../entities/npcs/farid"><span class="gd-av is-ph" aria-hidden="true">F</span><span class="gd-chip-name">Farid</span></a><a class="gd-chip is-extra" href="../entities/npcs/ja'kob"><span class="gd-av is-ph" aria-hidden="true">J</span><span class="gd-chip-name">Ja'kob</span></a><a class="gd-chip is-extra" href="../entities/gods/kaldera"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Kaldera</span></a><a class="gd-chip is-extra" href="../entities/npcs/khalid"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Khalid</span></a><a class="gd-chip is-extra" href="../entities/titans/leviathan"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Leviathan</span></a><a class="gd-chip is-extra" href="../entities/npcs/levistus"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Levistus</span></a><a class="gd-chip is-extra" href="../entities/npcs/saman"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Saman</span></a><a class="gd-chip is-extra" href="../entities/npcs/sujo"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sujo</span></a><a class="gd-chip is-extra" href="../entities/npcs/talia"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Talia</span></a></span></div><label class="gd-who-more" for="gd-who-80"><span class="gd-who-plus">+9</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
 
-# Session 080
 <!-- source_heading: # DND Session 80 - Samstag, 15. Februar 2025 -->
 <!-- session_date: 2025-02-15 -->
 
@@ -24,11 +26,9 @@ Protokoll: BB, Leumas
 
 In Game Location: Kasta
 
-![](media/image20.jpg){width="4.111508092738408in" height="4.111508092738408in"}
-
 Efram Abjuration Khalid Illusiion Sarim Enchantement empty
 
-Thalia Evocation Jakob Transmutation Baader Necormancy Farid Conjuration [burgundy]{.mark}
+Thalia Evocation Jakob Transmutation Baader Necormancy Farid Conjuration ==burgundy==
 
 What's next?
 
@@ -75,8 +75,6 @@ Es gett no en chorze Talk zom thema Gottheite. De Barzan frogt: Wennmer jetzte w
 Elo joined de Conversation: wemmer d'artefakt fende, chömmer säge, hälfed ehr eus em chrieg!?
 
 Efraim esch de most powerfull wizard! getts en arch mage, wo meh of ossebziehige luegt und ned nor em eigete Gärtli omewörschtlet? De Khalid, head of illusion - er esch interessiert a handelsbeziehige und osse politische sache.
-
-![](media/image1.jpg){width="2.4597069116360455in" height="3.35744750656168in"}
 
 er wett riicher wärde und meh exportiere! das wäri en guete grond. de gröschti gegner esch de Efraim. mer wänd alles do bhalte und ned nach osse exportiere. D'lorilla frogt öbbmer das echt schaffe wärde, öbber mol för eusi zwäck iisetzte! fetti magic items nach skjall oder nach Ophris. d'Lorilla schloht en spannendi taktik vor, dasmer sälber es problem verursache und de löse und somet felech e chle chönnd als problemlöser uufträtte. Wenn mer en rude wizard gsähnd, dasmerne eifach chlopfe!
 
@@ -180,7 +178,7 @@ die letschte Loxodon loufe vo de zält devooo gooh und d'sonne goht langsam unde
 
 De Leumas raucht eis metme Stei Genasi & sie hänges när i eim vode Sonnedächer obe und luege Stärnebilder ah und de Leumas konzentriert sech uf d Fäde. Ufe Ersti Blick gseht er nüt, aber när luegt er abe und realisiert das alli Genasi Tüecher rot lüüchte als wäre sie us rotem Universumsfade gflochte. De Leumas goht zum Turbin sim Onkel go Tee sueche well er durst het. Sie gönd ame eifach id Wüesti use und luege mau und wenn sie was finde chöme sie zrug. 3 bes 4 Täg id Wüesti hends au sho Unwetter gseh. För Earthgenasis esh Sand chli wie Wasser. Sie travele anders dur d Wüesti.
 
-[[https://www.youtube.com/watch?v=sDEWZnPJGRU&t=2s]{.underline}](https://www.youtube.com/watch?v=sDEWZnPJGRU&t=2s)
+[<u>https://www.youtube.com/watch?v=sDEWZnPJGRU&t=2s</u>](https://www.youtube.com/watch?v=sDEWZnPJGRU&t=2s)
 
 BB redet met em dude vo vorhär und es esch en guete uuustusch. alli send am tanze und es send alli chle en trance!
 

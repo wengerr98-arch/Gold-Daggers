@@ -11,6 +11,11 @@ publish: true
 
 # Asmodeus
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-094---eine-frage-der-richtigkeit">Session 94 · Eine Frage der Richtigkeit</a></span> <span>last <a href="../../sessions/session-102">Session 102</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=asmodeus" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Asmodeus is the King of Hell ("König vo de Höll") and ruler of [[Stygia]], the 5th Circle of Hell. He imprisoned [[Ysra]], a planar cartographer, for an unknown duration prior to Session 094, with her captivity apparently tied to some forgotten conflict or war. The party entered his domain in Session 098, observing that residents of Stygia bear branded sigils as markers of his ongoing control over the plane.

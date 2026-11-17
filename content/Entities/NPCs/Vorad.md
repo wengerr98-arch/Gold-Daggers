@@ -7,6 +7,11 @@ publish: true
 
 # Vorad
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-061---change">Session 61 · Change</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=vorad" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Vorad was the legendary first King of the Wall of [[Skjall]], a Goliath ruler who also commanded Giants. He is the foundational figure behind the deep belief system linking death, the [[Wild Hunt]], and the [[Wintergöttin]], establishing the necromantic-energy framework that underpins Skjall's culture and the Wall's magical workings. His existence and deeds are recorded in archive texts found at the Sanktum Elend, Skjall's ancient Goliath archive; he is deceased and regarded as a legendary historical figure.

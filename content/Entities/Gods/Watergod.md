@@ -13,10 +13,10 @@ The Watergod is an entity referenced in the title of Session 054 ("Under the wat
 
 ## Session Appearances
 
-- Session 054: Named only in session title ("Under the water, just killed Watergod"). Combat already concluded; no in-session description of the entity.
+- [[Session 054 - Under the water, just killed Watergod|Session 054]]: Named only in session title ("Under the water, just killed Watergod"). Combat already concluded; no in-session description of the entity.
 
 ## Known Facts
 
-- Killed by the party at approximately the end of Session 053 / start of Session 054.
+- Killed by the party at approximately the end of [[Session 053 - Book of Azatoth|Session 053]] / start of [[Session 054 - Under the water, just killed Watergod|Session 054]].
 - Referenced in connection with the Waterplane or an underwater encounter.
 - Possible candidate identity: the Aboleth encountered at the lake passage.

@@ -5,9 +5,12 @@ modified: '2026-06-22T18:03:34.000Z'
 publish: true
 ---
 
-# Session 003 - Title Unknown
+# Session 003
 
-<p class="session-meta"><span>Session 3</span> <span>Arc 1 · Das Schwarze Gänseblümchen</span></p>
+<p class="session-meta"><span>Session 3</span> <span><a class="gd-arc-link" href="../arcs/arc-1">Arc 1 · Das Schwarze Gänseblümchen</a></span> <span class="gd-tl-link" data-to="timeline" data-q="s=3" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">Mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/calboretta"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Calboretta</span></a><a class="gd-chip" href="../entities/npcs/crank"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Crank</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -40,31 +43,6 @@ Lagerfeuer, Smalltalk
 
 \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_
 \_\_\_\_ \_\_\_ \_
-
-## Extracted Summary
-
-Draft import of Session 003 from the converted protocol source. The session preserves the original protocol text for review and later entity extraction.
-
-## Entities Mentioned
-
-### Player Characters
-- Not extracted in first pass.
-
-### NPCs
-- Not extracted in first pass.
-
-### Locations
-- Not extracted in first pass.
-
-### Factions
-- Not extracted in first pass.
-
-### Items / Titles / Events
-- Not extracted in first pass.
-
-## Open Threads
-
-- Review the source text for campaign-specific entity extraction and canon handling.
 
 <div class="session-nav">
 

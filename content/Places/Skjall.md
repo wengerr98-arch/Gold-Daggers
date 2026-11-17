@@ -14,6 +14,11 @@ marker:
 
 # Skjall
 
+<div class="gd-seen"><p><span>Visited in 12 sessions</span> <span>first <a href="../sessions/session-058---first-day-in-the-yard">Session 58 · First day in the yard</a></span> <span>last <a href="../sessions/session-108">Session 108</a></span></p><details><summary>All 12 sessions</summary><ul><li><a href="../sessions/session-058---first-day-in-the-yard">Session 58</a> <span>First day in the yard</span></li><li><a href="../sessions/session-059---delusions-of-a-savior">Session 59</a> <span>Delusions of a savior</span></li><li><a href="../sessions/session-060---exhaustion">Session 60</a> <span>Exhaustion</span></li><li><a href="../sessions/session-061---change">Session 61</a> <span>Change</span></li><li><a href="../sessions/session-062---escalating">Session 62</a> <span>Escalating</span></li><li><a href="../sessions/session-063---the-veil">Session 63</a> <span>The Veil</span></li><li><a href="../sessions/session-064---nightmare-overseer">Session 64</a> <span>Nightmare Overseer</span></li><li><a href="../sessions/session-067">Session 67</a></li><li><a href="../sessions/session-068---breach">Session 68</a> <span>Breach</span></li><li><a href="../sessions/session-075">Session 75</a></li><li><a href="../sessions/session-101---1-0-auftakt">Session 101</a> <span>1-0 Auftakt</span></li><li><a href="../sessions/session-108">Session 108</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=skjall" data-label="On the timeline →"></span></p>
+
 ## Known Information
 
 Skjall is a major fortified city in the frozen north, enclosed by a massive steel wall held aloft by four warforged Titans. The city is divided into four racial districts — Orcs, Goliaths, Bugbears, and Minotaurs — each with its own culture, architecture, and traditions; Goliaths handle funerary rites and the city's necromantic labour. The city held deep significance as both a military stronghold and a spiritual nexus tied to the Wild Hunt and the Wintergöttin, and became the focal point of the party's northern arc across dozens of sessions.
@@ -38,7 +43,7 @@ Skjall is a major fortified city in the frozen north, enclosed by a massive stee
 - Session 076: The death of the Torr is publicly announced; Leumas addresses the crowd and claims the new kingship/leadership role. The party investigates the throne monument/cube chamber and fights through a mushroom-land battle sequence. The session concludes with the party victorious and a new leadership era beginning for Skjall.
 - Session 077: The party receives new items, enters the Wild Hunt area from Skjall, scouts camps/tents/patrols/field hospitals, then pushes back the Wild Hunt using Leumas's wind/wall effect. The Volk settlement is now a day's march away. Session closes with the party reuniting with allies.
 - Session 078: Referenced — the king of Ophris confirms an alliance between Ophris and Skjall and grants the party diplomatic standing to speak in Ophris's name.
-- Session 092: Referenced (no additional detail on file).
+- Session 092: Referenced.
 - Session 101: Skjall mobilises for the coming fight — Torren and Skjall formally join the coalition; the Frost Giants commit to helping Skjall following the party's Astral Sea audience with Muryn; Avernus reinforcements prepared, framing Skjall as the focal point of the gathering war effort.
 
 ## Known Facts

@@ -6,6 +6,11 @@ publish: true
 
 # Dalior
 
+<div class="gd-seen"><p><span>Visited in 14 sessions</span> <span>first <a href="../sessions/session-003">Session 3</a></span> <span>last <a href="../sessions/session-105">Session 105</a></span></p><details><summary>All 14 sessions</summary><ul><li><a href="../sessions/session-003">Session 3</a></li><li><a href="../sessions/session-004">Session 4</a></li><li><a href="../sessions/session-005">Session 5</a></li><li><a href="../sessions/session-006">Session 6</a></li><li><a href="../sessions/session-007">Session 7</a></li><li><a href="../sessions/session-008">Session 8</a></li><li><a href="../sessions/session-012">Session 12</a></li><li><a href="../sessions/session-013">Session 13</a></li><li><a href="../sessions/session-014">Session 14</a></li><li><a href="../sessions/session-016">Session 16</a></li><li><a href="../sessions/session-017">Session 17</a></li><li><a href="../sessions/session-025">Session 25</a></li><li><a href="../sessions/session-034">Session 34</a></li><li><a href="../sessions/session-105">Session 105</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=dalior" data-label="On the timeline →"></span></p>
+
 ## Overview
 Dalior is the capital city of [[Nolia]], built in a expansive valley near the [[Otronus]] mountain range approximately 5 days' travel from [[Lervik]]. This ancient settlement—with approximately 400 years of recorded history—is an engineering marvel: stacked on four vertical levels connected by a central lift and grand staircases, each tier serves distinct social classes and functions. The city is perpetually illuminated by magical light-plant blooms (Licht-Blumen) that glow without natural day-night cycles, creating an eternal twilight across the platforms.
 
@@ -18,17 +23,17 @@ Dalior's atmosphere is one of stark magical modernism layered with rigid social 
 - [[Entertainment District (Dalior)]] (district with markets and street life)
 - [[Oubliette|Oubliettes]] (prison complex)
 - [[Rakshasa Tempel]] (temple structure)
-- [[Rosengarten]] (stub needed)
-- [[Glückliche kleine Biene]] (stub needed)
+- [[Rosengarten]]
+- [[Glückliche kleine Biene]]
 - [[Tempel (Dalior)]] (temple bar)
 - Schmiede (forge, stub needed)
-- Kohlen-Höhle (coal-cave casino)
+- [[Kohle-Höhle|Kohlen-Höhle]] (coal-cave casino)
 - [[Nedda Brunnen]] (fountain with statue of founder Nedda)
 - [[Mason Haus]] (structure)
-- Arachne's tailor cavern (stub needed)
+- Arachne's tailor cavern
 - Boots-Markt / Markt (boat market, street vendors)
 - Wellness/spa platform (Hauptplatte level)
-- Silberner Vorhang / Der silberne Vorhang (highest building in Entertainment District)
+- [[Der silberne Vorhang|Silberner Vorhang]] / Der silberne Vorhang (highest building in Entertainment District)
 
 ## Key Figures
 - [[Calboretta]] (associated with Dalior)

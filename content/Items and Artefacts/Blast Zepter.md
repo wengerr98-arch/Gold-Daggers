@@ -8,6 +8,9 @@ publish: true
 
 # Blast Zepter
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-104">Session 104</a></span></p></div>
+
+
 ## Known Information
 
 The Blast Zepter is an item looted from [[Odyss Trion]]'s villa in Session 104 following the Hushes fight. Exact properties are unknown from session notes.
@@ -21,4 +24,3 @@ The Blast Zepter is an item looted from [[Odyss Trion]]'s villa in Session 104 f
 - Type: Zepter (scepter-type weapon or implement)
 - Looted from Odyss Trion's villa after the Hushes encounter (Session 104)
 - Current holder: Gold Daggers
-- Confidence: low — properties and full nature not recorded

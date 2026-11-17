@@ -9,6 +9,11 @@ publish: true
 
 # Fellbrün Volkam
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-040---deals-like-daggers">Session 40 · Deals like Daggers</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=fellbr%C3%BCn-volkam" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Fellbrün Volkam is a crime boss and debt-collection figure based in [[Aarum]], formerly the owner of the brewery where [[Goldie Bräu]] is now produced under the Gold Daggers name. He is associated with gambling and money lending, and is one of four wanted-poster crime leaders in Aarum that King [[Azan Aeducan]] tasked the party with intimidating.
@@ -23,4 +28,3 @@ Fellbrün Volkam is a crime boss and debt-collection figure based in [[Aarum]], 
 - Former owner of the brewery now producing [[Goldie Bräu]] under the Gold Daggers name.
 - Associated with gambling and money lending.
 - Alias "Fellbrün Vollkam" used in Session 037 text; canonical spelling pending DM confirmation.
-- No race, class, age, or group recorded in the old vault.

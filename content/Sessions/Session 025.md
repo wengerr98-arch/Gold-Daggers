@@ -5,9 +5,12 @@ modified: '2026-06-01T15:14:21.000Z'
 publish: true
 ---
 
-# Session 025 - Title Unknown
+# Session 025
 
-<p class="session-meta"><span>Session 25</span> <span>Arc 2 · Die Stadt der Messer</span> <span>played 2021-04-03</span></p>
+<p class="session-meta"><span>Session 25</span> <span><a class="gd-arc-link" href="../arcs/arc-2">Arc 2 · Die Stadt der Messer</a></span> <span>played 2021-04-03</span> <span class="gd-tl-link" data-to="timeline" data-q="s=25" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-25" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/companions/dave"><img class="gd-av" src="../07_protocol-sources/old-image-repository/dave.webp" alt="" loading="lazy"><span class="gd-chip-name">Dave</span></a><a class="gd-chip" href="../entities/companions/blobbert"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Blobbert</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/robin"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Robin</span></a><a class="gd-chip" href="../entities/npcs/yorni"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yorni.webp" alt="" loading="lazy"><span class="gd-chip-name">Yorni</span></a><a class="gd-chip" href="../entities/npcs/felix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/felix.webp" alt="" loading="lazy"><span class="gd-chip-name">Felix</span></a><a class="gd-chip" href="../entities/npcs/agnes"><img class="gd-av" src="../07_protocol-sources/old-image-repository/agnes.webp" alt="" loading="lazy"><span class="gd-chip-name">Agnes</span></a><a class="gd-chip" href="../entities/npcs/akli"><img class="gd-av" src="../07_protocol-sources/old-image-repository/akli.webp" alt="" loading="lazy"><span class="gd-chip-name">Akli</span></a><a class="gd-chip" href="../entities/npcs/aubonne"><img class="gd-av" src="../07_protocol-sources/old-image-repository/aubonne.webp" alt="" loading="lazy"><span class="gd-chip-name">Aubonne</span></a><a class="gd-chip" href="../entities/npcs/elga"><span class="gd-av is-ph" aria-hidden="true">E</span><span class="gd-chip-name">Elga</span></a><a class="gd-chip" href="../entities/npcs/gax"><img class="gd-av" src="../07_protocol-sources/old-image-repository/gax.webp" alt="" loading="lazy"><span class="gd-chip-name">Gax</span></a><a class="gd-chip is-extra" href="../entities/npcs/gutetama"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Gutetama</span></a><a class="gd-chip is-extra" href="../entities/npcs/jarosla"><span class="gd-av is-ph" aria-hidden="true">J</span><span class="gd-chip-name">Jarosla</span></a><a class="gd-chip is-extra" href="../entities/npcs/keftan"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Keftan</span></a><a class="gd-chip is-extra" href="../entities/npcs/meister-bar-kergov"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Meister Bar Kergov</span></a><a class="gd-chip is-extra" href="../entities/npcs/melissa"><img class="gd-av" src="../07_protocol-sources/old-image-repository/melissa.webp" alt="" loading="lazy"><span class="gd-chip-name">Melissa</span></a><a class="gd-chip is-extra" href="../entities/npcs/murtada"><img class="gd-av" src="../07_protocol-sources/old-image-repository/murtada.webp" alt="" loading="lazy"><span class="gd-chip-name">Murtada</span></a><a class="gd-chip is-extra" href="../entities/npcs/oliver"><img class="gd-av" src="../07_protocol-sources/old-image-repository/oliver.webp" alt="" loading="lazy"><span class="gd-chip-name">Oliver</span></a><a class="gd-chip is-extra" href="../entities/npcs/silk"><img class="gd-av" src="../07_protocol-sources/old-image-repository/silk.webp" alt="" loading="lazy"><span class="gd-chip-name">Silk</span></a><a class="gd-chip is-extra" href="../entities/npcs/suff"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Suff</span></a><a class="gd-chip is-extra" href="../entities/npcs/tavira"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Tavira</span></a><a class="gd-chip is-extra" href="../entities/npcs/thufe"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Thufe</span></a><a class="gd-chip is-extra" href="../entities/npcs/wilisith"><span class="gd-av is-ph" aria-hidden="true">W</span><span class="gd-chip-name">Wilisith</span></a></span></div><label class="gd-who-more" for="gd-who-25"><span class="gd-who-plus">+12</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
 
@@ -186,47 +189,27 @@ TAG ZWEI DES FESTS, T-4h zur Parade.
 
 KÖNIGREICH: Nolia, Hauptstadt = Dalior.
 
-- [Barzan]{.underline} (aus Königreich Ophris, Westen)
+- Barzan
+  (aus Königreich Ophris, Westen)
 
-- [Big Brush]{.underline}
+- Big
+  Brush
 
-- [Eloryn Agharath]{.underline}
+- Eloryn
+  Agharath
 
-- [Koda (The Bearbarian)]{.underline}
+- Koda (The
+  Bearbarian)
 
-- [Leumas]{.underline} / Shelly
+- Leumas
+  / Shelly
 
 - Lorilla Timbers
 
-- [Snix]{.underline}
+- Snix
 
 
 - Silk ist auch von Amare
-
-## Extracted Summary
-
-Draft import of Session 025 from the converted protocol source. The session preserves the original protocol text for review and later entity extraction.
-
-## Entities Mentioned
-
-### Player Characters
-- Not extracted in first pass.
-
-### NPCs
-- Not extracted in first pass.
-
-### Locations
-- Not extracted in first pass.
-
-### Factions
-- Not extracted in first pass.
-
-### Items / Titles / Events
-- Not extracted in first pass.
-
-## Open Threads
-
-- Review the source text for campaign-specific entity extraction and canon handling.
 
 <div class="session-nav">
 

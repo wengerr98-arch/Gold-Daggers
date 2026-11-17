@@ -7,6 +7,11 @@ publish: true
 
 # Galatea
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-010">Session 10</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=galatea" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Galatea is one of three daughters of [[Felix]], and a sister of [[Melissa]] and [[Aubonne]]. She was found unconscious in a special isolation box in Dr. Mason's basement dungeon in Session 010 — a box BB suspected was designed for magic users. [[Lady Ty]] pledged to return her to [[Felix]] following her rescue, and the family connection was confirmed in Session 012.

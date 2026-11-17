@@ -7,6 +7,11 @@ publish: true
 
 # Salogel
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-089---nine-futures">Session 89 · nine futures</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=salogel" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Salogel is an elven NPC who appeared in [[Barzan Aeducan]]'s future vision during Session 089. In the vision, Barzan is brought to Salogel — described as occupying a reception or front-desk role in the elven library of the [[Red-Walled Elven City]]. The DM has confirmed Salogel is an NPC (elven), not a location or Swiss German term.

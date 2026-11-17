@@ -9,6 +9,9 @@ publish: true
 
 # Book of Humanoids
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-053---book-of-azatoth">Session 53 · Book of Azatoth</a></span></p></div>
+
+
 ## Known Information
 
 A reference volume containing in-world lore about humanoid races, consulted by multiple party members during downtime in Session 053. It is a campaign-specific item — not a standard rulebook entry — and appears to be a general encyclopaedic resource. Leumas used it for changeling lore and Koda used it to research Zhod tribal history.

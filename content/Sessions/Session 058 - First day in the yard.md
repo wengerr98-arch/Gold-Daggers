@@ -7,18 +7,18 @@ publish: true
 
 # Session 058 - First day in the yard
 
-<p class="session-meta"><span>Session 58</span> <span>Arc 3 · Salzwasser</span> <span>played 2023-12-23</span></p>
+<p class="session-meta"><span>Session 58</span> <span><a class="gd-arc-link" href="../arcs/arc-3">Arc 3 · Salzwasser</a></span> <span>played 2023-12-23</span> <span class="gd-tl-link" data-to="timeline" data-q="s=58" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/companions/loid"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Loid</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/maradak-dreamkiller"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Maradak Dreamkiller</span></a><a class="gd-chip" href="../entities/npcs/natok"><img class="gd-av" src="../07_protocol-sources/old-image-repository/natok.webp" alt="" loading="lazy"><span class="gd-chip-name">Natok</span></a><a class="gd-chip" href="../entities/npcs/noah"><img class="gd-av" src="../07_protocol-sources/old-image-repository/noah.webp" alt="" loading="lazy"><span class="gd-chip-name">Noah</span></a><a class="gd-chip" href="../entities/npcs/stefan"><img class="gd-av" src="../07_protocol-sources/old-image-repository/stefan.webp" alt="" loading="lazy"><span class="gd-chip-name">Stefan</span></a><a class="gd-chip" href="../entities/npcs/fred"><img class="gd-av" src="../07_protocol-sources/old-image-repository/fred.webp" alt="" loading="lazy"><span class="gd-chip-name">Fred</span></a><a class="gd-chip" href="../entities/npcs/mooh"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Mooh</span></a><a class="gd-chip" href="../entities/gods/sommergöttin"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sommergöttin</span></a><a class="gd-chip" href="../entities/npcs/spike"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Spike</span></a><a class="gd-chip" href="../entities/gods/wintergöttin"><span class="gd-av is-ph" aria-hidden="true">W</span><span class="gd-chip-name">Wintergöttin</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 058
 <!-- source_heading: # Session 58 - Samstag, 23. Dezember 2023 -->
 <!-- session_date: 2023-12-23 -->
 
 
 ## Titel: First day in the yard 
-
-
 
 
 In Game Location: Loid über Ophris
@@ -30,8 +30,6 @@ Wir wissen es hat Agents von Nolia und Ophris im Norden. Sollte aber für uns ke
 Wir fahren los und verlassen den Wald. Die Landschaft wird weniger bebäumt und es wird kälter. Schwarzes Eis belegt jedes Gewässer. Es ist alles ein wenig schräg, resp. wir gewinnen an Höhe. wir sind nur noch 200m über dem Boden. wir sehen eine riesige Gebirgskette. Bläulich schwarz sehen wir eine riesige Wand. hunderte Meter hoch und mehrere Kilometer breit. Skjall. die ganze Wand besteht aus Chaltstahl. (Überstahl!)
 
 hunderte und tausende tonnen von Stahl. Es scheint aber von der Zeit geprägt und es hat leichte verformungen von Wind und Wetter.
-
-![](media/image4.jpg){width="7.480314960629921in" height="4.375in"}
 
 Wir sehen vier grosse Formen. Es sind Warforged. Sie halten die Mauer hoch.
 
@@ -65,7 +63,7 @@ Mer chöme ine und gsähnd en dorchgang wo öbbe 200m tüf esch. es esch busy, e
 
 Vor dem Obsidian sehen wir eine Schlange von Humanoiden. Wir sehen uns um und finden uns in der Eingangshalle ein. wirklich eindrücklich.
 
-a![](media/image5.jpg){width="7.480314960629921in" height="9.972222222222221in"}
+a
 
 Beim Monument ist der König vorzufinden. Er ist der Onkel von Natok.
 
@@ -275,16 +273,11 @@ Leumas Exhaustion?
 
 Next time pick uup.
 
-#
-
 ## Extracted Summary
 
 The party arrives in the Skjall / Ophris area, gets practical guidance from Natok, and begins exploring the new situation.
 
 ## Entities Mentioned
-
-### Player Characters
-- None explicitly identified in this first-pass draft.
 
 ### NPCs
 - Natok
@@ -293,18 +286,10 @@ The party arrives in the Skjall / Ophris area, gets practical guidance from Nato
 - Skjall
 - Loid über Ophris
 
-### Factions
-- None explicitly identified in this first-pass draft.
-
 ### Items / Titles / Events
 - practical guidance
 - arrival
 - exploration
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

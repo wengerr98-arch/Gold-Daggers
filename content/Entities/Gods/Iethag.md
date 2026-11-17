@@ -7,6 +7,11 @@ publish: true
 
 # Iethag
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-091">Session 91</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=iethag" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Iethag is a god confirmed through a Contact Other Plane oracle in Session 091. Known as the lord of fire and the ruler of the Metallic Dragons, Iethag historically drew chromatic dragons to his side, which led to conflict with the Metallic Dragons. He is linked to the cosmological dragon conflict and to the obelisk/ritual site — a dragon grave monument — visited in Session 091.

@@ -7,6 +7,11 @@ gallery: true
 
 # Fred
 
+<div class="gd-seen"><p><span>Seen in 5 sessions</span> <span>first <a href="../../sessions/session-029">Session 29</a></span> <span>last <a href="../../sessions/session-077---results">Session 77 · Results</a></span></p><details><summary>All 5 sessions</summary><ul><li><a href="../../sessions/session-029">Session 29</a></li><li><a href="../../sessions/session-030">Session 30</a></li><li><a href="../../sessions/session-034">Session 34</a></li><li><a href="../../sessions/session-058---first-day-in-the-yard">Session 58</a> <span>First day in the yard</span></li><li><a href="../../sessions/session-077---results">Session 77</a> <span>Results</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=fred" data-label="Follow on the timeline →"></span></p>
+
 ![[FRED.webp|260]]
 
 ## Known Information

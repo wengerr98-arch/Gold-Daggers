@@ -15,7 +15,7 @@ The Bendigsstei (Swiss German: *bindigs* = binding, *stei* = stone) is a specifi
 
 ## Session Appearances
 
-- Session 072: Referenced by [[Muryn]] as her goal object; located north of the [[Wild Hunt]]. [[Muryn]] describes her three-step plan to the party.
+- [[Session 072 - Protokoll: BB, Leumas|Session 072]]: Referenced by [[Muryn]] as her goal object; located north of the [[Wild Hunt]]. [[Muryn]] describes her three-step plan to the party.
 
 ## Known Facts
 

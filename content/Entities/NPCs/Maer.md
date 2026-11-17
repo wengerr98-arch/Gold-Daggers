@@ -7,6 +7,11 @@ publish: true
 
 # Maer
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-029">Session 29</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=maer" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Maer is a member of [[Gregorius]]'s team at the [[Kloster der Herbstgöttin]], encountered during the monastery drinking contest in Session 032. He served as [[Barzan]]'s opponent in the contest and narrowly lost, making him a minor background figure within the monastery community.

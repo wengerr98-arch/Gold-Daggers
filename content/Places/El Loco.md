@@ -7,6 +7,11 @@ publish: true
 
 # El Loco
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-007">Session 7</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=el-loco" data-label="On the timeline →"></span></p>
+
 ## Overview
 El Loco is a restaurant and bar located near the market in [[Dalior]]. Originally constructed by builder Nigel Harrington in the early 1900s, the establishment has since changed hands multiple times. The party discovered a significant historical mystery here: the remains of a young woman entombed in the building's walls, whose identity may connect to Harrington's missing daughter.
 

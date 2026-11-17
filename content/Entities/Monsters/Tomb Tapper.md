@@ -9,6 +9,11 @@ publish: true
 
 # Tomb Tapper
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-083---knoten">Session 83 · Knoten</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=tomb-tapper" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 The Tomb Tapper is a unique skeletal guardian encountered at [[Ha'roshon Mesugo]], an ancient desert ruin. It is armed with a hammer and attacks with both hammer and claws, rising from the ground when disturbed. Upon death, the creature transforms into a statue. It served as one of two guardians of Ha'roshon Mesugo alongside a sand Golem.

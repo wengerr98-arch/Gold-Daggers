@@ -17,13 +17,13 @@ The Veil is the campaign-specific term for the liminal border between the Materi
 
 ## Session Appearances
 
-- Session 063: Primary setting of the session's afterlife sequence. Party crosses The Veil via the Obelisk activation in the Goliath quarter of [[Skjall]], encounters lost souls, [[Karoth]], and the child-entity [[Ophris]]; the [[Wild Hunt]] is glimpsed through The Veil.
+- Session 063: Primary setting of the session's afterlife sequence. Party crosses The Veil via the [[Obelisks|Obelisk]] activation in the Goliath quarter of [[Skjall]], encounters lost souls, [[Karoth]], and the child-entity [[Ophris]]; the [[Wild Hunt]] is glimpsed through The Veil.
 
 ## Known Facts
 
 - The border between the Material Plane and the afterlife; not a physical place but a liminal threshold.
 - Synonymous in-campaign with "Limbo" and "afterlife."
-- The Gold Daggers crossed The Veil via the Obelisk in the Goliath quarter of [[Skjall]] (Session 063).
+- The Gold Daggers crossed The Veil via the [[Obelisks|Obelisk]] in the Goliath quarter of [[Skjall]] (Session 063).
 - The [[Wild Hunt]] can be glimpsed through The Veil.
 - [[Karoth]] is found in The Veil, helping lost souls complete unfinished business.
 - The [[Wintergöttin]] has influence over The Veil but not full control.

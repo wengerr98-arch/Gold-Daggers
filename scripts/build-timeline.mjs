@@ -48,6 +48,12 @@ const DRAFT_NOTE = tcfg.draft_note === undefined ? "Draft — dates not yet conf
 const DEAD_YEARS = (tcfg.retconned_years ?? [818, 997, 842, 841]).map(String)
 // extra caution on top of the visibility flag: entries matching these patterns (set in the local
 // wiki.config.yaml only; the repository is public) are held back until the DM decides
+// links from session, character and place pages into the timeline (a small line under the title)
+const BACKLINKS = tcfg.backlinks !== false
+// navigation extras of the page, each on unless set to false
+const ALIASES = tcfg.aliases !== false // the search also finds people and places by the aliases of their published note
+const STORY_SEARCH = tcfg.story_search !== false // the search box also searches the text of events and lore
+const PLACES = tcfg.places !== false // follow a place; "on the map" links for places with a pin
 const HOLD_BACK = (tcfg.hold_back_patterns ?? []).map((s) => new RegExp(s, "i"))
 
 if (!fs.existsSync(OUT) || !fs.existsSync(path.join(OUT, ".wiki-export"))) fail(`no export in ${OUT}. Run node scripts/export-vault.mjs first.`)
@@ -92,6 +98,8 @@ const rank = (rel, order) => {
 const notesByName = new Map() // lower name or alias → [{rel, alias}]
 const sessionPages = new Map() // number → rel
 const imageOf = new Map() // note rel → portrait file name, from the image: property the export sets
+const pinned = new Set() // note rel of every published note that has a pin on the map (marker: property, set by the export)
+const aliasesOf = new Map() // note rel → the aliases: of the published note
 const assetsByBase = new Map() // "koda.webp" → rel in content/
 ;(function walkAssets(dir) {
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -121,7 +129,10 @@ for (const rel of contentNotes) {
   if (fm) {
     try {
       const data = yaml.load(fm[1]) ?? {}
-      for (const a of [].concat(data.aliases ?? [])) if (typeof a === "string") add(a, true)
+      const al = [].concat(data.aliases ?? []).filter((a) => typeof a === "string" && a.trim()).map((a) => a.trim())
+      for (const a of al) add(a, true)
+      if (al.length) aliasesOf.set(rel, al)
+      if (Array.isArray(data.marker) && data.marker.length) pinned.add(rel)
       const im = typeof data.image === "string" ? data.image.match(/\[\[([^\]|#]+)/)?.[1] ?? data.image : null
       if (im) imageOf.set(rel, path.posix.basename(im.trim()).toLowerCase())
     } catch {}
@@ -146,7 +157,7 @@ function quoteOnPage(n, quote) {
 // ---------- helpers ----------
 
 const stats = { eventsIn: 0, eventsOut: 0, loreIn: 0, loreDated: 0, loreUndated: 0, loreAsWritten: 0, left: {}, quotesKept: 0, quotesDropped: 0, linksPeople: 0, plainPeople: 0 }
-const problems = { noYear: [], yearAssumed: [], loreNotPlaced: [], retconned: [], heldBack: [], oldOffset: [], noPlace: [], quoteMissing: [], unknownPeople: new Map(), openQuestions: 0, sessionsNoPage: [] }
+const problems = { noYear: [], yearAssumed: [], loreNotPlaced: [], retconned: [], heldBack: [], outsideTime: [], oldOffset: [], noPlace: [], quoteMissing: [], unknownPeople: new Map(), openQuestions: 0, sessionsNoPage: [] }
 const leave = (why) => (stats.left[why] = (stats.left[why] ?? 0) + 1)
 const clean = (s) => (s == null ? null : String(s).replace(/\s+/g, " ").replace(/\s->\s/g, " → ").trim() || null)
 const held = (x) => HOLD_BACK.some((re) => re.test(`${x.what ?? ""} ${x.evidence ?? ""} ${x.expression ?? ""} ${x.place ?? ""}`))
@@ -178,6 +189,7 @@ function person(raw) {
       kind: folder === "Player Characters" ? "pc" : folder === "Companions" ? "companion" : folder ? folder.replace(/s$/, "").toLowerCase() : "unlisted",
       ages: [],
       names: [],
+      rel: linked ? rel : null,
     })
     personId.set(key, id)
     if (linked) stats.linksPeople++
@@ -193,17 +205,40 @@ function place(raw) {
   const s = clean(raw)
   if (!s) return null
   const links = []
+  const rels = []
   const text = s.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, target, label) => {
     const rel = resolveNote(target, PLACE_ORDER)
     const shown = (label ?? target).trim()
-    if (rel) links.push([shown, hrefOf(rel)])
+    if (rel) links.push([shown, hrefOf(rel)]), rels.push(rel)
     return shown
   })
   if (!links.length) {
     const rel = resolveNote(text, PLACE_ORDER)
-    if (rel && (rel.startsWith("Places/") || rel.startsWith("Entities/"))) links.push([text, hrefOf(rel)])
+    if (rel && (rel.startsWith("Places/") || rel.startsWith("Entities/"))) links.push([text, hrefOf(rel)]), rels.push(rel)
   }
-  return links.length ? { t: text, l: links } : { t: text }
+  const out = links.length ? { t: text, l: links } : { t: text }
+  placeRels.set(out, rels)
+  return out
+}
+// places that can be followed: published notes in Places/ where an event happens, and the places they lie in
+// (a note in Places/Kasta/ belongs to Places/Kasta.md, as in the site's own folders)
+const placeRels = new WeakMap() // place object → note rels
+const places = new Map() // note rel → { name, href, c, up, pin }
+function placeEntry(rel) {
+  if (!PLACES || !rel.startsWith("Places/")) return null
+  if (!places.has(rel)) {
+    const o = { rel, name: path.posix.basename(rel, ".md"), href: hrefOf(rel), c: 0, up: null, pin: pinned.has(rel) }
+    places.set(rel, o)
+    for (let dir = path.posix.dirname(rel); dir !== "Places" && dir !== "."; dir = path.posix.dirname(dir)) {
+      const parent = contentNotes.find((r) => r.toLowerCase() === (dir + ".md").toLowerCase())
+      if (parent && parent !== rel) {
+        o.up = parent
+        placeEntry(parent)
+        break
+      }
+    }
+  }
+  return places.get(rel)
 }
 
 function parseArcs() {
@@ -227,9 +262,9 @@ function loreYear(h) {
   const all = `${d} ${h.expression ?? ""} ${h.dm_note ?? ""}`
   if (DEAD_YEARS.some((y) => new RegExp(`(^|\\D)${y}(\\D|$)`).test(`${d} ${h.expression ?? ""}`)) || /retcon|typo/i.test(h.dm_note ?? "")) return { dead: true }
   if (/not derivable|no pB year|only if|if p\.B\.|^unclear|^unknown|^before|^relative|^null|^\(/i.test(d)) return null
-  const m = d.match(/(-?\d+)\s*(?:[-–]\s*(\d+))?\s*p\.B\./)
+  const m = d.match(/([-−]?\d+)\s*(?:[-–]\s*(\d+))?\s*p\.B\./)
   if (!m) return null
-  const y = Number(m[1])
+  const y = Number(m[1].replace("−", "-")) // a typographic minus counts as a minus
   const to = m[2] ? Number(m[2]) : null
   return { y, to, approx: to != null || /[≈~?]|ca\.|approx|about|shortly|if |\bor\b/i.test(d) || /Ephraim/i.test(cal) === false && /relative/i.test(cal), ephraim: /ephraim/i.test(cal) }
 }
@@ -290,7 +325,13 @@ for (const d of sessionsIn) {
     if (y == null) {
       y = s.y
       yb = "assumed"
-      problems.noYear.push(e.id)
+      // "outside_time": the event is deliberately without a year (it plays on other planes). The page has no
+      // way to show that yet, so it stays in the stretch of time the story is in (the year of the event
+      // before it), which draws no extra time jump; the report lists it apart from real gaps.
+      if (clean(w.basis) === "outside_time") {
+        if (events.length) y = events[events.length - 1].y
+        problems.outsideTime.push(e.id)
+      } else problems.noYear.push(e.id)
     }
     if (y == null) {
       leave("events: no year at all")
@@ -382,11 +423,17 @@ for (let i = 1; i < events.length; i++) {
   if (a.y !== b.y && (a.tt || b.tt)) jumps.push({ a: i - 1, b: i, from: a.y, to: b.y })
 }
 
+const alsoKnown = (rel, name) => {
+  const seenNames = new Set([String(name).toLowerCase()])
+  return (ALIASES ? aliasesOf.get(rel) ?? [] : []).filter((a) => !held({ what: a }) && !seenNames.has(a.toLowerCase()) && seenNames.add(a.toLowerCase()))
+}
+
 // people: only those who appear in an event (ages of others are dropped), counts for the picker
 const seen = new Map()
 events.forEach((e) => [...e.n, ...e.c].forEach((id) => seen.set(id, (seen.get(id) ?? 0) + 1)))
 const remap = new Map()
 const peopleOut = []
+const relOfPerson = new Map() // person in the data → note rel
 for (const [id, p] of people) {
   if (!seen.has(id)) continue
   remap.set(id, peopleOut.length)
@@ -396,12 +443,40 @@ for (const [id, p] of people) {
   if (p.img) o.img = p.img
   if (p.ages.length) o.ages = p.ages
   if (p.names.length) o.names = p.names
+  // other names of the published wiki note, for the search (nothing that the hold-back list catches)
+  const al = alsoKnown(p.rel, p.name)
+  if (al.length) o.al = al
+  if (p.rel) relOfPerson.set(o, p.rel)
   peopleOut.push(o)
 }
 for (const e of events) {
   e.n = e.n.map((id) => remap.get(id))
   e.c = e.c.map((id) => remap.get(id))
 }
+
+// places: the ones an event happens at (plus the places those lie in), numbered for the data file
+for (const e of events) {
+  const here = [...new Set((e.p ? placeRels.get(e.p) ?? [] : []).map(placeEntry).filter(Boolean))]
+  here.forEach((pl) => pl.c++)
+  e._pl = here
+}
+const placeList = [...places.values()]
+const placeNo = new Map(placeList.map((pl, i) => [pl.rel, i]))
+const placesOut = placeList.map((pl) => {
+  const o = { name: pl.name, href: pl.href, c: pl.c }
+  if (pl.up) o.up = placeNo.get(pl.up)
+  if (pl.pin) o.pin = 1
+  const al = alsoKnown(pl.rel, pl.name)
+  if (al.length) o.al = al
+  return o
+})
+for (const e of events) {
+  if (e._pl.length) e.pl = e._pl.map((pl) => placeNo.get(pl.rel))
+  delete e._pl
+}
+// the Map page of the export, when there is one and at least one pin is on it
+const mapTitle = cfg.map?.title ?? "Map"
+const mapHref = PLACES && pinned.size && contentNotes.includes(`${mapTitle}.md`) ? hrefOf(`${mapTitle}.md`) : null
 for (const [name, c] of [...problems.unknownPeople]) if (!c) problems.unknownPeople.delete(name)
 
 const strip = (o) => {
@@ -409,7 +484,7 @@ const strip = (o) => {
   return o
 }
 const data = {
-  v: 1,
+  v: 2,
   draft: DRAFT_NOTE || null,
   offset: OFFSET,
   present: home,
@@ -420,8 +495,12 @@ const data = {
   events: events.map(strip),
   lore: lore.map(strip),
   people: peopleOut,
+  places: placesOut,
+  map: mapHref,
   jumps,
 }
+if (!mapHref) delete data.map
+if (!STORY_SEARCH) data.nosearch = 1
 
 // last line of defence: nothing from the DM side of the extraction may be in the output
 const blob = JSON.stringify(data)
@@ -455,6 +534,69 @@ const page = [
 ].join("\n")
 fs.writeFileSync(path.join(OUT, `${TITLE}.md`), page)
 
+// rewrite a page of the export without changing its dates (Quartz reads them from the file)
+function rewrite(rel, change) {
+  const file = path.join(OUT, rel)
+  const st = fs.statSync(file)
+  const before = fs.readFileSync(file, "utf8")
+  const after = change(before)
+  if (after === before) return false
+  fs.writeFileSync(file, after)
+  fs.utimesSync(file, st.atime, st.mtime)
+  return true
+}
+const relLink = (fromHref, toHref) => path.posix.relative(path.posix.dirname(fromHref), toHref)
+const TL_HREF = hrefOf(`${TITLE}.md`)
+// Map page: a hidden note for the map script — where the timeline is, and which pinned places are on it
+if (mapHref) {
+  const onMap = placesOut.filter((pl) => pl.pin).map((pl) => pl.href.split("/").pop())
+  const note = `<p class="gd-map-tl" hidden data-href="${escapeHtml(relLink(mapHref, TL_HREF))}" data-places="${escapeHtml(onMap.join("|"))}"></p>`
+  rewrite(`${mapTitle}.md`, (txt) => txt.replace(/\n*<p class="gd-map-tl"[^\n]*\n?/g, "\n").replace(/\s*$/, "") + `\n\n${note}\n`)
+}
+
+// Links into the timeline from the pages of the export: sessions ("?s="), characters ("?p=") and places ("?place=").
+// Only where the session, person or place is in the timeline data. The line carries no link of its own (Quartz
+// would drop the "?…" and list every page as a backlink of the timeline): the plugin's script turns the marker into
+// the link in the browser. The keys are the ones the client script uses (last part of the page address).
+const backlinks = { sessions: 0, people: 0, places: 0 }
+if (BACKLINKS) {
+  const TL = TL_HREF
+  const marker = (query, label) => `<span class="gd-tl-link" data-to="${escapeHtml(TL)}" data-q="${escapeHtml(query)}" data-label="${escapeHtml(label)}"></span>`
+  const stripOld = (txt) => txt.replace(/\n*<p class="session-meta gd-tl-meta">[^\n]*<\/p>\n?/g, "\n").replace(/ ?<span class="gd-tl-link"[^>]*><\/span>/g, "")
+  const underTitle = (txt, line) => {
+    const fm = txt.match(/^---\n[\s\S]*?\n---\n?/)?.[0] ?? ""
+    const body = txt.slice(fm.length)
+    const m = body.match(/^(\s*#\s+[^\n]*\n)/)
+    return fm + (m ? m[1] + "\n" + line + "\n" + body.slice(m[1].length) : "\n" + line + "\n\n" + body.replace(/^\n+/, ""))
+  }
+  const ownLine = (query, label) => (txt) => underTitle(stripOld(txt), `<p class="session-meta gd-tl-meta">${marker(query, label)}</p>`)
+  for (const sn of sessions) {
+    const rel = sessionPages.get(sn.n)
+    if (!rel || !(sn.ev.length || sn.lore.length)) continue
+    const mk = marker(`s=${sn.n}`, "On the timeline →")
+    const done = rewrite(rel, (txt) => {
+      const t = stripOld(txt)
+      // into the header line the export wrote, or a line of its own when the header is switched off
+      return /<p class="session-meta">[^\n]*<\/p>/.test(t) ? t.replace(/(<p class="session-meta">[^\n]*?)<\/p>/, `$1 ${mk}</p>`) : underTitle(t, `<p class="session-meta gd-tl-meta">${mk}</p>`)
+    })
+    if (done) backlinks.sessions++
+  }
+  const lastPart = (href) => href.split("/").pop()
+  const count = (list) => list.reduce((m, x) => m.set(lastPart(x.href), (m.get(lastPart(x.href)) ?? 0) + 1), new Map())
+  const pCount = count(peopleOut.filter((p) => p.href))
+  for (const p of peopleOut) {
+    const rel = relOfPerson.get(p)
+    if (!rel) continue
+    const key = pCount.get(lastPart(p.href)) === 1 ? lastPart(p.href) : p.name
+    if (rewrite(rel, ownLine(`p=${encodeURIComponent(key)}`, "Follow on the timeline →"))) backlinks.people++
+  }
+  const plCount = count(placesOut)
+  placeList.forEach((pl, i) => {
+    const key = plCount.get(lastPart(pl.href)) === 1 ? lastPart(pl.href) : pl.href
+    if (rewrite(pl.rel, ownLine(`place=${encodeURIComponent(key)}`, "On the timeline →"))) backlinks.places++
+  })
+}
+
 // ---------- report ----------
 
 const L = []
@@ -470,6 +612,8 @@ L.push(`- Events shown: **${stats.eventsOut}** of ${stats.eventsIn}`)
 L.push(`- Lore the party was told: ${stats.loreIn} entries → ${stats.loreDated} placed at a year, ${stats.loreAsWritten} in another calendar (shown as written), ${stats.loreUndated} without a usable year (listed under their session and in "not yet placed")`)
 L.push(`- Left out: ${Object.entries(stats.left).map(([k, v]) => `${v} × ${k}`).join("; ") || "nothing"}`)
 L.push(`- People in the picker: ${peopleOut.length} (${peopleOut.filter((p) => p.href).length} with a wiki page, ${peopleOut.filter((p) => p.img).length} with a portrait), ages: ${peopleOut.reduce((a, p) => a + (p.ages?.length ?? 0), 0)} statements`)
+L.push(`- Places that can be followed: ${placesOut.length} (${placesOut.filter((p) => p.pin).length} with a pin on the map${mapHref ? "" : "; no Map page with pins in the export, so no map links"})`)
+L.push(`- Links into the timeline from other pages: ${BACKLINKS ? `${backlinks.sessions} session pages, ${backlinks.people} character pages, ${backlinks.places} place pages` : "off (timeline.backlinks: false)"}`)
 L.push(`- Quotes: ${stats.quotesKept} shown, ${stats.quotesDropped} not shown because the words are not on the published session page`)
 L.push(`- Events per year: ${[...byYear].sort((a, b) => a[0] - b[0]).map(([y, c]) => `${fmtY(y)}: ${c}`).join(" · ")}`)
 L.push(`- Time jumps drawn: ${jumps.map((j) => `${events[j.a].id} → ${events[j.b].id} (${fmtY(j.from)} → ${fmtY(j.to)})`).join("; ")}`)
@@ -477,6 +621,7 @@ L.push(`- Open questions still in the data (not shown anywhere): ${problems.open
 L.push(`## Data problems`)
 L.push(`### Events without a year of their own (${problems.noYear.length}) — the session's year was used`)
 L.push(problems.noYear.join(", ") || "none")
+if (problems.outsideTime.length) L.push(`### Events marked "outside time" (${problems.outsideTime.length}) — kept in the year of the event before them until the page can show events without a year`, problems.outsideTime.join(", "))
 L.push(`### Sessions without a year (${problems.yearAssumed.length})`)
 list(problems.yearAssumed)
 L.push(`### Held back by caution (${problems.heldBack.length})`)

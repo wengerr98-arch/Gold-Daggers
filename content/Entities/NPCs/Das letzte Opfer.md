@@ -12,6 +12,11 @@ publish: true
 
 # Das letzte Opfer
 
+<div class="gd-seen"><p><span>Seen in 9 sessions</span> <span>first <a href="../../sessions/session-022">Session 22</a></span> <span>last <a href="../../sessions/session-076---the-death-of-the-king-and-the-rise-of-new-one!">Session 76 · The Death of the King and the Rise of New One!</a></span></p><details><summary>All 9 sessions</summary><ul><li><a href="../../sessions/session-022">Session 22</a></li><li><a href="../../sessions/session-027">Session 27</a></li><li><a href="../../sessions/session-035">Session 35</a></li><li><a href="../../sessions/session-037">Session 37</a></li><li><a href="../../sessions/session-038">Session 38</a></li><li><a href="../../sessions/session-039">Session 39</a></li><li><a href="../../sessions/session-045">Session 45</a></li><li><a href="../../sessions/session-048---die-hochzeit">Session 48</a> <span>Die Hochzeit</span></li><li><a href="../../sessions/session-076---the-death-of-the-king-and-the-rise-of-new-one!">Session 76</a> <span>The Death of the King and the Rise of New One!</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=das-letzte-opfer" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Das letzte Opfer ("The Last Sacrifice") is an imprisoned Halfling who serves as a central mystery figure in the campaign. First encountered in Session 022, they were held in a glass box in the [[Oubliette|Oubliettes]] — the same type of containment used in [[Dr. Mason]]'s cellar. They communicate telepathically with [[Snix]], claim ownership of the black smoke within Snix, the [[Combustion Sword]], and Mason's ring, and assert that [[Dr. Mason]] created both the ring and the mark on Snix's hand. Whether "Das letzte Opfer" is a personal name, a title, or a ritual designation remains unknown.

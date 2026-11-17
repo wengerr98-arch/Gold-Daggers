@@ -11,6 +11,9 @@ publish: true
 
 # Uhr (unfinished)
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-025">Session 25</a></span></p></div>
+
+
 ## Known Information
 
 The Uhr (unfinished) is a bracelet shaped to resemble a clock but lacking its face and several gears. [[Snix]] stole it from [[Tigerauge]] in Session 025 and later gave it to [[Barzan Aeducan]], who recognised the missing components and may be able to repair it. Its ultimate function once completed is unknown.

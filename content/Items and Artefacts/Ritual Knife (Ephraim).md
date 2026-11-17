@@ -9,6 +9,9 @@ publish: true
 
 # Ritual Knife (Ephraim)
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106 · 3 legendary items &amp; 3 legendary gspröch</a></span></p></div>
+
+
 ## Known Information
 
 A ritual knife given by [[Ephraim]] to [[Barzan Aeducan]] at the end of their meeting in the 8th Tower of Kasta (Session 106). High quality and well-maintained, but not a magic item in the traditional sense. Ephraim used a similar knife to draw Barzan's blood for circle magic during the Astral Dreadnaught transformation ritual. The knife's ceremonial or cosmological significance is unclear.

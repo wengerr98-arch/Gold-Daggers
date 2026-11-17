@@ -11,6 +11,9 @@ publish: true
 
 # Dominate Person Stones
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-045">Session 45</a></span></p></div>
+
+
 ## Known Information
 
 The Dominate Person Stones (also called *Kontrollsteine*) are a set of magical stones that dominate and control individuals — specifically used against [[Tritons|Triton]] teachers for two or more years. They must be periodically refreshed to maintain their effect and appear to be the mechanism by which [[Shen]] and/or [[Das letzte Opfer]] controls the Triton teacher population. One stone was found in an Admiral's tent at the [[Peoryn]] battle site during Session 045.

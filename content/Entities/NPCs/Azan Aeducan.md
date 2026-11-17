@@ -10,6 +10,11 @@ publish: true
 
 # Azan Aeducan
 
+<div class="gd-seen"><p><span>Seen in 8 sessions</span> <span>first <a href="../../sessions/session-028">Session 28</a></span> <span>last <a href="../../sessions/session-091">Session 91</a></span></p><details><summary>All 8 sessions</summary><ul><li><a href="../../sessions/session-028">Session 28</a></li><li><a href="../../sessions/session-036">Session 36</a></li><li><a href="../../sessions/session-037">Session 37</a></li><li><a href="../../sessions/session-041---deals-like-daggers">Session 41</a> <span>Deals like Daggers</span></li><li><a href="../../sessions/session-042">Session 42</a></li><li><a href="../../sessions/session-044---all-about-different-kind-of-souls">Session 44</a> <span>All about different kind of souls</span></li><li><a href="../../sessions/session-089---nine-futures">Session 89</a> <span>nine futures</span></li><li><a href="../../sessions/session-091">Session 91</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=azan-aeducan" data-label="Follow on the timeline →"></span></p>
+
 > ⚠️ Correction applied: the session text reads "Asan Aeducan" but the DM confirmed the correct name is **Azan Aeducan**. "Asan Aeducan" is a transcription error — added as alias only for search purposes.
 
 ## Known Information

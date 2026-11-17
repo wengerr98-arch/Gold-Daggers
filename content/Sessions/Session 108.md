@@ -7,7 +7,10 @@ publish: true
 
 # Session 108
 
-<p class="session-meta"><span>Session 108</span> <span>Arc 6 (current)</span> <span>831 p.B., später Sommer, Aarum, 43 Tage</span> <span>played 2026-09-19</span></p>
+<p class="session-meta"><span>Session 108</span> <span><a class="gd-arc-link" href="../arcs/arc-6">Arc 6 (current)</a></span> <span>831 p.B., später Sommer, Aarum, 43 Tage</span> <span>played 2026-09-19</span> <span class="gd-tl-link" data-to="timeline" data-q="s=108" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/abrahim-(ephraim)"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Abrahim (Ephraim)</span></a><a class="gd-chip" href="../entities/gods/anubis"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Anubis</span></a><a class="gd-chip" href="../entities/npcs/bob-(golem)"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Bob (Golem)</span></a><a class="gd-chip" href="../entities/npcs/thautok"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Thautok</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -244,7 +247,7 @@ no deep talk met em ephraim, werom er s zweute ritual dore gfüehrt het. er esch
 
 ---
 
-## Todo's / Notizen (from source)
+## Todo's / Notizen
 
 - Levistus eingesperrt
 - Tante Portals schlüsse

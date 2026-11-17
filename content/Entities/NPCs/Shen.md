@@ -8,6 +8,11 @@ gallery: true
 
 # Shen
 
+<div class="gd-seen"><p><span>Seen in 11 sessions</span> <span>first <a href="../../sessions/session-026">Session 26</a></span> <span>last <a href="../../sessions/session-105">Session 105</a></span></p><details><summary>All 11 sessions</summary><ul><li><a href="../../sessions/session-026">Session 26</a></li><li><a href="../../sessions/session-031">Session 31</a></li><li><a href="../../sessions/session-034">Session 34</a></li><li><a href="../../sessions/session-044---all-about-different-kind-of-souls">Session 44</a> <span>All about different kind of souls</span></li><li><a href="../../sessions/session-046">Session 46</a></li><li><a href="../../sessions/session-051---book-of-yavin">Session 51</a> <span>Book of Yavin</span></li><li><a href="../../sessions/session-055---punching-up">Session 55</a> <span>Punching up</span></li><li><a href="../../sessions/session-072---protokoll-bb,-leumas">Session 72</a> <span>Protokoll: BB, Leumas</span></li><li><a href="../../sessions/session-078---crossroads">Session 78</a> <span>Crossroads</span></li><li><a href="../../sessions/session-090">Session 90</a></li><li><a href="../../sessions/session-105">Session 105</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=shen" data-label="Follow on the timeline →"></span></p>
+
 ![[shen.webp|260]]
 
 ## Known Information
@@ -25,8 +30,8 @@ Shen is [[Eloryn]]'s former divine patron — a multi-colored underwater dragon 
 - Session 051: Appeared telepathically aboard the Nautiloid after the portal into the Waterplane opened; directed the party on where new rifts should be opened. His role in orchestrating the Waterplane rift network is now actively confirmed.
 - Session 052: Referenced in discussions about the city situation; Morlos reports that Shen has become increasingly aggressive ("hässiger"). The party's investigation into the crab structure and the rift network operates directly within Shen's territory. R'lyeh and Shen are linked through the Book of Azatoth's chain of rule over the seas.
 - Session 055: Helikonos is in full civil war under Shen's rule — refugees are fleeing, guards are attacking civilians, the army appears disorganized. Shen has been rampaging and retains some public support. Nolia soldiers have withdrawn and Arthur Ruger has returned with elite soldiers; the party scouts the situation and decides to act against Ruger's camp.
-- Session 078: Referenced in the sidecar; the party's visit to Kasta's wizard university (the Seven Wizards) and Ophris connects to the region where Shen holds power — the ongoing Helikonos-area situation remains a live thread as the group prepares for portal-closure operations.
-- Session 090: Referenced in the sidecar as part of the Astral Sea / Material Plane context; the party's return to the Material Plane roughly three months later brings the Helikonos / Shen thread back into active play for future sessions.
+- Session 078: The party's visit to Kasta's wizard university (the Seven Wizards) and Ophris connects to the region where Shen holds power — the ongoing Helikonos-area situation remains a live thread as the group prepares for portal-closure operations.
+- Session 090: Referenced as part of the Astral Sea / Material Plane context; the party's return to the Material Plane roughly three months later brings the Helikonos / Shen thread back into active play for future sessions.
 - Session 091: Referenced in the party's post-Skjall recap and re-planning — Shen and the Helikonos situation remain an active open thread as the group plans next steps following the earth-breaking events.
 - Session 100: Listed as an unresolved target or threat — Shen still appears to be a target or problem that the party must address, flagged explicitly in the session's open threads.
 - Session 105: Referenced in the Helykonos Rebell HQ context during party's visit to the rebel headquarters.

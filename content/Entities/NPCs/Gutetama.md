@@ -7,6 +7,11 @@ publish: true
 
 # Gutetama
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-025">Session 25</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=gutetama" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Gutetama is one of the sisters named on the back of a hidden portrait found in Aubonne's concealed drawer. Her name appears alongside Melissa (crossed out), Aubonne, Thufe (crossed out), and Wilisith (crossed out), suggesting a group of seven sisters in total, though only five names are visible on the portrait. Unlike the crossed-out names, Gutetama's name is intact, suggesting she may still be alive.

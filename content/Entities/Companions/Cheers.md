@@ -7,6 +7,11 @@ publish: true
 
 # Cheers
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-049---crime-against-the-currency-(the-heist)">Session 49 · Crime against the currency (The Heist)</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=cheers" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Cheers is a bard who served as "the face" of the Gold Daggers' heist crew during the Zentralbank operation in Session 049. Known by the in-world name "D'Cheers," they presented a polished, well-groomed appearance (described as "gepflegte Aragorn Vibes") and handled all public-facing introductions for the infiltration team. They used an amulet in conjunction with [[Silk]] for spellcasting during the operation.

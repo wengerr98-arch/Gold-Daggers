@@ -7,6 +7,11 @@ publish: true
 
 # Stetur
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-061---change">Session 61 · Change</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=stetur" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Stetur is a bugbear instructor at the Lehrlingsusbeldigszentrum (apprenticeship and training centre) in [[Skjall]], where he teaches lifting and welding. He was encountered by party members Lorilla and Leumas during their investigation of pipe and wall models related to the Wall-repair arc.

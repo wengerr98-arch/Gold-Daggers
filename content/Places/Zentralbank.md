@@ -7,6 +7,11 @@ publish: true
 
 # Zentralbank
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-049---crime-against-the-currency-(the-heist)">Session 49 · Crime against the currency (The Heist)</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=zentralbank" data-label="On the timeline →"></span></p>
+
 ## Known Information
 
 The Zentralbank is the central bank of [[Dalior]], situated on the Zweite Platte (the second city tier / administration level), accessible by lift. It features a distinctive marble floor with gold grouting and a pillared entrance hall. The bank contains three primary vault sections (A, B, C) and a deeper sub-level called the "Hades" level with six individual vault rooms assigned to prominent figures. Security is provided by Hydras and Balguras as vault guardians, gold ward structures throughout, and a paladin guard at the city administration entrance.

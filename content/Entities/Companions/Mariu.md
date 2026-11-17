@@ -7,6 +7,11 @@ publish: true
 
 # Mariu
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-049---crime-against-the-currency-(the-heist)">Session 49 · Crime against the currency (The Heist)</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=mariu" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Mariu is a bodyguard (Leibwächterin) who introduced herself as "hallo, ich be d'Mariu" and was brought in by [[Cheers]] as muscle for the Zentralbank heist in Session 049. She accompanied the party into the bank and took part in vault exploration, receiving the named weapon Skull Breaker — a 3-metre axe dealing extra force damage — as her share of the heist loot.

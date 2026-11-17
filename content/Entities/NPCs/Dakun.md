@@ -11,6 +11,11 @@ gallery: true
 
 # Dakun
 
+<div class="gd-seen"><p><span>Seen in 10 sessions</span> <span>first <a href="../../sessions/session-041---deals-like-daggers">Session 41 · Deals like Daggers</a></span> <span>last <a href="../../sessions/session-104">Session 104</a></span></p><details><summary>All 10 sessions</summary><ul><li><a href="../../sessions/session-041---deals-like-daggers">Session 41</a> <span>Deals like Daggers</span></li><li><a href="../../sessions/session-042">Session 42</a></li><li><a href="../../sessions/session-044---all-about-different-kind-of-souls">Session 44</a> <span>All about different kind of souls</span></li><li><a href="../../sessions/session-056---teen-robin,-felix-shenanigns">Session 56</a> <span>Teen Robin, Felix Shenanigns</span></li><li><a href="../../sessions/session-057---catching-up">Session 57</a> <span>Catching Up</span></li><li><a href="../../sessions/session-078---crossroads">Session 78</a> <span>Crossroads</span></li><li><a href="../../sessions/session-093---lured">Session 93</a> <span>Lured</span></li><li><a href="../../sessions/session-095---die-vergessene-schwelle">Session 95</a> <span>Die vergessene Schwelle</span></li><li><a href="../../sessions/session-101---1-0-auftakt">Session 101</a> <span>1-0 Auftakt</span></li><li><a href="../../sessions/session-104">Session 104</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=dakun" data-label="Follow on the timeline →"></span></p>
+
 ![[Dakun.webp|260]]
 
 ## Known Information

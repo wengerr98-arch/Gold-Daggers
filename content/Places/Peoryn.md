@@ -7,6 +7,11 @@ publish: true
 
 # Peoryn
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../sessions/session-045">Session 45</a></span> <span>last <a href="../sessions/session-050---20'000-leagues">Session 50 · 20'000 Leagues</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=peoryn" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 Peoryn is a coastal town that serves as a critical travel hub and staging point for journeys to [[Helykonos]]. Built near the sea, it provides access to underwater travel routes and supply stops for the party's waterborne expeditions. The town has been recently attacked, leaving scars on both its infrastructure and its people.

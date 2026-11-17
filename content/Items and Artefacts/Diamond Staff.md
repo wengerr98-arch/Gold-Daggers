@@ -9,6 +9,9 @@ publish: true
 
 # Diamond Staff
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-053---book-of-azatoth">Session 53 · Book of Azatoth</a></span></p></div>
+
+
 ## Known Information
 
 BB's personal weapon and focus, known in Swiss German as "Diamanten Stab." In Session 053 BB uses it to attempt to close a hole in the forest, but it accidentally opens a brief rift to the [[Waterplane]] before snapping shut. It may be equivalent to a standard [[Staff of Power]] — DM confirmation is needed on whether this stub should be merged or redirected as an alias of that entry.

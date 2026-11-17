@@ -17,7 +17,7 @@ The Torr Key (referred to in session as "de Schlössel vom Thor/Torr") is a key 
 
 ## Session Appearances
 
-- Session 084: Party tests the Torr Key against the [[Blue Stone]] at the obelisk site; resonance observed. Key noted to be made of the same material as the [[Blue Stone]].
+- [[Session 084 - chain-links|Session 084]]: Party tests the Torr Key against the [[Blue Stone]] at the obelisk site; resonance observed. Key noted to be made of the same material as the [[Blue Stone]].
 
 ## Known Facts
 

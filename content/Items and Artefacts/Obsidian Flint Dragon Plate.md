@@ -7,6 +7,9 @@ publish: true
 
 # Obsidian Flint Dragon Plate
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106 · 3 legendary items &amp; 3 legendary gspröch</a></span></p></div>
+
+
 ## Known Information
 
 The Obsidian Flint Dragon Plate is a Legendary armor obtained from the Loot of Odyss (Session 106). The party noted it was too weak for their current power level and left it unclaimed for now.

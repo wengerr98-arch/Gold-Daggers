@@ -7,6 +7,11 @@ publish: true
 
 # Nergal
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-087">Session 87</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=nergal" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Nergal is an ancient deity whose shrine ("Dankesstätte Nergal") was located near a mountain lake settlement that predates the campaign calendar system — placing him among the oldest known divine figures in the world. He was paired with [[Ereshkigal]], described in legend-lore as "sini Frou" (his wife), suggesting a divine partnership between the two. His name surfaced first in lore texts found in the Kasta library and was then confirmed via Barzan's legend-lore vision in Session 087.

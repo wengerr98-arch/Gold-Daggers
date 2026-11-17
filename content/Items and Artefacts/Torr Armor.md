@@ -9,6 +9,9 @@ publish: true
 
 # Torr Armor
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-105">Session 105</a></span></p></div>
+
+
 ## Known Information
 
 The Torr Armor is a Legendary dragonscale armor with fire-breathing capability, obtained from [[Odyss Trion]]'s loot after his defeat in the Astral Sea (Session 105). Odyss transformed into Torr form before dying — the armor appears linked to the Torr identity and title. Assigned to [[Snix]], who also took on the political role of Torr of Skjall following Odyss's defeat.

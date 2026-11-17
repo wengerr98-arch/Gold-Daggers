@@ -7,6 +7,9 @@ publish: true
 
 # Antimagic Armor
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-082---vier-phrasen-der-geschichte">Session 82 · Vier phrasen der geschichte</a></span></p></div>
+
+
 ## Known Information
 
 A piece of armor explicitly described as Antimagic Armor, discovered in a buried desert chamber beneath the Kasta desert near the preserved corpse of [[Arthur Ruger]]. Its status is unclear — it may be a unique campaign artefact or a variant magic item with Antimagic Field properties. The party encountered it alongside the Desert Golem in Session 082.

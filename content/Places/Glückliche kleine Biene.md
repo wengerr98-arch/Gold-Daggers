@@ -9,11 +9,16 @@ publish: true
 
 # Glückliche kleine Biene
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-025">Session 25</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=gl%C3%BCckliche-kleine-biene" data-label="On the timeline →"></span></p>
+
 ## Overview
 A small bar in [[Dalior]] operated by [[Aubonne]], who is one of two sisters. Despite its unassuming appearance, it serves as the clandestine headquarters of the revolutionary movement [[Das Mehr]], making it a politically significant location despite its modest exterior. The bar is where the party first encountered Aubonne and later returned to deliver crucial evidence and supplies.
 
 ## Character
-An intimate, modest drinking establishment with a lived-in atmosphere. The bar contains at least an upper floor with sleeping quarters and a carefully concealed back room with a hidden drawer—suggesting safe-keeping and covert operations. The interior has enough space for small meetings and provides privacy through hidden areas, appropriate for its role as a revolutionary hub. (Physical details sparse in available records; further sidecar descriptions not located beyond Session 025 observations of interior access.)
+An intimate, modest drinking establishment with a lived-in atmosphere. The bar contains at least an upper floor with sleeping quarters and a carefully concealed back room with a hidden drawer—suggesting safe-keeping and covert operations. The interior has enough space for small meetings and provides privacy through hidden areas, appropriate for its role as a revolutionary hub.
 
 ## Notable Areas
 - Back Room: A concealed rear chamber containing a hidden drawer; discovered to hold a portrait linked to Aubonne's family history.

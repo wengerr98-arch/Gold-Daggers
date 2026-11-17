@@ -9,6 +9,11 @@ publish: true
 
 # Dyrrn
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-069---objectives">Session 69 · Objectives</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=dyrrn" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Dyrrn is a monster encountered at [[The Monument (Seelenschredder)|The Monument]] during a major battle in Session 069. Visually perceived as a monkey-shaped figure ("Affefiguuuuur") within the undead army, Dyrrn acted as the named combat antagonist across all 8 rounds of the fight and could not be permanently destroyed — banished repeatedly but never killed outright.

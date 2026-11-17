@@ -6,6 +6,11 @@ publish: true
 
 # Bodenloser Krug
 
+<div class="gd-seen"><p><span>Visited in 5 sessions</span> <span>first <a href="../sessions/session-004">Session 4</a></span> <span>last <a href="../sessions/session-014">Session 14</a></span></p><details><summary>All 5 sessions</summary><ul><li><a href="../sessions/session-004">Session 4</a></li><li><a href="../sessions/session-007">Session 7</a></li><li><a href="../sessions/session-012">Session 12</a></li><li><a href="../sessions/session-013">Session 13</a></li><li><a href="../sessions/session-014">Session 14</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=bodenloser-krug" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 Bodenloser Krug is an inn and tavern in [[Dalior]] that serves as a lodging house for travelers. It was the Gold Daggers' first arrival stop in the city during Session 004 and their primary base of operations throughout their extended time in Dalior through at least Session 014. The establishment offers both food service at the bar and private rooms for guests.

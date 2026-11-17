@@ -11,6 +11,11 @@ publish: true
 
 # Kobolddorf
 
+<div class="gd-seen"><p><span>Visited in 5 sessions</span> <span>first <a href="../sessions/session-025">Session 25</a></span> <span>last <a href="../sessions/session-038">Session 38</a></span></p><details><summary>All 5 sessions</summary><ul><li><a href="../sessions/session-025">Session 25</a></li><li><a href="../sessions/session-026">Session 26</a></li><li><a href="../sessions/session-027">Session 27</a></li><li><a href="../sessions/session-028">Session 28</a></li><li><a href="../sessions/session-038">Session 38</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=kobolddorf" data-label="On the timeline →"></span></p>
+
 ## Overview
 A large underground kobold settlement built in a honeycomb-structure of tunnels and caverns, home to approximately 1,200 kobolds of multiple tribal groups. Located a few hours outside of [[Dalior]] toward the mountains, the settlement serves as [[Dave]]'s home village and a major hub of kobold civilization. The community is accessible through a hidden rock-door entrance and contains numerous sub-chambers including a communal eating hall (mensa), residential areas, and industrial workshops.
 

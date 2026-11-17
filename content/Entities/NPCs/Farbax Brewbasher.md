@@ -7,6 +7,11 @@ publish: true
 
 # Farbax Brewbasher
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-040---deals-like-daggers">Session 40 · Deals like Daggers</a></span> <span>last <a href="../../sessions/session-041---deals-like-daggers">Session 41 · Deals like Daggers</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=farbax-brewbasher" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Farbax Brewbasher is the proprietor of a magic shop in the Tower District of Aarum (Ophris). The party visited his shop during Session 040 and browsed a range of magic items on sale.

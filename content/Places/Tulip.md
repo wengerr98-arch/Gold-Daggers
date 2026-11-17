@@ -7,6 +7,11 @@ publish: true
 
 # Tulip
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-038">Session 38</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=tulip" data-label="On the timeline →"></span></p>
+
 ## Overview
 Tulip is a small rural village visited by the party during their overland journey in Session 038. Located on the route from the hidden kobold settlement toward the coast, it serves as a rest stop and social hub for travelers and local residents. The village is home to craftspeople, young residents, and a modest inn that has become a waypoint for the Gold Daggers' travels.
 

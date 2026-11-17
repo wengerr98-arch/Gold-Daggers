@@ -7,11 +7,13 @@ publish: true
 
 # Session 062 - Escalating
 
-<p class="session-meta"><span>Session 62</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-03-08</span></p>
+<p class="session-meta"><span>Session 62</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-03-08</span> <span class="gd-tl-link" data-to="timeline" data-q="s=62" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-62" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/nameo"><img class="gd-av" src="../07_protocol-sources/old-image-repository/nameo.webp" alt="" loading="lazy"><span class="gd-chip-name">Nameo</span></a><a class="gd-chip" href="../entities/npcs/aseter"><img class="gd-av" src="../07_protocol-sources/old-image-repository/aseter.webp" alt="" loading="lazy"><span class="gd-chip-name">Aseter</span></a><a class="gd-chip" href="../entities/npcs/bog"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Bog</span></a><a class="gd-chip" href="../entities/npcs/erasen"><img class="gd-av" src="../07_protocol-sources/old-image-repository/erasen.webp" alt="" loading="lazy"><span class="gd-chip-name">Erasen</span></a><a class="gd-chip" href="../entities/npcs/karoth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/karoth.webp" alt="" loading="lazy"><span class="gd-chip-name">Karoth</span></a><a class="gd-chip" href="../entities/npcs/kiathen"><img class="gd-av" src="../07_protocol-sources/old-image-repository/kiathen.webp" alt="" loading="lazy"><span class="gd-chip-name">Kiathen</span></a><a class="gd-chip" href="../entities/npcs/lady-ty"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Lady Ty</span></a><a class="gd-chip" href="../entities/npcs/maradak-dreamkiller"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Maradak Dreamkiller</span></a><a class="gd-chip is-extra" href="../entities/npcs/tazar"><img class="gd-av" src="../07_protocol-sources/old-image-repository/tazar.webp" alt="" loading="lazy"><span class="gd-chip-name">Tazar</span></a><a class="gd-chip is-extra" href="../entities/monsters/the-mother"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">The Mother</span></a></span></div><label class="gd-who-more" for="gd-who-62"><span class="gd-who-plus">+2</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
 
-# Session 062
 <!-- source_heading: # Session 62 - Freitag, 8, März, 2024 -->
 <!-- session_date: 2024-03-08 -->
 
@@ -94,8 +96,6 @@ BB macht mold Eaarth vorem barzan. es passiert nüd am monschter. und bb macht e
 Initiative
 
 mer möche eus parat und es gönd es paar bleck ome. mer ghöre e eusne chöpf s'gränne vo de Frou. Hender em Barzan erschiiint "d'Mother"
-
-![](media/image15.jpg){width="7.480314960629921in" height="9.76388888888889in"}
 
 Mer bruche es paar int saves. uuh däm not looking goood.
 
@@ -234,9 +234,6 @@ The party survives a brutal encounter, receives a long rest from the Summer Godd
 ### Locations
 - Skjall Hallways
 
-### Factions
-- None explicitly identified in this first-pass draft.
-
 ### Items / Titles / Events
 - Divine intervention
 - Circle of Power
@@ -245,11 +242,6 @@ The party survives a brutal encounter, receives a long rest from the Summer Godd
 - infested party members
 - facehugger attack
 - combat preparation
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

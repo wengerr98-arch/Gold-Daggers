@@ -9,6 +9,9 @@ publish: true
 
 # Volkham's Mace
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-044---all-about-different-kind-of-souls">Session 44 · All about different kind of souls</a></span></p></div>
+
+
 ## Known Information
 
 Volkham's Mace is a weapon — a mace associated with a figure named Volkham — that was sold by the party for 11,000 in Session 044. The transaction proved story-relevant because the seller's reaction to the [[Inselfresser]] fish in the party's possession triggered a conversation about the phenomenon of lakes emptying. The alias "Volkham's Maze" is retained as a searchable variant; it was a mishearing of "Mace" in the original session notes.

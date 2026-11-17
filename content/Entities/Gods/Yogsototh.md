@@ -16,7 +16,7 @@ Yogsototh is a campaign deity referenced in the [[Book of Azatoth]] as a counter
 
 ## Session Appearances
 
-- Session 052: Named in the [[Book of Azatoth]] as a counterpart to [[Azatoth]]; part of the cosmological lore of the Waterplane.
+- [[Session 052 - Book of R'Lyeh|Session 052]]: Named in the [[Book of Azatoth]] as a counterpart to [[Azatoth]]; part of the cosmological lore of the Waterplane.
 
 ## Known Facts
 

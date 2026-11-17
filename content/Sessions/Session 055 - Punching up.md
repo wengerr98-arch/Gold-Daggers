@@ -7,19 +7,18 @@ publish: true
 
 # Session 055 - Punching up
 
-<p class="session-meta"><span>Session 55</span> <span>Arc 3 · Salzwasser</span> <span>played 2023-09-16</span></p>
+<p class="session-meta"><span>Session 55</span> <span><a class="gd-arc-link" href="../arcs/arc-3">Arc 3 · Salzwasser</a></span> <span>played 2023-09-16</span> <span class="gd-tl-link" data-to="timeline" data-q="s=55" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/companions/loid"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Loid</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/arthur-ruger"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Arthur Ruger</span></a><a class="gd-chip" href="../entities/npcs/bromir"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Bromir</span></a><a class="gd-chip" href="../entities/npcs/natok"><img class="gd-av" src="../07_protocol-sources/old-image-repository/natok.webp" alt="" loading="lazy"><span class="gd-chip-name">Natok</span></a><a class="gd-chip" href="../entities/npcs/shen"><img class="gd-av" src="../07_protocol-sources/old-image-repository/shen.webp" alt="" loading="lazy"><span class="gd-chip-name">Shen</span></a><a class="gd-chip" href="../entities/npcs/treth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/treth.webp" alt="" loading="lazy"><span class="gd-chip-name">Treth</span></a><a class="gd-chip" href="../entities/npcs/utrin"><span class="gd-av is-ph" aria-hidden="true">U</span><span class="gd-chip-name">Utrin</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 055
 <!-- source_heading: # Session 55 - Samstag, 16. September 2023 -->
 <!-- session_date: 2023-09-16 -->
 
 
 ## Titel: Punching up
-
-
-Anwesend: God, Lorilla, Snix (chonnt chle later), Barzan, BB, Koda, Leumas, Elloryn
 
 
 In Game Location: im Boot
@@ -165,19 +164,11 @@ The session stays in downtime and transition mode, centered on the sanctum, fish
 - Sanctum
 - boat
 
-### Factions
-- None explicitly identified in this first-pass draft.
-
 ### Items / Titles / Events
 - downtime
 - fishing
 - cooking
 - journey prep
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

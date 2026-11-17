@@ -7,7 +7,10 @@ publish: true
 
 # Session 082 - Vier phrasen der geschichte
 
-<p class="session-meta"><span>Session 82</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2025-04-18</span></p>
+<p class="session-meta"><span>Session 82</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2025-04-18</span> <span class="gd-tl-link" data-to="timeline" data-q="s=82" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/monsters/the-desert-golem"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">The Desert Golem</span></a><a class="gd-chip" href="../entities/npcs/arthur-ruger"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Arthur Ruger</span></a><a class="gd-chip" href="../entities/titans/ziz"><span class="gd-av is-ph" aria-hidden="true">Z</span><span class="gd-chip-name">Ziz</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -17,7 +20,6 @@ publish: true
 ## Titel: Vier phrasen der geschichte
 
 Protokoll: BB, Leumas
-
 
 
 In Game Location: Kasta
@@ -226,8 +228,6 @@ PERFECT PLAN
 
 D'lorilla schiesst loos und tuet eri route no optimiere - sie flügt a de scholtere verbiii, d'auge lüchte rot, sie wicht uuus und kurvet unde dörre, verwandelt sech in en armadillo und sie prescht dore sand und bevor sie am bode esch eschsi weder en vogel und sie gseht ändlos sand und em hemmel en plattform. Sie flügt uuufe und denne gsehtsi en platform, dank blindsight gsehtsi 8t unsechtbari humunkuli.
 
-![](media/image8.jpg){width="4.59375in" height="4.685367454068241in"}
-
 Lorilla is going to shit on the humunkuli? doch ned. es gett spannendi diskusione und velli optione.
 
 D'Lorilla flügt uuufe und verwandelt sech ene giant bat. em storzflog rechtig scroll und em momänt wosi d'scroll packt gompe alli 8t loos und versueche d'lorilla grapple! Freedom of movement reglet und sie werd alli 8t looos e däm sie sech wändet und sie esch slippery. sie flügt met 240fuess rechtig uusgang und fendet perfekt grad s'loch zom use chooo und es esch weder armadillo time. aber sie esch zu schnäll und schaffts nömme zom zroggwandle. sie brätsch voll en glasbode! 128 schade, aber sie öberläbt. es chömme ke humunkuli und de golem werd langsamer und langsamer bes er ganz stopt. Nach und nach zergheie au die vordere Humunkuli. E chliine Armadillo werd sichtbar im riese Krater wo en riiise Scroll hebt und langsam zu eus chonnt.
@@ -242,160 +242,203 @@ BB History Check: nat 20 - she remembers Ziz
 
 ## The Scroll
 
-![](media/image13.jpg){width="7.480314960629921in" height="5.611111111111111in"}
-
 ### Oberster Text:
 
 *"Seek what should not remain: begin not with what leads, but with what follows. The third voice holds no key, yet opens the way. The last binds what the beginning abandoned. The first recalls what the next tried to forget. And the succeeding, though loud, cannot hold the shape alone.*
 
 *Read as the shadows fall. By starlight, look north-by-east, to the still star that does not blink, fixed above all others. Beneath it lie three: one pale as snow, one broken in two, and one that makes no sound. Trace their path together, and follow the line they cast. Where their line cuts across the quiet sky, where starlight thins at the horizon's breath, something waits beneath dust and time. What once stood bright now lies scattered, its name erased but not undone. The stars remember. I remember, and now so do you. We burned what we could not speak, and washed the ashes from our skin. The bath still waits. The stone no longer holds water for those like me."*
 
-### 
+### phrase A / 3
 
-+---------------------+------------------+------------------+------------------+
-| ### phrase A / 3    | ### phrase B / 4 | ### phrase C / 1 | ### Phrase D / 2 |
-+---------------------+------------------+------------------+------------------+
-| *This is not the    | *Here I am.\*    | *There were      | *They are not    |
-| rite.\*             | *Doing it        | eight. Eight.\   | like us.\*       |
-| *This is not the    | again.*          | Eight like       | They are not     |
-| binding.\*          |                  | teeth. Eight     | whole.\          |
-| *This is only the   | I caught the     | like fingers.\   | And yet they are |
-| echo.*              | Ziz.\            | Now seven. But   | not broken.      |
-|                     | I grounded the   | they smile like  |                  |
-| *He would not stop. | sky. I silenced  | it\'s fine. It's | Fire-ones walk   |
-| He would not die.\* | the song.\       | not fine.*       | like they've     |
-| *He would not       | Its wings beat   |                  | already won.\    |
-| listen.*            | still in the     | *The sand eats   | They burn        |
-|                     | chamber below.   | the streets, did | without          |
-| *The seers turned   |                  | you see that? It | permission.\     |
-| away. The oracles   | I thought that   | eats them, one   | They speak in    |
-| wept. The diviners  | would be enough. | grain at a       | flickers, in     |
-| sealed their        |                  | time.\           | rhythm ---\      |
-| eyes.\*             | I thought if I   | They sweep it,   | and when they    |
-| *They would not     | bound it---if I  | but it always    | laugh, the wind  |
-| help.*              | tethered its     | comes back. You  | adjusts.         |
-|                     | breath to the    | can't sweep away |                  |
-| *So we gathered.\*  | ley---\          | time.*           | Earth-ones plant |
-| *Seventy-seven and  | That I could     |                  | themselves where |
-| seven hundred       | remember.        | *I built this    | they please.\    |
-| more\*              |                  | city.*           | I met one who    |
-| *Seven thousand     | But I cannot.    |                  | carried a        |
-| behind.\*           |                  | *No, not with    | **stone flower** |
-| *And seventy        | The Golem still  | hands. With      | ---\             |
-| thousand beyond     | walks.\          | fire. With       | **one stem,      |
-| them.*              | It carries him.  | rules.\          | three            |
-|                     | It carries him.\ | I told them what | blossoms.**      |
-| *We burned.\*       | But the pulse is | a line was. I    |                  |
-| *We bled.\*         | thinning. The    | told them what a | He said:\        |
-| *[We fed the earth  | threads fray.    | circle meant.*   | *"This is me.    |
-| with thought and    |                  |                  | The part I carry |
-| name and            | The seal must be | *I remember when | outside.\        |
-| fire.]{.underline}* | rebuilt.\        | the towers were  | One flower is    |
-|                     | The pattern must | blue.\           | who I was.\      |
-| *One rose from the  | be renewed.      | Are they still   | One is who I     |
-| bones of the        |                  | blue?*           | am.\             |
-| Behemoth,\*         | But the method   |                  | And one is who I |
-| *And into its heart | ---\             | *They told me I  | might still      |
-| we carved the       | The method is    | was dead.\       | become."*        |
-| breath of death.*   | lost.            | That I gave      |                  |
-|                     |                  | everything       | He set it down   |
-| *It walks so he     | Not burned.\     | already.\        | for a moment.\   |
-| cannot.\*           | Not buried.\     | But here I am,   | And when he      |
-| *It breathes so he  | But lost         | watching Ephraim | picked it up,\   |
-| shall not.*         | **inside me.**   | sit in my        | **he was no      |
-|                     |                  | chair.*          | longer the same  |
-| *Read this scroll   | I speak the      |                  | man.**           |
-| only where the ley  | shapes, but they | *He\'s very good |                  |
-| runs deep,\*        | slip.\           | at silence, that | He smiled at     |
-| *Where the stone    | I draw the       | one.*            | that.            |
-| remembers pain.*    | glyphs, but the  |                  |                  |
-|                     | stone does not   | *They chant laws | That's what      |
-| *Speak it not to    | hold.            | in marble halls  | unsettles me.    |
-| learn.\*            |                  | now.\            |                  |
-| *Speak it to hold   | I keep trying to | And pretend that | Water-ones weep  |
-| back the silence.*  | remember.\       | robes mean       | for futures they |
-|                     | I keep trying to | wisdom.\         | haven't          |
-| *But know this---\* | remember.\       | But I saw the    | touched.\        |
-| *What was done      | I keep trying.   | light leave      | They overflow    |
-| should not have     |                  | their eyes when  | --- not with     |
-| worked.\*           | I can't.         | they realized\   | sorrow, but with |
-| *And still, it      |                  | they are just    | knowing.\        |
-| did.*               |                  | powerful, not    | They drown in    |
-|                     |                  | important.*      | beauty and call  |
-| *And still, he      |                  |                  | it breath.       |
-| waits.*             |                  | *They sell shade |                  |
-|                     |                  | to the poor.\    | Air-ones forget  |
-|                     |                  | Shade! Like the  | to remain.\      |
-|                     |                  | sun belongs to   | They drift       |
-|                     |                  | the wealthy.*    | mid-sentence.\   |
-|                     |                  |                  | They vanish      |
-|                     |                  | *The Golem       | between          |
-|                     |                  | walks, but no    | thoughts.\       |
-|                     |                  | one listens to   | And sometimes,   |
-|                     |                  | its steps.\      | when they        |
-|                     |                  | It says          | return,\         |
-|                     |                  | something, with  | **they bring     |
-|                     |                  | every stomp.\    | back silence     |
-|                     |                  | I think it's     | that was not     |
-|                     |                  | trying to tell   | here before.**   |
-|                     |                  | them             |                  |
-|                     |                  | something\...*   | They are not     |
-|                     |                  |                  | fixed.\          |
-|                     |                  | *I knew someone  | They are not     |
-|                     |                  | once. He started | whole.\          |
-|                     |                  | a university.\   | They are not     |
-|                     |                  | Then he built a  | **themselves**   |
-|                     |                  | city around it.\ | in the way we    |
-|                     |                  | What an idiot.*  | understand self. |
-|                     |                  |                  |                  |
-|                     |                  | *Do they still   | Their souls      |
-|                     |                  | think I died?\   | spill into       |
-|                     |                  | I think I did,   | scarves,         |
-|                     |                  | too.*            | feathers,        |
-|                     |                  |                  | stones, hands,   |
-|                     |                  | *There were      | glances.\        |
-|                     |                  | eight.\          | Their hearts     |
-|                     |                  | Eight towers.\   | grow roots in    |
-|                     |                  | The eighth still | objects.         |
-|                     |                  | stands.\         |                  |
-|                     |                  | But they don't   | And when those   |
-|                     |                  | see it.*         | objects are lost |
-|                     |                  |                  | ---\             |
-|                     |                  |                  | They shift.      |
-|                     |                  |                  |                  |
-|                     |                  |                  | And **they do    |
-|                     |                  |                  | not mourn it.**  |
-|                     |                  |                  |                  |
-|                     |                  |                  | They are not     |
-|                     |                  |                  | gods.\           |
-|                     |                  |                  | Not yet.         |
-|                     |                  |                  |                  |
-|                     |                  |                  | But something    |
-|                     |                  |                  | watches through  |
-|                     |                  |                  | them.\           |
-|                     |                  |                  | And when they    |
-|                     |                  |                  | move ---         |
-|                     |                  |                  |                  |
-|                     |                  |                  | **The desert     |
-|                     |                  |                  | listens.\**      |
-|                     |                  |                  | **The stars      |
-|                     |                  |                  | align.**         |
-|                     |                  |                  |                  |
-|                     |                  |                  | And when they    |
-|                     |                  |                  | look at you ---  |
-|                     |                  |                  |                  |
-|                     |                  |                  | **You remember   |
-|                     |                  |                  | how small you    |
-|                     |                  |                  | really are.\     |
-|                     |                  |                  | You remember you |
-|                     |                  |                  | are not          |
-|                     |                  |                  | divine.**        |
-|                     |                  |                  |                  |
-|                     |                  |                  | **And you wonder |
-|                     |                  |                  | if they've       |
-|                     |                  |                  | already become   |
-|                     |                  |                  | what you fear.** |
-+=====================+==================+==================+==================+
+*This is not the rite.*\
+*This is not the binding.*\
+*This is only the echo.*
+
+*He would not stop. He would not die.*\
+*He would not listen.*
+
+*The seers turned away. The oracles wept. The diviners sealed their eyes.*\
+*They would not help.*
+
+*So we gathered.*\
+*Seventy-seven and seven hundred more*\
+*Seven thousand behind.*\
+*And seventy thousand beyond them.*
+
+*We burned.*\
+*We bled.*\
+*<u>We fed the earth with thought and name and fire.</u>*
+
+*One rose from the bones of the Behemoth,*\
+*And into its heart we carved the breath of death.*
+
+*It walks so he cannot.*\
+*It breathes so he shall not.*
+
+*Read this scroll only where the ley runs deep,*\
+*Where the stone remembers pain.*
+
+*Speak it not to learn.*\
+*Speak it to hold back the silence.*
+
+*But know this---*\
+*What was done should not have worked.*\
+*And still, it did.*
+
+*And still, he waits.*
+
+### phrase B / 4
+
+*Here I am.*\
+*Doing it again.*
+
+I caught the Ziz.\
+I grounded the sky. I silenced the song.\
+Its wings beat still in the chamber below.
+
+I thought that would be enough.
+
+I thought if I bound it---if I tethered its breath to the ley---\
+That I could remember.
+
+But I cannot.
+
+The Golem still walks.\
+It carries him. It carries him.\
+But the pulse is thinning. The threads fray.
+
+The seal must be rebuilt.\
+The pattern must be renewed.
+
+But the method ---\
+The method is lost.
+
+Not burned.\
+Not buried.\
+But lost **inside me.**
+
+I speak the shapes, but they slip.\
+I draw the glyphs, but the stone does not hold.
+
+I keep trying to remember.\
+I keep trying to remember.\
+I keep trying.
+
+I can't.
+
+### phrase C / 1
+
+*There were eight. Eight.\
+Eight like teeth. Eight like fingers.\
+Now seven. But they smile like it\'s fine. It's not fine.*
+
+*The sand eats the streets, did you see that? It eats them, one grain at a time.\
+They sweep it, but it always comes back. You can't sweep away time.*
+
+*I built this city.*
+
+*No, not with hands. With fire. With rules.\
+I told them what a line was. I told them what a circle meant.*
+
+*I remember when the towers were blue.\
+Are they still blue?*
+
+*They told me I was dead.\
+That I gave everything already.\
+But here I am, watching Ephraim sit in my chair.*
+
+*He\'s very good at silence, that one.*
+
+*They chant laws in marble halls now.\
+And pretend that robes mean wisdom.\
+But I saw the light leave their eyes when they realized\
+they are just powerful, not important.*
+
+*They sell shade to the poor.\
+Shade! Like the sun belongs to the wealthy.*
+
+*The Golem walks, but no one listens to its steps.\
+It says something, with every stomp.\
+I think it's trying to tell them something\...*
+
+*I knew someone once. He started a university.\
+Then he built a city around it.\
+What an idiot.*
+
+*Do they still think I died?\
+I think I did, too.*
+
+*There were eight.\
+Eight towers.\
+The eighth still stands.\
+But they don't see it.*
+
+### Phrase D / 2
+
+*They are not like us.*\
+They are not whole.\
+And yet they are not broken.
+
+Fire-ones walk like they've already won.\
+They burn without permission.\
+They speak in flickers, in rhythm ---\
+and when they laugh, the wind adjusts.
+
+Earth-ones plant themselves where they please.\
+I met one who carried a **stone flower** ---\
+**one stem, three blossoms.**
+
+He said:\
+*"This is me. The part I carry outside.\
+One flower is who I was.\
+One is who I am.\
+And one is who I might still become."*
+
+He set it down for a moment.\
+And when he picked it up,\
+**he was no longer the same man.**
+
+He smiled at that.
+
+That's what unsettles me.
+
+Water-ones weep for futures they haven't touched.\
+They overflow --- not with sorrow, but with knowing.\
+They drown in beauty and call it breath.
+
+Air-ones forget to remain.\
+They drift mid-sentence.\
+They vanish between thoughts.\
+And sometimes, when they return,\
+**they bring back silence that was not here before.**
+
+They are not fixed.\
+They are not whole.\
+They are not **themselves** in the way we understand self.
+
+Their souls spill into scarves, feathers, stones, hands, glances.\
+Their hearts grow roots in objects.
+
+And when those objects are lost ---\
+They shift.
+
+And **they do not mourn it.**
+
+They are not gods.\
+Not yet.
+
+But something watches through them.\
+And when they move ---
+
+**The desert listens.**\
+**The stars align.**
+
+And when they look at you ---
+
+**You remember how small you really are.\
+You remember you are not divine.**
+
+**And you wonder if they've already become what you fear.**
 
 **Next time:**
 
@@ -442,11 +485,6 @@ BB History Check: nat 20 - she remembers Ziz
 - flying carpet
 - Catnap
 - golem instructions
-
-## Open Threads
-
-- Continue following the session-specific lead on the next imported batch.
-- Verify any unclear named figure in later review if it becomes relevant.
 
 <div class="session-nav">
 

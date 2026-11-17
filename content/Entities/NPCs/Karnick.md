@@ -7,6 +7,11 @@ publish: true
 
 # Karnick
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-057---catching-up">Session 57 · Catching Up</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=karnick" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Karnick is a dwarf gatekeeper stationed at the entrance of the [[Kloster der Herbstgöttin]], the mountain monastery. When the party arrived in Session 057 he recognised Barzan by name and admitted the group without difficulty.

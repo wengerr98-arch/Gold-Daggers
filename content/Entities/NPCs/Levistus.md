@@ -7,6 +7,11 @@ publish: true
 
 # Levistus
 
+<div class="gd-seen"><p><span>Seen in 12 sessions</span> <span>first <a href="../../sessions/session-032">Session 32</a></span> <span>last <a href="../../sessions/session-105">Session 105</a></span></p><details><summary>All 12 sessions</summary><ul><li><a href="../../sessions/session-032">Session 32</a></li><li><a href="../../sessions/session-033">Session 33</a></li><li><a href="../../sessions/session-080---the-currency-of-class">Session 80</a> <span>The currency of class</span></li><li><a href="../../sessions/session-096---uferlos">Session 96</a> <span>Uferlos</span></li><li><a href="../../sessions/session-097---der-mit-der-waage">Session 97</a> <span>Der mit der Waage</span></li><li><a href="../../sessions/session-098---unsicher">Session 98</a> <span>Unsicher</span></li><li><a href="../../sessions/session-099">Session 99</a></li><li><a href="../../sessions/session-100---illumination">Session 100</a> <span>Illumination</span></li><li><a href="../../sessions/session-101---1-0-auftakt">Session 101</a> <span>1-0 Auftakt</span></li><li><a href="../../sessions/session-102">Session 102</a></li><li><a href="../../sessions/session-103">Session 103</a></li><li><a href="../../sessions/session-105">Session 105</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=levistus" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Levistus is an archdevil figure whose domain lies in the infernal plane of Stygia, reached by the party via the Bastion. He is connected to ancient lore about the Genasi of [[Kasta]] and may be linked to the ancestral origin of that people through events of the Forgotten War. After a tense first contact — including a combat encounter in his throne room — Levistus entered a functional if uneasy cooperative relationship with the party, briefing them on the Erdbrecher, titans, the Silence, and a planar corruption threatening multiple planes, and equipping them with astral-anchor outfits for travel in the Astral Sea.

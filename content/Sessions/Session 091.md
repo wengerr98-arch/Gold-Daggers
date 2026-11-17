@@ -6,7 +6,10 @@ publish: true
 ---
 # Session 091
 
-<p class="session-meta"><span>Session 91</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2025-09-20</span></p>
+<p class="session-meta"><span>Session 91</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2025-09-20</span> <span class="gd-tl-link" data-to="timeline" data-q="s=91" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-91" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/gods/iethag"><span class="gd-av is-ph" aria-hidden="true">I</span><span class="gd-chip-name">Iethag</span></a><a class="gd-chip" href="../entities/npcs/azan-aeducan"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Azan Aeducan</span></a><a class="gd-chip" href="../entities/npcs/cetzy"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Cetzy</span></a><a class="gd-chip" href="../entities/monsters/demogorgon"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Demogorgon</span></a><a class="gd-chip" href="../entities/npcs/don-hor"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Don Hor</span></a><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/monsters/grave-king"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Grave King</span></a><a class="gd-chip" href="../entities/gods/grosser-hirte"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Grosser Hirte</span></a><a class="gd-chip is-extra" href="../entities/gods/kurthul-mak"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Kurthul Mak</span></a><a class="gd-chip is-extra" href="../entities/npcs/snigli"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Snigli</span></a><a class="gd-chip is-extra" href="../entities/monsters/tanazir"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">Tanazir</span></a><a class="gd-chip is-extra" href="../entities/npcs/windnoise"><span class="gd-av is-ph" aria-hidden="true">W</span><span class="gd-chip-name">Windnoise</span></a></span></div><label class="gd-who-more" for="gd-who-91"><span class="gd-who-plus">+4</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
 
@@ -251,8 +254,6 @@ er goht zo de bb und versuechtsi weder z'beläbe. goht ned. raise dead? nope! ab
 
 de brudi esch zmezzt ofem schlachtfäld und verseucht alli lüt z'koordiniere! you managed to win the war against mason!
 
-## 
-
 ## Snix oder Sniggli, oder doch Gex?
 
 de snix em sniggli körper esch vor ganz vellne eier! Die erschte strapatze send dörre und sie händ en sekonde zom dörreschnuuufe!
@@ -338,7 +339,8 @@ barzan perc. check! 22! und er gseht: öbbis esch ned matching! es esch en Cube 
 
 und es entfärnt sin Mirrortrick und denne holy shit!
 
-Barzan: Slow! wisdom 21: and it rolled: 21![](media/image9.jpg){width="6.091843832020998in" height="8.116032370953631in"}
+Barzan: Slow! wisdom 21: and it rolled:
+21
 
 ## Roll Initiative 
 

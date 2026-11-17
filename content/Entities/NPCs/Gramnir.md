@@ -7,6 +7,11 @@ publish: true
 
 # Gramnir
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-029">Session 29</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=gramnir" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Gramnir is a Riesenzwerg (giant dwarf) standing at 1.65m — notably tall for a dwarf — encountered at the [[Kloster der Herbstgöttin]]. He is a member of Gregorius's team and competed in the monastery's drinking contest during a harvest feast, winning against Eloryn 3-0.

@@ -7,7 +7,10 @@ publish: true
 
 # Session 039 - Arrival in Arum - The start of something special
 
-<p class="session-meta"><span>Session 39</span> <span>Arc 2 · Die Stadt der Messer</span> <span>played 2022-05-19</span></p>
+<p class="session-meta"><span>Session 39</span> <span><a class="gd-arc-link" href="../arcs/arc-2">Arc 2 · Die Stadt der Messer</a></span> <span>played 2022-05-19</span> <span class="gd-tl-link" data-to="timeline" data-q="s=39" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/das-letzte-opfer"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Das letzte Opfer</span></a><a class="gd-chip" href="../entities/npcs/dabri"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dabri</span></a><a class="gd-chip" href="../entities/npcs/grandir"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Grandir</span></a><a class="gd-chip" href="../entities/npcs/sarmulin"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sarmulin</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -103,8 +106,6 @@ BB macht einen Brief an alte Händler bei denen sie gearbeitet hat vorhin und zu
 wir gehen zurück in die giesserei mit leumas und barzan voraus und sie ist immer noch da und dann schaut sie: haben wir einen deal? sie kommt mit raus und will es natürlich sehen im voraus. insight hinterhalt. everything seems fine. sie lauft mit uns raus. und sie macht ein tor auf zur seitengasse für eine privaten ort. nachefahre. sie will nicht auf der strasse rausladen. okay, sie schaut rein, zahlt cash un dann sollen wir nach hinten mitgehen zum ausladen. sie sieht und findet ok. gseht super aus. und sie gibt uns cash. so macht man gerne geschäfte. aber sie will dass entweder einzelne oder so mit nach hinten gehen und ausladen helfen. goht meh drum chli oversight. ins lager rein. und sie kommt auch schnell rein und geht wieder raus. noch etwas kleines das sie uns nicht geben kann auf strasse. Trockenblumen und einen Stein mit eingravierter Rune. Sucht euch ein ruhiges Plätzchen und sagt hallo. Sending stone. Walkie Talkie. Cheffy chef, Vater oder Daddy.
 
 merci vielmals.
-
-# Weekend Day 2 - Freitag, 20.05.2022
 
 ## Extracted Summary
 

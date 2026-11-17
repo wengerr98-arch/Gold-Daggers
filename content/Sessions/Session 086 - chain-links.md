@@ -6,7 +6,10 @@ publish: true
 ---
 # Session 086 - chain-links
 
-<p class="session-meta"><span>Session 86</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2025-05-21</span></p>
+<p class="session-meta"><span>Session 86</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2025-05-21</span> <span class="gd-tl-link" data-to="timeline" data-q="s=86" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/monsters/ed"><span class="gd-av is-ph" aria-hidden="true">E</span><span class="gd-chip-name">Ed</span></a><a class="gd-chip" href="../entities/monsters/og"><span class="gd-av is-ph" aria-hidden="true">O</span><span class="gd-chip-name">Og</span></a><a class="gd-chip" href="../entities/gods/anubis"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Anubis</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 # Session 086 - Mittwoch, 21. Mai 2025
@@ -15,7 +18,6 @@ publish: true
 ## Titel: chain-links
 
 Protokoll: BB, Leumas
-
 
 
 In Game Location: Kasta
@@ -29,8 +31,6 @@ mer rede met ehne wiiter. d'chele esch osem norde. aber Skjall seit ene nüüüt
 d'wett esch gold daggers chömme devoo und sie wette sie wärde eus ässe.
 
 Mer chönne inneeee
-
-![](media/image11.jpg){width="7.067804024496938in" height="5.305774278215223in"}
 
 Elo 4: d'sproch chasi zwar läse aber sie verstoht de text ned. Sie fendet en zu de Bòkir.
 
@@ -276,17 +276,18 @@ de Leumas luegt no use usde chele aber s esh dunkel außerhalb und er gseht gar 
 
 ## mer gönd nomol go läse e de chele:
 
-Elo: 19 - [Bokir]{.underline} air und wassergenasi wiit im norde ob en usschnett usm tägleche läbe. Sie göhn ist
+Elo: 19 - <u>Bokir</u> air und wassergenasi wiit im norde ob en usschnett usm tägleche läbe. Sie göhn ist
 
 > house of wisdom es gseht us als hätte sie en gruppe Variante gha vo dem wo de mahdi gha het
 >
 > gseht zemmli arktisch uus
 
-Leumas: 14 - [Archfeys]{.underline} Er gseht en szene wo ehm ned allzu unbekannt vorchonnt. 3 Archfeys und de
+Leumas: 14 - <u>Archfeys</u> Er gseht en szene wo ehm ned allzu unbekannt vorchonnt. 3 Archfeys und de
 
 > Zima chöme durnes Tor metme Wage. Nachdem sie dur s gate dore send verschwende die drüü archfeys
 
-BB: 27 - [Ley-Lines]{.underline}: grosse metaphysischer representation von der Energie des Planetes.
+BB: 27 - <u>Ley-Lines</u>: grosse metaphysischer representation
+von der Energie des Planetes.
 
 sie gseht en story vonere junge frou. tuuusig chrälleli, grosse rock und chopftuech, schefftsi
 
@@ -294,7 +295,7 @@ sie gseht en story vonere junge frou. tuuusig chrälleli, grosse rock und chopft
 >
 > wizards händ gschaft för grossi ritual os de leylines energie zie, so chle wiene ölborinsle.
 
-Barzan: 32 - [über die Gruppe vo lüüt wo a drüü Ziitpunkt ergndöppis müent mache]{.underline}
+Barzan: 32 - <u>über die Gruppe vo lüüt wo a drüü Ziitpunkt ergndöppis müent mache</u>
 
 de Barzan esch tüüf versunke em buech. es esch en alti gschecht. er gseht gschecht vomene
 
@@ -358,7 +359,6 @@ D Lorilla luegt obs Pflanze get wo sech vo Bluet ernähre/ob sech d Flora verän
 ## Titel: 
 
 Protokoll: BB, Leumas
-
 
 
 In Game Location: Kasta
@@ -484,11 +484,7 @@ der Aufbruch nach Nord Osten und das
 
 De Leumas inspiriert eus metme coole Song am nächste Morge womer los göhnd id Wüesti.
 
-##  
-
 ## vor dem Tor
-
-![](media/image3.jpg){width="7.480314960629921in" height="5.611111111111111in"}
 
 mer gsähnd met em skiff vo wiit här es riiiiisigs toor wo emene felse esch.
 
@@ -544,8 +540,6 @@ lorilla und Snix füehlesech weder einigermasse - de snix esch iibudlet und d'lo
 
 BB gseht en Statue vor sech und es esch en wisdom saving throw 16 - 20 not natural
 
-![](media/image1.jpg){width="7.662565616797901in" height="5.746924759405075in"}
-
 BB goht go d'statue aaluege. investigation check 31 - mega alti statue und sie het zwenig sand droffe!
 
 con and wisdom save - nat 1 3d10 25 und denne en d4, ungrad esch abe und grad esch ufe! bb esch jetze 50gi! jetzte en wisdom save: 5 - 1d6 för 3 bechonnt en
@@ -586,9 +580,6 @@ lorilla arcana check of's oug 9 again - leider nein. mer undersueche no s'tor un
 - Library tower
 - Safe House
 - Kasta
-
-### Factions
-- None named explicitly
 
 ### Items / Titles / Events
 - Bokir

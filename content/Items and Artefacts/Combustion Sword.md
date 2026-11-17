@@ -7,6 +7,9 @@ publish: true
 
 # Combustion Sword
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-022">Session 22</a></span></p></div>
+
+
 ## Known Information
 
 A story-critical sword acquired by [[Snix]] in Session 022, dramatically emerging from his stomach in a vomit scene. It had previously appeared in Snix's dream. According to [[Das letzte Opfer|The Last Sacrifice]], the sword was created by [[Dr. Mason]] and is associated with the black smoke entity inside Snix.

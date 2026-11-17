@@ -10,6 +10,11 @@ publish: true
 
 # Vergessener Tempel
 
+<div class="gd-seen"><p><span>Visited in 4 sessions</span> <span>first <a href="../sessions/session-031">Session 31</a></span> <span>last <a href="../sessions/session-034">Session 34</a></span></p><details><summary>All 4 sessions</summary><ul><li><a href="../sessions/session-031">Session 31</a></li><li><a href="../sessions/session-032">Session 32</a></li><li><a href="../sessions/session-033">Session 33</a></li><li><a href="../sessions/session-034">Session 34</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=vergessener-tempel" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Vergessener Tempel (Forgotten Temple) is an ancient, sacred site located in the [[Ophris]] / [[Kasta]] desert region near a mountain range. Named after and dedicated to the divine child [[Ophris]], who sacrificed themselves and became the landscape itself, the temple serves as a memorial to their sacrifice and contains visions of the Vergessener Krieg (Forgotten War). It is heavily guarded and protected — six prior investigation teams sent to explore it returned nothing.

@@ -7,11 +7,13 @@ publish: true
 
 # Session 079 - Behemoth, Leviathan and the Golem
 
-<p class="session-meta"><span>Session 79</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2025-01-18</span></p>
+<p class="session-meta"><span>Session 79</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2025-01-18</span> <span class="gd-tl-link" data-to="timeline" data-q="s=79" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/randrus-torren"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Randrus Torren</span></a><a class="gd-chip" href="../entities/npcs/sujo"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sujo</span></a><a class="gd-chip" href="../entities/npcs/abrahim-(ephraim)"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Abrahim (Ephraim)</span></a><a class="gd-chip" href="../entities/gods/anubis"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Anubis</span></a><a class="gd-chip" href="../entities/npcs/brel"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Brel</span></a><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/monsters/sentinel"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sentinel</span></a><a class="gd-chip" href="../entities/monsters/shakali"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Shakali</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 079
 <!-- source_heading: # DND Session 79 - Samstag, 18. Januar 2025 -->
 <!-- session_date: 2025-01-18 -->
 
@@ -38,7 +40,7 @@ Mer sueche es Hotel met Schlamm-Spa. en super Obe gsi. und denne bem zmorge sch�
 
 ## in der Wüste angekommen
 
-### ![](media/image16.jpg){width="5.312723097112861in" height="6.3856266404199475in"}
+### 
 
 90er roll D100 före teleport und mer chöme guet ah. Ca. Mittag ide Winterkleider, zmitzt ide Wüesti. Mer befinde eus imne chliine rustikale Hüttli. 40°, uff. Es het no en Bäse vom Torren dette, eine wo flügt.
 
@@ -68,10 +70,6 @@ Leue oder Schlange send do e de wüeschti wohnhaft. Selberni und Goldeni leue me
 
 de Snix het en Golden Spuuder entdeckt.
 
-![](media/image18.jpg){width="3.515297462817148in" height="4.240676946631671in"}
-
-![](media/image49.jpg){width="7.479166666666667in" height="4.287551399825022in"}![](media/image23.jpg){width="7.479166666666667in" height="6.464634733158356in"}![](media/image29.jpg){width="7.479166666666667in" height="7.006301399825022in"}
-
 ## Kampf gegen die Spinne
 
 Initiative
@@ -84,8 +82,6 @@ Elly: 3 Eldritch Blaaaasts und disadvantage on charisma saves. One Hits: 13 poin
 
 Barzan: bonus action 5th level spiritual weapon, accelerate
 
-![](media/image25.jpg){width="3.250820209973753in" height="4.334426946631671in"}
-
 Sag Ka: nat 20 ufe Leumas. Strength save vom Leumas. Leumas constrained und es squeezed met de second attack. Half Dmage. 46 halfed to 23 Domage.
 
 Leumas: macht sech gross/ Kingly, breaking free. 12 doesn't break free
@@ -97,8 +93,6 @@ Spider: no stuff going on
 Round 2
 
 Sentinel: Blinding Light, BB is blind
-
-![](media/image21.jpg){width="3.1145833333333335in" height="3.2979680664916886in"}
 
 Snix: Stabby Stab, Advantage for both, 74 Schadeee
 
@@ -167,8 +161,6 @@ Mer luege eus d'maschine ahh. De Snix goht zom Sentinel. e grossteil esch zerspl
 d'sonne stooht höch, es esch haubi 2 und mer händ grad en kampf hendereus. de barzan blüetet nochle sini seele uuus vom st
 
 BB het s'objekt identifiziert. Sie gseht dases live form esch, pure essence of life. it is no school of magic we no.
-
-###  
 
 ## die Glasfläche und die Homunculus
 
@@ -270,7 +262,7 @@ Variante zum vorgooo!
 
 Es gett es paar Legendärie Probelm wono niemer gelöst het!
 
-- es gett en uusgrabigsstätte wono niemer gelöst het, es gett es Grab vomene Gott, vor oder wärendem vergässene chrieg, met riichwiite hender devine gates! Me weissned öbbs en mythos esch oder doch passiert esch! Mega fähigi lüüüt send däm nochegange und me hetsi nieme gseeh! Wär de öbber move, dass z'löse! De Name vom Gott esch: **[Anubis]{.underline}**! -\> LEGEND LORE!
+- es gett en uusgrabigsstätte wono niemer gelöst het, es gett es Grab vomene Gott, vor oder wärendem vergässene chrieg, met riichwiite hender devine gates! Me weissned öbbs en mythos esch oder doch passiert esch! Mega fähigi lüüüt send däm nochegange und me hetsi nieme gseeh! Wär de öbber move, dass z'löse! De Name vom Gott esch: **<u>Anubis</u>**! -\> LEGEND LORE!
 
 Mer froge nacheme schloofplätzli und chönnd be ere Sleepen!
 

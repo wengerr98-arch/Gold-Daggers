@@ -20,3 +20,5 @@ views:
 ```
 
 [[Hamata_Map.jpg|Open the full-size map]] (1.9 MB) · [[Hamata_Map.web.webp|Map as a plain image]]
+
+<p class="gd-map-tl" hidden data-href="timeline" data-places="ophris|nolia|skjall|kasta"></p>

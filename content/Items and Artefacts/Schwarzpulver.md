@@ -10,6 +10,9 @@ publish: true
 
 # Schwarzpulver
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-020">Session 20</a></span></p></div>
+
+
 ## Known Information
 
 Schwarzpulver (Black Powder / Gunpowder) is a campaign technology item confirmed as generic black powder by the DM. It is sold by [[Kathi]] at the Boots-Markt in Dalior, who describes it as "one of the newest inventions from the wonderful neighbouring country," implying it originates from an unnamed neighbouring nation and may represent emerging campaign-world technology rather than standard equipment.

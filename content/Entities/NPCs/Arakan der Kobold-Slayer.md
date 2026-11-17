@@ -22,4 +22,3 @@ Arakan der Kobold-Slayer is a lore or historical figure known for driving kobold
 - Depicted in a painting located in [[Mason Mansion]]
 - Associated with historical or legendary campaigns to remove kobolds from urban environments
 - Type uncertain: possibly historical person, deity, or mythological figure
-- Filed under NPC (historical/lore) pending DM confirmation

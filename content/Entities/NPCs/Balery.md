@@ -8,6 +8,11 @@ gallery: true
 
 # Balery
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-031">Session 31</a></span> <span>last <a href="../../sessions/session-034">Session 34</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=balery" data-label="Follow on the timeline →"></span></p>
+
 ![[Balery.webp|260]]
 
 ## Known Information

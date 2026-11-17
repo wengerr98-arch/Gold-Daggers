@@ -13,7 +13,7 @@ The Winterkirche (Winter Church) is a religious organisation whose emblem was fo
 
 ## Session Appearances
 
-- Session 041: [[BB]]'s emblem (recovered from a boat) is identified as belonging to the Winterkirche. The emblem is held by the party as a story-significant item.
+- [[Session 041 - Deals like Daggers|Session 041]]: [[BB]]'s emblem (recovered from a boat) is identified as belonging to the Winterkirche. The emblem is held by the party as a story-significant item.
 
 ## Known Facts
 

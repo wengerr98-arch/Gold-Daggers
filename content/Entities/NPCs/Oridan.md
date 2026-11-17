@@ -13,7 +13,7 @@ Oridan is the individual who placed [[Fellbrün Volkam]]'s final contract — a 
 
 ## Session Appearances
 
-- Session 041: Named as the client who gave Volkam his last order targeting the party. No further details available yet.
+- Session 041: Named as the client who gave Volkam his last order targeting the party.
 
 ## Known Facts
 

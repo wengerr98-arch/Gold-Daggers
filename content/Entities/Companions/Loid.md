@@ -14,6 +14,11 @@ publish: true
 
 # Loid
 
+<div class="gd-seen"><p><span>Seen in 10 sessions</span> <span>first <a href="../../sessions/session-051---book-of-yavin">Session 51 · Book of Yavin</a></span> <span>last <a href="../../sessions/session-077---results">Session 77 · Results</a></span></p><details><summary>All 10 sessions</summary><ul><li><a href="../../sessions/session-051---book-of-yavin">Session 51</a> <span>Book of Yavin</span></li><li><a href="../../sessions/session-052---book-of-r'lyeh">Session 52</a> <span>Book of R'Lyeh</span></li><li><a href="../../sessions/session-053---book-of-azatoth">Session 53</a> <span>Book of Azatoth</span></li><li><a href="../../sessions/session-054---under-the-water,-just-killed-watergod">Session 54</a> <span>Under the water, just killed Watergod</span></li><li><a href="../../sessions/session-055---punching-up">Session 55</a> <span>Punching up</span></li><li><a href="../../sessions/session-058---first-day-in-the-yard">Session 58</a> <span>First day in the yard</span></li><li><a href="../../sessions/session-060---exhaustion">Session 60</a> <span>Exhaustion</span></li><li><a href="../../sessions/session-066">Session 66</a></li><li><a href="../../sessions/session-076---the-death-of-the-king-and-the-rise-of-new-one!">Session 76</a> <span>The Death of the King and the Rise of New One!</span></li><li><a href="../../sessions/session-077---results">Session 77</a> <span>Results</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=loid" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Loid is the nickname the Gold Daggers gave to their sentient Nautiloid ship, first boarded at the ocean floor in Session 051. The bond between the ship and the party was cemented when [[Eloryn]] cast invisibility on it and formed a personal emotional bond with it, after which the group began calling it "Loid." The Nautiloid has served as the party's primary vessel, mobile home base, and staging point throughout the campaign; it should not be confused with [[Calamitas]], which is the astral ship.

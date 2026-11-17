@@ -7,6 +7,9 @@ publish: true
 
 # Wand of Summon Monsters
 
+<div class="gd-seen"><p><span>Mentioned in 2 sessions</span> <span>first <a href="../sessions/session-018">Session 18</a></span> <span>last <a href="../sessions/session-024">Session 24</a></span></p></div>
+
+
 ## Known Information
 
 The Wand of Summon Monsters is a named magic wand explicitly identified in Session 018, capable of summoning monsters. It is currently held by [[Lorilla]] and has remained in the party's possession through at least Session 024.

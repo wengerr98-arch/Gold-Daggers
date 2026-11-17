@@ -18,7 +18,7 @@ R'lyeh is a pirate known as the "Terror of the Sea" who holds a position in the 
 
 ## Session Appearances
 
-- Session 052: Revealed through the [[Book of Azatoth]] — R'lyeh is named as connected to the Waterplane and forms part of a chain of rule over the seas tied to Azatoth; linked historically to both Shen and Blobbert through familiar history.
+- [[Session 052 - Book of R'Lyeh|Session 052]]: Revealed through the [[Book of Azatoth]] — R'lyeh is named as connected to the Waterplane and forms part of a chain of rule over the seas tied to Azatoth; linked historically to both Shen and Blobbert through familiar history.
 - [[Session 101 - 1-0 Auftakt]]: Named in connection with the Sword of Relay (Schwert vo Relay) found in the shrinking glass.
 
 ## Known Facts

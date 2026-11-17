@@ -11,6 +11,11 @@ publish: true
 
 # Sterak
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-109---ich-laufe-nur">Session 109 · Ich laufe nur</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=sterak" data-label="Follow on the timeline →"></span></p>
+
 ## Overview
 
 A Kobold and the main speaker of a 5-person patrol in [[The Unclaimed Lands]]. Encountered by the party in the past timeline (year 323 p.b.).

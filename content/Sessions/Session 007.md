@@ -5,9 +5,12 @@ modified: '2026-06-01T15:14:20.000Z'
 publish: true
 ---
 
-# Session 007 - Title Unknown
+# Session 007
 
-<p class="session-meta"><span>Session 7</span> <span>Arc 1 · Das Schwarze Gänseblümchen</span> <span>played 2020-01-04</span></p>
+<p class="session-meta"><span>Session 7</span> <span><a class="gd-arc-link" href="../arcs/arc-1">Arc 1 · Das Schwarze Gänseblümchen</a></span> <span>played 2020-01-04</span> <span class="gd-tl-link" data-to="timeline" data-q="s=7" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/npcs/felix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/felix.webp" alt="" loading="lazy"><span class="gd-chip-name">Felix</span></a><a class="gd-chip" href="../entities/npcs/silk"><img class="gd-av" src="../07_protocol-sources/old-image-repository/silk.webp" alt="" loading="lazy"><span class="gd-chip-name">Silk</span></a><a class="gd-chip" href="../entities/npcs/alexandra-chaumlat"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Alexandra Chaumlat</span></a><a class="gd-chip" href="../entities/npcs/aubonne"><img class="gd-av" src="../07_protocol-sources/old-image-repository/aubonne.webp" alt="" loading="lazy"><span class="gd-chip-name">Aubonne</span></a><a class="gd-chip" href="../entities/npcs/cetzy"><span class="gd-av is-ph" aria-hidden="true">C</span><span class="gd-chip-name">Cetzy</span></a><a class="gd-chip" href="../entities/npcs/nigel-harrington"><span class="gd-av is-ph" aria-hidden="true">N</span><span class="gd-chip-name">Nigel Harrington</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -106,7 +109,7 @@ publish: true
 - Die Infos die wir haben reichen, wir erhalten die Belohnung und teilen das Gold auf. Big Brush behält es für Coda auf.
 
 
-- [Lorilla ist eine teure Katze, Snix ein kleiner Junge]{.mark}, ...
+- ==Lorilla ist eine teure Katze, Snix ein kleiner Junge==, ...
 
 - Wir gehen zum Lift, die Wachen lassen uns rein.
 
@@ -237,31 +240,6 @@ ENDE
 \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_
 
 \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_\_\_\_ \_\_\_\_ \_\_\_ \_
-
-## Extracted Summary
-
-Draft import of Session 007 from the converted protocol source. The session preserves the original protocol text for review and later entity extraction.
-
-## Entities Mentioned
-
-### Player Characters
-- Not extracted in first pass.
-
-### NPCs
-- Not extracted in first pass.
-
-### Locations
-- Not extracted in first pass.
-
-### Factions
-- Not extracted in first pass.
-
-### Items / Titles / Events
-- Not extracted in first pass.
-
-## Open Threads
-
-- Review the source text for campaign-specific entity extraction and canon handling.
 
 <div class="session-nav">
 

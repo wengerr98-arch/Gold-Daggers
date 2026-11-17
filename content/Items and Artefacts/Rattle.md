@@ -11,6 +11,9 @@ publish: true
 
 # Rattle
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-095---die-vergessene-schwelle">Session 95 · Die vergessene Schwelle</a></span></p></div>
+
+
 ## Known Information
 
 The Rattle is a magical rattle that audibly responds to dishonesty — when a lie is spoken in its presence it shakes and produces a rattling sound. Its reliability is noted as inconsistent ("sometimes"), suggesting it is not infallible and may be subject to magical resistance or other limitations. It is currently held by BB, acquired via Ysra's d100 roll during the Session 095 downtime phase in [[Aarum]].

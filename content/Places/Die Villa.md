@@ -10,6 +10,11 @@ publish: true
 
 # Die Villa
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../sessions/session-037">Session 37</a></span> <span>last <a href="../sessions/session-038">Session 38</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=die-villa" data-label="On the timeline →"></span></p>
+
 ## Overview
 Die Villa is the Gold Daggers' secure safehouse and covert base of operations, located on a mountain slope above the city of [[Ophris]]. Assigned by King [[Azan Aeducan]] as part of their role in the [[Schwarzes Gänseblümchen]] assignment, it serves as both a home base and a sanctuary during operations in and around the Ophris region.
 

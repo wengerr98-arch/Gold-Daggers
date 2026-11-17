@@ -9,6 +9,11 @@ publish: true
 
 # Nessus
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../../sessions/session-093---lured">Session 93 · Lured</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=nessus" data-label="On the timeline →"></span></p>
+
 ## Overview
 Nessus is the 9th and deepest layer of the Nine Hells planar system. It is the infernal seat of archdevil power and was encountered by the party during Session 093, where they confronted [[Moloch]] in a major planar conflict. The layer is known to host powerful fiends and has become strategically significant in the party's ongoing conflict with infernal entities.
 

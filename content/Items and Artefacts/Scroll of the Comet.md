@@ -7,6 +7,9 @@ publish: true
 
 # Scroll of the Comet
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-037">Session 37</a></span></p></div>
+
+
 ## Known Information
 
 The Scroll of the Comet is a unique, legendary one-time-use scroll with devastating area-of-effect damage. It was identified during the party's meeting with King [[Azan Aeducan]] in Session 037 and is estimated to be worth 50,000 gold or more. It is currently carried by [[Lorilla]].

@@ -9,6 +9,11 @@ publish: true
 
 # Sammie
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-071---protokoll-bb,-leumas">Session 71 · Protokoll: BB, Leumas</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=sammie" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Sammie is a bugbear who joined the party's army spearhead at the end of Session 071 as a friendly guide or contact. "Bugbear" describes her species, not her name.

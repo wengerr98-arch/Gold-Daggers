@@ -11,6 +11,11 @@ gallery: true
 
 # Succubus
 
+<div class="gd-seen"><p><span>Seen in 3 sessions</span> <span>first <a href="../../sessions/session-088---the-first-big-choice">Session 88 · the first big choice</a></span> <span>last <a href="../../sessions/session-092---pfadfindung">Session 92 · Pfadfindung</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../../sessions/session-088---the-first-big-choice">Session 88</a> <span>the first big choice</span></li><li><a href="../../sessions/session-089---nine-futures">Session 89</a> <span>nine futures</span></li><li><a href="../../sessions/session-092---pfadfindung">Session 92</a> <span>Pfadfindung</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=succubus" data-label="Follow on the timeline →"></span></p>
+
 ![[Succubus.webp|260]]
 
 ## Known Information
@@ -29,4 +34,3 @@ The Succubus is a dark-red female divine figure classified by the DM as a patron
 - Observed whispering to [[Yorni]] in his bureau (Session 036) — likely his patron or divine adviser.
 - One of the three divine patron options offered to Barzan during his Session 045 spiritual trial (not chosen).
 - Connected to [[Snix]]'s social influence during the Enoch fight (Session 089, "Sukkubus/Yazi thread").
-- Old vault entry was nearly empty: name, portrait reference, and a blank infobox only.

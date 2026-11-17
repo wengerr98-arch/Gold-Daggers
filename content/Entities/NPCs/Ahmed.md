@@ -9,6 +9,11 @@ publish: true
 
 # Ahmed
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-052---book-of-r'lyeh">Session 52 · Book of R'Lyeh</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=ahmed" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Ahmed is a fisherman NPC who accompanied the party to the ocean floor in Session 051 with his crew. He reappears in Session 052 during the return toward the harbor, where he and three passengers were brought to safety by the group. His role is minor and it is unclear whether he recurs beyond these two sessions. "Achmed" in session text is the Swiss German dialect spelling of the same name.

@@ -22,4 +22,3 @@ Prinzessin is the wife of [[Yorni]] and lives in the [[Rosenpalast]]. She appear
 - Residence: [[Rosenpalast]]
 - Pet hydra: [[Alois]], kept in the castle stalls
 - Personal name unknown in-game (placeholder name only)
-- Old vault file contained only an empty template stub (portrait reference, no lore)

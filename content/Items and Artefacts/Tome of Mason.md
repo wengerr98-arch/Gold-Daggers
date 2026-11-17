@@ -16,7 +16,7 @@ The Tome of Mason is a book attributed to [[Dr. Mason]], found and studied by th
 
 ## Session Appearances
 
-- Session 054: Party finds and studies the tome; [[Don Hor]] and BB identify a fatal magical flaw — a spell combining time magic and death magic, linked to [[Felix]] Kalamites' curse.
+- [[Session 054 - Under the water, just killed Watergod|Session 054]]: Party finds and studies the tome; [[Don Hor]] and BB identify a fatal magical flaw — a spell combining time magic and death magic, linked to [[Felix]] Kalamites' curse.
 
 ## Known Facts
 

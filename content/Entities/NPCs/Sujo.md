@@ -7,6 +7,11 @@ publish: true
 
 # Sujo
 
+<div class="gd-seen"><p><span>Seen in 4 sessions</span> <span>first <a href="../../sessions/session-078---crossroads">Session 78 · Crossroads</a></span> <span>last <a href="../../sessions/session-085---chain-links">Session 85 · chain-links</a></span></p><details><summary>All 4 sessions</summary><ul><li><a href="../../sessions/session-078---crossroads">Session 78</a> <span>Crossroads</span></li><li><a href="../../sessions/session-079---behemoth,-leviathan-and-the-golem">Session 79</a> <span>Behemoth, Leviathan and the Golem</span></li><li><a href="../../sessions/session-080---the-currency-of-class">Session 80</a> <span>The currency of class</span></li><li><a href="../../sessions/session-085---chain-links">Session 85</a> <span>chain-links</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=sujo" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Sujo is a Loxodon contact based in Kasta, introduced to the party by Torren. A trusted local figure with a stand in the city, Sujo serves as the party's primary on-the-ground guide in Kasta — explaining local pricing, student access rules, and the magical-school hierarchy. He provides the party with safe harbour at his Safe House during their most critical operations in the city.

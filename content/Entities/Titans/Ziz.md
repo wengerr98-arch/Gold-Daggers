@@ -7,14 +7,19 @@ publish: true
 
 # Ziz
 
+<div class="gd-seen"><p><span>Seen in 2 sessions</span> <span>first <a href="../../sessions/session-082---vier-phrasen-der-geschichte">Session 82 · Vier phrasen der geschichte</a></span> <span>last <a href="../../sessions/session-106---3-legendary-items--and--3-legendary-gspröch">Session 106 · 3 legendary items &amp; 3 legendary gspröch</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=ziz" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Ziz is a titanic sky-creature named in the Desert Scroll recovered near [[Kasta]], described as having been captured and grounded — its wings still beating in the chamber below. The scroll's first-person narrator claims to have "caught the Ziz," silenced its song, and sealed it within a buried desert chamber, suggesting it may be imprisoned rather than dead. In the titan history discussion with [[Gilgamesh]], the Ziz corresponds to the Sky Titan, one of the four original titans whose memories were erased.
 
 ## Session Appearances
 
-- Session 082: Named in Phrase B of the Desert Scroll recovered from the desert platform near [[Kasta]]. Described as captured and grounded, with its wings still beating in the chamber below.
-- Session 101: Referenced in the titan history discussion with [[Gilgamesh]] — the erased memory of the four titans and the history of titan creation, mana, and magic origins includes the Sky Titan, which corresponds to the Ziz lore thread.
+- [[Session 082 - Vier phrasen der geschichte|Session 082]]: Named in Phrase B of the Desert Scroll recovered from the desert platform near [[Kasta]]. Described as captured and grounded, with its wings still beating in the chamber below.
+- [[Session 101 - 1-0 Auftakt|Session 101]]: Referenced in the titan history discussion with [[Gilgamesh]] — the erased memory of the four titans and the history of titan creation, mana, and magic origins includes the Sky Titan, which corresponds to the Ziz lore thread.
 
 ## Known Facts
 

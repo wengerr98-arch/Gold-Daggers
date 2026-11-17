@@ -9,6 +9,9 @@ publish: true
 
 # Turbi Wurzel
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-026">Session 26</a></span></p></div>
+
+
 ## Known Information
 
 Turbi Wurzel is a traditional kobold plant or root obtained by [[Lorilla]] from the [[Kobolddorf]]. It is used to make soup or tea and is described as very nutritious. It carries world-building significance as part of kobold food culture.

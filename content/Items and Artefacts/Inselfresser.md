@@ -7,6 +7,9 @@ publish: true
 
 # Inselfresser
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-044---all-about-different-kind-of-souls">Session 44 · All about different kind of souls</a></span></p></div>
+
+
 ## Known Information
 
 "Inselfresser" (German: island-eater) is a predatory fish (not a goldfish) currently contained in a glass jar in the party's possession. It is linked to the phenomenon of lakes emptying throughout the region. The seller of [[Volkham's Mace]] recognised the fish and connected it to the emptying lakes mystery, though the party (but not the seller) knows the [[Erdbrecher]] are responsible for the disappearances.

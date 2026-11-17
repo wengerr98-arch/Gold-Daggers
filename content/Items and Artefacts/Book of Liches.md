@@ -9,6 +9,9 @@ publish: true
 
 # Book of Liches
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-012">Session 12</a></span></p></div>
+
+
 ## Known Information
 
 A named tome studied by [[BB]] (Big Brush), also referred to as "Big Brushs Buch von Liches." The book covers the revival of undead and the transformation of animals into liches — an unusual and potentially significant subject that may foreshadow future plot developments. [[BB]] is the current owner.

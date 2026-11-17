@@ -7,6 +7,9 @@ publish: true
 
 # Nihil
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-077---results">Session 77 · Results</a></span></p></div>
+
+
 ## Known Information
 
 Nihil is a sword received by [[Snix]] at the start of Session 077, given alongside [[Albert]] as one of two new blades. It is confirmed as part of [[The Eight Swords]] by DM correction note, making it one of a set of eight significant weapons.

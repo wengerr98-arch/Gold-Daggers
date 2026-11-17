@@ -7,6 +7,9 @@ publish: true
 
 # Die Wege zur Industriellen Nutzung von Magie
 
+<div class="gd-seen"><p><span>Mentioned in 2 sessions</span> <span>first <a href="../sessions/session-049---crime-against-the-currency-(the-heist)">Session 49 · Crime against the currency (The Heist)</a></span> <span>last <a href="../sessions/session-079---behemoth,-leviathan-and-the-golem">Session 79 · Behemoth, Leviathan and the Golem</a></span></p></div>
+
+
 ## Known Information
 
 *Die Wege zur Industriellen Nutzung von Magie* (approximate English: *The Ways Towards Industrial Use of Magic*) is a scholarly book authored by a figure named **Jakob**. It describes tower-like machines that store ambient energy — including emotions and life force — drawn from their surroundings, connecting the item to the industrial magic era of the Forgotten War. The book was recovered from the Verliess Ephraim vault and later reviewed by the party in Session 079, where [[Barzan Aeducan]] extracted its key contents with a natural 20 History check.

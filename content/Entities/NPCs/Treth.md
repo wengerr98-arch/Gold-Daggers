@@ -10,6 +10,11 @@ gallery: true
 
 # Treth
 
+<div class="gd-seen"><p><span>Seen in 10 sessions</span> <span>first <a href="../../sessions/session-012">Session 12</a></span> <span>last <a href="../../sessions/session-092---pfadfindung">Session 92 · Pfadfindung</a></span></p><details><summary>All 10 sessions</summary><ul><li><a href="../../sessions/session-012">Session 12</a></li><li><a href="../../sessions/session-013">Session 13</a></li><li><a href="../../sessions/session-015">Session 15</a></li><li><a href="../../sessions/session-019">Session 19</a></li><li><a href="../../sessions/session-022">Session 22</a></li><li><a href="../../sessions/session-024">Session 24</a></li><li><a href="../../sessions/session-047">Session 47</a></li><li><a href="../../sessions/session-055---punching-up">Session 55</a> <span>Punching up</span></li><li><a href="../../sessions/session-056---teen-robin,-felix-shenanigns">Session 56</a> <span>Teen Robin, Felix Shenanigns</span></li><li><a href="../../sessions/session-092---pfadfindung">Session 92</a> <span>Pfadfindung</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=treth" data-label="Follow on the timeline →"></span></p>
+
 ![[treth.webp|260]]
 
 ## Known Information

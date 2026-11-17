@@ -12,4 +12,4 @@ publish: true
 
 ## Known Information
 
-Eden Apples (also called *goldener Öpfel* or *Öpfle*) are an item referenced in the Gold Daggers campaign. No further details about their properties, origin, or current holder have been recorded yet.
+Eden Apples (also called *goldener Öpfel* or *Öpfle*) are an item referenced in the Gold Daggers campaign.

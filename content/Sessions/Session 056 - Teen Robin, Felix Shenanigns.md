@@ -7,11 +7,13 @@ publish: true
 
 # Session 056 - Teen Robin, Felix Shenanigns
 
-<p class="session-meta"><span>Session 56</span> <span>Arc 3 · Salzwasser</span> <span>played 2023-10-21</span></p>
+<p class="session-meta"><span>Session 56</span> <span><a class="gd-arc-link" href="../arcs/arc-3">Arc 3 · Salzwasser</a></span> <span>played 2023-10-21</span> <span class="gd-tl-link" data-to="timeline" data-q="s=56" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><input type="checkbox" class="gd-who-toggle" id="gd-who-56" aria-label="Show everyone"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/felix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/felix.webp" alt="" loading="lazy"><span class="gd-chip-name">Felix</span></a><a class="gd-chip" href="../entities/npcs/bromir"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Bromir</span></a><a class="gd-chip" href="../entities/npcs/silk"><img class="gd-av" src="../07_protocol-sources/old-image-repository/silk.webp" alt="" loading="lazy"><span class="gd-chip-name">Silk</span></a><a class="gd-chip" href="../entities/npcs/natok"><img class="gd-av" src="../07_protocol-sources/old-image-repository/natok.webp" alt="" loading="lazy"><span class="gd-chip-name">Natok</span></a><a class="gd-chip" href="../entities/npcs/oliver"><img class="gd-av" src="../07_protocol-sources/old-image-repository/oliver.webp" alt="" loading="lazy"><span class="gd-chip-name">Oliver</span></a><a class="gd-chip" href="../entities/npcs/robin"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Robin</span></a><a class="gd-chip" href="../entities/npcs/brentan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Brentan</span></a><a class="gd-chip" href="../entities/npcs/dakun"><img class="gd-av" src="../07_protocol-sources/old-image-repository/dakun.webp" alt="" loading="lazy"><span class="gd-chip-name">Dakun</span></a><a class="gd-chip is-extra" href="../entities/npcs/nasri"><img class="gd-av" src="../07_protocol-sources/old-image-repository/nasri.webp" alt="" loading="lazy"><span class="gd-chip-name">Nasri</span></a><a class="gd-chip is-extra" href="../entities/npcs/susra-und-kafra"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Susra und Kafra</span></a><a class="gd-chip is-extra" href="../entities/npcs/treth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/treth.webp" alt="" loading="lazy"><span class="gd-chip-name">Treth</span></a></span></div><label class="gd-who-more" for="gd-who-56"><span class="gd-who-plus">+3</span><span class="gd-who-less">show fewer</span></label></div>
+
 
 ## Clean Protocol Text
 
-# Session 056
 <!-- source_heading: # Session 56 - Samstag, 21. Oktober 2023 -->
 <!-- session_date: 2023-10-21 -->
 
@@ -494,23 +496,12 @@ A smaller boat-side session keeps the group in a travel-and-mood-setting mode wh
 - BB
 - Lorilla
 
-### NPCs
-- None explicitly identified in this first-pass draft.
-
 ### Locations
 - boat
-
-### Factions
-- None explicitly identified in this first-pass draft.
 
 ### Items / Titles / Events
 - journey mood-setting
 - intro raphi
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

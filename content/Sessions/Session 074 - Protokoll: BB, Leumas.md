@@ -7,11 +7,13 @@ publish: true
 
 # Session 074 - Protokoll: BB, Leumas
 
-<p class="session-meta"><span>Session 74</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-10-16</span></p>
+<p class="session-meta"><span>Session 74</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-10-16</span> <span class="gd-tl-link" data-to="timeline" data-q="s=74" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/companions/gary-lou"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Gary Lou</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/yaenne"><span class="gd-av is-ph" aria-hidden="true">Y</span><span class="gd-chip-name">Yaenne</span></a><a class="gd-chip" href="../entities/npcs/yorni"><img class="gd-av" src="../07_protocol-sources/old-image-repository/yorni.webp" alt="" loading="lazy"><span class="gd-chip-name">Yorni</span></a><a class="gd-chip" href="../entities/npcs/zaos"><span class="gd-av is-ph" aria-hidden="true">Z</span><span class="gd-chip-name">Zaos</span></a><a class="gd-chip" href="../entities/gods/zima"><span class="gd-av is-ph" aria-hidden="true">Z</span><span class="gd-chip-name">Zima</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 074
 <!-- source_heading: # DND WEEK Session 74 - Mittwoch, 16. Oktober 2024 -->
 <!-- session_date: 2024-10-16 -->
 
@@ -81,19 +83,9 @@ Mer gönd use und sueche en wäg e Kanalisation. mer fende relativ eifach en Gul
 
 Hende beme Gang chont en floaty bloated Potato Body uf eus zue. D Lorilla merkt dases nach Gas schmöckt und warnt eus. De Barzan verseucht z blocke met sim fancy Schild Aedis. De Barzan nemmt als einzige Schade well er eus saved.
 
-![](media/image2.jpg){width="7.480314960629921in" height="9.972222222222221in"}![](media/image34.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
 mer loufe rechtig getter före und d'lorilla goht en ratte form dörre. sie verzellt eus dases hende dra nachär sech en mehreri kanäl uufteilt. de Barzan steppt före und rüehrt en bombe und brätscht es loch e de dorchgang. meh map wertd uufboue. neui map!
 
-![](media/image43.jpg){width="3.4363899825021873in" height="4.580258092738408in"}![](media/image47.jpg){width="3.577737314085739in" height="4.767758092738408in"}
-
 D Lorilla findet unterwasser meh bombe Potatos. Achtung ke füür aber sie merke öppe wo sie dornes Rohr esh. Öpper esh am wegseckle. Barzan und snix dimension door. De Leumas nemmt d Elo met und Wanda goht ellei.
-
-![](media/image42.jpg){width="3.373665791776028in" height="4.4982206911636045in"}
-
-![](media/image15.jpg){width="3.540232939632546in" height="4.715674759405075in"}![](media/image48.jpg){width="3.5906747594050743in" height="4.77904636920385in"}
-
-![](media/image14.jpg){width="2.6969542869641296in" height="3.601091426071741in"}
 
 Wanda rüeft Yaenne: Persuasion 29
 
@@ -118,7 +110,7 @@ Mer bespräche wiemer wänd fortfahre. es esch irgendwie schwierig.
 
 mer gäbe ere e teil vo erem körper retour und sie frogt öbbsi cha goh! Leider ned :(
 
-ROLL INITIATIVE!![](media/image45.jpg){width="7.480314960629921in" height="5.611111111111111in"}
+ROLL INITIATIVE!
 
 Runde 1
 
@@ -166,7 +158,7 @@ mer bliibe dert und luege s ei ah und hanges chli. De Leumas meditiert chli. Pl�
 
 Seig alles ok aber jo. Mer päusele no. De Leumas meditiert und de Barzan betet no zu dr Wintergöttin.
 
-Plötzlech ghöre mer es Knacke. Blauschwarze ei het en erste crack! Es chonnt chli Wasser use. En Schnägg use? en chliine blue dragon ([[the normal animal]{.underline}](https://www.google.com/search?sca_esv=992c006e90961474&sxsrf=ADLYWILcRQ4ihG6sBMku4PXBvAD2cDMksg:1729114094825&q=blue+dragon+fish&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sf_uPKlBgHiXUTxuTOrBgkEHAZKBArNMIg_JaUOYCTVNreNhAlJbFKEmzPuAQkoiBtIhrPYKQR3WHGzgZYwxf2NkHIa-s&sa=X&ved=2ahUKEwj0tpf765OJAxUDTqQEHTI-C8sQtKgLegQIIxAB&biw=1728&bih=886&dpr=2#vhid=VDonue36o5s84M&vssid=mosaic))
+Plötzlech ghöre mer es Knacke. Blauschwarze ei het en erste crack! Es chonnt chli Wasser use. En Schnägg use? en chliine blue dragon ([<u>the normal animal</u>](https://www.google.com/search?sca_esv=992c006e90961474&sxsrf=ADLYWILcRQ4ihG6sBMku4PXBvAD2cDMksg:1729114094825&q=blue+dragon+fish&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sf_uPKlBgHiXUTxuTOrBgkEHAZKBArNMIg_JaUOYCTVNreNhAlJbFKEmzPuAQkoiBtIhrPYKQR3WHGzgZYwxf2NkHIa-s&sa=X&ved=2ahUKEwj0tpf765OJAxUDTqQEHTI-C8sQtKgLegQIIxAB&biw=1728&bih=886&dpr=2#vhid=VDonue36o5s84M&vssid=mosaic))
 
 D elo versuecht s azlenge. De Snix und d Elo send etz d eltere vom Gary Lou. De Leumas findet no e töre und rüeft am snix.
 
@@ -251,10 +243,6 @@ meanwhile be de töre und de andere Gold Daggers: rechtig wildhunt foohts afoo b
 
 Das esch s'loch e de wand:
 
-![](media/image4.jpg){width="5.545089676290464in" height="4.293484251968504in"}
-
-![](media/image44.jpg){width="4.059424759405075in" height="5.412565616797901in"}
-
 Mer positionere eus und händ dank mending und chle bletzle ziit eus z'positioniere.
 
 Mer versueche s'monschter chle zlänke, dases en klare dorchbroch gett und sobald s'loch gnueg gross esch schmeisst d'eloryn d'molotov cocktails und de snix und d'lorilla möche denne fire attack.
@@ -273,11 +261,12 @@ de damage werd gerolled! Lorilla: 33, snix 16 und de d'mollis
 
 142 punkte schaden zom start!
 
-d'wand brecht dore be de explosion - das monschter chonnt före:![](media/image24.jpg){width="7.480314960629921in" height="9.972222222222221in"}![](media/image11.jpg){width="7.480314960629921in" height="9.972222222222221in"}![](media/image39.jpg){width="7.480314960629921in" height="5.611111111111111in"}
+d'wand brecht dore be de explosion - das monschter chonnt
+före:
 
 Initiative!
 
-**[Runde 1]{.underline}**
+**<u>Runde 1</u>**
 
 Leumas: Gunshots, leider ned gange. D Kugel esh eifach versunke eeeew
 
@@ -299,7 +288,7 @@ Wanda: secklet före und luegt hender em stei före und macht mind sliver! int 2
 
 > save, nat 20 för 35. de spell fendet kei halt! firebolt 23 to hit, hits! 19 punkte schaden!
 
-**[Runde 2]{.underline}**
+**<u>Runde 2</u>**
 
 Leumas: De Leumas checkt daser gad echli müeh het und mach glich en attack. Corruption bliibt.
 
@@ -319,7 +308,7 @@ Snix: flüügt und stabby stab, eine trifft "was nur zwei wörfel" 23 pönkt sch
 
 Wanda: secklet zom brudi! Thunderstep, con save 9, somet 21 punkte donner schaden! brudi esch frei
 
-**[Runde 3]{.underline}**
+**<u>Runde 3</u>**
 
 Leumas: Inspo für Lorilla, emmer no corrupted
 
@@ -409,14 +398,10 @@ Mer senke schnäll em schwarze goo! De Snix esh als erst dor d töre und lauft r
 
 Mer löse s R
 
-![](media/image6.jpg){width="7.480314960629921in" height="5.611111111111111in"}![](media/image31.jpg){width="7.480314960629921in" height="5.611111111111111in"}
-
 mer müend zo de andere Töre cho und de wörfel zeigt eus de wäg. Mer müend als 6 chöpfigi crew platz ha.
 
 Mer send dor alli kerbene gloffe wos ofem wörfel het und schaffes döre! De Leumas stoht be de Töre, met em schlössel e de hand, töre gooht
 uuuuf - amazing. en wält met pilz esch hende draa, it looks beautiful! (look at the pictures)
-
-![](media/image9.jpg){width="7.480314960629921in" height="5.611111111111111in"}
 
 Mer löse s Rätsel und gönd dor d Tööre ine! d'Wanda cha grad no anere attacke vom letschte opfer uuswiche.
 
@@ -478,9 +463,9 @@ Opfer teleportiert weg ufe, macht area necrotic damage und cold damage, goht en 
 
 Snix De Snix flügt ufe und stabby staab, er macht en poisom charge. 58pts Schade daaamn
 
-Elo 9 ELDRITCH BLASTS und 6 hitte!! 6d10 + 6d6 + 18 [78 POINTS DAMAGE + Shard 6 POINT =]{.mark}
+Elo 9 ELDRITCH BLASTS und 6 hitte!! 6d10 + 6d6 + 18 ==78 POINTS DAMAGE + Shard 6 POINT ===
 
-> [84 Points Damage]{.mark}
+> ==84 Points Damage==
 
 Barzan Heal of Wanda, 70 points restored, no blind, no deafend, no poison
 
@@ -500,13 +485,13 @@ Opfer hits Barzan 13pt schade + 40pts Schade (de Barzan keeps concentration) Nat
 
 Snix Snix goht hendenoche! Stabby Stab eine hitted, 37 pt schade met eim schwert!
 
-Elo 9 ELDRITCH BLASTS und 6 hitte, eine NAT 20!! 45pts Schade 23pts Schade [77 SCHADE]{.mark} total
+Elo 9 ELDRITCH BLASTS und 6 hitte, eine NAT 20!! 45pts Schade 23pts Schade ==77 SCHADE== total
 
-> met shard. [MACHINE GUN ELI]{.mark}
+> met shard. ==MACHINE GUN ELI==
 
 Barzan Heal 29pts
 
-[LEGENDARY ACTION OPFER hits Lorilla 12 pts piercing und 30 bludgeoning und con save vo de Lorilla bend luck und wildmagic shenanigans]{.mark}
+==LEGENDARY ACTION OPFER hits Lorilla 12 pts piercing und 30 bludgeoning und con save vo de Lorilla bend luck und wildmagic shenanigans==
 
 Barzan unsichtbar
 
@@ -544,7 +529,7 @@ Wanda mote - no hit :( so sorry! fireball dex 20 save, 29 - esch save!) schade: 
 
 > punkte schaden
 
-[Legendary Action unsichtbar but we don't know]{.mark}
+==Legendary Action unsichtbar but we don't know==
 
 **Runde 5**
 
@@ -560,9 +545,10 @@ Snix Snix werd weder zu snix nömme potted plant und reverse gravity hört uuf. 
 
 > 13 pt schade
 
-[Legendary Action dex save für elo, Wanda Leumas. Leumas esh down.]{.mark}
+==Legendary Action dex save für elo, Wanda Leumas. Leumas esh
+down.==
 
-Elo 9 ELDRRITCH BLASTS [MACHINE GUN ELI 5 blasts hit. 74 schade]{.mark}
+Elo 9 ELDRRITCH BLASTS ==MACHINE GUN ELI 5 blasts hit. 74 schade==
 
 Barzan Leumas Heal 80 und blindness etc goone.
 
@@ -590,7 +576,7 @@ Lorilla wither and bloom 6th level: con save 18, 5d6 halbiert. Schaden: 20 rolle
 
 Heal: 9 punkte heal of lorilla
 
-[Legendary Action emulating gaze 26 wisdom save de Barzan faild und 15 pts damage]{.mark}
+==Legendary Action emulating gaze 26 wisdom save de Barzan faild und 15 pts damage==
 
 Wanda nat one ufe mote und chaos bolt hitted aber
 
@@ -1020,8 +1006,6 @@ Mer send ofem wäg zom magic shop. Es esch en chliine höggel, kenni 20m breit u
 
 de Uralti dude, mega voller energie und gliichzitig mega ungsond! Er tuet amene stöck holz meteme brönner öbbis iigraviere und esch völlig absorbiert. D'Elo luegt e eri muschle und sie het s'gfüehl, dass d'liche sech ab und zue bewege. hmm... mol luege was das no werd.
 
-### 
-
 ### Items em shop
 
 - Brazer of commanding fire elementels
@@ -1277,7 +1261,7 @@ Mer sueche es Hotel met Schlamm-Spa. en super Obe gsi. und denne bem zmorge sch�
 
 ## in der Wüste angekommen
 
-### ![](media/image16.jpg){width="5.312723097112861in" height="6.3856266404199475in"}
+### 
 
 90er roll D100 före teleport und mer chöme guet ah. Ca. Mittag ide Winterkleider, zmitzt ide Wüesti. Mer befinde eus imne chliine rustikale Hüttli. 40°, uff. Es het no en Bäse vom Torren dette, eine wo flügt.
 
@@ -1307,10 +1291,6 @@ Leue oder Schlange send do e de wüeschti wohnhaft. Selberni und Goldeni leue me
 
 de Snix het en Golden Spuuder entdeckt.
 
-![](media/image18.jpg){width="3.515297462817148in" height="4.240676946631671in"}
-
-![](media/image49.jpg){width="7.479166666666667in" height="4.287551399825022in"}![](media/image23.jpg){width="7.479166666666667in" height="6.464634733158356in"}![](media/image29.jpg){width="7.479166666666667in" height="7.006301399825022in"}
-
 ## Kampf gegen die Spinne
 
 Initiative
@@ -1323,8 +1303,6 @@ Elly: 3 Eldritch Blaaaasts und disadvantage on charisma saves. One Hits: 13 poin
 
 Barzan: bonus action 5th level spiritual weapon, accelerate
 
-![](media/image25.jpg){width="3.250820209973753in" height="4.334426946631671in"}
-
 Sag Ka: nat 20 ufe Leumas. Strength save vom Leumas. Leumas constrained und es squeezed met de second attack. Half Dmage. 46 halfed to 23 Domage.
 
 Leumas: macht sech gross/ Kingly, breaking free. 12 doesn't break free
@@ -1336,8 +1314,6 @@ Spider: no stuff going on
 Round 2
 
 Sentinel: Blinding Light, BB is blind
-
-![](media/image21.jpg){width="3.1145833333333335in" height="3.2979680664916886in"}
 
 Snix: Stabby Stab, Advantage for both, 74 Schadeee
 
@@ -1406,8 +1382,6 @@ Mer luege eus d'maschine ahh. De Snix goht zom Sentinel. e grossteil esch zerspl
 d'sonne stooht höch, es esch haubi 2 und mer händ grad en kampf hendereus. de barzan blüetet nochle sini seele uuus vom st
 
 BB het s'objekt identifiziert. Sie gseht dases live form esch, pure essence of life. it is no school of magic we no.
-
-###  
 
 ## die Glasfläche und die Homunculus
 
@@ -1509,7 +1483,7 @@ Variante zum vorgooo!
 
 Es gett es paar Legendärie Probelm wono niemer gelöst het!
 
-- es gett en uusgrabigsstätte wono niemer gelöst het, es gett es Grab vomene Gott, vor oder wärendem vergässene chrieg, met riichwiite hender devine gates! Me weissned öbbs en mythos esch oder doch passiert esch! Mega fähigi lüüüt send däm nochegange und me hetsi nieme gseeh! Wär de öbber move, dass z'löse! De Name vom Gott esch: **[Anubis]{.underline}**! -\> LEGEND LORE!
+- es gett en uusgrabigsstätte wono niemer gelöst het, es gett es Grab vomene Gott, vor oder wärendem vergässene chrieg, met riichwiite hender devine gates! Me weissned öbbs en mythos esch oder doch passiert esch! Mega fähigi lüüüt send däm nochegange und me hetsi nieme gseeh! Wär de öbber move, dass z'löse! De Name vom Gott esch: **<u>Anubis</u>**! -\> LEGEND LORE!
 
 Mer froge nacheme schloofplätzli und chönnd be ere Sleepen!
 
@@ -1542,11 +1516,9 @@ Protokoll: BB, Leumas
 
 In Game Location: Kasta
 
-![](media/image20.jpg){width="4.111508092738408in" height="4.111508092738408in"}
-
 Efram Abjuration Khalid Illusiion Sarim Enchantement empty
 
-Thalia Evocation Jakob Transmutation Baader Necormancy Farid Conjuration [burgundy]{.mark}
+Thalia Evocation Jakob Transmutation Baader Necormancy Farid Conjuration ==burgundy==
 
 What's next?
 
@@ -1593,8 +1565,6 @@ Es gett no en chorze Talk zom thema Gottheite. De Barzan frogt: Wennmer jetzte w
 Elo joined de Conversation: wemmer d'artefakt fende, chömmer säge, hälfed ehr eus em chrieg!?
 
 Efraim esch de most powerfull wizard! getts en arch mage, wo meh of ossebziehige luegt und ned nor em eigete Gärtli omewörschtlet? De Khalid, head of illusion - er esch interessiert a handelsbeziehige und osse politische sache.
-
-![](media/image1.jpg){width="2.4597069116360455in" height="3.35744750656168in"}
 
 er wett riicher wärde und meh exportiere! das wäri en guete grond. de gröschti gegner esch de Efraim. mer wänd alles do bhalte und ned nach osse exportiere. D'lorilla frogt öbbmer das echt schaffe wärde, öbber mol för eusi zwäck iisetzte! fetti magic items nach skjall oder nach Ophris. d'Lorilla schloht en spannendi taktik vor, dasmer sälber es problem verursache und de löse und somet felech e chle chönnd als problemlöser uufträtte. Wenn mer en rude wizard gsähnd, dasmerne eifach chlopfe!
 
@@ -1698,7 +1668,7 @@ die letschte Loxodon loufe vo de zält devooo gooh und d'sonne goht langsam unde
 
 De Leumas raucht eis metme Stei Genasi & sie hänges när i eim vode Sonnedächer obe und luege Stärnebilder ah und de Leumas konzentriert sech uf d Fäde. Ufe Ersti Blick gseht er nüt, aber när luegt er abe und realisiert das alli Genasi Tüecher rot lüüchte als wäre sie us rotem Universumsfade gflochte. De Leumas goht zum Turbin sim Onkel go Tee sueche well er durst het. Sie gönd ame eifach id Wüesti use und luege mau und wenn sie was finde chöme sie zrug. 3 bes 4 Täg id Wüesti hends au sho Unwetter gseh. För Earthgenasis esh Sand chli wie Wasser. Sie travele anders dur d Wüesti.
 
-[[https://www.youtube.com/watch?v=sDEWZnPJGRU&t=2s]{.underline}](https://www.youtube.com/watch?v=sDEWZnPJGRU&t=2s)
+[<u>https://www.youtube.com/watch?v=sDEWZnPJGRU&t=2s</u>](https://www.youtube.com/watch?v=sDEWZnPJGRU&t=2s)
 
 BB redet met em dude vo vorhär und es esch en guete uuustusch. alli send am tanze und es send alli chle en trance!
 

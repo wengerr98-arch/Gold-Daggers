@@ -7,11 +7,13 @@ publish: true
 
 # Session 060 - Exhaustion
 
-<p class="session-meta"><span>Session 60</span> <span>Arc 3 · Salzwasser</span> <span>played 2024-02-17</span></p>
+<p class="session-meta"><span>Session 60</span> <span><a class="gd-arc-link" href="../arcs/arc-3">Arc 3 · Salzwasser</a></span> <span>played 2024-02-17</span> <span class="gd-tl-link" data-to="timeline" data-q="s=60" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/koda"><img class="gd-av" src="../07_protocol-sources/old-image-repository/koda.webp" alt="" loading="lazy"><span class="gd-chip-name">Koda</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/companions/loid"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Loid</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/bruhnik"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Bruhnik</span></a><a class="gd-chip" href="../entities/monsters/grave-king"><span class="gd-av is-ph" aria-hidden="true">G</span><span class="gd-chip-name">Grave King</span></a><a class="gd-chip" href="../entities/npcs/maradak-dreamkiller"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Maradak Dreamkiller</span></a><a class="gd-chip" href="../entities/npcs/noah"><img class="gd-av" src="../07_protocol-sources/old-image-repository/noah.webp" alt="" loading="lazy"><span class="gd-chip-name">Noah</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 060
 <!-- source_heading: # Session 60 - Samstag, 17, Februar, 2024 -->
 <!-- session_date: 2024-02-17 -->
 
@@ -19,7 +21,6 @@ publish: true
 ## Titel: Exhaustion
 
 Protokoll: Leumas & BB
-
 
 
 In Game Location: Skjall / Eingangshalle / Thronsaal
@@ -32,8 +33,6 @@ Ein Gegner, very strong. Eloryn down at some point, BB, Koda down at some Point.
 
 Koda kills the Monster!
 
-![](media/image2.jpg){width="7.480314960629921in" height="9.972222222222221in"}
-
 BB ist bewusstlos, der Kampf ist vorbei. Kurz vor Schluss heilt Barzan Koda und Eloryn. Das Monster liegt am Boden mit gebrochener Wirbelsäule. Die Leiche wird über den Boden Richtung Wildhunt gezogen von der Skelett Figur, Krallen Spuren am Boden, Barzan und Leumas versuchen das Viech welches wir besiegt haben zu zerschlagen. Barzan schaut Skelettmann an und Wisdom Saving Throw.. THE GRAVE KING = SKELETTMANN.
 
 Barzan widersteht und schaut ihn genauer an, Die Anzahl Köpfe, Beine etc stimmt nicht als wär er zusammengesetzt er rollt mehr als er geht. Er trägt eine Gladiatorenmaske und trägt einen roten Mantel.
@@ -41,8 +40,6 @@ Barzan widersteht und schaut ihn genauer an, Die Anzahl Köpfe, Beine etc stimmt
 Seine Aura verzeiht die Welt um ihn rum.
 
 BB geheilt von Barzan, max Hitpoints reduced.
-
-![](media/image8.jpg){width="5.31665791776028in" height="7.086408573928259in"}
 
 Grave King schliesst das Tor. Das Tor sieht mitgenommen aus. UH OH
 
@@ -224,9 +221,6 @@ A blood-stained letter from Noah brings a direct plea for help, prompting the pa
 
 ## Entities Mentioned
 
-### Player Characters
-- None explicitly identified in this first-pass draft.
-
 ### NPCs
 - Noah
 
@@ -235,18 +229,10 @@ A blood-stained letter from Noah brings a direct plea for help, prompting the pa
 - Eingangshalle
 - Thronsaal
 
-### Factions
-- None explicitly identified in this first-pass draft.
-
 ### Items / Titles / Events
 - blood-stained letter
 - help request
 - regrouping
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

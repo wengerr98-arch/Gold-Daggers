@@ -6,6 +6,11 @@ publish: true
 
 # Zur goldenen Gans
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-025">Session 25</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=zur-goldenen-gans" data-label="On the timeline →"></span></p>
+
 ## Known Information
 
 Zur goldenen Gans is a restaurant in [[Dalior]], notable as the location where Yorni privately briefed the Gold Daggers on the assassination of the Innenminister (Interior Minister). During this dinner Yorni presented the parade route and made an advance payment to the party, making the venue the setting for one of the campaign's major betrayal setup scenes.

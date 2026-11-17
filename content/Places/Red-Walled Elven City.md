@@ -11,6 +11,11 @@ publish: true
 
 # Red-Walled Elven City
 
+<div class="gd-seen"><p><span>Visited in 2 sessions</span> <span>first <a href="../sessions/session-072---protokoll-bb,-leumas">Session 72 · Protokoll: BB, Leumas</a></span> <span>last <a href="../sessions/session-090">Session 90</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=red-walled-elven-city" data-label="On the timeline →"></span></p>
+
 ## Overview
 An ancient elven city characterized by distinctive red walls and ornate architecture, first encountered through Barzan's legend lore vision in Session 070. The city appears to be the historical origin point of the space elves who now live outside the Wheel of Planes. Its population vanished mysteriously in a single "ripple" event, and its canonical name remains unknown.
 

@@ -12,6 +12,11 @@ publish: true
 
 # The Unclaimed Lands
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-109---ich-laufe-nur">Session 109 · Ich laufe nur</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=the-unclaimed-lands" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 A region between [[Skjall]], [[Kasta]], and [[Nolia]] with no central authority. The shifters are the oldest inhabitants.

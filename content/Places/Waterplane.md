@@ -7,6 +7,11 @@ publish: true
 
 # Waterplane
 
+<div class="gd-seen"><p><span>Visited in 3 sessions</span> <span>first <a href="../sessions/session-027">Session 27</a></span> <span>last <a href="../sessions/session-051---book-of-yavin">Session 51 · Book of Yavin</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../sessions/session-027">Session 27</a></li><li><a href="../sessions/session-046">Session 46</a></li><li><a href="../sessions/session-051---book-of-yavin">Session 51</a> <span>Book of Yavin</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=waterplane" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Waterplane is an elemental or cosmological region accessible only through rifts that emerge near major coastal settlements. It appears to function as an alternate plane of water and oceanic reality, populated by aquatic creatures and accessible via portals from the Material Plane. [[Shen]] is actively constructing a rift network to connect the Waterplane to at least four major cities, suggesting it is a location of strategic and planar importance in the campaign.
 

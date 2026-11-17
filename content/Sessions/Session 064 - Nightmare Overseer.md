@@ -7,11 +7,13 @@ publish: true
 
 # Session 064 - Nightmare Overseer
 
-<p class="session-meta"><span>Session 64</span> <span>Arc 4 · Der Zeitriss</span> <span>played 2024-03-29</span></p>
+<p class="session-meta"><span>Session 64</span> <span><a class="gd-arc-link" href="../arcs/arc-4">Arc 4 · Der Zeitriss</a></span> <span>played 2024-03-29</span> <span class="gd-tl-link" data-to="timeline" data-q="s=64" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/companions/sadam-salim"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sadam Salim</span></a><a class="gd-chip" href="../entities/companions/arichamov"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Arichamov</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/maradak-dreamkiller"><span class="gd-av is-ph" aria-hidden="true">M</span><span class="gd-chip-name">Maradak Dreamkiller</span></a><a class="gd-chip" href="../entities/npcs/karoth"><img class="gd-av" src="../07_protocol-sources/old-image-repository/karoth.webp" alt="" loading="lazy"><span class="gd-chip-name">Karoth</span></a><a class="gd-chip" href="../entities/npcs/nameo"><img class="gd-av" src="../07_protocol-sources/old-image-repository/nameo.webp" alt="" loading="lazy"><span class="gd-chip-name">Nameo</span></a><a class="gd-chip" href="../entities/gods/ophris"><span class="gd-av is-ph" aria-hidden="true">O</span><span class="gd-chip-name">Ophris</span></a><a class="gd-chip" href="../entities/monsters/the-nightmare-overseer"><span class="gd-av is-ph" aria-hidden="true">T</span><span class="gd-chip-name">The Nightmare Overseer</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
-# Session 064
 <!-- source_heading: # Session 64 - Freitag, 29 März, 2024 -->
 <!-- session_date: 2024-03-29 -->
 
@@ -19,7 +21,6 @@ publish: true
 ## Titel: Nightmare Overseer
 
 Protokoll: Leumas & BB
-
 
 
 In Game Location: Limbo Skjall Throneroom
@@ -31,8 +32,6 @@ Mer tauche inre lääre Taverne uf. Eloryn versuecht magic und es funktionert. G
 grünliche Türen. BB gseht öppis usem augenwinkel. Mer luege ome und de Sadam nat 20 gseht en Hand vorem Fenster wo es Oug denne het ide Handflächi. Sadam esh im Dim Light wie invisible. Mer verlüüre ne und gönd d stäge ufe.
 
 MAP IS OUT
-
-![](media/image12.jpg){width="4.197916666666667in" height="3.071142825896763in"}
 
 Team Taverne sadam er sieht ganz viele Hände außerhalb. Eldritch blaast. Wenn de Eldritch blast usem Huus use goht verpufft er?
 
@@ -132,8 +131,6 @@ INITIATIVE
 
 Gäge The Nightmare Overseer
 
-![](media/image9.jpg){width="5.491792432195975in" height="7.319840332458443in"}
-
 Snix takes damage
 
 Eloryn hits with a nat 20
@@ -229,9 +226,6 @@ The party is trapped in an uncanny house, confronts shifting rooms and many mirr
 - house / tavern illusion
 - portal space
 
-### Factions
-- None explicitly identified in this first-pass draft.
-
 ### Items / Titles / Events
 - portal
 - statue
@@ -240,11 +234,6 @@ The party is trapped in an uncanny house, confronts shifting rooms and many mirr
 - mirror/self duplication
 - body-soul separation imagery
 - return to portal
-
-## Open Threads
-
-- Follow up on the session's immediate scene progression in the next imported material.
-- Preserve any unresolved source ambiguities for later review.
 
 <div class="session-nav">
 

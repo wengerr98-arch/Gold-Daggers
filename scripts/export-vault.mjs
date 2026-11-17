@@ -10,6 +10,7 @@ import path from "node:path"
 import crypto from "node:crypto"
 import { fileURLToPath } from "node:url"
 import yaml from "js-yaml"
+import { convertGridTables, rewriteImageEmbeds, partKeys, pathInPart, cleanSidecar, unwrapProtocolFences, tidyHeadings, convertMarks, markTruncations, stripEmails, stripDocLinks, cleanImportNotes, realWords, cleanDmSourced, stripPlayerDetails } from "./cleanup.mjs"
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..")
 const MARKER = ".wiki-export"
@@ -66,6 +67,34 @@ const mapCfg = cfg.map ?? null // { image, title, height, minZoom, maxZoom, defa
 const galleryCfg = cfg.gallery ?? null // { title, intro }
 // Session pages: a small header line (number, arc, in-world date) and previous/next links.
 const sessionsCfg = { header: cfg.sessions?.header !== false, nav: cfg.sessions?.nav !== false, played_date: cfg.sessions?.played_date !== false }
+// Export-time clean-ups of converter and import leftovers (scripts/cleanup.mjs). The vault is never changed.
+const cleanupCfg = {
+  grid_tables: cfg.cleanup?.grid_tables !== false, // converter "grid tables" → Markdown tables
+  grid_tables_long: String(cfg.cleanup?.grid_tables_long ?? "sections"), // sections | table
+  missing_images: cfg.cleanup?.missing_images !== false, // look for converter pictures in the vault, drop the ones that aren't there
+  // folders whose pictures never go online, even when a note embeds one
+  image_blocked_folders: (cfg.cleanup?.image_blocked_folders ?? ["99_System", "08_indexes"]).map(trimSlashes),
+  protocol_fences: cfg.cleanup?.protocol_fences !== false, // protocol text inside ```text fences shown as normal text
+  stray_headings: cfg.cleanup?.stray_headings !== false, // repeated title, empty headings, the next session's heading
+  converter_marks: cfg.cleanup?.converter_marks !== false, // [words]{.mark} → highlighted words
+  truncation_notes: cfg.cleanup?.truncation_notes !== false, // "[OUTPUT TRUNCATED …]" → a plain note
+  truncation_label: String(cfg.cleanup?.truncation_label ?? "*(A part of the protocol is missing here.)*"),
+  email_addresses: cfg.cleanup?.email_addresses !== false, // [Name](mailto:…) → Name; no e-mail addresses on the public wiki
+  doc_links: cfg.cleanup?.doc_links !== false, // links to shared Google Docs etc. → link text only; no document links on the public wiki
+  // removed document links that have a copy in the vault: { "<part of the address>": "<vault note>" } (local config only)
+  doc_link_targets: Object.entries(cfg.cleanup?.doc_link_targets ?? {}).map(([k, v]) => [String(k), trimSlashes(String(v))]),
+  session_links: cfg.cleanup?.session_links !== false, // [[Session 084]] finds "Session 084 - Knoten"
+  dm_sourced: String(cfg.cleanup?.dm_sourced) === "remove" ? "remove" : "keep", // lines that say "confirmed by DM", "per DM correction"
+  player_details: String(cfg.cleanup?.player_details) === "strip" ? "strip" : "keep", // "Anwesend:", "Protokoll:", "Location:", D&D Beyond profiles
+  mention_names: String(cfg.cleanup?.mention_names) === "first_name" ? "first_name" : "keep", // former @-mentions: full name or first name only
+  hide_empty: cfg.cleanup?.hide_empty === true, // notes with nothing but an import placeholder are not published
+  hide_empty_max_words: Number(cfg.cleanup?.hide_empty_max_words ?? 0),
+  link_aliases: cfg.cleanup?.link_aliases !== false, // links to a name that doesn't exist open the note they mean (link-aliases.yaml)
+  link_aliases_file: String(cfg.cleanup?.link_aliases_file ?? "link-aliases.yaml"),
+  import_notes: cfg.cleanup?.import_notes !== false, // the import's own bookkeeping ("Draft import of …", "DM to confirm", "(stub needed)")
+  sidecar: ["reword", "remove"].includes(String(cfg.cleanup?.sidecar)) ? String(cfg.cleanup.sidecar) : "keep", // the import's word "sidecar"
+}
+const cleanupLog = { gridTables: [], imagesFound: [], imagesDropped: [], imagesDmOnly: [], imagesUnclear: [], sidecar: [], sessionLinks: [], fences: [], headings: [], marks: [], truncations: [], emails: [], docLinks: [], importNotes: [], linkAliases: [], empty: [], dmSourced: [], playerDetails: [], mentionNames: [] }
 // Web-sized copies of images, made at export time. The vault's files are never changed.
 const imagesCfg = {
   optimize: cfg.images?.optimize !== false, // false → copy every image as it is
@@ -193,6 +222,18 @@ for (const rel of allFiles.filter(isNote)) {
   notes.set(rel, { fm, body, published })
 }
 
+// Pages with nothing on them (cleanup.hide_empty): counted for every note that would be published, so the report
+// can always say which pages are empty; they are only left out when the switch is on. Links to a page that is
+// left out become plain text, like links to any other note that isn't published.
+for (const [rel, n] of notes) {
+  if (!n.published) continue
+  const words = realWords(n.body, { dropHeadings: [...dmHeadings, ...stripHeadings], dmCallouts: new Set((cfg.dm_callouts ?? ["dm"]).map((c) => String(c).toLowerCase())) })
+  if (words > Math.max(30, cleanupCfg.hide_empty_max_words)) continue
+  const hide = cleanupCfg.hide_empty && words <= cleanupCfg.hide_empty_max_words
+  cleanupLog.empty.push({ rel, words, hidden: hide })
+  if (hide) n.published = false
+}
+
 // ---------- link resolution (Obsidian "shortest path" style, plus aliases like Quartz) ----------
 
 const notesByAlias = new Map() // "lin" → [rel]
@@ -208,7 +249,7 @@ function pick(cands, fromRel) {
   return cands.find((c) => path.posix.dirname(c) === dir) ?? [...cands].sort((a, b) => a.length - b.length)[0]
 }
 
-function resolve(target, fromRel) {
+function resolve(target, fromRel, viaAlias = false) {
   const t = target.trim().replace(/^\.\//, "")
   if (!t) return null
   const lower = t.toLowerCase()
@@ -231,8 +272,34 @@ function resolve(target, fromRel) {
       pick(filesByBase.get(lower), fromRel) ??
       pick(notesByAlias.get(lower), fromRel)
   }
+  // [[Session 084]] when the note is called "Session 084 - Knoten" (cleanup.session_links)
+  if (!rel && cleanupCfg.session_links) {
+    const m = lower.match(/^session\s+0*(\d{1,3})$/)
+    const hit = m ? sessionsByNumber.get(Number(m[1])) : null
+    if (hit?.length === 1) return { rel: hit[0], kind: "note", renamed: true }
+  }
+  // a name from link-aliases.yaml (cleanup.link_aliases): "Entertainment District" → "Entertainment District (Dalior)"
+  if (!rel && cleanupCfg.link_aliases && !viaAlias) {
+    const to = linkAliases.get(lower.replace(/\.md$/, "")) ?? linkAliases.get(path.posix.normalize(lower).replace(/^\/+/, ""))
+    const hit = to ? resolve(to, fromRel, true) : null
+    if (hit?.kind === "note") return { rel: hit.rel, kind: "note", renamed: true, alias: true }
+  }
   if (!rel) return null
   return { rel, kind: isNote(rel) ? "note" : "file" }
+}
+// written name (lower case) → note name, from link-aliases.yaml
+const linkAliases = new Map()
+{
+  const file = path.resolve(ROOT, cleanupCfg.link_aliases_file)
+  if (cleanupCfg.link_aliases && fs.existsSync(file)) {
+    const map = yaml.load(fs.readFileSync(file, "utf8")) ?? {}
+    for (const [from, to] of Object.entries(map)) if (typeof to === "string" && to.trim()) linkAliases.set(String(from).trim().toLowerCase(), to.trim())
+  }
+}
+const sessionsByNumber = new Map() // 84 → ["01_sessions/Session 084 - Knoten.md"]
+for (const rel of allFiles) {
+  const m = isNote(rel) ? noteBase(rel).match(/^Session\s+0*(\d{1,3})\b/i) : null
+  if (m && /(^|\/)01_sessions\//i.test(rel)) push(sessionsByNumber, Number(m[1]), rel)
 }
 
 // ---------- images: web-sized copies ----------
@@ -478,6 +545,10 @@ function rewriteLinks(line, fromRel) {
     const text = alias ?? path.posix.basename(target.trim()).replace(/\.md$/i, "")
     if (!res) {
       // a link to a note that doesn't exist would still carry its target name in the page's link address
+      if (bang && cleanupCfg.missing_images) {
+        cleanupLog.imagesDropped.push({ from: fromRel, link: m, part: "" })
+        return ""
+      }
       report.unresolved.push({ from: fromRel, link: m })
       return bang ? m : text
     }
@@ -489,6 +560,12 @@ function rewriteLinks(line, fromRel) {
       return `${bang}[[${renameInLink(target, res.rel)}${sub}${alias !== null ? sep + alias : ""}]]`
     }
     if (notes.get(res.rel)?.published) {
+      if (res.renamed) {
+        // point the link at the note's real name, keep the words the reader sees
+        const sep = inner.includes("\\|") || /^\s*\|/.test(line) ? "\\|" : "|"
+        ;(res.alias ? cleanupLog.linkAliases : cleanupLog.sessionLinks).push({ from: fromRel, link: m, to: noteBase(res.rel) })
+        return `${bang}[[${noteBase(res.rel)}${targetFull.slice(target.length)}${sep}${alias ?? target.trim()}]]`
+      }
       if (!target.includes("/")) return m
       // path-qualified link: point it at the note's new (renamed-folder) path
       const sep = inner.includes("\\|") ? "\\|" : "|"
@@ -538,6 +615,47 @@ function rewriteLinks(line, fromRel) {
   return line
 }
 
+// Converter pictures (cleanup.missing_images). "media/image8.jpg" exists once per protocol part, so a file
+// is only used when it sits in a folder named after the part the session came from (source_refs), or when
+// the note names no part and there is exactly one such file. Returns the new embed, or null to drop it.
+const inBlockedFolder = (rel) => cleanupCfg.image_blocked_folders.some((f) => inFolder(rel, f))
+function decideImage({ hrefRaw, embed }, fromRel) {
+  let href = hrefRaw.trim()
+  href = href.startsWith("<") ? href.slice(1, href.indexOf(">") > 0 ? href.indexOf(">") : undefined) : href.split(/\s+/)[0]
+  if (/^[a-z][a-z0-9+.-]*:/i.test(href)) return undefined // a picture on the web: leave it
+  let decoded = href
+  try {
+    decoded = decodeURIComponent(href)
+  } catch {}
+  decoded = decoded.split("#")[0]
+  const converter = /(^|\/)media\/[^/]+$/i.test(decoded)
+  if (!converter) {
+    const res = resolve(decoded, fromRel)
+    if (res?.kind === "file" && inBlockedFolder(res.rel)) {
+      cleanupLog.imagesDmOnly.push({ from: fromRel, link: embed, found: [res.rel] })
+      return null
+    }
+    if (res) return undefined // found: the normal link handling takes over (the {width=…} tail is gone)
+    cleanupLog.imagesDropped.push({ from: fromRel, link: embed, part: "" })
+    return null
+  }
+  const refs = notes.get(fromRel)?.fm?.source_refs
+  const parts = (Array.isArray(refs) ? refs : refs ? [refs] : []).map(String)
+  const keys = parts.flatMap(partKeys)
+  const cands = filesByBase.get(path.posix.basename(decoded).toLowerCase()) ?? []
+  const fits = keys.length ? cands.filter((c) => pathInPart(c, keys)) : cands
+  const open = fits.filter((c) => !inBlockedFolder(c))
+  const partLabel = parts.map((p) => p.replace(/^\[\[|\]\]$/g, "")).join(", ")
+  if (open.length === 1) {
+    cleanupLog.imagesFound.push({ from: fromRel, link: embed, found: open[0] })
+    return `![[${open[0]}]]`
+  }
+  if (!open.length && fits.length) cleanupLog.imagesDmOnly.push({ from: fromRel, link: embed, found: fits })
+  else if (open.length > 1 || cands.some((c) => !inBlockedFolder(c))) cleanupLog.imagesUnclear.push({ from: fromRel, link: embed, part: partLabel, found: (open.length ? open : cands.filter((c) => !inBlockedFolder(c))).slice(0, 4) })
+  else cleanupLog.imagesDropped.push({ from: fromRel, link: embed, part: partLabel })
+  return null
+}
+
 // Cut whole sections whose heading matches dm_headings (secrets) or strip_headings (bookkeeping).
 // A section runs until the next heading of the same or a higher level.
 function stripSections(body, fromRel) {
@@ -581,7 +699,46 @@ function stripSections(body, fromRel) {
 }
 
 function transformBody(body, fromRel) {
+  // first of all: text that sits in a ```text fence is note text like any other, so every rule below applies to it
+  if (cleanupCfg.protocol_fences) {
+    const r = unwrapProtocolFences(body)
+    body = r.body
+    if (r.unwrapped) cleanupLog.fences.push({ from: fromRel, count: r.unwrapped })
+  }
   body = stripSections(body, fromRel)
+  if (cleanupCfg.stray_headings) {
+    const r = tidyHeadings(body)
+    body = r.body
+    for (const h of r.removed) cleanupLog.headings.push({ from: fromRel, ...h })
+  }
+  if (cleanupCfg.truncation_notes) {
+    const r = markTruncations(body, cleanupCfg.truncation_label)
+    body = r.body
+    for (const t of r.found) cleanupLog.truncations.push({ from: fromRel, ...t })
+  }
+  if (cleanupCfg.converter_marks) {
+    const r = convertMarks(body)
+    body = r.body
+    if (r.count) cleanupLog.marks.push({ from: fromRel, count: r.count })
+  }
+  // after the converter marks: a Word @mention is [[Name]{.underline}](mailto:…)
+  if (cleanupCfg.email_addresses) {
+    const r = stripEmails(body, { names: cleanupCfg.mention_names })
+    body = r.body
+    if (r.count) cleanupLog.emails.push({ from: fromRel, count: r.count })
+    if (r.shortened) cleanupLog.mentionNames.push({ from: fromRel, count: r.shortened })
+  }
+  if (cleanupCfg.doc_links) {
+    const r = stripDocLinks(body, cleanupCfg.doc_link_targets)
+    body = r.body
+    if (r.count) cleanupLog.docLinks.push({ from: fromRel, count: r.count, linked: r.linked })
+  }
+  if (cleanupCfg.grid_tables) {
+    const r = convertGridTables(body, { long: cleanupCfg.grid_tables_long })
+    body = r.body
+    for (const t of r.found) cleanupLog.gridTables.push({ from: fromRel, ...t })
+  }
+  if (cleanupCfg.missing_images) body = rewriteImageEmbeds(body, (img) => decideImage(img, fromRel))
   const out = []
   let fence = null
   let inComment = false
@@ -659,6 +816,47 @@ function transformBody(body, fromRel) {
     out.push(rewriteLinks(line, fromRel))
   }
 
+  if (cleanupCfg.sidecar !== "keep") {
+    const r = cleanSidecar(out.join("\n"), cleanupCfg.sidecar)
+    if (r.changes.length) {
+      out.length = 0
+      out.push(...r.body.split("\n"))
+      for (const c of r.changes) cleanupLog.sidecar.push({ from: fromRel, ...c })
+    }
+  }
+  if (!cleanupNotes.has(fromRel.replace(/\.md$/i, "").toLowerCase())) {
+    // player details first: its lines are whole protocol lines
+    const pd = stripPlayerDetails(out.join("\n"), { session: /(^|\/)01_sessions\//i.test(fromRel), ingameNames: cfg.cleanup?.player_details_ingame_names || [], ingamePlaces: cfg.cleanup?.player_details_ingame_places || [] })
+    if (pd.changes.length) {
+      for (const c of pd.changes) cleanupLog.playerDetails.push({ from: fromRel, ...c })
+      if (cleanupCfg.player_details === "strip") {
+        out.length = 0
+        out.push(...pd.body.split("\n"))
+      }
+    }
+  }
+  // (the extract notes get their own tidy-up, see cleanup_extracts)
+  if (cleanupCfg.import_notes && !cleanupNotes.has(fromRel.replace(/\.md$/i, "").toLowerCase())) {
+    const r = cleanImportNotes(out.join("\n"))
+    if (r.changes.length) {
+      out.length = 0
+      out.push(...r.body.split("\n"))
+      for (const c of r.changes) cleanupLog.importNotes.push({ from: fromRel, ...c })
+    }
+  }
+  if (!cleanupNotes.has(fromRel.replace(/\.md$/i, "").toLowerCase())) {
+    // "confirmed by DM" lines: always listed; taken out only with dm_sourced: remove. Not in session protocols.
+    if (!/(^|\/)01_sessions\//i.test(fromRel)) {
+      const r = cleanDmSourced(out.join("\n"), cleanupCfg.dm_sourced)
+      if (r.found.length) {
+        for (const c of r.found) cleanupLog.dmSourced.push({ from: fromRel, ...c })
+        if (cleanupCfg.dm_sourced === "remove") {
+          out.length = 0
+          out.push(...r.body.split("\n"))
+        }
+      }
+    }
+  }
   if (removedCallouts) report.callouts.push({ from: fromRel, count: removedCallouts })
   if (inComment) report.unresolved.push({ from: fromRel, link: "(unclosed %% comment — everything after it was cut)" })
   return out.join("\n")
@@ -679,13 +877,23 @@ function outputFrontmatter(fm, srcStat, extra = {}) {
 
 // ---------- write the output ----------
 
+// What scripts/build-appearances.mjs adds after the export (one-line blocks) is not a change to report.
+// The arc pages it writes are left out of the comparison altogether.
+const withoutAddOns = (t) =>
+  t.replace(/\n<div class="gd-(?:who|seen)\b[^\n]*\n\n/g, "").replace(/<a class="gd-arc-link"[^>]*>([^<]*)<\/a>/g, "$1").replace(/\[\[[^\]|\n]*\/Arc \d+\\\|([^\]\n]*)\]\]/g, "$1")
+const arcFolder = String(cfg.arc_pages?.folder ?? "Arcs").replace(/^\/+|\/+$/g, "")
+// The timeline builder (run after this export) adds its small link markers to pages. They are not a change
+// of the page, so the "new / changed" comparison leaves them out.
+const withoutTimelineMarks = (txt) => txt.replace(/\n*<p class="(?:session-meta gd-tl-meta|gd-map-tl)"[^\n]*<\/p>\n?/g, "\n").replace(/ ?<span class="gd-tl-link"[^>]*><\/span>/g, "").replace(/\n{2,}/g, "\n").replace(/\s+$/, "\n")
 function hashDir(dir, base = dir, acc = new Map()) {
   if (!fs.existsSync(dir)) return acc
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, e.name)
-    if (e.isDirectory()) hashDir(full, base, acc)
+    if (e.isDirectory()) {
+      if (dir !== base || e.name !== arcFolder) hashDir(full, base, acc)
+    }
     else if (e.name.endsWith(".md"))
-      acc.set(toPosix(path.relative(base, full)), crypto.createHash("sha1").update(fs.readFileSync(full)).digest("hex"))
+      acc.set(toPosix(path.relative(base, full)), crypto.createHash("sha1").update(withoutTimelineMarks(withoutAddOns(fs.readFileSync(full, "utf8")))).digest("hex"))
   }
   return acc
 }
@@ -848,6 +1056,9 @@ if (mapCfg?.image) {
 // The Timeline page itself is written afterwards by scripts/build-timeline.mjs (wiki.sh runs both);
 // here it only gets its place among the browse links on the front page.
 if (cfg.timeline?.enabled) extraPages.push(cfg.timeline.title ?? "Timeline")
+// Table tools with a page of their own (written afterwards by scripts/build-table.mjs): same here.
+if (cfg.table?.quiz) extraPages.push(cfg.table.quiz_title ?? "Who is this")
+if (cfg.table?.logbook) extraPages.push(cfg.table.logbook_title ?? "Logbook")
 // copy attachments; images get a web-sized copy (cached in .wiki-cache so re-exports stay fast)
 const imageStats = { count: 0, before: 0, after: 0, rows: [] }
 const CACHE = path.join(ROOT, ".wiki-cache", "images")
@@ -995,6 +1206,122 @@ if (unwrapCfg.on) {
   L(`- ${unwrapReport.length} hard-wrapped notes re-flowed, ${unwrapReport.reduce((a, b) => a + b.joined, 0)} line breaks joined (\`text.unwrap\`).`)
   L()
 }
+L(`## Clean-ups`)
+if (!cleanupCfg.grid_tables) L(`- Grid tables: off (\`cleanup.grid_tables: false\`).`)
+else {
+  const g = cleanupLog.gridTables
+  const n = (k) => g.filter((x) => x.kind === k).length
+  L(`- Grid tables (\`cleanup.grid_tables\`): ${g.length} converted in ${new Set(g.map((x) => x.from)).size} notes — ${n("table")} as tables, ${n("sections")} as headings with text, ${n("preformatted")} kept as preformatted blocks (merged cells or broken shape).`)
+  list(g.filter((x) => x.kind !== "table"), (x) => `\`${x.from}\` line ${x.line}: ${x.kind} (${x.sourceLines} source lines)`)
+  list(g.filter((x) => x.cutOff), (x) => `**Cut off in the vault:** \`${x.from}\` — the table starting at line ${x.line} ends without its closing border (${x.rows} rows kept).`)
+}
+if (!cleanupCfg.missing_images) L(`- Pictures: off (\`cleanup.missing_images: false\`); broken picture embeds stay on the pages.`)
+else {
+  const c = cleanupLog
+  L(`- Pictures (\`cleanup.missing_images\`): ${c.imagesFound.length} found in the vault and published, **${c.imagesDropped.length + c.imagesUnclear.length + c.imagesDmOnly.length} embeds dropped** (${c.imagesDropped.length} not in the vault, ${c.imagesUnclear.length} unclear which file, ${c.imagesDmOnly.length} only in a DM-only folder).`)
+  if (c.imagesFound.length) {
+    L(`### Pictures found in the vault (${c.imagesFound.length})`)
+    list(c.imagesFound, (x) => `\`${x.from}\`: ${x.link} ← \`${x.found}\``, 500)
+  }
+  if (c.imagesDmOnly.length) {
+    L(`### Pictures that exist only in a DM-only folder — not published (${c.imagesDmOnly.length})`)
+    L(`Move a copy somewhere else in the vault if players may see it.`)
+    list(c.imagesDmOnly, (x) => `\`${x.from}\`: ${x.link} — only copy: ${x.found.map((f) => `\`${f}\``).join(", ")}`, 500)
+  }
+  if (c.imagesUnclear.length) {
+    L(`### Pictures with the right file name, but not in a folder named after the protocol part — not used (${c.imagesUnclear.length})`)
+    list(c.imagesUnclear, (x) => `\`${x.from}\`: ${x.link}${x.part ? ` (from ${x.part})` : ""} — candidates: ${x.found.map((f) => `\`${f}\``).join(", ")}`, 500)
+  }
+  if (c.imagesDropped.length) {
+    L(`### Pictures not in the vault — embed dropped (${c.imagesDropped.length})`)
+    L(`The converter left the embed, but the picture file never came into the vault. To bring one back: put it at \`<any folder>/<protocol part name or "Part N">/media/<file name>\` in the vault; the next export finds it.`)
+    const by = new Map()
+    for (const x of c.imagesDropped) push(by, x.from, x)
+    for (const [from, xs] of by) L(`- \`${from}\`${xs[0].part ? ` (from ${xs[0].part})` : ""}: ${xs.map((x) => x.link.replace(/^!\[[^\]]*\]\(|\)$/g, "")).join(", ")}`)
+  }
+}
+if (cleanupCfg.sidecar === "keep") L(`- "the sidecar": kept as written (\`cleanup.sidecar: keep\`; other choices: reword, remove).`)
+else {
+  const c = cleanupLog.sidecar
+  const n = (h) => c.filter((x) => x.how.startsWith(h)).length
+  L(`- "the sidecar" (\`cleanup.sidecar: ${cleanupCfg.sidecar}\`): ${c.length} lines in ${new Set(c.map((x) => x.from)).size} notes — ${cleanupCfg.sidecar === "remove" ? `${n("part removed")} with the import reference taken out, ${n("line removed")} lines removed, ${n("reworded")} reworded because the sentence needs the reference` : `${n("reworded")} reworded`}.`)
+  L(`### "the sidecar": before → after (${c.length})`)
+  list(c, (x) => `\`${x.from}\` (${x.how})\n  - before: ${x.before.trim()}\n  - after: ${x.after === null ? "*(line removed)*" : x.after.trim()}`, 500)
+}
+if (cleanupCfg.protocol_fences) L(`- Protocol text in code boxes (\`cleanup.protocol_fences\`): ${cleanupLog.fences.reduce((a, b) => a + b.count, 0)} fences opened in ${cleanupLog.fences.length} notes${cleanupLog.fences.length ? `: ${cleanupLog.fences.map((x) => noteBase(x.from).replace(/ - .*/, "")).join(", ")}` : ""}.`)
+if (cleanupCfg.stray_headings) {
+  const h = cleanupLog.headings
+  const n = (k) => h.filter((x) => x.kind === k).length
+  L(`- Leftover headings (\`cleanup.stray_headings\`): ${h.length} removed in ${new Set(h.map((x) => x.from)).size} notes — ${n("title repeated")} repeats of the note's title, ${n("empty heading")} headings without words, ${n("heading of the next session")} headings of the next session at the end of a protocol.`)
+  list(h.filter((x) => x.kind === "heading of the next session"), (x) => `\`${x.from}\`: "# ${x.text}" (belongs to the following session)`)
+}
+if (cleanupCfg.converter_marks) L(`- Converter marks (\`cleanup.converter_marks\`): ${cleanupLog.marks.reduce((a, b) => a + b.count, 0)} highlighted or underlined passages ([words]{.mark}, [words]{.underline}) shown properly, in ${cleanupLog.marks.length} notes.`)
+{
+  const t = cleanupLog.truncations
+  if (cleanupCfg.truncation_notes && t.length) {
+    L(`- **Text missing in the vault** (\`cleanup.truncation_notes\`): ${t.length} places where the import tool cut a note ("OUTPUT TRUNCATED"). The page now says "${cleanupCfg.truncation_label.replace(/[*()]/g, "")}" there. The text itself can only come back from the original protocol.`)
+    list(t, (x) => `\`${x.from}\`: about ${x.chars.toLocaleString("de-CH")} characters missing${x.fragment ? ` (the cut-off rest of a table line after it, "${x.fragment}", is left out)` : ""}`)
+  }
+}
+if (cleanupCfg.email_addresses && cleanupLog.emails.length) {
+  L(`- **E-mail addresses** (\`cleanup.email_addresses\`): ${cleanupLog.emails.reduce((a, b) => a + b.count, 0)} taken out before publishing (the linked names stay). They are still in the vault notes:`)
+  list(cleanupLog.emails, (x) => `\`${x.from}\` (${x.count})`)
+}
+if (cleanupCfg.doc_links && cleanupLog.docLinks.length) {
+  L(`- **Shared-document links** (\`cleanup.doc_links\`): ${cleanupLog.docLinks.reduce((a, b) => a + b.count, 0)} taken out before publishing (the link words stay). They are still in the vault notes:`)
+  list(cleanupLog.docLinks, (x) => `\`${x.from}\` (${x.count}${x.linked ? `, ${x.linked} now a link to the copy in the wiki` : ""})`)
+}
+if (!cleanupCfg.import_notes) L(`- Import bookkeeping: left on the pages (\`cleanup.import_notes: false\`).`)
+else {
+  const c = cleanupLog.importNotes
+  const kinds = new Map()
+  for (const x of c) kinds.set(x.kind, (kinds.get(x.kind) ?? 0) + 1)
+  L(`- Import bookkeeping (\`cleanup.import_notes\`): ${c.length} remarks taken out in ${new Set(c.map((x) => x.from)).size} notes — ${[...kinds].sort((a, b) => b[1] - a[1]).map(([k, n]) => `${n} ${k}`).join(", ")}. Lines that stay but were shortened:`)
+  list(c.filter((x) => x.after && x.kind !== "title unknown"), (x) => `\`${x.from}\`: "${x.before}" → "${x.after}"`, 150)
+  L(`- Import bookkeeping, whole lines taken out (same line counted once per note it stood in):`)
+  const gone = new Map()
+  for (const x of c.filter((y) => !y.after && y.kind !== "emptied heading")) {
+    const g = gone.get(x.before) ?? { n: 0, from: x.from }
+    g.n++
+    gone.set(x.before, g)
+  }
+  list([...gone].sort((a, b) => b[1].n - a[1].n), ([t, g]) => (g.n > 1 ? `${g.n}× "${t.replace(/\d+/g, "N")}"` : `\`${g.from}\`: "${t}"`), 150)
+  const heads = new Map()
+  for (const x of c.filter((y) => y.kind === "emptied heading")) heads.set(x.before, (heads.get(x.before) ?? 0) + 1)
+  L(`- Import bookkeeping, headings that had nothing else under them: ${[...heads].sort((a, b) => b[1] - a[1]).map(([t, n]) => `${n}× "${t}"`).join(", ")}`)
+}
+{
+  const d = cleanupLog.dmSourced
+  L(`- "The DM said" lines (\`cleanup.dm_sourced: ${cleanupCfg.dm_sourced}\`): ${d.length} lines in ${new Set(d.map((x) => x.from)).size} notes give the DM as the source of a fact ("confirmed by DM", "per DM correction note") — ${cleanupCfg.dm_sourced === "remove" ? "taken out (list entries whole, in running text the sentence)" : "all still on the pages; check whether the party was told each one (\`remove\` takes them all out)"}:`)
+  list(d, (x) => `\`${x.from}\`: "${x.before}"`, 150)
+  const p = cleanupLog.playerDetails
+  const kinds = new Map()
+  for (const x of p) kinds.set(x.kind, (kinds.get(x.kind) ?? 0) + 1)
+  L(`- Players' real-world details (\`cleanup.player_details: ${cleanupCfg.player_details}\`): ${p.length} places in ${new Set(p.map((x) => x.from)).size} notes — ${[...kinds].map(([k, n]) => `${n} ${k}${n > 1 ? "s" : ""}`).join(", ") || "none"}. ${cleanupCfg.player_details === "strip" ? "Taken out." : "Published as they are (\`strip\` takes them out)."}`)
+  if (cleanupCfg.email_addresses) L(`- Names of former @-mentions (\`cleanup.mention_names: ${cleanupCfg.mention_names}\`): ${cleanupCfg.mention_names === "first_name" ? `${cleanupLog.mentionNames.reduce((a, b) => a + b.count, 0)} shortened to the first name` : "kept in full (\`first_name\` keeps only the first name)"}${cleanupLog.mentionNames.length ? ` in ${cleanupLog.mentionNames.map((x) => noteBase(x.from).replace(/ - .*/, "")).join(", ")}` : ""}.`)
+}
+{
+  const e = cleanupLog.empty
+  const zero = e.filter((x) => x.words <= cleanupCfg.hide_empty_max_words)
+  L(`- Empty pages (\`cleanup.hide_empty\`: ${cleanupCfg.hide_empty ? "on" : "off"}, at most ${cleanupCfg.hide_empty_max_words} real words): ${zero.length} notes hold nothing but an import placeholder${cleanupCfg.hide_empty ? " and were left out; links to them are plain text" : "; they are published as they are (switch on to leave them out)"}.`)
+  list(zero, (x) => `\`${x.rel}\``)
+  const near = e.filter((x) => x.words > cleanupCfg.hide_empty_max_words)
+  if (near.length) L(`  - Nearly empty (up to 30 real words), published either way: ${near.map((x) => `${noteBase(x.rel)} (${x.words})`).join(", ")}`)
+}
+if (!cleanupCfg.link_aliases) L(`- Link names (\`cleanup.link_aliases\`): off; links to names that don't exist stay plain text.`)
+else {
+  const c = cleanupLog.linkAliases
+  const per = new Map()
+  for (const x of c) {
+    const k = `${x.link.replace(/^!?\[\[|\]\]$/g, "").split("|")[0]} → ${x.to}`
+    per.set(k, (per.get(k) ?? 0) + 1)
+  }
+  L(`- Link names (\`cleanup.link_aliases\`, ${linkAliases.size} entries in \`${cleanupCfg.link_aliases_file}\`): ${c.length} links that pointed at a name that doesn't exist now open the note they mean${per.size ? `: ${[...per].sort((a, b) => b[1] - a[1]).map(([k, n]) => `${k} (${n})`).join(", ")}` : ""}.`)
+  const unused = [...linkAliases].filter(([from, to]) => !c.some((x) => x.to.toLowerCase() === noteBase(resolve(to, "")?.rel ?? "").toLowerCase() && x.link.toLowerCase().includes(from)))
+  if (unused.length) L(`  - Entries that did nothing in this export (link fixed in the vault, or the note isn't published): ${unused.map(([from, to]) => `${from} → ${to}`).join(", ")}`)
+}
+if (cleanupCfg.session_links) L(`- Session links (\`cleanup.session_links\`): ${cleanupLog.sessionLinks.length} links like [[Session 084]] now open the session page (the note has a longer name).`)
+L()
 L(`## Map pins`)
 if (!pinReport.on) L(`- Off (\`map.pins: false\`). The draft positions are in \`map-pins.yaml\`.`)
 else {
@@ -1007,7 +1334,7 @@ L(`## Problems`)
 L(`### Broken frontmatter (${skipped.badFrontmatter.length})`)
 list(skipped.badFrontmatter)
 L(`### Links to notes that don't exist, made plain text (${report.unresolved.length})`)
-list(report.unresolved, (x) => `\`${x.from}\`: ${x.link}`, 50)
+list(report.unresolved, (x) => `\`${x.from}\`: ${x.link}`, 400)
 L(`### Missing images (${report.missingAssets.length})`)
 list(report.missingAssets, (x) => `\`${x.from}\`: ${x.link}`, 50)
 L()

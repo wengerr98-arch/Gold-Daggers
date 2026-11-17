@@ -11,6 +11,11 @@ publish: true
 
 # Lady Ty
 
+<div class="gd-seen"><p><span>Seen in 6 sessions</span> <span>first <a href="../../sessions/session-010">Session 10</a></span> <span>last <a href="../../sessions/session-098---unsicher">Session 98 · Unsicher</a></span></p><details><summary>All 6 sessions</summary><ul><li><a href="../../sessions/session-010">Session 10</a></li><li><a href="../../sessions/session-041---deals-like-daggers">Session 41</a> <span>Deals like Daggers</span></li><li><a href="../../sessions/session-045">Session 45</a></li><li><a href="../../sessions/session-061---change">Session 61</a> <span>Change</span></li><li><a href="../../sessions/session-062---escalating">Session 62</a> <span>Escalating</span></li><li><a href="../../sessions/session-098---unsicher">Session 98</a> <span>Unsicher</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=lady-ty" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Lady Ty is an older woman with dark skin and tightly bound hair whose precise identity — whether mortal, divine, or cosmic — remains unconfirmed. She was first encountered imprisoned in [[Dr. Mason]]'s basement dungeon, where she demonstrated powerful innate (non-trained) abilities upon being freed, liberating all captives and pledging to return the unconscious [[Galatea]] to [[Felix]]. She has since appeared in scrying visions and dreams alongside the [[Sommergöttin]], seated at an unidentified lakeside, and holds a significant dramatic connection to the royal line through her daughter [[Beverly]], whose father is King [[Azan Aeducan]].

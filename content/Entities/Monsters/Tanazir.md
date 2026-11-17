@@ -7,6 +7,11 @@ publish: true
 
 # Tanazir
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-091">Session 91</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=tanazir" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Tanazir is a named monster who served as the climactic boss of the obelisk confrontation in Session 091. The party defeats Tanazir in combat after a multi-round battle. Upon defeat, Tanazir shrinks into a humanoid form wearing a black robe bearing a violet-red rune.

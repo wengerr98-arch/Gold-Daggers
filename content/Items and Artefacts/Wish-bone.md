@@ -7,6 +7,9 @@ publish: true
 
 # Wish-bone
 
+<div class="gd-seen"><p><span>Mentioned in 1 session</span> <span><a href="../sessions/session-069---objectives">Session 69 · Objectives</a></span></p></div>
+
+
 ## Known Information
 
 The Wish-bone is a campaign-specific item that was cracked by [[Eloryn]] and [[Leumas]] together in Session 069. As a result of cracking it, [[Leumas]] gained an at-will effect. Whether it is a unique artefact or a one-session consumable remains unclear.

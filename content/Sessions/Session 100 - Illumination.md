@@ -7,7 +7,10 @@ publish: true
 
 # Session 100 - Illumination
 
-<p class="session-meta"><span>Session 100</span> <span>Arc 5 · Höllenfahrt</span></p>
+<p class="session-meta"><span>Session 100</span> <span><a class="gd-arc-link" href="../arcs/arc-5">Arc 5 · Höllenfahrt</a></span> <span class="gd-tl-link" data-to="timeline" data-q="s=100" data-label="On the timeline →"></span></p>
+
+<div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/levistus"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Levistus</span></a><a class="gd-chip" href="../entities/npcs/odyss-trion"><span class="gd-av is-ph" aria-hidden="true">O</span><span class="gd-chip-name">Odyss Trion</span></a><a class="gd-chip" href="../entities/gods/aria"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Aria</span></a><a class="gd-chip" href="../entities/npcs/ken-paul"><span class="gd-av is-ph" aria-hidden="true">K</span><span class="gd-chip-name">Ken Paul</span></a><a class="gd-chip" href="../entities/npcs/naura"><span class="gd-av is-ph" aria-hidden="true">N</span><span class="gd-chip-name">Naura</span></a><a class="gd-chip" href="../entities/npcs/randrus-torren"><span class="gd-av is-ph" aria-hidden="true">R</span><span class="gd-chip-name">Randrus Torren</span></a><a class="gd-chip" href="../entities/npcs/verus"><span class="gd-av is-ph" aria-hidden="true">V</span><span class="gd-chip-name">Verus</span></a><a class="gd-chip" href="../entities/npcs/zariel"><span class="gd-av is-ph" aria-hidden="true">Z</span><span class="gd-chip-name">Zariel</span></a></span></div></div>
+
 
 ## Clean Protocol Text
 
@@ -161,7 +164,7 @@ Snix und Lorilla flüüge nochle wiiter und sueche nach meh heewiiise. De Snix g
 
 Mer checke briefchächschte ab, besmer en name fendet:
 
-T'Dis Oroen -\> [[Odis Trion (de Leonin)]{.underline}]{.mark}
+T'Dis Oroen -\> ==<u>Odis Trion (de Leonin)</u>==
 
 ## Diese Stadt ist nicht gross genug für uns beide
 
@@ -169,208 +172,71 @@ Währenddäm mer vorosse stönd, goht töre uuf und en Leonin steppt os de töre
 
 ## Durch die Türe nach Aarum
 
-![](media/image1.jpg){width="6.4950787401574805in" height="8.666666666666666in"}
-
 Roll Initiative
 
 Runde 1
 
-+-----------------+----------------------------------------------------+
-| Leumas          | De Leumas macht circle of POWER                    |
-|                 |                                                    |
-|                 | "stay close guys"                                  |
-+-----------------+----------------------------------------------------+
-| Eloryn          | Fireball DEX Noice he doesn't save. 31 Schade!     |
-|                 | Fire Damage! Starts flying.                        |
-+-----------------+----------------------------------------------------+
-| Lorilla         | Fount of Moonlight auf sich selber, Körper         |
-|                 | schimmert im Moondlicht, flying zum gesicht!       |
-+-----------------+----------------------------------------------------+
-| BB              | Lauft an die Ecke und dann Fireball, 20 halbiert,  |
-|                 | 10.. füür schiint nüt z mache                      |
-+-----------------+----------------------------------------------------+
-| Snix            | Fliegt nach vorne und sucht mit Truesight          |
-|                 | versteckte erscheinung an                          |
-+-----------------+----------------------------------------------------+
-| Barzan          | Holy Aura, advantage on all saving throws          |
-+-----------------+----------------------------------------------------+
-| Tarrasque       | Con Save, 27 alli faile 86 damage! er chonnt före  |
-|                 | und griifft the snix aah 40 damage!                |
-+=================+====================================================+
+|   |   |
+|---|---|
+| Leumas | De Leumas macht circle of POWER<br>"stay close guys" |
+| Eloryn | Fireball DEX Noice he doesn't save. 31 Schade! Fire Damage! Starts flying. |
+| Lorilla | Fount of Moonlight auf sich selber, Körper schimmert im Moondlicht, flying zum gesicht! |
+| BB | Lauft an die Ecke und dann Fireball, 20 halbiert, 10.. füür schiint nüt z mache |
+| Snix | Fliegt nach vorne und sucht mit Truesight versteckte erscheinung an |
+| Barzan | Holy Aura, advantage on all saving throws |
+| Tarrasque | Con Save, 27 alli faile 86 damage! er chonnt före und griifft the snix aah 40 damage! |
 
 Runde 2
 
-+-----------------+----------------------------------------------------+
-| Leumas          | tasha's otherwordly guise! Wings! He shoots nadel  |
-|                 | Munition 2x atttack 25 to hit just hits.15         |
-|                 | piercing damage und 12 lightning und 8 Piercing    |
-+-----------------+----------------------------------------------------+
-| Eloryn          | Dash uf sin chopf. saucy point for quickened spell |
-|                 | eldri.tch blast into his eeeyes. one hit und es    |
-|                 | prallt ab! immune to ranged spell attacks!         |
-+-----------------+----------------------------------------------------+
-| Lorilla         | Bite Attack - leider kein Bite                     |
-+-----------------+----------------------------------------------------+
-| BB              | BB Hand 30 to hit! 22 Punkte Schaden! Force Dmg    |
-+-----------------+----------------------------------------------------+
-| Snix            | Attack met em neue Schwärt! leider kein hit und    |
-|                 | dann noch viel schaden mit der zweiten Attacke ;)  |
-|                 | 50 Punkte Schaden!                                 |
-+-----------------+----------------------------------------------------+
-| Barzan          | Accelerate the Leumas! 21 heal für BB!             |
-+-----------------+----------------------------------------------------+
-| legendary Tower | d20 vo allne plus 10                               |
-|                 |                                                    |
-|                 | drei treffen! 4d10 + 4                             |
-|                 |                                                    |
-|                 | Total Schaden: 37 + 25 + 25!                       |
-|                 |                                                    |
-|                 | The Tower verschwendet weder undbeschadet! \<3     |
-+-----------------+----------------------------------------------------+
-| Tarrasque       | 6 schade vom needleshot vom Leumas                 |
-|                 |                                                    |
-|                 | Er moved före und ignoriert de Snix                |
-|                 |                                                    |
-|                 | Er verseucht de Snix z biisse, und claw            |
-|                 |                                                    |
-|                 | 45 schade, 22 claw                                 |
-|                 |                                                    |
-|                 | Barzan reaction: 12 pönkt heal före snix           |
-+=================+====================================================+
+|   |   |
+|---|---|
+| Leumas | tasha's otherwordly guise! Wings! He shoots nadel Munition 2x atttack 25 to hit just hits.15 piercing damage und 12 lightning und 8 Piercing |
+| Eloryn | Dash uf sin chopf. saucy point for quickened spell eldri.tch blast into his eeeyes. one hit und es prallt ab! immune to ranged spell attacks! |
+| Lorilla | Bite Attack - leider kein Bite |
+| BB | BB Hand 30 to hit! 22 Punkte Schaden! Force Dmg |
+| Snix | Attack met em neue Schwärt! leider kein hit und dann noch viel schaden mit der zweiten Attacke ;) 50 Punkte Schaden! |
+| Barzan | Accelerate the Leumas! 21 heal für BB! |
+| legendary Tower | d20 vo allne plus 10<br>drei treffen! 4d10 + 4<br>Total Schaden: 37 + 25 + 25!<br>The Tower verschwendet weder undbeschadet! \<3 |
+| Tarrasque | 6 schade vom needleshot vom Leumas<br>Er moved före und ignoriert de Snix<br>Er verseucht de Snix z biisse, und claw<br>45 schade, 22 claw<br>Barzan reaction: 12 pönkt heal före snix |
 
 Runde 3
 
-+-----------------+----------------------------------------------------+
-| Leumas (5       | King Schleumi de Breiti. accelerated! 40ft flüüge  |
-| excellerate)    |                                                    |
-|                 | 4x needleshots one hit good damage                 |
-|                 |                                                    |
-|                 | inspo für brudi                                    |
-+-----------------+----------------------------------------------------+
-| Eloryn          | saucy points arm immovable rod! vampiric touch     |
-|                 | yoink/bonk with staff of power. 9 schade und       |
-|                 | healed 4 charisma save shard he saves              |
-+-----------------+----------------------------------------------------+
-| Lorilla         | Moon Beam 8 schade! ufe flüüge 45feet öber ehm     |
-+-----------------+----------------------------------------------------+
-| legendary       | Torren imne Rollstuehl hanged vo de telli und      |
-| Torren support  | lüüchtet imne cone abe                             |
-|                 |                                                    |
-|                 | mer heale bizeli und en d8 für die im Cone         |
-+-----------------+----------------------------------------------------+
-| Legendary       | shockwave und concentrations gone und prone        |
-| Tarrasque       |                                                    |
-+-----------------+----------------------------------------------------+
-| BB              | Disintegration! 75 schaden - NICE ;)               |
-+-----------------+----------------------------------------------------+
-| Snix (6         | 29 hits! 37 schaden! schwert bleibt stecken! 97    |
-| Charges)        | Punkte schaden                                     |
-+-----------------+----------------------------------------------------+
-| Barzan          | 120 temps för BB, das wars                         |
-+-----------------+----------------------------------------------------+
-| Tarrasque d6    | Snix in Tail range 24 schade, biisst de leumas     |
-| schade          | reaction cutting words still hits strength saving  |
-|                 | throw oh no 42 Schade                              |
-|                 |                                                    |
-|                 | Swallowed. acid. probably no teleport out.         |
-|                 |                                                    |
-|                 | stomp                                              |
-+=================+====================================================+
+|   |   |
+|---|---|
+| Leumas (5 excellerate) | King Schleumi de Breiti. accelerated! 40ft flüüge<br>4x needleshots one hit good damage<br>inspo für brudi |
+| Eloryn | saucy points arm immovable rod! vampiric touch yoink/bonk with staff of power. 9 schade und healed 4 charisma save shard he saves |
+| Lorilla | Moon Beam 8 schade! ufe flüüge 45feet öber ehm |
+| legendary Torren support | Torren imne Rollstuehl hanged vo de telli und lüüchtet imne cone abe<br>mer heale bizeli und en d8 für die im Cone |
+| Legendary Tarrasque | shockwave und concentrations gone und prone |
+| BB | Disintegration! 75 schaden - NICE ;) |
+| Snix (6 Charges) | 29 hits! 37 schaden! schwert bleibt stecken! 97 Punkte schaden |
+| Barzan | 120 temps för BB, das wars |
+| Tarrasque d6 schade | Snix in Tail range 24 schade, biisst de leumas reaction cutting words still hits strength saving throw oh no 42 Schade<br>Swallowed. acid. probably no teleport out.<br>stomp |
 
 Runde 4
 
-+-----------------+----------------------------------------------------+
-| Leumas (Acc 4)  | Acid damage zersh 53 schade                        |
-|                 |                                                    |
-|                 | nomol Taschas otherwordly guise. weder 2 actions   |
-|                 |                                                    |
-|                 | 22 lightning + 19 explosion damage und de Leumas   |
-|                 | bechonnt au no chli schade (10 pönkt) + 20         |
-|                 | schade + 14                                        |
-|                 |                                                    |
-|                 | lasergun 84 pönkt schade! Threshhold cleared!      |
-|                 |                                                    |
-|                 | no einish hammer craay 13+31=44                    |
-|                 |                                                    |
-|                 | 2 levels of exhaustion                             |
-|                 |                                                    |
-|                 | & er werd usekötzlet 23 schade 17 fall damage      |
-|                 |                                                    |
-|                 | The elo book activsates!                           |
-|                 |                                                    |
-|                 | Featherfall vo BB!                                 |
-|                 |                                                    |
-|                 | Concentration d8 vom Torren saves!!                |
-+-----------------+----------------------------------------------------+
-| Eloryn          | monster saves against her spell :/ immovable       |
-|                 | rodded                                             |
-+-----------------+----------------------------------------------------+
-| Lorilla         | 7 schade moonbeam, bat bite mag ned ganz dur d     |
-|                 | huut                                               |
-+-----------------+----------------------------------------------------+
-| BB              | Disintegrate, dex save fail und denne 90 Punkte    |
-|                 | Schaden!                                           |
-+-----------------+----------------------------------------------------+
-| legendary       | er moved zrug und macht weder cone damaage         |
-| Tarrasque       |                                                    |
-|                 | deafened and frightened for Leumas Barzan          |
-|                 |                                                    |
-|                 | Leumas is unconcious                               |
-+-----------------+----------------------------------------------------+
-| Snix (5         | 59 schade leider kei hits but that's fine          |
-| Charges)        |                                                    |
-+-----------------+----------------------------------------------------+
-| legendary       | 32 Punkte Schaden an Snix!                         |
-| Tarrasque       |                                                    |
-+-----------------+----------------------------------------------------+
-| Barzan          | 48 healing füre Leumas                             |
-+-----------------+----------------------------------------------------+
-| Torren          | Drops a Comet mit scrolls und scrolls und scrolls! |
-| Legendary       | er gleitet abe im Rollstuehl mitme fallschirm über |
-|                 | eusne chöpf öffne sech pportal wo d komete stückli |
-|                 | uffange:\                                          |
-|                 | rolls:\                                            |
-|                 | 31 + 30 + 42 + 77                                  |
-+-----------------+----------------------------------------------------+
-| Support Tower   | Healing pelleets chöme gschosse mer heale so um    |
-|                 | die 30 alli uuuuuh                                 |
-+-----------------+----------------------------------------------------+
-| Tarrasque       | BB is swallowed, Snix tail shield, barzan out of   |
-|                 | range                                              |
-| d6 schade       |                                                    |
-|                 | 12 & 8 schade vo Lorilla und Leumas                |
-| moonbeamschade  |                                                    |
-+=================+====================================================+
+|   |   |
+|---|---|
+| Leumas (Acc 4) | Acid damage zersh 53 schade<br>nomol Taschas otherwordly guise. weder 2 actions<br>22 lightning + 19 explosion damage und de Leumas bechonnt au no chli schade (10 pönkt) + 20 schade + 14<br>lasergun 84 pönkt schade! Threshhold cleared!<br>no einish hammer craay 13+31=44<br>2 levels of exhaustion<br>& er werd usekötzlet 23 schade 17 fall damage<br>The elo book activsates!<br>Featherfall vo BB!<br>Concentration d8 vom Torren saves!! |
+| Eloryn | monster saves against her spell :/ immovable rodded |
+| Lorilla | 7 schade moonbeam, bat bite mag ned ganz dur d huut |
+| BB | Disintegrate, dex save fail und denne 90 Punkte Schaden! |
+| legendary Tarrasque | er moved zrug und macht weder cone damaage<br>deafened and frightened for Leumas Barzan<br>Leumas is unconcious |
+| Snix (5 Charges) | 59 schade leider kei hits but that's fine |
+| legendary Tarrasque | 32 Punkte Schaden an Snix! |
+| Barzan | 48 healing füre Leumas |
+| Torren Legendary | Drops a Comet mit scrolls und scrolls und scrolls! er gleitet abe im Rollstuehl mitme fallschirm über eusne chöpf öffne sech pportal wo d komete stückli uffange:<br>rolls:<br>31 + 30 + 42 + 77 |
+| Support Tower | Healing pelleets chöme gschosse mer heale so um die 30 alli uuuuuh |
+| Tarrasque<br>d6 schade<br>moonbeamschade | BB is swallowed, Snix tail shield, barzan out of range<br>12 & 8 schade vo Lorilla und Leumas |
 
 Runde 5
 
-+-----------------+----------------------------------------------------+
-| Leumas (3)      | half movement to get up. 8th level taschas         |
-|                 | otherworldly guise                                 |
-|                 |                                                    |
-|                 | flies up 40ft denn no 2 attacks                    |
-|                 |                                                    |
-|                 | 3rd level of exhaustion                            |
-|                 |                                                    |
-|                 | nat 20!!!                                          |
-|                 |                                                    |
-|                 | 92 Schade!!                                        |
-+-----------------+----------------------------------------------------+
-| legendary       | concentrations gone                                |
-| tarrasque       |                                                    |
-+-----------------+----------------------------------------------------+
-| Eloryn          | hex ufe booy, dis uf strength und denn arms of     |
-|                 | hadar zum ehn zum puke bringe. half damage 7+4     |
-|                 |                                                    |
-|                 | HOW DO YOU WANNA DO THIS                           |
-|                 |                                                    |
-|                 | us de Elo erem buuch chöme tentakel und zwänge s   |
-|                 | muul uuf und es goht kapuutt                       |
-|                 |                                                    |
-|                 | Earth                                              |
-+-----------------+----------------------------------------------------+
-|                 |                                                    |
-+=================+====================================================+
+|   |   |
+|---|---|
+| Leumas (3) | half movement to get up. 8th level taschas otherworldly guise<br>flies up 40ft denn no 2 attacks<br>3rd level of exhaustion<br>nat 20!!!<br>92 Schade!! |
+| legendary tarrasque | concentrations gone |
+| Eloryn | hex ufe booy, dis uf strength und denn arms of hadar zum ehn zum puke bringe. half damage 7+4<br>HOW DO YOU WANNA DO THIS<br>us de Elo erem buuch chöme tentakel und zwänge s muul uuf und es goht kapuutt<br>Earth |
+|   |   |
 
 Todo's / Notizen
 

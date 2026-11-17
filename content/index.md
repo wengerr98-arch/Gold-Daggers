@@ -20,13 +20,13 @@ publish: true
 
 | Arc | Sessions |
 |---|---|
-| 1 · Das Schwarze Gänseblümchen | 1–20 |
-| 2 · Die Stadt der Messer | 21–44 |
-| 3 · Salzwasser | 45–60 |
-| 4 · Der Zeitriss | 61–91 |
-| 5 · Höllenfahrt | 92–101 |
-| 6 · *(current)* | 102– |
+| [[Arcs/Arc 1\|1 · Das Schwarze Gänseblümchen]] | 1–20 |
+| [[Arcs/Arc 2\|2 · Die Stadt der Messer]] | 21–44 |
+| [[Arcs/Arc 3\|3 · Salzwasser]] | 45–60 |
+| [[Arcs/Arc 4\|4 · Der Zeitriss]] | 61–91 |
+| [[Arcs/Arc 5\|5 · Höllenfahrt]] | 92–101 |
+| [[Arcs/Arc 6\|6 ·]] *(current)* | 102– |
 
 ## Browse
 
-[[Gallery]] · [[Map]] · [[Timeline]] · [Campaign](./Campaign/) (1) · [Entities](./Entities/) (408) · [Items and Artefacts](./Items-and-Artefacts/) (118) · [Places](./Places/) (126) · [Sessions](./Sessions/) (108)
+[[Gallery]] · [[Map]] · [[Timeline]] · [[Logbook]] · [Campaign](./Campaign/) (1) · [Entities](./Entities/) (408) · [Items and Artefacts](./Items-and-Artefacts/) (118) · [Places](./Places/) (126) · [Sessions](./Sessions/) (108)

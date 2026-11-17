@@ -7,6 +7,11 @@ publish: true
 
 # Tarzan
 
+<div class="gd-seen"><p><span>Seen in 1 session</span> <span><a href="../../sessions/session-054---under-the-water,-just-killed-watergod">Session 54 · Under the water, just killed Watergod</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=tarzan" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Tarzan is the cousin of [[Barzan Aeducan]], encountered at the Fight Club in Session 054 where he was found beaten and unconscious. Barzan revived him on the spot. Tarzan has an unnamed crew, though they have not appeared beyond this single session mention.

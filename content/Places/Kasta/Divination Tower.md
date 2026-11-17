@@ -7,6 +7,11 @@ publish: true
 
 # Divination Tower
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../../sessions/session-083---knoten">Session 83 · Knoten</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=divination-tower" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Divination Tower is one of eight magical academies within [[Kasta]]'s Wizard Academy, dedicated to teaching and practicing divination magic. Unlike its sibling towers, it stands notably poorly maintained and shabby, its once-proud sigil faded and ghostly — a physical reflection of the school's decline. [[Teana]], the Rektorin and Archivarin, is the last active leader of the Divination school and operates from within this tower.

@@ -9,6 +9,11 @@ publish: true
 
 # Palace-Chappel
 
+<div class="gd-seen"><p><span>Visited in 1 session</span> <span><a href="../sessions/session-048---die-hochzeit">Session 48 · Die Hochzeit</a></span></p></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=palace-chappel" data-label="On the timeline →"></span></p>
+
 ## Overview
 The Palace-Chappel is a secret chapel hidden behind [[Yorni]]'s office in the [[Rosenpalast]], accessible only via a cipher hidden in a trapped drawer. It serves as a sacred space devoted to [[Yorni]]'s infernal warlock patron, containing an active blood-filled altar and a statue of a succubus. This is the palace's ancient chapel, repurposed for dark purposes.
 

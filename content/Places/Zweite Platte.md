@@ -9,6 +9,11 @@ publish: true
 
 # Zweite Platte
 
+<div class="gd-seen"><p><span>Visited in 3 sessions</span> <span>first <a href="../sessions/session-017">Session 17</a></span> <span>last <a href="../sessions/session-036">Session 36</a></span></p><details><summary>All 3 sessions</summary><ul><li><a href="../sessions/session-017">Session 17</a></li><li><a href="../sessions/session-023">Session 23</a></li><li><a href="../sessions/session-036">Session 36</a></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="place=zweite-platte" data-label="On the timeline →"></span></p>
+
 ## Overview
 
 The Zweite Platte (Second Tier) is the second-highest residential and administrative tier of [[Dalior]], home to the city's wealthy elite and nobility. It sits directly below the [[Palast (Dalior)]] and above the Hauptplatte, accessed by permit-controlled central lift or grand staircases. The tier serves as an exclusive administrative and commercial hub for the aristocracy and merchant class, featuring the [[Sklavenmarkt]] (slave market) and various institutional buildings including [[Mason Haus]].

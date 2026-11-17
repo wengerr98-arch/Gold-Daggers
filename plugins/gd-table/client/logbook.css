@@ -1,0 +1,13 @@
+/* Logbook: pins and private notes, kept in the visitor's browser */
+.gdt-lb-bar { margin: -0.3rem 0 1.2rem; }
+.gdt-lb-bar .gdt-row { gap: 0.4rem; }
+.gdt-lb-bar textarea, .gdt-lb textarea { margin-top: 0.5rem; min-height: 4.2rem; resize: vertical; font-family: var(--bodyFont); font-size: 0.95rem; line-height: 1.5; display: block; }
+.gdt-lb-bar .gdt-note { margin-left: 0.3rem; }
+.gd-logbook { margin: 1.2rem 0 3rem; }
+.gdt-lb { display: grid; gap: 1.3rem; }
+.gdt-lb-list { list-style: none; margin: 0; padding: 0; }
+.gdt-lb-list > li { margin: 0; padding: 0.8rem 0; border-bottom: 1px solid var(--lightgray); }
+.gdt-lb-head { display: flex; align-items: center; gap: 0.2rem; }
+.gdt-lb-title { font-family: var(--headerFont); font-size: 1.25rem; flex: 1 1 auto; min-width: 0; overflow-wrap: anywhere; }
+.gdt-lb-empty { color: var(--gray); font-style: italic; }
+.gdt-lb-file { display: none; }

@@ -9,6 +9,11 @@ publish: true
 
 # Aria
 
+<div class="gd-seen"><p><span>Seen in 6 sessions</span> <span>first <a href="../../sessions/session-032">Session 32</a></span> <span>last <a href="../../sessions/session-100---illumination">Session 100 · Illumination</a></span></p><details><summary>All 6 sessions</summary><ul><li><a href="../../sessions/session-032">Session 32</a></li><li><a href="../../sessions/session-033">Session 33</a></li><li><a href="../../sessions/session-050---20'000-leagues">Session 50</a> <span>20'000 Leagues</span></li><li><a href="../../sessions/session-071---protokoll-bb,-leumas">Session 71</a> <span>Protokoll: BB, Leumas</span></li><li><a href="../../sessions/session-099">Session 99</a></li><li><a href="../../sessions/session-100---illumination">Session 100</a> <span>Illumination</span></li></ul></details></div>
+
+
+<p class="session-meta gd-tl-meta"><span class="gd-tl-link" data-to="timeline" data-q="p=aria" data-label="Follow on the timeline →"></span></p>
+
 ## Known Information
 
 Aria is the Goddess of Time and one of the original primordial deities. At some point she fractured into four aspects — an event connected to the Forgotten War and the unknown territories. She is a parent of [[Ophris]] alongside [[Zima]] (God of Justice). Her fractured state appears to be actively disrupting the cosmic cycle: the moon crisis in Session 067, the planar breach in Session 068, and Barzan's legend lore vision in Session 070 all point to Aria's ongoing fragmentation as a central cosmological thread.

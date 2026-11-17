@@ -38,7 +38,7 @@ export function init(ctx) {
   // pin and note on ordinary pages: not on the front page, listings, or the tool pages themselves
   const slug = ctx.slug
   if (!slug || slug === "index" || slug === "404" || /(^|\/)index$/.test(slug) || slug.startsWith("tags/")) return
-  if (article.querySelector(".gd-logbook, .gd-quiz, .gd-lineup, .gdt-lb-bar")) return
+  if (article.querySelector(".gd-logbook, .gd-quiz, .gd-lineup, .gd-years, .gd-protocol, .gdt-lb-bar")) return
   drawBar(ctx, article, slug)
 }
 
@@ -224,6 +224,7 @@ function drawBook(ctx, box) {
       const a = document.createElement("a")
       a.href = URL.createObjectURL(new Blob([JSON.stringify({ what: "Gold Daggers logbook", ...book }, null, 1)], { type: "application/json" }))
       a.download = `gold-daggers-logbook-${new Date().toISOString().slice(0, 10)}.json`
+      a.dataset.routerIgnore = "" // or Quartz's page router takes the click and opens the file as a page
       document.body.appendChild(a)
       a.click()
       a.remove()

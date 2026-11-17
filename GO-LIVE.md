@@ -94,6 +94,8 @@ https://wengerr98-arch.github.io/Gold-Daggers/
 | Table tool: portrait full screen + line-up for the TV (off) | `table.spotlight: true` |
 | Table tool: portrait quiz "Who is this?" (off) | `table.quiz: true` |
 | Table tool: private pins and notes, Logbook page (off) | `table.logbook: true` |
+| Table tool: year converter, p.B. ↔ Ephraim's count (off) | `table.year_converter: true`, `table.year_converter_timeline_link` (on) |
+| Table tool: writing page for the session protocol with name suggestions (off) | `table.protocol_helper: true`, `table.protocol_helper_folders` |
 | Removed document links point to a copy in the wiki (off until set) | `cleanup.doc_link_targets:` map in the local `wiki.config.yaml` (address part → vault note); the note must be in `include_notes` |
 | Portraits | any image named exactly like a character note shows up automatically |
 | Theme | campaign theme is the default; for the stock theme set `enabled: true` on `@quartz-themes/core` in `quartz.config.yaml` |
@@ -124,6 +126,19 @@ They only reuse what the export already publishes (names, portraits, page addres
 - **Who is this?** (`table.quiz`): a quiz over the Gallery's portraits, face → name or name → face. Best streak is kept per device.
 - **Logbook** (`table.logbook`): "Pin" and "Add a note" under every page title; the **Logbook** page lists them, with loose notes,
   copy as text and a backup file (the only way to move notes to another device). Notes are private to each reader's browser.
+- **Year converter** (`table.year_converter`): the **Year converter** page (`/year-converter`, on the front page; with the tool on,
+  the timeline gets a small "Convert a year →" link). Type or pick a year: it shows in p.B. and in Ephraim's count, with the distance
+  to the present. "−5170", "323 p.B.", "323pb" all work; the switch at the top says which count a bare number is in.
+  Below it: what the timeline has for that year (events the party was at, things they were told), each linking into the timeline.
+  It only repeats timeline entries, so it is a draft as long as the timeline is. The tavern logbook's and Stygia's calendars are not converted.
+  A link can name the year: `/year-converter?y=323`.
+- **Protocol helper** (`table.protocol_helper`): the **Protocol** page (`/protocol`, in the explorer) is a plain text box for
+  whoever writes the protocol, on a phone or a laptop. Typing a name (three letters or more) shows suggestions above the text:
+  tap one, or Tab for the first, ↓ ↑ and Enter to choose, Esc to close. The name goes in as `[[Name]]`, or `[[Name|other name]]`
+  when another name of the page was typed, so the pasted text links up in the vault. Typing `[[` starts a suggestion too.
+  Buttons: copy all, download as `.md` (today's date in the file name), clear with undo. The text stays in that browser only.
+  The suggestions come from `table-names.json`, written at export: names, other names and kind of the published pages in
+  `table.protocol_helper_folders`, no page text. That file is public like the pages. A name that is not published is not suggested.
 
 ## Timeline page (draft, off by default)
 The Timeline page is built from the per-session timeline files (`session-NNN.json`), not from the vault.

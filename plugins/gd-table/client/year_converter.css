@@ -1,0 +1,31 @@
+/* Year converter */
+.gd-years { margin: 1.2rem 0 3rem; }
+.gdt-yc { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1.3rem; max-width: 36rem; }
+.gdt-yc-form { display: grid; gap: 0.6rem; }
+.gdt-yc-mode { gap: 0; }
+.gdt .gdt-yc-mode button { min-height: 2.6rem; flex: 1 1 0; }
+.gdt .gdt-yc-mode button + button { border-left: 0; }
+.gdt-yc-in { display: flex; gap: 0.4rem; }
+.gdt .gdt-yc-in input { font-family: var(--codeFont); font-size: max(16px, 1.25rem); text-align: center; min-height: 3rem; flex: 1 1 auto; min-width: 0; }
+.gdt .gdt-yc-in button { min-width: 3rem; min-height: 3rem; font-size: 1.2rem; flex: none; }
+.gdt-yc-out { border-top: 1px solid var(--lightgray); border-bottom: 1px solid var(--lightgray); padding: 0.9rem 0; min-height: 7.2rem; }
+.gdt p.gdt-yc-big { font-family: var(--headerFont); font-size: 1.25rem; color: var(--darkgray); line-height: 1.25; margin: 0 0 0.25rem; }
+.gdt-yc-big b { font-size: 2.1rem; font-weight: 400; color: var(--dark); margin-right: 0.15em; }
+.gdt-yc-big + .gdt-yc-big b { font-size: 1.5rem; }
+.gdt p.gdt-yc-dist { margin-top: 0.5rem; font-family: var(--codeFont); font-size: 0.78rem; letter-spacing: 0.04em; color: var(--gray); }
+.gdt-yc-hint, .gdt-yc-none { color: var(--gray); font-style: italic; }
+.gdt-yc-chips, .gdt-yc-near { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: 0.4rem !important; }
+.gdt .gdt-yc-chips button { font-family: var(--codeFont); font-size: 0.78rem; padding: 0.2rem 0.55rem; min-height: 2.2rem; }
+.gdt .gdt-yc-near button span { color: var(--gray); font-size: 0.78rem; margin-left: 0.4rem; }
+.gdt-yc-known { display: grid; gap: 1.1rem; }
+.gdt-yc-known ul { margin: 0.35rem 0 0; padding-left: 1.1rem; }
+.gdt-yc-known li { margin: 0.3rem 0; }
+.gdt p.gdt-yc-sum { margin-top: 0.3rem; }
+.gdt-yc-src { font-family: var(--codeFont); font-size: 0.72rem; letter-spacing: 0.04em; color: var(--gray); white-space: nowrap; margin-left: 0.3rem; }
+.gdt-yc-other.is-on { color: var(--dark); }
+.gdt.gdt-yc-link { margin: -0.4rem 0 0.8rem; font-family: var(--codeFont); font-size: 0.74rem; letter-spacing: 0.04em; }
+@media (max-width: 600px) {
+  .gdt-yc-chips { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-right: -1rem !important; padding-right: 1rem; }
+  .gdt .gdt-yc-chips button { flex: none; min-height: 2.5rem; }
+  .gdt-yc-src { white-space: normal; display: block; margin-left: 0; }
+}

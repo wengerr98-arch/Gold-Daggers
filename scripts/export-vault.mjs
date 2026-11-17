@@ -1059,6 +1059,7 @@ if (cfg.timeline?.enabled) extraPages.push(cfg.timeline.title ?? "Timeline")
 // Table tools with a page of their own (written afterwards by scripts/build-table.mjs): same here.
 if (cfg.table?.quiz) extraPages.push(cfg.table.quiz_title ?? "Who is this")
 if (cfg.table?.logbook) extraPages.push(cfg.table.logbook_title ?? "Logbook")
+if (cfg.table?.year_converter && cfg.table?.year_converter_home === true) extraPages.push(cfg.table.year_converter_title ?? "Year converter") // off the front page unless asked: it is linked from the timeline
 // copy attachments; images get a web-sized copy (cached in .wiki-cache so re-exports stay fast)
 const imageStats = { count: 0, before: 0, after: 0, rows: [] }
 const CACHE = path.join(ROOT, ".wiki-cache", "images")

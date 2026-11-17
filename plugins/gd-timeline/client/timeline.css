@@ -239,13 +239,15 @@
 .gdtl .gdtl-fsbtn { display: inline-flex; align-items: center; gap: 0.35rem; margin-left: auto; padding: 0.28rem 0.7rem; min-height: 2rem; font-size: 0.84rem; color: var(--tl-quiet); border: 1px solid var(--tl-line); }
 .gdtl .gdtl-fsbtn:hover, .gdtl .gdtl-fsbtn[aria-pressed="true"] { color: var(--dark); background: var(--tl-line); }
 .gdtl-fsicon { font-size: 1.05em; line-height: 1; }
-.gdtl.is-full { background: var(--light); overflow-y: auto; overscroll-behavior: contain; box-sizing: border-box; padding: 1.2rem clamp(1rem, 4vw, 3rem) 3rem; }
-.gdtl.is-full::backdrop { background: var(--light); }
-.gdtl.is-pseudo { position: fixed; inset: 0; z-index: 1000; height: 100dvh; -webkit-overflow-scrolling: touch; }
+.gdtl-over-head { display: flex; justify-content: flex-end; margin: -0.15rem 0 0.35rem; }
+.gdtl .gdtl-over-head .gdtl-fsbtn { margin-left: 0; }
+.gdtl-over.is-full { background: var(--light); box-sizing: border-box; display: flex; flex-direction: column; justify-content: center; margin: 0; border: 0; border-radius: 0; padding: 1.5rem clamp(1rem, 4vw, 3rem); overflow: hidden; }
+.gdtl-over.is-full::backdrop { background: var(--light); }
+.gdtl-over.is-pseudo { position: fixed; inset: 0; z-index: 1000; height: 100dvh; }
 html.gdtl-lock, html.gdtl-lock body { overflow: hidden; }
-.gdtl.is-full .gdtl-bar { position: sticky; top: -1.2rem; z-index: 2; background: var(--light); padding: 0.6rem 0; margin-top: -0.6rem; }
-.gdtl.is-full .gdtl-svg { width: auto; height: clamp(150px, 26vh, 260px); }
-.gdtl.is-full .gdtl-stream { max-width: 72rem; }
+.gdtl-over.is-full .gdtl-over-head { position: absolute; top: 1rem; right: clamp(1rem, 4vw, 3rem); margin: 0; }
+.gdtl-over.is-full .gdtl-svg { width: auto; height: clamp(200px, 45vh, 460px); }
+.gdtl-over.is-full .gdtl-key { max-width: 60rem; }
 
 @media (max-width: 640px) {
   .gdtl { font-size: 0.93rem; }
@@ -265,10 +267,9 @@ html.gdtl-lock, html.gdtl-lock body { overflow: hidden; }
   .gdtl .gdtl-fmore { min-height: 2.4rem; }
   .gdtl-find input { min-height: 2.4rem; max-width: none; font-size: 1rem; }
   .gdtl .gdtl-fsbtn { margin-left: 0; min-height: 2.4rem; }
-  .gdtl.is-full { padding: 0.8rem 1rem 3rem; }
-  .gdtl.is-full .gdtl-bar { position: static; margin-top: 0; padding: 0; }
-  .gdtl.is-full .gdtl-fsbtn { position: fixed; right: 0.9rem; bottom: calc(0.9rem + env(safe-area-inset-bottom, 0px)); z-index: 3; background: var(--light); color: var(--dark); box-shadow: 0 2px 10px rgba(0, 0, 0, 0.35); }
-  .gdtl.is-full .gdtl-svg { height: auto; }
+  .gdtl-over.is-full { padding: 3.6rem 1rem 1.2rem; }
+  .gdtl-over.is-full .gdtl-over-head { top: 0.8rem; right: 1rem; }
+  .gdtl-over.is-full .gdtl-svg { height: clamp(160px, 32vh, 300px); }
   .gdtl-year { padding-left: 0.8rem; }
   .gdtl-session { padding-left: 0.6rem; }
   .gdtl-ev { padding-left: 0.5rem; }

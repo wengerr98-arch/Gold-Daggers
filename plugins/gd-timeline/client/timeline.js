@@ -291,7 +291,6 @@ class View {
           <div class="gdtl-seg gdtl-zoom" role="group" aria-labelledby="gdtl-zoom"></div>
         </div>
         <label class="gdtl-check"><input type="checkbox" data-act="quotes"> Protocol quotes</label>
-        <button type="button" class="gdtl-fsbtn" data-act="full" aria-pressed="false" title="Show the timeline on the whole screen (Esc to leave)"><span class="gdtl-fsicon" aria-hidden="true">⤢</span> <span class="gdtl-fslbl">Full screen</span></button>
       </div>
       <div class="gdtl-people">
         <div class="gdtl-find">
@@ -303,6 +302,7 @@ class View {
         <div class="gdtl-person" hidden></div>
       </div>
       <div class="gdtl-over" data-drop>
+        <div class="gdtl-over-head"><button type="button" class="gdtl-fsbtn" data-act="full" aria-pressed="false" title="Show the overview on the whole screen (Esc to leave)"><span class="gdtl-fsicon" aria-hidden="true">⤢</span> <span class="gdtl-fslbl">Full screen</span></button></div>
         <div class="gdtl-over-scroll"></div>
         <input type="range" class="gdtl-over-range" min="0" max="1000" step="1" value="1000" aria-label="Scroll the overview sideways">
         <p class="gdtl-key"></p>
@@ -330,14 +330,18 @@ class View {
       else if (act === "goto") this.gotoEvent(Number(t.dataset.e))
       else if (act === "found") t.dataset.l != null ? this.gotoLore(Number(t.dataset.l)) : this.gotoEvent(Number(t.dataset.e), true)
       else if (act === "morefound") this.renderFound(true)
-      else if (act === "cell") this.gotoCell(t.dataset)
+      else if (act === "cell") {
+        // from the full-screen overview: leave full screen, then show that session in the list
+        if (this.full) this.setFull(false).then(() => requestAnimationFrame(() => this.gotoCell(t.dataset)))
+        else this.gotoCell(t.dataset)
+      }
       else if (act === "more") t.closest(".gdtl-who")?.classList.add("is-all")
       else if (act === "full") this.setFull(!this.full)
     })
     // full screen: the browser's own mode where it exists, otherwise (iPhone) the box covers the page
     const onFsChange = () => {
       const fsEl = document.fullscreenElement || document.webkitFullscreenElement
-      if (this.full && this.native && fsEl !== this.el) this.setFull(false)
+      if (this.full && this.native && fsEl !== this.$(".gdtl-over")) this.setFull(false)
     }
     const onKey = (ev) => { if (ev.key === "Escape" && this.full && !this.native) this.setFull(false) }
     document.addEventListener("fullscreenchange", onFsChange)
@@ -577,7 +581,7 @@ class View {
   }
   flash(el) {
     if (!el) return
-    el.scrollIntoView({ block: el.offsetHeight > (this.full ? this.el.clientHeight : window.innerHeight) * 0.8 ? "start" : "center", behavior: "instant" })
+    el.scrollIntoView({ block: el.offsetHeight > window.innerHeight * 0.8 ? "start" : "center", behavior: "instant" })
     el.classList.add("gdtl-flash")
     setTimeout(() => el.classList.remove("gdtl-flash"), 1600)
   }
@@ -585,11 +589,15 @@ class View {
   // ---- rendering
 
   get scroller() {
-    return this.full ? this.el : window
+    return window
   }
   async setFull(on) {
     if (on === this.full) return
-    const el = this.el
+    // full screen shows only the overview graphic (with its slider and legend)
+    const el = this.$(".gdtl-over")
+    const sc = this.$(".gdtl-over-scroll")
+    const max0 = sc.scrollWidth - sc.clientWidth
+    const ratio = max0 > 0 ? sc.scrollLeft / max0 : 1
     if (on) {
       this.full = true
       this.native = false
@@ -617,10 +625,15 @@ class View {
         try { await exit?.call(document) } catch (err) { /* already left */ }
       }
     }
+    requestAnimationFrame(() => {
+      const max = sc.scrollWidth - sc.clientWidth
+      sc.scrollLeft = ratio * Math.max(0, max)
+      this.syncOverview?.()
+    })
     const btn = this.$('[data-act="full"]')
     if (btn) {
       btn.setAttribute("aria-pressed", String(this.full))
-      btn.title = this.full ? "Leave full screen (Esc)" : "Show the timeline on the whole screen (Esc to leave)"
+      btn.title = this.full ? "Leave full screen (Esc)" : "Show the overview on the whole screen (Esc to leave)"
       btn.querySelector(".gdtl-fslbl").textContent = this.full ? "Exit full screen" : "Full screen"
       btn.querySelector(".gdtl-fsicon").textContent = this.full ? "⤡" : "⤢"
     }
@@ -886,8 +899,13 @@ class View {
     const sync = () => {
       const can = sc.scrollWidth > sc.clientWidth + 2
       sc.classList.toggle("can-scroll", can)
-      if (range) range.hidden = !can
+      if (range) {
+        range.hidden = !can
+        const max = sc.scrollWidth - sc.clientWidth
+        range.value = String(max > 0 ? Math.round((sc.scrollLeft / max) * 1000) : 0)
+      }
     }
+    this.syncOverview = sync
     window.addEventListener("resize", sync)
     if (typeof window.addCleanup === "function") window.addCleanup(() => window.removeEventListener("resize", sync))
   }

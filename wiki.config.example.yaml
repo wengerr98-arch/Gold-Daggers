@@ -1,0 +1,74 @@
+# Copy this file to wiki.config.yaml and fill it in. wiki.config.yaml stays on your machine:
+# the repository is public, and hidden_tags or folder names can be spoilers on their own.
+
+# Gold Daggers wiki — export settings
+# The export only ever reads the vault. It rewrites `output` completely on every run.
+
+vault: "~/Documents/Obsidian/Gold Daggers Vault V2"
+output: content                  # Quartz's content folder
+report: wiki-export-report.md    # read this before publishing
+site_title: Gold Daggers
+
+publish:
+  # Notes go online only if their spoiler_level is in this list.
+  # Missing or unknown values stay offline. TODO: fill in once we've seen the vault's values.
+  spoiler_levels: []
+  # all       → every published note needs `reviewed: true`
+  # generated → only notes with `generated: true` need it
+  # off       → no review check
+  require_reviewed: all
+
+# Folders (relative to the vault) that never go online, whatever their frontmatter says.
+exclude_folders:
+  - templates
+
+# Callout types that are cut out of published notes:  > [!dm] Secret stuff
+dm_callouts:
+  - dm
+
+# Remove %% Obsidian comments %% from published notes.
+strip_comments: true
+
+# Frontmatter fields carried over to the wiki. Everything else (spoiler_level, source_refs,
+# affiliation, …) is dropped, because those fields can contain links or hints.
+keep_properties:
+  - title
+  - aliases
+  - tags
+  - description
+
+# Tags removed from published notes (a tag can be a spoiler on its own).
+hidden_tags: []
+
+# A published vault note to use as the front page. Leave empty for a generated one.
+home_note:
+
+# Words that get flagged in the report so you can eyeball those lines before publishing.
+review_keywords:
+  - dm
+  - dm only
+  - secret
+  - spoiler
+  - geheim
+  - twist
+  - true identity
+  - wahre identität
+
+# Web-sized copies of images, made at export time (the vault's files are never touched).
+# Portraits and other pictures: longest edge max_size px. The map keeps its pixel size so pins stay exact.
+images:
+  optimize: true        # false = copy every image exactly as it is in the vault
+  max_size: 900         # px, longest edge of portraits/pictures
+  format: webp          # webp | jpeg | keep
+  quality: 80
+  map_max_size: 0       # 0 = keep the map's size (2000 x 3000); a number shrinks it
+  map_format: webp
+  map_quality: 82
+  map_keep_original: true   # keeps the "Open the full-size map" link to the untouched file
+
+# Session pages: a small line under the title (session number, arc from home.arcs, in-world date if the
+# protocol has one, date played) and previous/next links at the bottom.
+sessions:
+  header: true
+  nav: true
+  played_date: true

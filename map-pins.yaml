@@ -1,0 +1,42 @@
+# Map pins for the Hamata map — DRAFT, waiting for Raphael's OK.
+#
+# Only places whose name is written on the map itself are listed. Nothing is guessed.
+# x / y are pixels on the ORIGINAL image (2000 x 3000), counted from the top-left corner.
+# The pin's tip sits just above the written label, so the label stays readable.
+# To switch pins on: `map.pins: true` in wiki.config.yaml (off by default).
+# To move a pin: change x / y here. To drop one: delete its entry.
+# To find a position: open the map in any image viewer that shows pixel coordinates.
+
+image: Hamata_Map.jpg
+image_size: [2000, 3000]   # width, height of the original; the export rescales pins if the web map is made smaller
+
+pins:
+  - note: 04_Places/Skjall
+    x: 1145
+    y: 465
+    confidence: high
+    comment: Label "Skjall" in the north. The note describes the city; the label names the whole region. The pin marks the label, not the city drawing.
+
+  - note: 04_Places/Ophris
+    x: 640
+    y: 1125
+    confidence: high
+    comment: Label "Ophris" in the west. Same caveat - the note is about the city-state, the pin marks the label, not one of the city drawings near it.
+
+  - note: 04_Places/Nolia
+    x: 1145
+    y: 1280
+    confidence: high
+    comment: Label "Nolia" in the green centre.
+
+  - note: 04_Places/Kasta
+    x: 1375
+    y: 1515
+    confidence: high
+    comment: Label "Kasta" in the east (desert).
+
+  - note: 04_Places/Amare
+    x: 765
+    y: 1695
+    confidence: high
+    comment: Label reads "Amarre" on the map; the note is "Amare" with the alias "Amarre".

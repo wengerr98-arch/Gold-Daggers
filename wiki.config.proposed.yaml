@@ -1,0 +1,137 @@
+# Gold Daggers wiki — export settings (decided with Raphael, 15 Nov 2026)
+# Copy to wiki.config.yaml. That file stays on your machine: the repository is public.
+
+vault: "~/Documents/Obsidian/Gold Daggers Vault V2"
+output: content
+report: wiki-export-report.md
+site_title: Gold Daggers
+
+publish:
+  # Opt-out: everything in the included folders goes online except what's blocked below.
+  # Hermes's blanket spoiler_level: dm_only is ignored on purpose.
+  mode: all
+  blocked_spoiler_levels: [secret_canon]
+  blocked_tags: [dm_only, dm-only]
+  require_reviewed: "off"
+
+include_folders: [01_sessions, 03_Entities, 04_Places, 05_Items and Artefacts]
+# Single notes from elsewhere (Raphael's picks from the campaign bible)
+include_notes:
+  - 02_campaign Bible/Timeline/Historical Extracts
+  # Stygian Gala and Torr of Skjall: picked, but still empty stubs ("this note will collect … DM-only truth …").
+  # Add them back here once they have player-facing content:
+  # - 02_campaign Bible/Events and Set Pieces/Stygian Gala
+  # - 02_campaign Bible/Events and Set Pieces/Torr of Skjall
+# Notes that are raw import-pipeline output ("[TAG] Session NNN | passage | context" lines).
+# The export removes the pipeline header, repairs broken lines and sorts the passages by session.
+# No passage is dropped or reworded. Remove the entry to publish the note exactly as it is in the vault.
+cleanup_extracts:
+  - 02_campaign Bible/Timeline/Historical Extracts
+
+exclude_folders: []
+folder_aliases:
+  01_sessions: Sessions
+  02_campaign Bible: Campaign
+  03_Entities: Entities
+  04_Places: Places
+  05_Items and Artefacts: Items and Artefacts
+
+dm_callouts: [dm]
+# Whole lines that are DM notes, e.g. "- DM note: will later be revealed …"
+dm_line_patterns:
+  - '^\s*[-*]?\s*DM note:'
+strip_comments: true
+dm_headings:
+  - 'dm[- ]?only'
+  - 'hidden truth'
+  - '^secret\b'
+  - 'true history'
+  - 'for the dm'
+  - 'dm decision'
+  - 'dm confirmation'
+strip_headings:
+  - '^source$'
+  - '^import notes$'
+  - '^uncertainty / manual review$'
+  - '^possible links to create later$'
+  - '^open questions$'
+
+keep_properties: [title, aliases, tags, description]
+hidden_tags: [dm_only, dm-only, imported-protocol, old-vault-migration, gold-daggers]
+
+# Portraits: the first image a character note embeds, or an image file named exactly like the note.
+portraits:
+  folders: [03_Entities/NPCs, 03_Entities/Companions, 03_Entities/Player Characters, 03_Entities/Gods, 03_Entities/Titans, 03_Entities/Monsters]
+  embed: true
+  width: 260
+
+# Web-sized copies of images, made at export time (the vault's files are never touched).
+# Portraits and other pictures: longest edge max_size px. The map keeps its pixel size so pins stay exact.
+images:
+  optimize: true        # false = copy every image exactly as it is in the vault
+  max_size: 900         # px, longest edge of portraits/pictures
+  format: webp          # webp | jpeg | keep
+  quality: 80
+  map_max_size: 0       # 0 = keep the map's size (2000 x 3000); a number shrinks it
+  map_format: webp
+  map_quality: 82
+  map_keep_original: true   # keeps the "Open the full-size map" link to the untouched file
+
+gallery:
+  title: Gallery
+  intro: "Everyone the party has met who has a portrait so far."
+
+map:
+  title: Map
+  image: Hamata_Map.jpg
+  intro: "The continent of Hamata. Pins for places come later."
+  height: 760
+  minZoom: -2
+  maxZoom: 1
+  defaultZoom: -1.6
+  # Distance per map pixel for the measuring tool. Set once you know Hamata's scale (e.g. scale: "0.5", unit: km).
+  scale: 1
+  unit: px
+  # Pins: draft positions are in map-pins.yaml (only places whose name is written on the map).
+  # Stays off until you have checked the positions. true = pins show on the Map page and link to the place pages.
+  pins: true
+  intro_pins: "The continent of Hamata. Tap a pin to open the place."
+  pin_colour: "#23201C"
+
+# Timeline page (draft). Built by scripts/build-timeline.mjs after the export.
+# data: folder with the session-NNN.json timeline files. They are NOT in the repository
+# (private/ is gitignored); copy them there or point this at wherever they live (~ works).
+timeline:
+  enabled: true
+  title: Timeline
+  data: private/timeline/sessions
+  default_zoom: arcs            # the page opens at: eras | years | arcs | sessions | days
+  ephraim_offset: 1321          # Ephraim's count = p.B. + 1321
+  draft_note: "Draft — dates not yet confirmed by the DM."
+
+home:
+  mode: generated
+  countdown_label: until the eclipse
+  arcs:
+    - { name: Das Schwarze Gänseblümchen, sessions: "1–20" }
+    - { name: Die Stadt der Messer, sessions: "21–44" }
+    - { name: Salzwasser, sessions: "45–60" }
+    - { name: Der Zeitriss, sessions: "61–91" }
+    - { name: Höllenfahrt, sessions: "92–101" }
+    - { name: "*(current)*", sessions: "102–" }
+
+# Session pages: a small line under the title (session number, arc from home.arcs, in-world date if the
+# protocol has one, date played) and previous/next links at the bottom.
+sessions:
+  header: true
+  nav: true
+  played_date: true
+
+# Most session protocols were hard-wrapped at 72 characters by the import, which shows as ragged half-lines
+# on phones. true = the export joins those wrapped lines back into flowing paragraphs (short lines, lists,
+# tables and deliberate breaks stay). Off by default because it also changes how these pages look on desktop.
+text:
+  unwrap: true
+  wrap_width: 72
+
+review_keywords: [dm, dm only, secret, spoiler, geheim, twist, true identity, wahre identität, hidden, verborgen]

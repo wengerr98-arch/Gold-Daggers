@@ -1,0 +1,112 @@
+@use "./variables.scss" as *;
+
+// Gold Daggers theme draft (from the campaign design brief):
+// ink / bone / ash base, gold only for the party, small radii, faint grain, calm motion.
+
+:root {
+  --party-gold: #b8913a;
+  --radius: 2px;
+}
+
+// faint paper grain on the base (noise = life)
+body {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.5 0 0 0 0 0.5 0 0 0 0 0.5 0 0 0 0.035 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}
+
+// the party's name is the one place gold appears
+.page-title a,
+.page-title {
+  color: var(--party-gold) !important;
+  letter-spacing: 0.02em;
+}
+
+// headings: archival serif, no app-like weight
+h1, h2, h3, h4 {
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+// stamped, filed, not rounded
+img, pre, code, .callout, input, button, .search > .search-button {
+  border-radius: var(--radius) !important;
+}
+
+// dim images a little in the dark theme so white-background portraits don't flash
+:root[saved-theme="dark"] article img {
+  filter: brightness(0.85) saturate(0.95);
+}
+
+// generous reading size for long German protocol text
+article {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+// tables read like ledgers
+article table {
+  border-collapse: collapse;
+  th, td { border-bottom: 1px solid var(--lightgray); }
+  th { color: var(--gray); font-weight: 600; text-transform: uppercase; font-size: 0.8em; letter-spacing: 0.06em; }
+}
+
+// quote callout = the DM's lead on the front page
+.callout[data-callout="quote"] {
+  border-left: 3px solid var(--party-gold);
+  background: rgba(216, 208, 191, 0.04);
+}
+
+// session pages: a filed-document line under the title, previous/next at the foot
+.session-meta {
+  margin: 0.2rem 0 1.6rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--lightgray);
+  color: var(--gray);
+  font-family: var(--codeFont);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  line-height: 1.9;
+  span { white-space: nowrap; }
+  span:not(:last-child)::after { content: "·"; margin: 0 0.35em 0 0.6em; color: var(--lightgray); filter: brightness(1.8); }
+}
+.session-nav {
+  margin-top: 3rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--lightgray);
+  font-size: 0.95rem;
+  p { display: flex; justify-content: space-between; gap: 1rem; margin: 0; }
+  a.internal { background: none; padding: 0; }
+}
+
+// ---------- phones (players mostly read on phones); nothing here applies above 600px ----------
+@media (max-width: 600px) {
+  // long German compounds and names must wrap instead of pushing the page sideways
+  article { overflow-wrap: break-word; }
+  article h1, article h2, article h3 { hyphens: auto; }
+
+  // properties box: narrow label column, tags wrap as whole words
+  .note-properties-key { width: 5.5rem !important; min-width: 0 !important; }
+  .note-properties-tags { flex-wrap: wrap; row-gap: 0.25rem; }
+  .note-properties-tags a.tag-link { white-space: nowrap; }
+
+  // tables: scroll sideways inside their own box, cells keep a readable width
+  .table-container { -webkit-overflow-scrolling: touch; }
+  article table { font-size: 0.92em; }
+  article table th, article table td { padding: 0.35rem 0.5rem; }
+
+  // portraits: never wider than the text column, centred
+  article p > img { display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto; }
+
+  // gallery: two cards per row instead of one very tall card
+  .bases-cards { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: 0.6rem !important; }
+
+  // map: leave room above and below so the page can still be scrolled past it
+  .leaflet-map { max-height: 68svh; }
+
+  // explorer: a little more room per row for thumbs
+  .explorer-content ul li > a, .explorer-content .folder-container { padding-top: 0.2rem; padding-bottom: 0.2rem; }
+
+  // session header and footer links
+  .session-meta { font-size: 0.68rem; }
+  .session-nav a.internal { padding: 0.4rem 0; display: inline-block; }
+}

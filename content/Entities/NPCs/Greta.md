@@ -1,0 +1,22 @@
+---
+tags:
+  - npc
+modified: '2026-06-15T15:21:44.000Z'
+publish: true
+---
+
+# Greta
+
+## Known Information
+
+Greta is an older woman who runs a dive-bar in [[Dalior]], encountered briefly by the party in Session 013. She received only a single mention with minimal characterisation, and no further identifying details have been recorded.
+
+## Session Appearances
+
+- Session 013: Runs the dive-bar in [[Dalior]]; encountered briefly by the party.
+
+## Known Facts
+
+- Gender/age: older woman
+- Occupation: runs a dive-bar in [[Dalior]]
+- Single brief appearance in Session 013; no further details recorded

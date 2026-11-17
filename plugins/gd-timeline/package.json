@@ -1,0 +1,22 @@
+{
+  "name": "gd-timeline",
+  "version": "0.1.0",
+  "description": "Gold Daggers wiki: interactive timeline page (loader, styles and client script). No build step, no dependencies.",
+  "type": "module",
+  "private": true,
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": { ".": "./dist/index.js" },
+  "quartz": {
+    "name": "gd-timeline",
+    "displayName": "Gold Daggers Timeline",
+    "description": "Renders the timeline on pages that carry a .gd-timeline container.",
+    "category": ["transformer"],
+    "version": "0.1.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 60,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

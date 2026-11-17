@@ -238,6 +238,8 @@ Wir sind super sneakie und huschen darunter. Einer nach dem anderen. Wir sind in
 
 He brings de Map:
 
+![[09_Assets/Protocol Pictures/Part 4/media/image9.webp]]
+
 No one is there. Es scheint verlassen. Wir schauen uns um und es scheint nicht's zu passieren.
 
 Elloryn macht ein Investigation Check beim Skull. Es fühlt sich statisch an. Elloryn berührt den Schädel und spürt eine dunkle Energie.

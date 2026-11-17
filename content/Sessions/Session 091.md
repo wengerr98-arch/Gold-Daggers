@@ -340,7 +340,7 @@ barzan perc. check! 22! und er gseht: öbbis esch ned matching! es esch en Cube 
 und es entfärnt sin Mirrortrick und denne holy shit!
 
 Barzan: Slow! wisdom 21: and it rolled:
-21
+21![[09_Assets/Protocol Pictures/Part 7/media/image9.webp]]
 
 ## Roll Initiative 
 

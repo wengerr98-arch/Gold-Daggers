@@ -172,6 +172,8 @@ Währenddäm mer vorosse stönd, goht töre uuf und en Leonin steppt os de töre
 
 ## Durch die Türe nach Aarum
 
+![[09_Assets/Protocol Pictures/protokoll session 100/media/image1.webp]]
+
 Roll Initiative
 
 Runde 1

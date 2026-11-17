@@ -75,6 +75,8 @@ es esch en drette mond erschene e eusere Timeline. aber jetzte escher dette und 
 
 Mer stelle d Taverne
 
+![[09_Assets/Protocol Pictures/Part 8/media/image5.webp]]
+
 Mer gönd e d Taverne und es esch altbekannt. e de metti esch s portable hole. s Lotti stellt eus scho tee am iiischenke.
 
 De snix esch am füüür ah ofem teppich. de Barzan em sessel am füür. ello a de bar. de lotti ere tee esch mega starch, en schwarztee. mer sueche bücher.

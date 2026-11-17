@@ -513,7 +513,11 @@ mer ghöre vo wiiter voore en krasse uuufprall und es chonnt en schockwelle entg
 
 of de andere siite vo de töre zom wiiter hendere luege, gsähmer en 5-6m massigi figur uus schnee und iis und kristall am wüete esch. kristall fönd emmer weder afo uuuflüüüchte und denne stampft sie weder ofe bode und es chonnt weder sone chalti wälle entgäge.
 
+![[09_Assets/Protocol Pictures/Part 5/media/image6.webp]]
+
 und
+
+![[09_Assets/Protocol Pictures/Part 5/media/image11.webp]]
 
 Perception check und de Leumas het s'gfühl, d'wälle goht ned nor vom monschter uuus sondern ou no vomene zweite punkt uuus. de leumas gseht no dosse ofemene mürli setzten en alti frou met bläulech schwarze chleider wo das ganze am beobachte esch. sie nemmt en schwarze stock före und stötzt sech ab und jedesmol wenn er uufschloht am bode chonnt en impuls vo däre chälti. sheer presence. Grimmig -
 

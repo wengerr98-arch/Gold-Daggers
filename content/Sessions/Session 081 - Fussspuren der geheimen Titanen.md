@@ -358,11 +358,15 @@ de Barzan wett es grossesstöck 4 of 4 of 4 meter lightning glass pyramid uuusst
 
 Mer pressiere und hole s monster iih. Es esh us Lehm?? Met Ruune?! EN GOLEM!
 
+![[09_Assets/Protocol Pictures/Part 7/media/image24.webp]]
+
 De Barzan macht divine intervention zum legend lore ohni materials z caste uf dä golem oder was au emmer.
 
 De Barzan fendt sech inere Werkstatt, riiiesig wie en Werft. Er gseht en Loxodon wo am schaffe esh met Lehm usw. Er werd älter und me gseht wiener am Golem wiiterschaffet. Hunderti vo Spells. Timelapse. De Loxodrom öffnet sinii Pulsadern und loht sech im golem loh verschwende. En ältere andere Loxodon in fancy robe luegt zue und schriibt es Pergament fertig. Exorbitante Robe dä ander Loxodon gseht very high up uus.
 
 Humunkuli chömme use
+
+![[09_Assets/Protocol Pictures/Part 7/media/image23.webp]]
 
 INITIATIVE
 
@@ -381,6 +385,8 @@ Lorilla Ashardolon's Stride - Fire Feet bonus action, Lorilla haut eine metm Sta
 Barzan Wisdom save vo de Homunculi, de Barzan macht handgestene und es get iiskristalles und
 
 > casts Slowed
+
+![[09_Assets/Protocol Pictures/Part 7/media/image19.webp]]
 
 Round 2
 

@@ -40,7 +40,7 @@ Mer sueche es Hotel met Schlamm-Spa. en super Obe gsi. und denne bem zmorge sch�
 
 ## in der Wüste angekommen
 
-### 
+### ![[09_Assets/Protocol Pictures/Part 6/media/image16.webp]]
 
 90er roll D100 före teleport und mer chöme guet ah. Ca. Mittag ide Winterkleider, zmitzt ide Wüesti. Mer befinde eus imne chliine rustikale Hüttli. 40°, uff. Es het no en Bäse vom Torren dette, eine wo flügt.
 
@@ -70,6 +70,10 @@ Leue oder Schlange send do e de wüeschti wohnhaft. Selberni und Goldeni leue me
 
 de Snix het en Golden Spuuder entdeckt.
 
+![[09_Assets/Protocol Pictures/Part 6/media/image18.webp]]
+
+![[09_Assets/Protocol Pictures/Part 6/media/image49.webp]]![[09_Assets/Protocol Pictures/Part 6/media/image23.webp]]![[09_Assets/Protocol Pictures/Part 6/media/image29.webp]]
+
 ## Kampf gegen die Spinne
 
 Initiative
@@ -82,6 +86,8 @@ Elly: 3 Eldritch Blaaaasts und disadvantage on charisma saves. One Hits: 13 poin
 
 Barzan: bonus action 5th level spiritual weapon, accelerate
 
+![[09_Assets/Protocol Pictures/Part 6/media/image25.webp]]
+
 Sag Ka: nat 20 ufe Leumas. Strength save vom Leumas. Leumas constrained und es squeezed met de second attack. Half Dmage. 46 halfed to 23 Domage.
 
 Leumas: macht sech gross/ Kingly, breaking free. 12 doesn't break free
@@ -93,6 +99,8 @@ Spider: no stuff going on
 Round 2
 
 Sentinel: Blinding Light, BB is blind
+
+![[09_Assets/Protocol Pictures/Part 6/media/image21.webp]]
 
 Snix: Stabby Stab, Advantage for both, 74 Schadeee
 

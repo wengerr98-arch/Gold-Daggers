@@ -1,7 +1,7 @@
 ---
 tags:
   - session
-modified: '2026-06-02T14:31:34.000Z'
+modified: '2026-11-17T16:32:31.110Z'
 publish: true
 ---
 # Session 086 - chain-links
@@ -12,6 +12,8 @@ publish: true
 
 
 ## Clean Protocol Text
+
+
 # Session 086 - Mittwoch, 21. Mai 2025
 <!-- source_heading: DND Session 86 - Mittwoch, 21. Mai 2025 -->
 
@@ -31,6 +33,8 @@ mer rede met ehne wiiter. d'chele esch osem norde. aber Skjall seit ene nüüüt
 d'wett esch gold daggers chömme devoo und sie wette sie wärde eus ässe.
 
 Mer chönne inneeee
+
+![[09_Assets/Protocol Pictures/Part 7/media/image11.webp]]
 
 Elo 4: d'sproch chasi zwar läse aber sie verstoht de text ned. Sie fendet en zu de Bòkir.
 
@@ -353,210 +357,6 @@ D Elo wett nordischi Triton Stämm researche und au ob sie Connections zu de Gen
 
 D Lorilla luegt obs Pflanze get wo sech vo Bluet ernähre/ob sech d Flora veränderet het neume.
 
-# Session 087 - Donnerstag, 22. Mai 2025
-<!-- source_heading: DND Session 87 - Donnerstag, 22. Mai 2025 -->
-
-## Titel: 
-
-Protokoll: BB, Leumas
-
-
-In Game Location: Kasta
-
-De Leumas muess mou no es:" Object engraved with a symbol of the Outer Planes, worth at least 500 gp"
-
-BB liest es buech über Ley-Lines. BB nemmt ouno die erschti Map före vom Mahdi: es esch en Wetter-verlouf droffe und denne öbbe d'Outline vo eusem Kontinänt.
-
-Barzan sending a Mahdi: mer händ e de biblere es paar büecher gfonde und händ vom House of wisdom und Genasi gläse, weisch du öbbis öber das? liebe gruess
-
-Mahdi: Tönt nach sehr spannender Lektüre muesh mer unbedengt mou zeige.
-
-## the research
-
-Elo: Titans generell
-
-investigation nat 20
-
-history 17:
-
-The perfect Book! It is called "Titans and I" En Bard wo sehr gern tier ha het het das buech gshrebe. Er esh omegreist und het vomne grosse Meerestitan ghört. me munklet s grösste Wese wo je ufde erde gsi esh. Er het en früsche stamm vo titans troffe. Sie hend gseit en mensch heig de Titan iiigfrore.
-
-Leumas: Fire Titan
-
-Inv: 20 not nat
-
-His: 20 not nat
-
-Er fendt mega wenig zu dem wondr suecht aber gseht en einzelni beschriebig, vor 600 johr. D Beschriebig vomne colossal burning man who burned in vain. me munklet ergnwo gets en ewigi flamme.
-
-BB: Ha-lefaním, Ley-line tappin
-
-Inv: 20 not nat
-
-His: 24
-
-es werd beschrebe als stadt wo vor kaländer existiert het. me weiss ned was passiert esch, aber die stadt esch verlasse worde. emmer weder vo düne verdeckt und emmer weder före chooo, gsehtme es esch en Tempel öbrig blobbe. bb fendet die chorze beschriibig vonere magierin wo ley-lines het uufzeichnet und sie het sie amene chnoteponkt gfonde. Leylines send mängisch wie brönne, mängisch getts aber ou neui, wenn sie kes gefäß händ.
-
-Barzan: Genasis Bewusstsein und Gestalt und verbindung zu Titans
-
-Inv: 17
-
-His: 15
-
-Genasis werde Beschrebe "they never got quite seperated from their parents. Legends say they were a Favor of creation to the Djinn."
-
-Snix: Pyramide/Anubis
-
-Inv: 31
-
-His: nat 20 för 23
-
-er fendet velli iiträg vo pyramide, aber eis buech schiint spezifisch e das ine goh. es gett en pyramide wo em vergässene chrieg zerstört worde esch. me esch sech aber ned secher öbb sie zerstört oder verschwonde esch.
-
-*"back when the desert was green described as a tyrant, that required sacrifices and gifts, lived among the people. a peoples rebellion"*
-
-Lorilla: spezielle Orte in der Wüste/Schlachtfeld
-
-Inv: 17
-
-His: 19
-
-leider kei schlachtfäld fund - aber es gett en spezielle ort wo usefallt!
-
-"a gate to nowhere dried out"
-
-nachtrag zo de vision vo de wasser genasi: das esch es Gate wo emene riisige Felse, maybe sogar en bärg esch.
-
-Barzan macht legend lore: of's Gate
-
-de barzan nemmt sini vier schäleli use und em quadrat usgleit. tuet sini chrüüter ine und de verlürt er sech em rouch:
-
-e de taverne, em fröndlech agnähme fachwärch huuus verlürt de barzan sech em rouch. er fendet sech onder brutaler hitze, grüen om ehn ome und en mediumgrosse see, aalegend amene bärg. e chlini stadt met verschiedene Rasse, chle zwärg, chle mönsch, chle loxodon, chle elf - aber meh vermescht. en semple chleider met fälder wo liecht erhöht send, wärde fröcht und getreide änezöchtet. a de Felswand bem Bärg hets es tor met 7 ouge droffe. es het iinschrifte und dekoratione. s'Tor esch fören Dankesstätte "Nergal" und sini Frou het en gloubensstätte voredra uusbrietet wo em see esch. "ereshkigal"
-
-er ghört people rede, aber kennt d'sproch ned. er ghört öbber wosech öbber chopfer beschwert!
-
-er verbrengt dette chle ziit und beobachtet de stärne hemmel, fendet aber ke heewiiise. sehr wahrschiindli mega lang här.
-
-Check 25: er erinnert sech ane legend lore (dozomol bem säm em garte) vo de Kithrul: 3 events, einisch wie d'wält zerstört worde esch und de no zweumol wiesi fasch zerstört worde esch.
-
-die vision chönnti somet sogar no vorem erschte mol erdzerbräche gsi siiii - chle turm vo babbel vibes, wo sech alli verstande händ und de esch öbbis passiert
-
-lorilla 18 check wäge gsehtme e de wüeschti wenn's mol es gwässer gha hätti? of jede fall, aber me gseht's ned onbedengt vo wiiitem leider.
-
-## Auskunftschaffts-Team Lorilla und Snix
-
-beidi Flügis möchesech parat. lorilla goht en weschte und de snix en oschte.
-
-Lorilla macht en perception check met advantage: 1 und 4 plus 10 / sehrwahrsciindli chle bländet
-
-Snix perception check: 20 not natural. en gebergschettie sch 3-4 stund wäg.
-
-Lorilla goht nochle wiiter und flügt e dnacht ine: perc. Check: 19 und 2 fören perception, somet 29.
-
-sie gseht ou en gebirgschetti, aber sie verschwendet aber chle os de wüeschti und goht rechtig amare.
-
-zrogg zom hideout.
-
-Glaubens Stätten: Nergal (berg) und Ereshkigal (see)
-
-Group Investigation: 103
-
-Group History: 102
-
-Beidi send verbonde metm Tod, es het ned vell glaubensstätte a se gää well me meint es het ned vell settlements gää. Sie send meh verbonde metm öbergang i tod und weniger de Tod. De Glaube dra esh vo eim Tag uf ander verschwunde. Älter als d Länder womer höt kenne
-
-geografie, Überleferige zu oase, gebirge ide Wüesti
-
-Grouo Investigation: 94
-
-Group History: 69
-
-mer fende en abreb vo höhlezeichnige. of däre zeichnig gsähmer es labyrinth wo am nördschtle teil vom gebirge esch. Es chönnti vo de ershkigal stätte sie.
-
-de Barzan goht no ed etheral plane und luegt rechtig gebirge perception
-21. Er flügt mega wiiiit uuufe und beobachtet d'muschter under sech wo d'ley-lines möched. velli schiine aber vom Gebirge wäg zflüüüse und es chönnti dorch uuus siii, dass das en brunne esch.
-
-d'lorilla chonnt ine. em weschte rechtig amare hets en bärgchetti wo en jungle öbere goht.
-
-mer underhalte eus nomol öbber die neuschte erkentniss und legge eus langsam schloofe.
-
-der Aufbruch nach Nord Osten und das
-
-De Leumas inspiriert eus metme coole Song am nächste Morge womer los göhnd id Wüesti.
-
-## vor dem Tor
-
-mer gsähnd met em skiff vo wiit här es riiiiisigs toor wo emene felse esch.
-
-vibe check: 22 - very odd vo de BB.
-
-\-
-
-perception check schleumi - öbbis het reagiert of sini provokation.
-
-Survial check 13 - es het spure wo en egge hendere füehre.
-
-mer loufe wiiter rechtig tor, locate animals and plants vo de Lorilla - gibt es hier nicht.
-
-stei check vom barzan: 28 - oldest worked stone you've ever seen.
-
-elo werd vo de ruine gfange und denne int save und sie werd zo de
-
-snix int save: 16 und er het s'gfüehl er muess sech verstecke! (nat 20 för 46) weder de schleumi no d-'Lorilla fende en. plötzlech
-
-lorilla int save: 13 - sie muess sech onbedengt verstecke und macht wildshape
-
-barzan sending: Snix wo besch du? du besch verschwonde und ned be de eloryn?
-
-Leumas werd vo 2 Pyramide klemmt und 23 dex save und weicht uus.
-
-De Barzan und BB göhnd ganz links dure und de Leumas goht ganz rechts dure. und es eschiint zu funktioniere.
-
-Elo luegt id pyramide ine und saved en con saving throw, shciint aber eifach leer z sii
-
-BB luegt ou no und de Barzan au all save
-
-De leumas ou.
-
-De Snix failed de int check, und stealth 45, Lorilla failed au und macht e guete stealth 31.
-
-und mer loufe ene Pyramide und chöme eifach enere andere weder use. con save und 3d10 schade för d'eloryn, 16 punkte schaden + 1 level of exhaustion und sie esch eifach metti 30gi.
-
-De snix nat 1 ufe int save, 36 stealth
-
-D Lorilla 26 stealth
-
-4 vo 6 send vorem Tor und d'eloryn esch 16 johr galderet!
-
-Elo & lorilla save!
-
-De Leumas goht i die rechti pyramide, d Elo goht ganz links (zum felech weder jünger wärde) und BB goht id metti und verschwendet?!
-
-De Barzan luegt as Tor hendere
-
-D Elo saved ere con save ned und werd 13 johr jünger: weder 23
-
-lorilla und Snix füehlesech weder einigermasse - de snix esch iibudlet und d'lorilla esch en skorpion. de snix goht zo de elo und d'lorilla het
-
-BB gseht en Statue vor sech und es esch en wisdom saving throw 16 - 20 not natural
-
-BB goht go d'statue aaluege. investigation check 31 - mega alti statue und sie het zwenig sand droffe!
-
-con and wisdom save - nat 1 3d10 25 und denne en d4, ungrad esch abe und grad esch ufe! bb esch jetze 50gi! jetzte en wisdom save: 5 - 1d6 för 3 bechonnt en
-
-de brudi und ich gönd dör die rächti pyramide und lande weder of de Plane A. alli zämme gönnd weder dor A und chöme of C use.
-
-Elo 3d10 -\> werd 48gi
-
-Lorilla 3d10 -\> werd 34gi
-
-snix wisdom saving throw verkackt -\> ougekontakt met ergend ere figur heisst aaagreff und bemen spell emmer met mäh afooo.
-
-snix griift bb ah wellsi ougekontakt gmacht händ. 15 punkte schaden und de grad nomol!
-
-mer alli loufe alli rächts em gänsemarsch dorre und peile pyramide c ah und loufe dörre und chömme os de pyramide A use und de snix esch es ei und de leumas esch 4i - hella weld de shizzle.
-
-lorilla arcana check of's oug 9 again - leider nein. mer undersueche no s'tor und öberlegge wasmer chönnte mache. snix und schleumi söttet elter wärde. somet gömmer weder dor's A - und de schleumi werd elter, aber es rogelet emmer no es ei use. nomol dor's a dörre und de snix chonnt met hase ohre uuuse!
 ## Extracted Summary
 - Ed and Og turn the library encounter into a hostile reading challenge, forcing the party to decode books under threat.
 - The readings surface lore about Bokir, Gnolia, archfeys, ley-lines, wizard soul-transfer / clone bodies, Anubis, Abraham, and other layered histories.

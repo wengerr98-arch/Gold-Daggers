@@ -39,6 +39,8 @@ Mer tusche eus uus und catche up was alles passiert esch. Wanda het am Leumas si
 
 mer send of de Plattform: dette enne esch de Yorni amene Pult am schaffe.
 
+![[09_Assets/Protocol Pictures/Part 6/media/image37.webp]]
+
 d'elloryn luegt eri muschle ah. Os de moschle louft emmerno wasser. und sie ghört os de moschle en stemm. es esch d'mili. sie händ issues ou, am jetsi sini töre goht nömme uuuf. mer ghöre sie loschtigerwiis ou und mer säge ere hallo. me cha sogar chle driiluege. d'mili esch lang tot am läbe gsiii, aso undead. d'ello frogt no nach de seele vo de BB und sie tusche sech öbber s'tot-sii uuuus. d'ello frogt öbb d'mili cha es chössi dor d'moschle rüehre, goht leider ned :(
 
 mer send vorem meat huuus und merke es esch eifach es ohr osem huuus gwachse. de barzan macht en wet willy und de snix schreit es ohr. er seit eus öbmer ned wänd ine cho rede.
@@ -155,7 +157,10 @@ mer stealthe nochle ome e de range vo de wentergöttin. mer ghöre weder wie 10'
 
 Brudi und Leumas luege no zo wentergöttin öbbere, de brudi gseht en wiitere nagel wo ere dor backe gooht. mer caste fairy fire centerd of her. e de hoffnig mer gsähnd felech öbbis. mer loufe före.
 
+![[09_Assets/Protocol Pictures/Part 6/media/image7.webp]]
+
 faerie fire ide area be de Wintergöttin.
+![[09_Assets/Protocol Pictures/Part 6/media/image12.webp]]
 
 BB luegt d'nägel aah öbme sie cha uusezue. 21 för zom uusezieh. es send eher dorne aus nägel.
 
@@ -173,7 +178,11 @@ De Old-Barzan: Aria, es esch de Rattemönsch wodi aagreffe het! und de Old-Barza
 
 mer send bäck em norde und möche eus ready en Druid z'fighte
 
+![[09_Assets/Protocol Pictures/Part 6/media/image13.webp]]
+
 Bigby's Hand:
+
+![[09_Assets/Protocol Pictures/Part 6/media/image40.webp]]![[09_Assets/Protocol Pictures/Part 6/media/image38.webp]]
 
 Round 1
 

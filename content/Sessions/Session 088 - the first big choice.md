@@ -35,11 +35,15 @@ Back zo de Cave und mer loufe d'stäge durab!
 
 mer ghöre en Hammerschlag ab und zue wo dur d'halle hallt! unerschrocke loufemer wiiter und mer ghöre öbbis wo en grosse topf omerüehre. De Snix schmöckt brönnte Ton.
 
+![[09_Assets/Protocol Pictures/Part 7/media/image17.webp]]
+
 Mer chöme abe und gsänd as erschts mol füess und es esch en chliini figur am drome ome husch. de Snix gseht die person und gseht dass sie en Sarrukh esch, die erschti Humanoide Spezies. Nochfahre send Yuan Ti.
 
 BB Arcana check 17 - gseht us wiene Humunkuli, aber esch schwär zäge.
 
 mer loufe wiiter und wänd eus bemerkbar mache und mer gsähnd zweu neui gstalte. es esch en junge Jetsi und en Sukkubus, wo de brudi Barzan schomol troffe het. Sie esch vom Jorni de Patreon.
+
+![[09_Assets/Protocol Pictures/Part 7/media/image15.webp]]![[09_Assets/Protocol Pictures/Part 7/media/image2.webp]]
 
 fuck yeah!
 
@@ -70,6 +74,8 @@ aber sie erkennt eus ned! sie esch die erschti follower vom Jetsi! de jetsi rede
 sukkubus cheggt wo de barzan erklärt vo wo mer send! und de barzan gspört en schnuuf em äcke!
 
 Jetsi seit zo de Dako, helf ene, aber machs ned zu offesechtlech!
+
+![[09_Assets/Protocol Pictures/Part 7/media/image16.webp]]![[09_Assets/Protocol Pictures/Part 7/media/image5.webp]]![[09_Assets/Protocol Pictures/Part 7/media/image21.webp]]
 
 Roll initiative:
 

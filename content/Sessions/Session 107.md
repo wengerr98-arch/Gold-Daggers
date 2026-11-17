@@ -1,47 +1,56 @@
 ---
 tags:
   - session
-modified: '2026-08-29T15:04:37.000Z'
+modified: '2026-11-17T16:32:31.408Z'
 publish: true
 ---
 
 # Session 107
 
-<p class="session-meta"><span>Session 107</span> <span><a class="gd-arc-link" href="../arcs/arc-6">Arc 6 (current)</a></span> <span>831 p.B., später Sommer, Aarum</span> <span>played 2026-08-21</span> <span class="gd-tl-link" data-to="timeline" data-q="s=107" data-label="On the timeline →"></span></p>
+<p class="session-meta"><span>Session 107</span> <span><a class="gd-arc-link" href="../arcs/arc-6">Arc 6 (current)</a></span> <span>played 2026-08-21</span> <span class="gd-tl-link" data-to="timeline" data-q="s=107" data-label="On the timeline →"></span></p>
 
 <div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/abrahim-(ephraim)"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Abrahim (Ephraim)</span></a><a class="gd-chip" href="../entities/npcs/dr.-mason"><span class="gd-av is-ph" aria-hidden="true">D</span><span class="gd-chip-name">Dr. Mason</span></a><a class="gd-chip" href="../entities/npcs/lotti"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Lotti</span></a><a class="gd-chip" href="../entities/gods/anubis"><span class="gd-av is-ph" aria-hidden="true">A</span><span class="gd-chip-name">Anubis</span></a><a class="gd-chip" href="../entities/npcs/farid"><span class="gd-av is-ph" aria-hidden="true">F</span><span class="gd-chip-name">Farid</span></a></span></div></div>
 
 
 ## Clean Protocol Text
 
-D&D Session 107 - Freitag, 21. August 2026
 
-Titel:
+#  D&D Session 107 - Freitag, 21. August 2026
 
-831 p.b. |später Sommer | Aarum
+## **Titel:** 
+
+###  *831 p.b. \|später Sommer \| Aarum*
 
 Mer überlege d Münze alli uszlegge und die Münze z sueche aber macht wohl ned so Sinn.
-Barzan Sending:
-Hallo Ephraim do esh de Barzan mer hend vor langer ziit oder gad vori gredt wiso hesh du de anubis noni freigloh? Chönntme ne freiloh?
 
+Barzan Sending:\
+Hallo Ephraim do esh de Barzan mer hend vor langer ziit oder gad vori gredt wiso hesh du de anubis noni freigloh? Chönntme ne freiloh?\
+\
 Ufm Loid im Sanctuary Barzan füssli mim wasser de snix und elo sho am geld usläre.
+
 Es erschiint es gsicht im Wasser, es esh de Ephraim. Er ghört d stimm hintersech. met de Pfiiiffe! seit er
+
 Esh das es samctum frogt er? eignli arya frelka sommer etc item
+
 chönntme de anubis freiloh?
 
 entweder freiloh oder en neue mache.. warshinli einfacher freiloh? Er cha ne nöme freiloh.. (passage ufde scroll) mer ghöre d stimm vo öberall und en töre erschiint
+
 Mer göhnd dur d töre wo erschiint und mer send wiit über kasta im unsichtbare turm!
 
-Im unsichtbare Turm über Kasta
+### Im unsichtbare Turm über Kasta
 
 De Ephraim esh verwirrt mer versueche usezfinde wenn mer sind. 2152 nach sim kalender mer denke er meint mer sind gliichziitig. Mer versueche usezfinde wie dasmer de Anubis chönnte freiloh? Er verzellt vom Ritual und das sie ziit verlore und när het sech niemer meh chönne dra erennere.
+
 De Anubis chönnt negativi nebeeffekt ha. Idolosphäre esh in sich selber wo balance wett.
+
 Er heig au sho chliineri götter igsetzt und weggno. Mer rede no über Mana es seig klaut worde vom Farid.
 
 Er het d Taverne gmacht??
 
-Zrug zum anubis wie wör me de Anubis vorem Mason schütze?
+Zrug zum anubis wie wör me de Anubis vorem Mason schütze?\
 Aber de Mason het do die töre gha det wo mer d hyäne gfonde hend. det semmer am wiiitiste weg gsi voallne planes.
+
 Er überloht eus d notize vom ritual wo aber ufme andere magie system basiere ( er het vier mal d Magie neu erfonde?? Einish nach Anubis, Einish nach Gilgamesh ritual wo när glich ned passiert esh, einish nach Bode Titan, s erste mal in Ha roshon mesugo.
 
 er verzellt vo de Taverne ich und s lotti anderi das esh weiss nöm wele versuech s gsii esh aber emmer hets öpper verhendert wenn sie öppis hend welle mache gäge s nüüt. Sie hend sech emmer i dere Taverne troffe alles wo passiert werd weder unpassiert. Er het alli s Lottie loh vergässe loh. und ergndn insle esh au mit druufgange. De Snix frogt ob s nüt en physischi form het? S nüüt esh meh en chraft.
@@ -50,22 +59,26 @@ Er het die andere Persone usm ziitstrahl grüert und cha sech ned erennere a die
 
 ca 35m Konversation aber es esh kei ziit vergange bem Ephraim.
 
-Mer sind zrug im Sanktum
+### Mer sind zrug im Sanktum
 
 Eloryn macht wasser check 22
+
 Lorilla Baum nat 1
+
 BB Wiese 28
 
-These are full independent entities… Er verlüürt eifach emmer chli vo sinere Seele?
+These are full independent entities... Er verlüürt eifach emmer chli vo sinere Seele?
 
 Mer nähme sini Büecher mit und düend chli dureblättere und es heet eifach rambelings und schwerigi magic theories. er het angst vorde genasi maybe esh eres gägestück d gägeständ wo sie zrug löhnd?
 
 Long Rest.
+
 BB Punishment dreams spele mer negsht mal uus.
 
 ABER BB verlürt 8 uf strength und gheit uf 4
 
 Lorilla und Barzan versueche sech z erinnere wo mer öppe gsi sind letshtmal nöchi sturm.
+
 BB wett no büecher läse und list für 14? stund??
 
 BB 12h am läse
@@ -75,6 +88,7 @@ De Rest esh am flüüge und vrsuecht de sturm z finde. Sie finde s Loch. Mer ch�
 BB nomeh wis saves nomol 12h
 
 Ed goht langsam weder ufd nacht zue und riite rechtig wüestesturm. En Böe überrascht sogar de Lloid chli?
+
 Mer nähmes als hint dasmer die rechtig rechtig händ
 
 BB nomeh wis saves nomol 12h
@@ -82,39 +96,54 @@ BB nomeh wis saves nomol 12h
 BB ghört nüt. Sie gsehnd BB am läse. Eloryn sprützt wasser bb gseht mi. BB exhausted het sech fash z tot gläse
 
 Ritual for tencers floating disk spell für is spellbook. als by product. 21 für history
-Ephraim vo vor 400-500 johr. Er schriibt det vom Mason in undefinierte länder zwische ophris und Kasta wo sech Dalior het afoh bilde de mason esh fasziniert vo lebensenergie und wett de tod eliminiere. de Original Mason. De Ephraim het gfonde er seig langsam chli zu powerful und wär prime target zum manipuliert werde. De Ephraim het verhinderet daser sis ganze magical potential het chönne entfalte. Braindamage.
+
+Ephraim vo vor 400-500 johr. Er schriibt det vom Fitz Mason in undefinierte länder zwische ophris und Kasta wo sech Dalior het afoh bilde de mason esh fasziniert vo lebensenergie und wett de tod eliminiere. de Original Fitz Mason. De Ephraim het gfonde er seig langsam chli zu powerful und wär prime target zum manipuliert werde. De Ephraim het verhinderet daser sis ganze magical potential het chönne entfalte. Braindamage.
 
 De Barzan liest au no zu Siegel. Er liest und liest. S zämesetzte bhaltet ne no dinne. S esh sehr narrativ gschrebe, es tagebuch usde ich perspektive. D Elo goht wasser go spritze nach zwei stund zum de Barzan usehole.
+
 18 history roll. Er findet en story wo immer wieder dinne esh 5h für das, 3-4 stund zums zämesetze au alti forme vo common language. und goht omne versuech woner en gott het welle fürne moment usde balance usenä. Er het en minor schnee sturm gottheit welle versegle. Zum luege was passiert wenn er die gottheit iisperrt. Er duet jahrelang s wetter beobachte. de Schneesturm chonnt ned zrug. s meer gfrüürt und en landbrugg duet sech bilde?
+
 er wösst wie animal messenger wör funktioniere aber cha ned lehre.
+
 No exhaustion
 
-De Barzan versuecht no dispel magic
+De Barzan versuecht no dsipel magic
 
 341'092 nope
-4571 nope
+
+<u>4571 nope</u>
+
 327'380 nope
+
 129631 nope
+
 8 nope
 
 450219
-mer luege ob mr d münze schaffe leider nein
+
+mer luege obmr d münze schaffe leider nein
 
 nope
 
 dispel magic uf no more muscle, nothing happens
+
 greater restoration uf bb yay alles guut
 
 D Eloryn versuecht z bonde mitm gsicht leider nüt
 
 D Lorilla liest no und de snix spienzlet is buech. UH OH. Wisdom saving throw. Nat 1 oh noooooo.
+
 Permanent grudge against books. D Lorilla het s Buech zue klappt. De Snix griifft ah mit sneak attack.
+
 38 Schade.
 
 D lorilla und de snix wättere enand nochli aah.
 
 D Lorilla liest au no 24 sie saves. History 14. D lorilla luegt wäge planes (wheel und vorher bubble)
-De snix het die erste paar Wörter guet versetande. Vorem erste mou eshs ein planet. D lorilla findt en geologischi studie uflistige vo de Stei vomne Gebirge. und en anderi liste mit de gliiche stei. uf allne planes die gliiche stei.
+
+De snix het die erste paar Wörter guet versetande. Vorem erste Bräche eshs ein planet gsi? D lorilla findt en geologischi studie uflistige vo de Stei vomne Gebirge. und en anderi liste mit de gliiche stei. uf allne planes die gliiche stei. Alles esh mol zäme gsii.
+
+De rest flüügt wiiter und suecht de Sturm. Mir finde s Loch wo mer sho mal inegfloge sind. Mir nöchere eus am Sturm.
 
 ## Extracted Summary
 

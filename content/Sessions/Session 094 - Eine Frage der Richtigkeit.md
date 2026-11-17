@@ -23,6 +23,10 @@ publish: true
 
 Unsere heutige Location:
 
+![[09_Assets/Protocol Pictures/Part 8/media/image1.webp]]
+
+![[09_Assets/Protocol Pictures/Part 8/media/image7.webp]]
+
 ## Bem Abraxas
 
 mer lönd eus nomol dore chopf lo goh was s'letschte mol passiert esch und wasmer för impressione metgnoh händ.
@@ -222,6 +226,8 @@ Mer luege no wägem gold und plötzlech bemerkemer das töre zue esch. mer ghör
 Es esh en KRAKEN
 
 ## the Fight
+
+![[09_Assets/Protocol Pictures/Part 8/media/image3.webp]]
 
 Runde 1
 

@@ -100,6 +100,8 @@ Loid hat auch Angst, neue Portale gehen auf, weitere Schiffe erscheinen.
 
 THE MAP IS OUT
 
+![[09_Assets/Protocol Pictures/Part 4/media/image13.webp]]
+
 Die Boote gehen in Formation, wir gehen mal mit dem Flow.
 
 Lorilla, Snix, BB gehen je an eine Kanone.

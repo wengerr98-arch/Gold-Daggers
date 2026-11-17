@@ -1,7 +1,7 @@
 ---
 tags:
   - session
-modified: '2026-06-01T15:14:21.000Z'
+modified: '2026-11-17T16:32:31.599Z'
 publish: true
 ---
 
@@ -210,6 +210,31 @@ KÖNIGREICH: Nolia, Hauptstadt = Dalior.
 
 
 - Silk ist auch von Amare
+
+
+# Session 25 - Samstag, 03.04.21 
+
+DnD Easter Weekend - Kunzenbad, missing Tats -- Brunch
+
+- Am Morgen wachen wir im Wald durch natürliches Sonnenlicht auf!
+
+- Wir räumen das Lager auf etc. und machen uns auf den Weg in Richtung der Berge / Koboldlager auf. Wir finden Büschel von verschiedenen Fellen / Tieren. Jahreszeitenwechsel? Stress? Kurz vor dem Sterben? Blobert sieht sogar Federn auf den Kronen der Bäume. BB greift von einem hängenden Ast ein Büschel Fell, es ist Fuchsfell. Lorilla und niemand kann das einordnen.
+
+- Der Weg beginnt, Steigung anzunehmen. Der Wald lichtet sich langsam, es beginnen Hügel und Berge zu erscheinen. Die Strasse geht den Bergen entlang nach Westen weiter. Es hat ab und zu Felsen und Steinschläge in der Region. Snix bemerkt einen Felsen, weg von allen Klippen und Bergen, alleine am Hügel.
+
+- Ausser Lorilla und Eloryn gehen die meisten auf den komischen Felsen zu.
+
+- Barzan und Snix nähern sich dem Felsen, Snix entwischt einer Seilfalle, Barzan zieht es verkehrt den Baum hoch. BB zaubert ihn mit dem Wand of Featherfall und Leumas schneidet ihn los, Barzan gleitet verkehrt in eine aufrechte Position zurück.
+
+- Hinter dem Felsen schaut ein kleiner roter Kopf hervor. Plötzlich hören wir hunderte von kleinen Schritten mit Waffen. Der Anführer fragt in Common „Wer seid ihr, identifiziert euch!" Snix (Loco Escrito Bacon Frito) stellt uns vor, erzählt von Dave (Gabriel) und fragt nach dem Kobolddorf. Der Anführer bedient einen versteckten Schalter und der ganze Felsen dreht sich weg und zeigt einen Durchgang. Wir gehen mit Sack und Pack, mit Ross und Wagen in den Gang hinein.
+
+- Die Gänge sind wie eine Art Bienenwabe, die unter der Erde mehrere Level nach unten geht. In der Mitte ist eine Steinstatue eines Koboldes mit Flügel. Es sei der grösste Krieger der Kobolde gewesen, namens Akli. Er habe einen Drachen erlegt und dann seien ihm die Flügel gewachsen. Damals seien sie von einem Drachen angegriffen worden.
+
+- Die Fallen der Kobolde seien letztens relativ leer gewesen. Als Antwort auf die Frage, ob sie wissen, warum so viel Fell herumliegt im Wald.
+
+- Suff führt unsere Pferde fort und wir werden zu einem Saal mit Essen geführt. Wir gehen durch mehrere Tunnel, Löcher, Röhren. Wir sitzen an kleine Bänke und erhalten kleines Geschirr. Die kleinen von uns fühlen sich sehr wohl, die grossen fühlen sich riesig. Er bringt eine Art Salat und Brot (selber gebacken) zu uns. Wir essen zusammen. Snix zeigt allen ein Stück von Daves Mantel (Gabriel). Der Kobold der uns herumführt heisst Gax und erkennt den Mantel von Dave.
+
+- 01:15 Uhr -- END OF GAME
 
 <div class="session-nav">
 

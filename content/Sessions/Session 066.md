@@ -81,7 +81,7 @@ Etwa 2 Tage in der Zukunft, Lorilla ist in einem Schneesturm. Sie ist mit sehr s
 
 NEW MINI! Bat Form!
 
-Fotos Unte
+Fotos Unte![[09_Assets/Protocol Pictures/Part 5/media/image7.webp]]![[09_Assets/Protocol Pictures/Part 5/media/image3.webp]]
 
 Je wiiter d Lorilla weg flügt desto meh checkt sie wer sie esh und gseht d Muur. D Fledermuus rüert d Lorilla id muur ine und sie chrüücht zu eusem Huus zrug.
 

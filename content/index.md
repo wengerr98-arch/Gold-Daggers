@@ -9,7 +9,7 @@ publish: true
 
 | | |
 |---|---|
-| **Date** | 831 p.B., später Sommer · **42 days** until the eclipse |
+| **Date** | 831 p.B., später Sommer · **43 days** until the eclipse *(as of Session 108)* |
 | **Where** | Aarum |
 
 **Last session:** The party, aboard the Aarum, has time-travelled approximately 500 years into the past (to year 323 after the Forgotten War). They gather information about the Unclaimed Lands — a region between Skjall, Kasta, and Nolia with no central authority, family-based governance, and deep-rooted resistance to outside control. The shifters are the oldest inhabitants.

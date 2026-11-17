@@ -243,13 +243,14 @@ Wir springen alle zusammen in das Loch wuiii
 Wir werden reingezogen (wie Schwerkraft) und landen in einem Raum mit magical Portal wuii
 
 Es hat Tentakeln und Statuen
+![[09_Assets/Protocol Pictures/Part 4/media/image10.webp]]
 
 Lorilla geht auf eine Statue und sie bewegt sich
 
 We FIGHT
 
 Nachdem Koda das Portal beschädigt sehen wir das Auge hinter dem Glas und eine Figur materialisiert sich vor dem
-Portal
+Portal![[09_Assets/Protocol Pictures/Part 4/media/image6.webp]]
 
 Wir zerstören, das Portal und der Raum fängt an zu zerfallen
 

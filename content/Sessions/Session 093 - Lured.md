@@ -89,6 +89,8 @@ er frogt nachem jöngschte und seit wär er wenn wett ässe.
 
 Mer verbönde eus met de vier chliine und de Leumas macht en Pact-Met de Deamons! Aso mer müend de grossi abeprögle.
 
+![[09_Assets/Protocol Pictures/Part 8/media/image8.webp]]
+
 ## ---Roll Initiativ---
 
 suprise round vom Purple Dude voll gäge Moloch

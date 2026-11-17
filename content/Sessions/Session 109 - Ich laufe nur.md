@@ -4,69 +4,75 @@ tags:
   - time-travel
   - unclaimed-lands
   - past-timeline
-modified: '2026-11-12T18:01:20.000Z'
+modified: '2026-11-17T16:32:31.553Z'
 publish: true
 ---
 
 # Session 109 - Ich laufe nur / Wessen land
 
-<p class="session-meta"><span>Session 109</span> <span><a class="gd-arc-link" href="../arcs/arc-6">Arc 6 (current)</a></span> <span>831 p.B., später Sommer, Aarum, 42 Tage</span> <span>played 2026-09-24</span> <span class="gd-tl-link" data-to="timeline" data-q="s=109" data-label="On the timeline →"></span></p>
+<p class="session-meta"><span>Session 109</span> <span><a class="gd-arc-link" href="../arcs/arc-6">Arc 6 (current)</a></span> <span>played 2026-09-24</span> <span class="gd-tl-link" data-to="timeline" data-q="s=109" data-label="On the timeline →"></span></p>
 
 <div class="gd-who" aria-label="Who was there"><div class="gd-who-group"><span class="gd-who-label">The party</span><span class="gd-who-list"><a class="gd-chip" href="../entities/player-characters/barzan-aeducan"><span class="gd-av is-ph" aria-hidden="true">B</span><span class="gd-chip-name">Barzan Aeducan</span></a><a class="gd-chip" href="../entities/player-characters/bb"><img class="gd-av" src="../07_protocol-sources/old-image-repository/bb_gallery/bb.webp" alt="" loading="lazy"><span class="gd-chip-name">BB</span></a><a class="gd-chip" href="../entities/player-characters/lorilla"><img class="gd-av" src="../07_protocol-sources/old-image-repository/halflingintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Lorilla</span></a><a class="gd-chip" href="../entities/player-characters/leumas"><img class="gd-av" src="../07_protocol-sources/old-image-repository/elfintro.webp" alt="" loading="lazy"><span class="gd-chip-name">Leumas</span></a><a class="gd-chip" href="../entities/player-characters/eloryn"><img class="gd-av" src="../07_protocol-sources/old-image-repository/eloryn_newstyle_2.webp" alt="" loading="lazy"><span class="gd-chip-name">Eloryn</span></a><a class="gd-chip" href="../entities/player-characters/snix"><img class="gd-av" src="../07_protocol-sources/old-image-repository/snix.webp" alt="" loading="lazy"><span class="gd-chip-name">Snix</span></a></span></div><div class="gd-who-group"><span class="gd-who-label">Also mentioned</span><span class="gd-who-list"><a class="gd-chip" href="../entities/npcs/linsea"><span class="gd-av is-ph" aria-hidden="true">L</span><span class="gd-chip-name">Linsea</span></a><a class="gd-chip" href="../entities/npcs/sterak"><span class="gd-av is-ph" aria-hidden="true">S</span><span class="gd-chip-name">Sterak</span></a></span></div></div>
 
 
 ## Clean Protocol Text
 
-### In-Game Context
-*831 p.b. | später Sommer | Aarum | 42 Tage*
+
+# D&D Session 109 - Freitag, 24. September 2026
+
+## **Titel: Ich laufe nur / Wessen land** 
+
+###  *831 p.b. \|später Sommer \| Aarum \| 42 Tage* 
 
 ufme Schiff, vor 500 Johr.
 
-### was wissen wir über die unclaimed Lands?
+## was wissen wir über die unclaimed Lands?
 
 17 History Check vom Barzan öbber Shifter-Land: es gett shifters und tribes. wenig handel. es het en Roti Stadt gha (Elfe). The Unclaimed Lands. Goblins chömme vo dette, wie ou Bugbears. Es het Mönsche und ou Tieflings. Es esch aber ned gfüehrt das Land.
 
 BB History Check: 33
-Wild Magic: 51 -> Elo esch jetzte de Bob de Paladin ofere Holy Quest.
+
+Wild Magic: 51 -\> Elo esch jetzte de Bob de Paladin ofere Holy Quest.
+
 Sie händ ke Strukture wörkli, sondern e Familie-Basis. Eri Lore esch ned wörkli bekannt, aber em Oste getts es Tal und me muess emmer e Name säge, bevor mers dorquert. Wär esch sie? wär esch ere Name?
 
-#### Lore: The Unclaimed Lands
+***Dort regiert niemand. Kein König, kein Rat, keine Hauptstadt. Das Einzige, worauf sich alle einigen: Niemand soll das Sagen haben.***
 
-> *Dort regiert niemand. Kein König, kein Rat, keine Hauptstadt. Das Einzige, worauf sich alle einigen: Niemand soll das Sagen haben.*
->
-> *Es gibt keine gemeinsame Kultur. Jede Familie, jede Gruppe lebt nach eigenen Regeln. Ein Tal weiter kann alles anders sein.*
->
-> *Ein Name, den Karawanen in den Mund nehmen, bevor sie ins östliche Tal fahren. Niemand weiss genau, ob sie dort etwas zu sagen hat. Man weiss nur, dass es ruhiger ist, wenn man vorher bei ihr war.*
->
-> *Die Shifter sind die ältesten Bewohner. Dazu kommen Leute von überall: Deserteure aus Kasta, Nolia und Skjall, Kriegsflüchtlinge, Kobolde, Orks, Tieflinge. Wer dort lebt und andere in Ruhe lässt, gehört dazu.*
->
-> *Wind und Wasser sind Boten, Händler und Sammler*
->
-> *Eine Geschichte, die man sich in Wirtshäusern erzählt: Ein Vermesser aus Kasta ist im Norden mit seinen Pflöcken losgezogen und ohne sie zurückgekommen. Unverletzt. Er hat nur einen Namen gesagt und dann nie wieder davon gesprochen.*
->
-> *Händler aus Amarre machen dort Geschäfte, aber nie mit "dem Land", immer nur mit einer einzelnen Familie. Ein Handel gilt genau für die, die ihn abgeschlossen haben. Das nächste Tal weiss nichts davon.*
->
-> *Nichts wird aufgeschrieben. Keine Verträge, keine Schuldbücher, keine Karten. Eine Schuld existiert, solange sich beide daran erinnern.*
->
-> *Mal sitzt er in einer Hafenkneipe in Amarre, mal ist er monatelang weg. Er zahlt bar, redet wenig und weiss erstaunlich gut, welcher Weg im Norden gerade offen ist.*
->
-> *Gäste dürfen drei Nächte bleiben, ohne zu fragen. Danach hilft man mit oder zieht weiter.*
->
-> *Sie plündern alte Ruinen und verkaufen die Funde, auch an die Magier in Kasta.*
->
-> *Mehrere Versuche, das Land zu beanspruchen, sind gescheitert. Nicht an einer Armee, sondern daran, dass niemand da war, den man besiegen konnte. Die Kämpfer verschwinden über Nacht in den Dörfern.*
->
-> *Jeder Grenzstein, jede Fahne, jeder Vermessungspflock, der dort auftaucht, verschwindet.*
->
-> *Wer in Amarre mit Funden aus dem Norden handelt, kommt früher oder später an Tesk vorbei. Er liefert pünktlich, verlangt zu viel und hat nie eine Quittung ausgestellt. Die schönsten Stücke kauft er nicht weiter, er verkauft sie nach Kasta, und dort fragt niemand nach.*
+***Es gibt keine gemeinsame Kultur. Jede Familie, jede Gruppe lebt nach eigenen Regeln. Ein Tal weiter kann alles anders sein.***
+
+***Ein Name, den Karawanen in den Mund nehmen, bevor sie ins östliche Tal fahren. Niemand weiss genau, ob sie dort etwas zu sagen hat. Man weiss nur, dass es ruhiger ist, wenn man vorher bei ihr war.***
+
+***Die Shifter sind die ältesten Bewohner. Dazu kommen Leute von überall: Deserteure aus Kasta, Nolia und Skjall, Kriegsflüchtlinge, Kobolde, Orks, Tieflinge. Wer dort lebt und andere in Ruhe lässt, gehört dazu.***
+
+***Wind und Wasser sind Boten, Händler und Sammler***
+
+***Eine Geschichte, die man sich in Wirtshäusern erzählt: Ein Vermesser aus Kasta ist im Norden mit seinen Pflöcken losgezogen und ohne sie zurückgekommen. Unverletzt. Er hat nur einen Namen gesagt und dann nie wieder davon gesprochen.***
+
+***Händler aus Amarre machen dort Geschäfte, aber nie mit "dem Land", immer nur mit einer einzelnen Familie. Ein Handel gilt genau für die, die ihn abgeschlossen haben. Das nächste Tal weiss nichts davon.***
+
+***Nichts wird aufgeschrieben. Keine Verträge, keine Schuldbücher, keine Karten. Eine Schuld existiert, solange sich beide daran erinnern.***
+
+***Mal sitzt er in einer Hafenkneipe in Amarre, mal ist er monatelang weg. Er zahlt bar, redet wenig und weiss erstaunlich gut, welcher Weg im Norden gerade offen ist.***
+
+***Gäste dürfen drei Nächte bleiben, ohne zu fragen. Danach hilft man mit oder zieht weiter.***
+
+***Sie plündern alte Ruinen und verkaufen die Funde, auch an die Magier in Kasta.***
+
+***Mehrere Versuche, das Land zu beanspruchen, sind gescheitert. Nicht an einer Armee, sondern daran, dass niemand da war, den man besiegen konnte. Die Kämpfer verschwinden über Nacht in den Dörfern.***
+
+***Jeder Grenzstein, jede Fahne, jeder Vermessungspflock, der dort auftaucht, verschwindet.***
+
+***Wer in Amarre mit Funden aus dem Norden handelt, kommt früher oder später an Tesk vorbei. Er liefert pünktlich, verlangt zu viel und hat nie eine Quittung ausgestellt. Die schönsten Stücke kauft er nicht weiter, er verkauft sie nach Kasta, und dort fragt niemand nach.***
 
 Lorilla Nature und History: 18 und 17
+
 Rund um "The Unclaimed Lands": zwösche Skjall, Kasta und Nolia. s Biom em süde esch starch veränderet. sochle vulkan erde, sehr fruchtbar. Es esch ned em Ophris Gebirge und es esch älter als das vo Ophris. d Wälder vo däre Region send ned sehr andersch aus vo de umliegende Region. S Gebirge het aber en ganz eigeni Flora und Fauna.
 
 ### Wir fliegen über die unclaimed Lands
 
 es ist das Johr 323 nach dem Vergessenen Krieg. Mer flüge öbber en grosse See. S wätter esch shitty und es schiffet und gwetteret. mer flüge chle tüfer und gsähnd die zweut gröschti stadt vo Nolia. eus fallt uf, Nolia getts gar nonig. Es het mehreri Kathedrale. Es esch die Chlätterndi Kirche. die andere Kirche gsähmer ned.
-2. Grössti Nolia City a de Grenze het **(maye a good ally in the future?)** Kletterndi Chele.
+
+2\. Grössti Nolia City a de Grenze het **(maye a good ally in the future?)** Kletterndi Chele.
 
 es esch eine vo de gröschte See im ganze Land. de See esch ruhig und langsami wasserbewegig. womer am andere Ufer achöme, gsähmer das d wälder weniger gholzed send. pure natur. mer befende eus öbbe be de unclaimed Lands. e de Distanz gsähmer es anders gebirge.
 
@@ -86,23 +92,27 @@ Sie düend rigoros abwehre. Land cha ned bsetzt werde.
 
 Sie handle mit Kasta, es git no Elfe. Er heisst Sterak wo vor allem mit eus gredt het.
 
-**Patrol Members:**
-- Sterak — Kobold (main speaker)
-- Linsea — Half-Elf (mother from elf city, can use Sending)
-- Kelpi — Oger Shifter (survival skills, plays horn)
-- Huton — Warforged / Metal Man
-- Uossa — Hyena-faced shifter (scout)
+Sterak esh de Kobold
 
-BB Insight check: Näme ächt und so? -> sie wörke uufrichtig
+Half Elfin heisst Linsea
+
+Oger Shifter Kelpi
+
+Metall Man heisst Huton
+
+Hyäne heisst Uossa
+
+BB Insight check: Näme ächt und so? -\> sie wörke uufrichtig
 
 Barzan frogt de Sterak wägem Snix und em Drache töte und flügel. er kommentiert nome, er wördi nie en Drache töte! uuuuh!!!! tönts vo aune gold daggers.
 
 de Barzan luegt Gruppe ah und frogt sech ächt öbb die stärcher send aus mer oder so?
+
 Insight: 21
 
 Shifter Oger und de Metal-Dude mega es problem. Sie send mega guet koordiniert.
 
-De Sterak esch sech unsicher, waser met eus sell afoooo… hämmer potential oder wärdemer es problem.
+De Sterak esch sech unsicher, waser met eus sell afoooo... hämmer potential oder wärdemer es problem.
 
 De Oussa verschwendet gschwennd im Wald und wo s chli ruhiger esh frogt de Sterak de Barzan wie s Läbe ide Stadt. De Sterak het en guete insight check gmacht und frogt de Barzan ober au no shösh außerhalb vo de Stadt ufgwachse. Er verzellt vom Kloster.
 
@@ -111,6 +121,7 @@ de Barzan tuet de gueti Religions-Talk aschwenge. es gett emu em Wald scho stäm
 De Sterak esh i dem Tribe ufgwachse. Er frogt d Elo wie s be ehne esh.
 
 Mer sette mit de Linsea erem Mami rede, sie esh usde Elfestadt. D Lorilla frogt was de Oussa esh go mache. Er schwiigt. Poop.
+
 De Kelpi meldet sich, de Sturm zieht abe. Er gspürt de Luftdruck good survival skills.
 
 Kelpi seit nach chle loufe: Do, do chömmer eus nederloh. de Kelpi tuet eus iiteile. Barzan macht es 50 Fuess loch e bode met sinere axt.
@@ -123,7 +134,8 @@ Mer baue alli Zäme en Unterstand. D Lorilla sammler au no ässe im Wald.
 
 D Lorilla und Leumas händ nochli Hasch.
 
-(alli müend würfle för deception oder persuasion und müends am raphi schecke und för sech phalte)
+(alli müend würfle för deception oder persuasion und müends am raphi schecke und för sech phalte )
+
 d Linsea tuet en tee ufsetzte und mescht reine alkohol drii.
 
 gspröch näme ere louf.
@@ -139,15 +151,19 @@ Insight: über 30.
 Sobald d Lorilla s checkt das sie gmeint hend mer meine eifach sie sind hindedrii blebe verseucht sie z erkläre. De Leumas mitme 36 erklärt dasmer wökli Ziitreisendi send. & dasmer versueche d Welt z rette.
 
 D Tension esh broche, sie hend gemerkt das mer öppis verteckt hend.
+
 Es werde no Falle baut und Mythe verzellt.
 
 Hobgoblin Jeska esh mächtig i dem Gebiet. Recht aggressiv. De Barzan und de Snix werde unsichtbar gmacht vom Leumas. De Barzan macht sech jünger während unsichtbar. De Oussa esh dosse am jage, unsichtbar.
+
 Oussa.
 
 Plötzlech jung Barzan werd sichtbar en jung! alli fönd langsam afo flexe.
+
 BB nemmt d charte före und tuet wäge de Grenze wärweise.
 
 d Lorilla tuet wache met de Elfin e de nacht. es chönnti scho zo verschedene sache cho e de nacht.
+
 D Stadt bem See duet ame agriiffe.
 
 mer legge eus he zom schloofe.
@@ -157,64 +173,158 @@ sleep
 Perceptioncheck Wache Lorilla: 22 -
 
 sie ghört pfiifffe sochli call and response. We're being scouted?
+
 NAT 20 Leumas. 5 Persone. Uniforme. Stadtmensche. De leumas macht greater invisibilty & Long Strider und freedom of movement.
 
-### FIGHT
+##  ![[09_Assets/Protocol Pictures/Part 9/Session 109/media/image8.webp]]![[09_Assets/Protocol Pictures/Part 9/Session 109/media/image3.webp]]
 
-Initiative:
-- 29 Snix
-- 24 PG
-- 20 Leumas
-- 20 Lorilla
+![[09_Assets/Protocol Pictures/Part 9/Session 109/media/image4.webp]]![[09_Assets/Protocol Pictures/Part 9/Session 109/media/image5.webp]]![[09_Assets/Protocol Pictures/Part 9/Session 109/media/image9.webp]]![[09_Assets/Protocol Pictures/Part 9/Session 109/media/image11.webp]]
 
-| Round 0 |  |
-| :---- | :---- |
+## FIGHT
+
+Innitiative
+
+29 Snix
+
+24 PG
+
+Leumas 20
+
+Lorilla 20
+
+|   |   |
+|---|---|
+| **Round 0** |   |
 | Snix | Tattoos |
-| PG |  |
-| Leumas | Invisibility, longstrider und freedom of movement ufe longstrider uf BB, Barzan, Snix, Elo +10ft |
+| PG |   |
+| Leumas | Invisibility, longstrider und freedom of movement ufe<br>longstrider uf BB, Barzan, Snix, Elo +10ft |
 | Lorilla | Faery Fire vor ehne. |
-| Wing |  |
+| Wing |   |
 | BB | innate sorcery |
-| Barzan | divine intervention, Hallow 60ft no undead can enter the area vulnerability to radiant damage for humanoids |
+| Barzan | divine intervention, Hallow 60ft no undead can enter the area<br>vulnerability to radiant damage for humanoids |
 | Eloryn | innate sorcery, fly |
-| Anker |  |
+| Anker |   |
 
-| Round 1 |  |
-| :---- | :---- |
-| Snix | Snix secklet före und hittet half damage necrotic damage 11 damage |
+|   |   |
+|---|---|
+| **Round 1** |   |
+| Snix | Snix secklet före und hittet half damage necrotic damage<br>11 damage |
 | PG | no movement füre snix bis the anker dra chonnt und swappt places mitm Giant |
-| Leumas | Rifle ufe Giant 15 doesn't hit bonus action d12 |
-| Lorilla | cone of cold Save DC CON 22 one saves 26 damage und 13 damage boonus action spirit totem |
-| Wing | area effect dex 21 Elo & Lorilla fail 60 damage und werde i bode abe gslammt und prone Snix und Leumas au area effect DEX 21 Leumas saves, Snix evasion 31 Schade |
+| Leumas | Rifle ufe Giant<br>15 doesn't hit<br>bonus action d12 |
+| Lorilla | cone of cold Save DC CON 22 one saves<br>26 damage und 13 damage<br>boonus action spirit totem |
+| Wing | area effect dex 21 Elo & Lorilla fail<br>60 damage und werde i bode abe gslammt und prone<br>Snix und Leumas au area effect<br>DEX 21 Leumas saves, Snix evasion<br>31 Schade |
 | BB | bb secklet före zom snix 40 fuess, thunderstep ewäg, carefull spell. und hendere zom wizard |
-| Barzan | 7th Level Spirit Guardians 23 wisdom save 3 dudes bechöme 27 schade und wäge vulnerability 54!! |
-| Eloryn | Crown of madness he saves :( Eldritch blast **DOUBLE NAT 20s!! DOUBLE 10s!! 48 SCHADE!! DOUBLE KILL NOCH 2 Eldritch Blasts offen** |
-| Anker |  |
+| Barzan | 7th Level Spirit Guardians<br>23 wisdom save<br>3 dudes bechöme 27 schade und wäge vulnerability 54!! |
+| Eloryn | Crown of madness he saves :( Eldritch blast<br>**DOUBLE NAT 20s!!!!!!!!**<br>**DOUBLE 10s!!!!!!!**<br>**48 SCHADE!!**<br>**DOUBLE KILL**<br>**NOCH 2 Eldritch Blasts offen** |
+| Anker |   |
 
-*(Rounds 2-4 empty — session ended mid-combat)*
+  ----------------------------------------------------------------------
+  **Round 2**       
+  ----------------- ----------------------------------------------------
+  Snix              
 
-### Todo's / Notizen
+  PG                
 
-- [x] ~~Levistus eingesperrt~~
-- [x] ~~Tante Portals schlüsse~~
-- [x] ~~logbuch checke für ephraim~~
-- [x] ~~Abrahim/Ephraim het de god of death nur sealed, so maybe he's on our side?! but crazy~~
-- [x] ~~Portal em Norde~~
-- [x] ~~Killing Shen! (tante)~~
-- [ ] ~~Handelspartner met de Crew vo Stigia -> Goldie Bräu?~~
-- [ ] ~~wäg nach Ananthar~~
-- [ ] ~~time anchor traders~~
-- [x] ~~wenn d erdbrecher wennd das de gott vom tod nid existiert wenns möglechst vell seele ufde Material Plane trappe??~~
-- [x] ~~Wir müssen den Titan finden, bevor es Mason tut!?~~
-- [x] ~~Zariel - Portale schliessen, Schlachtschiff~~
-- [x] ~~Odis töte~~
-- [x] ~~Biblioteca für Sonnefinsternisse~~
-- [x] ~~scry on the sky titan from the astral sea~~
-- [x] ~~There is an amulet in the mountains of Ophris in a forgotten hut that bb is aware of because of wildmagic~~
-- [ ] ANUBIS! BALANCE WEDER HERSTELLE
-- [ ] Shen kille
-- [ ] Zyz
-- [ ] kobolddorf im norde?
+  Leumas            
+
+  Lorilla           
+
+  Wing              
+
+  BB                
+
+  Barzan            
+
+  Eloryn            
+
+  Anker             
+  ----------------------------------------------------------------------
+
+  ----------------------------------------------------------------------
+  **Round 3**       
+  ----------------- ----------------------------------------------------
+  Snix              
+
+  PG                
+
+  Leumas            
+
+  Lorilla           
+
+  Wing              
+
+  BB                
+
+  Barzan            
+
+  Eloryn            
+
+  Anker             
+  ----------------------------------------------------------------------
+
+  ----------------------------------------------------------------------
+  **Round 4**       
+  ----------------- ----------------------------------------------------
+  Snix              
+
+  PG                
+
+  Leumas            
+
+  Lorilla           
+
+  Wing              
+
+  BB                
+
+  Barzan            
+
+  Eloryn            
+
+  Anker             
+  ----------------------------------------------------------------------
+
+Todo's / Notizen
+
+- ~~Levistus eingesperrt~~
+
+- ~~Tante Portals schlüsse~~
+
+- ~~logbuch checke für ephraim~~
+
+- ~~Abrahim/Ephraim het de god of death nur sealed, so maybe he's on our side?! but crazy~~
+
+- ~~Portal em Norde~~
+
+- ~~Killing Shen! (tante)~~
+
+- ~~Handelspartner met de Crew vo Stigia -\> Goldie Bräu?~~
+
+- ~~wäg nach Ananthar~~
+
+- ~~time anchor traders~~
+
+- ~~wenn d erdbrecher wennd das de gott vom tod nid existiert wenns möglechst vell seele ufde Material Plane trappe??~~
+
+- ~~Wir müssen den Titan finden, bevor es Mason tut!?~~
+
+- ~~Zariel - Portale schliessen, Schlachtschiff~~
+
+- ~~Odis töte~~
+
+- ~~Biblioteca für Sonnefinsternisse~~
+
+- ~~scry on the sky titan from the astral sea~~
+
+- ~~There is an amulet in the mountains of Ophris in a forgotten hut that bb is aware of because of wildmagic~~
+
+- ANUBIS! BALANCE WEDER HERSTELLE
+
+- Shen kille
+
+- Zyz
+
+- kobolddorf im norde?
 
 ## Extracted Summary
 

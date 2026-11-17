@@ -49,6 +49,8 @@ Er esh wiit ide ziit zrug, er gseht en mächtigi stadt met rote Muure und versch
 
 De Barzan esh be ehne, a big Void, Bubbles mit Brugge zwöschenand. D Bubbles send gföllt met andere Planes? De Barzan sees the Wheel of Planes..? The Elves live outside the Wheel of Planes.
 
+![[09_Assets/Protocol Pictures/Part 6/media/image50.webp]]
+
 D Lorilla bechonnt es sending vom Noah: Be eus esh alles ok, hoffe be euch au. De Snix und de Leumas schlofe höt be eus, de Snix esh chli scary, es het mega vell zombie Horde dosse.
 
 D Lorilla antwortet z lang und werd abgschnette aber all good.
@@ -64,6 +66,8 @@ Long rest mer schlofe ide taverne. The deep Wilds esh d plane vom Fuchs und Luch
 We wake up und luege uuse es brönnt alles. chli icy chli poison, s esh eifach die füür womer hend gmeint hemmer glöscht. Mer gsehnd schwarzi Scheme wo umehopse.
 
 INITIATIVE
+
+![[09_Assets/Protocol Pictures/Part 6/media/image17.webp]]![[09_Assets/Protocol Pictures/Part 6/media/image30.webp]]
 
 Lots of wildmagic, 6! Eldritch Blasts from Eloryn, Firebreath from the huge Bat, Guiding Bolt Barzan,
 
@@ -82,6 +86,12 @@ D Lorilla rüeft hallo und d Gesichter shifte aber es passiert no nüt.
 Elo probiert mol en eldritch blast. und eis vo dene stei dinger griifft eus ah. We fight theem.
 
 best fireball evaaa
+
+![[09_Assets/Protocol Pictures/Part 6/media/image46.webp]]
+
+![[09_Assets/Protocol Pictures/Part 6/media/image22.webp]]
+
+![[09_Assets/Protocol Pictures/Part 6/media/image5.webp]]
 
 Mer chöme ah inere fortified Structure so 60 uf 60ft und es esh ergnwie sehnig und organisch met spinnenetzligem zeugs. es het zombies wo patroulliere? Mer stöhnd voredra und luege gschwennd ine. We see Yorni.
 

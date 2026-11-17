@@ -134,6 +134,8 @@ Und mer gsähnd en grosse hässige hund.
 
 Do startemer s'nöchschte mol:
 
+![[09_Assets/Protocol Pictures/Part 8/media/image16.webp]]
+
 
 ## Extracted Summary
 

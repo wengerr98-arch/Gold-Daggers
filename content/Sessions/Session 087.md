@@ -147,6 +147,8 @@ De Leumas inspiriert eus metme coole Song am nächste Morge womer los göhnd id 
 
 ## vor dem Tor
 
+![[09_Assets/Protocol Pictures/Part 7/media/image3.webp]]
+
 mer gsähnd met em skiff vo wiit här es riiiiisigs toor wo emene felse esch.
 
 vibe check: 22 - very odd vo de BB.
@@ -200,6 +202,8 @@ D Elo saved ere con save ned und werd 13 johr jünger: weder 23
 lorilla und Snix füehlesech weder einigermasse - de snix esch iibudlet und d'lorilla esch en skorpion. de snix goht zo de elo und d'lorilla het
 
 BB gseht en Statue vor sech und es esch en wisdom saving throw 16 - 20 not natural
+
+![[09_Assets/Protocol Pictures/Part 7/media/image1.webp]]
 
 BB goht go d'statue aaluege. investigation check 31 - mega alti statue und sie het zwenig sand droffe!
 

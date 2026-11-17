@@ -1,7 +1,7 @@
 ---
 tags:
   - session
-modified: '2026-06-01T18:16:50.000Z'
+modified: '2026-11-17T16:32:58.313Z'
 publish: true
 ---
 
@@ -14,6 +14,7 @@ publish: true
 
 ## Clean Protocol Text
 
+
 <!-- source_heading: # Session 48 - Samstag, 21. Januar 2023 -->
 
 **Titel: Die Hochzeit**
@@ -23,31 +24,6 @@ Anwesend: Lorilla, Snix, Koda, BB, Eloryn, DM und Leumas (Barzan weg)
 
 
 In Game Location: Gnolia
-
-## Extracted Summary
-
-This session is labeled as the wedding session. The plan noted in the source is to let the wedding proceed and recover the swords during it.
-
-## Entities Mentioned
-
-### Player Characters
-- Lorilla
-- Snix
-- Koda
-- BB
-- Eloryn
-- Leumas
-
-### Locations
-- Ninolo
-- Gnolia
-
-### Items / Titles / Events
-- swords
-
-## Open Threads
-- Recover the swords during the wedding.
-
 
 <!-- cross_file_continuation: Session 048 continues from Protocol Part 3. Do not create duplicate Session 048. -->
 # Session 48 - Samstag, 21. Januar 2023
@@ -111,6 +87,8 @@ Lorilla fliegt im Büro rum und folgt am Zucker um die Küche zu finden.
 
 Sie findet sie!
 
+![[09_Assets/Protocol Pictures/Part 3/media/image12.webp]]
+
 Sie sind aus fondant und so Kuchendeko am machen und es hat eine Lifesized Figuren von Jorni und der Braut. Die Küchenangestellten sind gestresst und reklamieren. Alles sind Menschen Männer und Frauen.
 
 Einer zb hat Militärabzeichen auf seiner Kochuniform. Es hat einen grossen Abzug mitten in der Küche.
@@ -122,7 +100,7 @@ Der Kuchen ist in der Mitte der Küche. In der Küche ist reges tun und sie sind
 Lorilla geht wieder in den Gang und sucht weitere Räume. Es hat mehrere Küchen. Der Rest sind Räume für Service Personal. Fancy-Räume hat es für die Küchencheffinnen. Es hat einen riesen Weinkeller, ohne Personen drin (im Moment).
 
 Sie sucht nach den Gefangenen die anstelle von uns gehängt werden! Lorilla macht einen Survival Check. Rolled 21 (very nice) - sie findet verliese, jedoch sind diese leer! (Wo sind die Gefangenen wohl?) Sie sucht nach weiteren Hinweisen zu den Gefangenen. Lorilla macht ein Intelligent Check - Nat ONE (OH NO!!!!!) that's bad. wir wissen jetzt halt nicht wo die Gefangenen sind
-🙁
+🙁![[09_Assets/Protocol Pictures/Part 3/media/image20.webp]]
 
 Wir zeichnen die map - <u>Nina</u>-\> map hier
 einfügen falls erwünscht
@@ -135,6 +113,8 @@ Alois, Name der Hydra (isnt she lövely)
 
 Hier noch Impressionen des Gartens :) <u>Lena</u>Map Bild hier
 einfügen
+
+![[09_Assets/Protocol Pictures/Part 3/media/image8.webp]]
 
 Das weitere Vorgehen wird besprochen...
 
@@ -150,13 +130,14 @@ Lorilla macht ein Spirit Totem, Hawk Spirit - Advantage zu Wisdom Perception. (Z
 
 Perception-Check 16 gewürfelt -\> Sie hört ein Rascheln und das klinken einer Kette.
 
-Raphi würfelte irgendwas - eine Guns (Gans) Huupet richtung Lorilla (oh no) 
+Raphi würfelte irgendwas - eine Guns (Gans) Huupet richtung Lorilla (oh no) ![[09_Assets/Protocol Pictures/Part 3/media/image7.webp]]
 
 Die Gans geht Richtung Turm und schaut in den Eingang/Turm.
 
 Lorilla playt alles coool und schafft ihren Short Rest (sie kann sich wieder Wild-shapen!!!! YAAAAS)
 
 Lorilla ist immer noch auf Nadeln - aber, jetzt kommts. Lorilla gumpert vom turm abe und macht em Freifall gschnäu smooth en Falke-Verwandlig und verschwindet so schnäll dases goht!
+![[09_Assets/Protocol Pictures/Part 3/media/image18.webp]]
 
 Perception check - 7 (ui näi, was heisst ächt das)
 
@@ -569,6 +550,30 @@ BB: felix, chömmer ou en öberträgig mache
 Felix: ääähm, joo - chömmer mache
 
 BB:
+
+## Extracted Summary
+
+This session is labeled as the wedding session. The plan noted in the source is to let the wedding proceed and recover the swords during it.
+
+## Entities Mentioned
+
+### Player Characters
+- Lorilla
+- Snix
+- Koda
+- BB
+- Eloryn
+- Leumas
+
+### Locations
+- Ninolo
+- Gnolia
+
+### Items / Titles / Events
+- swords
+
+## Open Threads
+- Recover the swords during the wedding.
 
 <div class="session-nav">
 

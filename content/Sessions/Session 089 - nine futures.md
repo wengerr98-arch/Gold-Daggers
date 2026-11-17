@@ -28,6 +28,8 @@ In Game Location: Gilgamesh Workshop
 
 Der erste Titan Enoch erhebt sich vor uns und richtet sich auf!
 
+![[09_Assets/Protocol Pictures/Part 7/media/image6.webp]]
+
 BB Nat 1: you twist your ankle, disadvantage für 3 Runden auf DEX
 
 ENOCH NAT 1 - wastet sin turn

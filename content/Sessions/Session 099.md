@@ -70,6 +70,8 @@ Osserdäm öbere Felix, e schreckleche Chriegsfüehrer, vell toti und en schlach
 
 Auflistung von den Statuen:
 
+![[09_Assets/Protocol Pictures/Part 8/media/image15.webp]]
+
 <u>Leumas & Eloryn</u>
 
 Killings of Gods

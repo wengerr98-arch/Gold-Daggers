@@ -141,9 +141,15 @@ nach eusem longrest gsähmer stei, haubversonke und verwendet em Sand und vor eu
 
 De Leumas macht en survival check öpprr do esh gsii! Es het spure! Fuessspure und schleipfe öppis
 
+![[09_Assets/Protocol Pictures/Part 7/media/image27.webp]]
+
 Eloryn investigation ob d stei bläulech/die gliiche send wie ide city.
 
+![[09_Assets/Protocol Pictures/Part 7/media/image25.webp]]
+
 De Leumas setzt en Fuess of's Plato dette. Sand foht sech afo zämmesammle und es erschiint en Figur. De leumas macht gad weder e schritt zrug.
+
+![[09_Assets/Protocol Pictures/Part 7/media/image26.webp]]
 
 Barzan History check of de Obelisk: nat 1 för 10 - gold und blau esch d'erkentniss.
 
@@ -212,6 +218,8 @@ New Spooky Skeletton guy: chonnt usem Bode usegraabe und rüert sin Hammer de Lo
 > ponkte schade Sie gheit abem Müürli 6 points of damage. Claws for
 >
 > Barzan one hits 16 slashing domage
+
+![[09_Assets/Protocol Pictures/Part 7/media/image18.webp]]
 
 Elo: Eldritch blast, 3 times -\> nat 20, 13 :(, 28. zweu hits! 13 quickened Spell Heat Metal on the
 

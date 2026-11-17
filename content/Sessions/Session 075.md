@@ -53,6 +53,10 @@ meanwhile be de töre und de andere Gold Daggers: rechtig wildhunt foohts afoo b
 
 Das esch s'loch e de wand:
 
+![[09_Assets/Protocol Pictures/Part 6/media/image4.webp]]
+
+![[09_Assets/Protocol Pictures/Part 6/media/image44.webp]]
+
 Mer positionere eus und händ dank mending und chle bletzle ziit eus z'positioniere.
 
 Mer versueche s'monschter chle zlänke, dases en klare dorchbroch gett und sobald s'loch gnueg gross esch schmeisst d'eloryn d'molotov cocktails und de snix und d'lorilla möche denne fire attack.
@@ -71,8 +75,7 @@ de damage werd gerolled! Lorilla: 33, snix 16 und de d'mollis
 
 142 punkte schaden zom start!
 
-d'wand brecht dore be de explosion - das monschter chonnt
-före:
+d'wand brecht dore be de explosion - das monschter chonnt före:![[09_Assets/Protocol Pictures/Part 6/media/image24.webp]]![[09_Assets/Protocol Pictures/Part 6/media/image11.webp]]![[09_Assets/Protocol Pictures/Part 6/media/image39.webp]]
 
 Initiative!
 

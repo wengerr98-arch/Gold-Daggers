@@ -265,6 +265,8 @@ Mer mache eus uf is goliath viertel. Snix schmöckt bluet. Mer fende 2 liiche ei
 
 Initiatiiive!
 
+![[09_Assets/Protocol Pictures/Part 5/media/image16.webp]]
+
 Snix thought he was on fire, lorillas legs got broken, BB was down and in the cage, Leumas macht snix, barzan und Leumas unsichtbar. Lorilla liegt am Boden. Snix kämpft trotzdem mit disadvantage und trifft zweimal! Lorilla liegt am Boden, no action. Bb stabilizes. Monster nimmt die axt schlägt den käfig auf den boden, snix saves the strength check. Er greift noch an shield von snix. Barzan is unsichtbar und macht mass cure wounds. 23 points of healing, but bb does not heal. Leumas versucht bb zu befreien mit der schweiss funktion beim käfig, das dauert aber mehrere turns. Inspiration for snix. Er braucht wieder den käfig, snix schaffts wieder! Er greift an, uncanny von snix. barzan trifft mit guiding bolt. HOW DO YOU WANNA DO THIIS. ZMETTST IS GSICHT.
 
 S monster loht en psychic wave use. Mer nehme alli 69 punkte schade. Uh oh.

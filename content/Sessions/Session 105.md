@@ -1,7 +1,7 @@
 ---
 tags:
   - session
-modified: '2026-07-18T11:35:30.000Z'
+modified: '2026-11-17T16:32:31.483Z'
 publish: true
 ---
 # Session 105
@@ -12,6 +12,151 @@ publish: true
 
 
 ## Clean Protocol Text
+
+
+# D&D Session 105 - Dienstag, 25. Juni 2026
+
+## **Titel:** 
+
+### *DND WEEK!*
+
+###  *831 p.b. \| Sommer \| Aarum*
+
+De Leumas luegt ufe und gseht wie wiit s schiff scho dusse esh. Es send sho paar Kanone dosse. D Zariel stoht vore droffe.
+
+History checks vom Barzan und de BB. Infernals regeneriere eifach ide 9 hells weder. Niemer het sie gseh sterbe bis jetzt? au wenn sie hätt selle. Ergnwas esh sösh no los be ehre. Sie esh en Fiend
+
+**Immunuity**
+
+necrotic
+
+poison
+
+**Resitances**
+
+fire
+
+cold
+
+radiant
+
+piercing bludgeoning from non magical weapons
+
+magic
+
+Sie regeneriert konstant.
+
+immune to being poisoned, frightened, controlled
+
+BB und Barzan stecke eri Nase nomol e büecher und BB schiint öbbis zfende, sie esch Resistance gäge Magic und sie regeneriert sich konstant.
+
+Silber umgoht Resistenzen bei Fiends, Devils etc.
+
+Barzan rolled 25 History und mag sech erinnern das Troll und Hydra weme sie mit Feuer trefft eri Regenerations-Fähigkeite cha underbreche.
+
+mer
+
+# Auf zu Zariel und ihrem Himmels Kriegsschiff![[09_Assets/Protocol Pictures/Part 9/D&D Session 105 - Dienstag, 25/media/image14.webp]]![[09_Assets/Protocol Pictures/Part 9/D&D Session 105 - Dienstag, 25/media/image6.webp]]
+
+## Vor dem Fight:
+
+Barzan: Longstrider, +10 Fuess
+
+Snix: Freedom of Movement, +10 Fuess
+
+BB: Crown of stars & innate sorcery
+
+Lorilla:
+
+Elo: Longstrider +10 Fuess
+
+Leumas: Longstrider +10 Fuess
+
+Leumas: "Zariel, mer hend de Herd gfonde vo Silence. Es esh Gnolia. Chom met eus!" (17)
+
+D Zariel luegt ehn ah und er macht en charisma save 15 langt ned. Was schämt de Leumas sech? er heig de en Leonin mol gseh und mega vergötteret! Es erschiint de Odis??????
+
+Zariel: "Lügner und falschi Prophete" murmlet sie vor sech häre
+
+INITIATIVE Eloryn flüügt ufe und rüeft GOLD DAGGEERS FOREVEER
+
+Heroic Inspiration! Ein Reeroll
+
+Snix 31
+
+Leumas 23
+
+Elo 16
+
+Lorilla 16
+
+BB 5
+
+Barzan 3
+
+|   |   |
+|---|---|
+| **Round 1** |   |
+| Snix | 19 no hit, 20, no hit |
+| Leumas | Er gseht hinder sech de Odis. Er versuecht z hitte mitm hammer 21 hits. 43 force damage und en 20er con<br>Es schiint ne ned z bothere... |
+| Schiff Zariel | Es rammt eusi Galeone und dröckt eus wäg: Schiff castet fireball<br>DC 18, |
+| Zariel | chonnt zum snix, snix faild en save<br>deckt d auge ab und drückt dampf in snix<br>40 necrotic schade<br>poisoned ned wege heroes ffeeeeast!<br>När en kick<br>shield<br>radiant damage 39<br>de snix werd ned weggspickt<br>sie teleportiert uf euses Boot |
+| Elo | Casted Delay<br>WIS 16<br>she saves with a 29<br>saucy points für quickened eldritch blast<br>one hit 5 |
+| legendary | Zariel luegt zrug zum snix wis 26<br>saves wäge mage slayer |
+| Lorilla | Moon Beeam 6 damage radiiant<br>bonus action Gorathun! Lorilla loht sech loh gheie!<br>Verwandlet sech im fluug. Fall damage 8 damage |
+| BB | Disintegrate: DEX 24, meta magic option, disadvantage 17, legendery resistance! (eine Aufgebraucht, noch 2 to go!)<br>Mote hits: 20 Punkte Radiant damage. |
+| Legendary | und sie esch am ändi vom Schiff |
+| Barzan | louft e eri rechtig, luegt sie ned ah<br>new thing<br>Accelerate Lorilla!!!!!!!<br>Heal zom Schleumi und de HS vomene Odyss esch wäg! |
+| **Round 2** |   |
+| Snix | 19 Perception öbb Zariel sech healt<br>rennd ereh noche |
+| Leumas | De Leumas esh schockiert das de Odis weg esh?<br>Dimension Door mit Lorilla!!! lets go |
+| Schiff Zariel | heated metal boat<br>29 schade |
+| Zariel | Flail devore und schwingt alli drü ufe Leumas.<br>silvery barbs advantage für d Lorilla<br>10 + 45 = **55**<br>21 + 45 = 66 - 21 decelerate vom barzan = **45**<br>16 + 35 = **51** |
+| Elo | Disadvantage uf dex saves<br>HEX<br>Guiding Bolt leider miss |
+| Lorilla (Accelerated ⅕) | movement Titanic JUUMP<br>action Throws es stück metall hits mit 23<br>action Throws es stück metall hits mit kei hit<br>24 schade 6 thunder damage<br>4 thunder damage falls prone |
+| BB | Fireball change the damage to Thunder mit Saussi-Point, 41 Punkte Thunderdamage!<br>Mote: 23 Radiant Damage |
+| Barzan | Divine Intervention: HALLOW<br>FIEND<br>kann nicht teleportieren im Globe (auch für BB)<br>**---HALLLOW UNTIL DISPELED---**<br>Movement zurück aufs Schiff!<br>second level healing word vom Barzan ufe snix 16 heal |
+| legendary | Wisdom save 26: BB ghört em Chöpf "BURN" und es tönt wiene Befehl. 21 Punkte Feuerschaden - solangsi BB gseht, brönnt si! |
+| **Round 3** |   |
+| Snix | Lightning strike<br>Dex 19 sie faiiild<br>31 schade<br>bonus action & movement hide hinter de lorilla |
+| Leumas | De Leumas luegt hindere und gseht eifach Avernus und de Rest vom Schiff esh riiiiiiesig<br>5th level cure wounds für sich selber:<br>37 heal<br>movement rechtig Calamitas |
+| Schiff Zariel | Heat Metal |
+| Zariel | sie stoht uuf, wott teleportiere cha aber ned. 50ft Flying speed<br>rechtig barzan, con save 26, leider nein<br>50 necrotic dmg<br>switched to langschwärt, 21 to hit - 2 penalty vo de BB, AC 21 vom Barzan somet top! kei hit!<br>moon Beam damage |
+| Elo | Guiding Bolt hiits<br>12 radiant<br>quickened eldritch blast<br>einish NAT 20!<br>11 + 19 Schade |
+| Legendary | sword ufe Barzan<br>23 radiant + 49 Fire<br>Barzan down |
+| Lorilla (Accelerated ⅖<br>) | Lorilla titanic JUMP<br>Moon Beam half damage 4<br>Unstable terrain no reaction für d Zariel<br>Multiattack 3x get 6 crushing FISTS<br>1 trifft<br>2 trifft<br>3 nope<br>4 trifft<br>5 trifft<br>6 nope<br>56 bludgeoning + 14 Thunder + 32<br>102 SCHADE!!!!!!!!<br>weniger movement für zariel |
+| legendary | Burn uf Barzan |
+| BB | nömme on fire, Fireball, Thunder, dex 24, 37 punkte thunderdamage,<br>23 to hit -\> 36 radiant damage |
+| Barzan | 18 punkte feuerschaden<br>Wenn de Barzan stirbt chame ehn ned revivifye |
+| **Round 4** |   |
+| Snix | bonus action dash bis 15ft entfernt vo ere<br>stabby stab<br>29 to hit, hiits<br>sneak attttack<br>34 Schade + 2 lightning |
+| Leumas | Tashas otherwordly guise<br>Magic lower damage<br>flying 50ft<br>attack twice<br>und de Leumas flüügt ufe und schüüsst zweimal ufe barzan! Mit de Healkugele both hiiiiit<br>9 punkt heal. |
+| Schiff Zariel | Fireball Dex save BB barzan, snix und Lorilla, 18:<br>BB: 9<br>Snix: 24<br>Lorilla: 5<br>Barzan: 5<br>29 schaden<br>Barzan down again |
+| Zariel | BB next<br>Opportunity: Snix und Lorilla<br>Snix NAT 20 90 Schade<br>Lorilla hits 33 bludgeoning + 1 thunder<br>Action: longsword 2 mal hit und denne 1 mal ned<br>1x 21 Radiant Damage, 44 Fire Damage (bb auf 1hp mit deathward)<br>1x 17 Radiant Damage, 46 Fire Damage |
+| Elo | Freee Falling<br>Cure Wounds zom Bärzu: 27 Punkte Heal! |
+| Lorilla (Accelerated ⅗<br>) | Stone Throw ufd zariel<br>Stone hits<br>29er Heal für alle auf dem Schiff<br>Whale Spirit Totem: 21 Temps! ;) |
+| BB | Mote 31 to hit, 13 Punkte Radiant Damage! (halbiert)<br>Disintegrate: 76 Punkte Force Damage<br>19 Punkte Radiant Damage, 49 Punkte Fire Damage,<br>Silvery Barbs Attackroll Advantage für SNIX |
+| Barzan | 26 Punkte Fire Damage<br>Haste of en säuber, speed doubled, zuesätzlechi Attack und er flügt d Calamitas is Portal ine |
+| **Round 5** |   |
+| Snix | advantage on attack: first misses, zweuti nat 20<br>17 Punkte schaden |
+| Leumas | De Schleumi gseht das d BB ufm bode liit und healed bb für<br>64! Bonus action Bardic für Snix |
+| Schiff Zariel | Fireabll, 20 schaden oder halfed |
+| Zariel | Long sword uf Schleumi<br>cutting words reaction vom leumas<br>hitted gliich<br>18 radiant + 34 fire (leumas ignoriert das)<br>Packt de Leumas und con 26 saving throw<br>52 necrotic<br>Leumas down<br>När sword uf BB<br>Wall of Fire<br>Snix Lorilla & BB<br>BB down |
+| Elo | flügt abe und cure wounds ufe Schleumi<br>Zum go Leumas & BB<br>38 Heal!<br>quickened spell lightning lure strength save<br>SIE FAILED!<br>moved to ship by lightning lure!<br>18 Schade lightning! |
+| legendary | Finger of death<br>90 Pünkt Schade<br>hellish rebuke vo de Elo |
+| Lorilla (Accelerated ⅘<br>) | grapppple<br>32 Loriillllaaa grappled sie!!<br>bonus action 12 Heal för BB<br>hold action wenn mer ide hölle send crushing fiiists |
+| legendary | con save 26 d lorrilla saved eifach<br>97 halbiert uf 49 Schade |
+| BB | healing potion bonus action: 29er heal<br>hold action: 4th level chaos bolt! |
+| Barzan | Guiding Bolt 240 fuess, meta magic option sniper, und s Boot flutscht döre, mer send en Avernus, de Barzan<br>Jetzte chöme all die hold action:<br>BB Chaos Bolt: 22 force damage<br>Lorilla: drischlaaaah, 55 Punkte Schaden |
+| legendary | finger of death BB<br>Mass suggestion vo de BB because of wild magic, zom Glöck Subtle spell, mer send alli safe, BB werd en Zombie bem nöchschte Zariel turn, nomme es "Resurrection" cha BB zrogghole! |
+| **Round 6** |   |
+| Snix | Stabby stab<br>30 to hit<br>16 ned<br>this could be iiit!<br>42Schadee!!!<br>De Snix flügt uf sie zue zmizt is härz ane äde gränze in Avernus!<br>Sie bröcklet bizeli füür, und verpufft<br>i dem moment foht s schiff afoh abegheie |
+
+Barzan Healing Spell of BB
+
+Mass Cure Wound:
+
+Ein riesiges Stück des Himmels Kriegsschiff bricht beim Portal ab und fällt auf Aarum!
 
 # D&D Session 105 - Dienstag, 25. Juni 2026
 
@@ -141,8 +286,7 @@ Eusi Crew stoht vore usse für euses Schiff. Elite Zwerge. Kurzes Briefing. Mer 
 
 de Barzan foht grad afo caste: Wisdom Saving Throw 19-4 und de Barzan chonnt langsam en flow!
 
-Astral Dreadghnouts hange eus scho am föddle! und mer brättere und brättere.
-
+Astral Dreadnoughts hange eus scho am föddle! und mer brättere und brättere.
 
 Und Calamitas stüret am Spell noche und vo wiitem gsähmer scho en riiisige Vogel! er brecht dors Astral Wheel und de Planet verdonklet sech. De Barzan voll Fokussiert ghört en Hammerschlag. und ofem Hals vom Kranich-Artige-Vogel esch en Loxodon met Nägel und Hammer wo die Nägel iischlooht! Ephraim esch ofem Hals Principle of Abjuration. Es Portal goht uuf und er louft ene Höhli ine. Mer wärde öberrascht und alli osser de Snix schafft en Dex Save! De Snix Acrobatics Check dc 26! und er schaffts eusi alli iizfange!
 
@@ -182,13 +326,15 @@ Barzan 6
 | Astral Dreadnoughts Blue | Verseucht am Odys sis segel z packe und riisst es stück segel use<br>nomol! |
 | Astral Dreadnoughts Purple | Charisma Saving Throw<br>barzan save bend luch<br>wild magic<br>leumas und BB confused 🙁 |
 | **Round 2** |   |
-| Odys | De odis gompt uf euses Boot, bonus action casted er öppis<br>Als action speer ufe Snix. 21 to hit (shield!!)<br>14 to hit no hit<br>22 to hit no hit |
-
-*(A part of the protocol is missing here.)*
-
-
-|   |   |
-|---|---|
+| Odys | De odis gompt uf euses Boot, bonus action casted er öppis<br>Als action speer ufe Snix. 21 to hit (shield!!)<br>14 to hit no hit<br>22 to hit no hit<br>29 einmal hit<br>11 points schade und en strength save (mit advantage vo de lorilla)<br>leider nid saved |
+| BB acc 1 | confused secklet ine rechtig |
+| Crew | bombe kanone<br>eine schuss, triffft!<br>25 Schade ufe dreadnot |
+| Snix | Zwei stabby stab<br>22 to hit doesnt<br>22 doesn't hit<br>bonus action hide 32 to hide |
+| Leumas | 7 ufm d10<br>macht gad nix<br>saving throw 20 leider langt ned<br>lorilla chatches on |
+| Elo | bonus action hex<br>disadvantage uf DEX!<br>eldritch blaaasts<br>14<br>20<br>nat20 aber er negierts<br>12 schade<br>er bhaltet d concentration<br>d elo flügt hinder d Segels |
+| legendary Odys | legendary action<br>within range vom barzan und vom snix<br>spirit guardians saving throw WIS 24<br>16 schade |
+| Lorilla | gseht das BB und Leumas<br>DISPEL MAGIC ufd BB THANK YOOOOU!<br>goht rechtig Schleumi<br>bonus action GORATHUN |
+| legendary Odys | Meele ufe Barzan<br>24 to hit<br>27 schade<br>decelerate zum schade verringere reaction vom Barzan |
 | Barzan | Messerli nähme effect<br>15 schade blades<br>12 schade spirit guardians<br>dispel magic ufe schleumi THANK YOUU!<br>De Barzan stoht grad vor ehn häre so guets goht |
 | Astral Dreadnoughts Purple | checke s boot vom Odys und s esh weg |
 | Astral Dreadnoughts blue | checke s boot vom Odys und s esh weg |
@@ -230,16 +376,29 @@ Barzan 6
 | BB acc 5 | Probiert d Schildkrot en Nothing Shard inetue! Aber das passt ehm ned und er verwandlet sech zrogg. Opposed athletics 14 gäge 30 so no.<br>2ti Action: Fireball carefull spell, 23 er saved ned! whoop whoop 21 firedamage und deno es Mote: 39 Radiant Damage<br>13 Punkte whirlwind damage |
 | hold action snix | NAT 20<br>6d6 necrotic 26 halved **13**<br>sneakattack, schwert & tattoo 64 + 7 (**71**)<br>24 trifft<br>**15** |
 | Crew | Schiff zusammenhalten |
-| legendary Odys | starting to look hurt, transformiert sech in Königsform TORR |
+| legendary Odys | starting to look hurt, transformiert sech in Königsform TORR<br>![[09_Assets/Protocol Pictures/Part 9/D&D Session 105 - Dienstag, 25/media/image7.webp]] |
 | Snix | 14 pünkt schade<br>29 to hit = 39 Punkte Schaden<br>23 to hit =16 Punkte Schaden<br>bonus action disengage<br>und hindere flüge |
 | Leumas | Ofem Bänkli am acho em Momänt |
 | Elo | in Helykonos |
-
-*(A part of the protocol is missing here.)*
-
-
-|   |   |
-|---|---|
+| Lorilla | 18 Schade<br>earthshaker Aura<br>legendary resistance<br>Fount of Moonlight<br>D Lorilla foht afoh hell lüüchte<br>stoht vor d BB und de snix |
+| Barzan | 8th Level grevious Wounds<br>counterspell<br>mit bardic und heroic inspo casted er gliich no!! wohoo<br>"schlitzed ne!" |
+| **Round 7** |   |
+| Odys | Dispel Magic uf Grevious wounds<br>2 speer angriffe auf Barzan:<br>13 Schaden<br>18 Schaden<br>de Barzan gheit abem boot für 13 punkt schade |
+| BB | Fireball Safe 27 Punkte schaden för 54 verdoppelt<br>24 to hit, ranged, leider nein :( |
+| Crew | Maintaining Stuff |
+| legendary Odys | hit ofe BArzan, BB rettet met Bend-Luck<br>32 Wild Magic: you regain your lowest level spell slot |
+| Snix | knife schade 18 schade füre snix uncanny dodge egal<br>first attack 31 to hit und en con save (er het gsafed)<br>necrotic: **34** halbiert well er saved aber verdoppelt wegm barzan<br>schwert sneak tattoo: 38 verdoppelt uf **76**<br>second attack 23 hits!:<br>**52!**<br>bonus action dodge |
+| legendary Odys | Snix innerhalb vo 20 fuess<br>er tuuscht platz mitm snix<br>Klatsch-attacke wisdom save<br>lorilla no safe<br>snix safe<br>bb no safe<br>Barzan no safe<br>alli möche en Attacke of die nöchschti person<br>Lorilla ofe Barzan -\> 33 Schade<br>Barzan of Lorilla -\> 6<br>BB of Lorilla -\> 0 |
+| Leumas | 🙁 |
+| Elo | 🙁 |
+| Lorilla | Goht rechtig Odys<br>Sky loop something<br>när crushing fist<br>17 to hit reroll!!<br>23 just hits 3d10+8<br>**64 schade (10 devo thunder)**<br>Force of Nature! **24 + 14**<br>bonus action macht ehn prone 20 again wäge omkeihe<br>Territorial Roar: saves |
+| Barzan | Flame strike fifth level ufe Odys<br>halfed und double 19 fire und 18 Radiant<br>de barzan macht no healing word 2nd level<br>für 15 |
+| **Round 8** |   |
+| Odys | 3 agriff<br>27 = 23 schade<br>19 = 28 schade<br>21 = 19 schade<br>4 angriff banishing smite<br>nat20 = 65 + 68<br>bringt Lorilla uf null<br>bewusstlos incapacitated mit 1HP inere Demiplane |
+| BB | thunderball 30 punkte voll und kein save ;)<br>jetzt noch zwei Motes - leider treffen sie nicht |
+| legendary Odys | Ranged Attack ofe Bärzu: 26 to hit 37 Points of Damage / decelerate -15 punkte schaden! |
+| CREW! | Balista eini trifft<br>22 schade<br>eine balista trifft leider ned met 24 |
+| legendary | ranged attack ufe barzan<br>he is down |
 | Snix | Goht zum Odys,<br>22 trifft ned<br>20 trifft ned<br>bonus action dodge |
 | Leumas |   |
 | Elo |   |
@@ -351,6 +510,7 @@ mer kaufe
 1x 25000
 
 pro person 9666 Gold
+
 ## Extracted Summary
 
 The session begins with the party crashing into Avernus after their portal is severed, losing the front section of the Calamitas. Aarum's harbor is severely damaged by falling debris; the party spends the rest of the day helping with reconstruction. BB uses Disintegrate to clear large debris; Elo's Wall of Force protects The Tower from a huge chunk. Snix crafts leather gloves for the party.

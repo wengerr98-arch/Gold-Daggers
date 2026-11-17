@@ -170,6 +170,8 @@ Pira looht sech chorz lo zrogggheie wärend dem Cheers und Mariu am wäg entlang
 
 Pira loooht goldeni Pillar lo erschiiine be de wolche wo denne öbberhoupt zom houpttresor füehre! osserdäm nacheme Schnipps vo de Pira erschiine zweu Hydras und zweu Balguras. (Siehe Foto)
 
+![[09_Assets/Protocol Pictures/Part 4/media/image19.webp]]
+
 Sie rede gmüetlech öbber d'Hydras und Balguras. Chat Chat und alles super nice :)
 
 De Mason (dä Grüsel) esch do diräkt involviert.

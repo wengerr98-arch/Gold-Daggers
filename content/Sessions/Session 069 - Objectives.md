@@ -65,6 +65,8 @@ mer gönd zrogg zom thronsaal. de König esch sech am vorbereite, zieht langasm 
 
 mer group hudle und bespräche met em könig. mer informiere ehn dröbber das de mason wett d'wentergöttin snape, mer händ en mega coole plan gmacht amazing.
 
+![[09_Assets/Protocol Pictures/Part 6/media/image10.webp]]
+
 Ready to fight
 
 mer send em thronsaal und send ahand vo de grafik obe uufgstellt! be de bugbears send healer troops platzierzt wo eus selle prechte!
@@ -77,11 +79,17 @@ mer bechöme en short rest.
 
 mer crackle en wish-bone, ello und leumas. ello öffnets und leumas chas zue tue at will!
 
+![[09_Assets/Protocol Pictures/Part 6/media/image33.webp]]
+
 En Armee vo Zombies, Geister und Zombies allne vorah. En ältere Herr, schwarzi robe. MASON.
 
 Es klopft ade Töre. De Felix arrives!
 
 WE WILL MEET MASON IN BATTLE.
+
+![[09_Assets/Protocol Pictures/Part 6/media/image36.webp]]
+
+![[09_Assets/Protocol Pictures/Part 6/media/image32.webp]]
 
 Mer rede metm Mason, er erklärt eus waser vorhet.
 
@@ -111,6 +119,8 @@ Lorilla Mooooonbeam, Bear Spirit
 Snix Perception nat 20, D Armee stoht still und de Snix gseht das öppis dor d Armee doreflitzt
 
 es esh d Affefiguuuuur! Stabby stab ufe Aff. Both hit. 38 domage.
+
+![[09_Assets/Protocol Pictures/Part 6/media/image3.webp]]
 
 mer verlönd de mason fight und lönd de Torr und Fixu met ehm lo deale. mer fighte lieber de monkey bem monumänt.
 
@@ -145,6 +155,8 @@ BB louft zo de creature, resp. zo de elo. denne thunderstep met de elo und con s
 Eloryn Still stunned :(
 
 soulnados send am appeare
+
+![[09_Assets/Protocol Pictures/Part 6/media/image27.webp]]
 
 Runde 3
 

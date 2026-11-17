@@ -31,6 +31,8 @@ Wir fahren los und verlassen den Wald. Die Landschaft wird weniger bebäumt und 
 
 hunderte und tausende tonnen von Stahl. Es scheint aber von der Zeit geprägt und es hat leichte verformungen von Wind und Wetter.
 
+![[09_Assets/Protocol Pictures/Part 5/media/image4.webp]]
+
 Wir sehen vier grosse Formen. Es sind Warforged. Sie halten die Mauer hoch.
 
 Wir können etwa in der Hälfte der höhe der Mauer anhalten. Leumas checkt ob es irgendwo einen guten Parkplatz für Loid gibt. Es hat eine Schuppenrüstung uber der ganzen Mauer mit Eis drauf und man kann wahrscheinlich eine etwas aufbrechen damit Loid da rein kann.
@@ -63,7 +65,7 @@ Mer chöme ine und gsähnd en dorchgang wo öbbe 200m tüf esch. es esch busy, e
 
 Vor dem Obsidian sehen wir eine Schlange von Humanoiden. Wir sehen uns um und finden uns in der Eingangshalle ein. wirklich eindrücklich.
 
-a
+a![[09_Assets/Protocol Pictures/Part 5/media/image5.webp]]
 
 Beim Monument ist der König vorzufinden. Er ist der Onkel von Natok.
 

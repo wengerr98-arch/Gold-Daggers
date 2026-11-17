@@ -33,6 +33,8 @@ grünliche Türen. BB gseht öppis usem augenwinkel. Mer luege ome und de Sadam 
 
 MAP IS OUT
 
+![[09_Assets/Protocol Pictures/Part 5/media/image12.webp]]
+
 Team Taverne sadam er sieht ganz viele Hände außerhalb. Eldritch blaast. Wenn de Eldritch blast usem Huus use goht verpufft er?
 
 Team Kuchi Snix luegt id Füürstell ine und rüeft huhuu. en Hand slithered weg. Snix versuecht z treffe. Er spiesst en Spinne uuf. ew

@@ -228,6 +228,8 @@ PERFECT PLAN
 
 D'lorilla schiesst loos und tuet eri route no optimiere - sie flügt a de scholtere verbiii, d'auge lüchte rot, sie wicht uuus und kurvet unde dörre, verwandelt sech in en armadillo und sie prescht dore sand und bevor sie am bode esch eschsi weder en vogel und sie gseht ändlos sand und em hemmel en plattform. Sie flügt uuufe und denne gsehtsi en platform, dank blindsight gsehtsi 8t unsechtbari humunkuli.
 
+![[09_Assets/Protocol Pictures/Part 7/media/image8.webp]]
+
 Lorilla is going to shit on the humunkuli? doch ned. es gett spannendi diskusione und velli optione.
 
 D'Lorilla flügt uuufe und verwandelt sech ene giant bat. em storzflog rechtig scroll und em momänt wosi d'scroll packt gompe alli 8t loos und versueche d'lorilla grapple! Freedom of movement reglet und sie werd alli 8t looos e däm sie sech wändet und sie esch slippery. sie flügt met 240fuess rechtig uusgang und fendet perfekt grad s'loch zom use chooo und es esch weder armadillo time. aber sie esch zu schnäll und schaffts nömme zom zroggwandle. sie brätsch voll en glasbode! 128 schade, aber sie öberläbt. es chömme ke humunkuli und de golem werd langsamer und langsamer bes er ganz stopt. Nach und nach zergheie au die vordere Humunkuli. E chliine Armadillo werd sichtbar im riese Krater wo en riiise Scroll hebt und langsam zu eus chonnt.

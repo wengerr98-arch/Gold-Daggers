@@ -121,6 +121,10 @@ Wir gehen schauen wo die Schildkröte ist, wahrscheinlich beim Lift. Die Leute a
 
 DRAGONTORTOISE
 
+![[09_Assets/Protocol Pictures/Part 5/media/image17.webp]]
+
+![[09_Assets/Protocol Pictures/Part 5/media/image14.webp]]
+
 Lorilla fliegt Leumas um ihn rum und Snix geht mit. Snix kann draconic. Die Tortoise sucht Mama.
 
 Koda rührt ihren Kürbis falls die Schildkröte Hunger hat. Verwirrung.

@@ -49,6 +49,10 @@ Mer händ verschedeni aasätz, fesch a öbber dänke, oder eifach mol e d'tavern
 
 Leumas konzentriert sech uf d Fäde - er suecht en heeewiis und er folgt amene Rohr und gseht ergndn Pressure Valve. De Snix und d Lorilla und de Leumas gönd ufe. Dobe gseht de Leumas en roti Flamme ide Ferni. Barzan und Wanda folge.
 
+![[09_Assets/Protocol Pictures/Part 6/media/image28.webp]]![[09_Assets/Protocol Pictures/Part 6/media/image19.webp]]
+
+![[09_Assets/Protocol Pictures/Part 6/media/image8.webp]]
+
 Mer chöme ine chliine Gang metere Flössigkeit vo Dampf abget. Mer folge am rote Liecht.
 
 De Leumas goht go d Maschene aluege. D Leidere Duruuf schiint s Flackern här z cho. Er goht ufe und fend es rot markierts Rohr wo zunere Töre. Det hockt en Bugbear. Er esh am Pause mache. mer gsehnd en Holzbode en Taverne!!!! Wowy!

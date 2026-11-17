@@ -199,9 +199,14 @@ er macht en investigation 23 und am ändi vom rum gägenöbber de stäge het's e
 
 de snix gseht hender de töre en schwarze texturierte bode und e de metti öbbis belüchtet! es esch en chele sehr wahrschiinlech.
 
- ED
+![[09_Assets/Protocol Pictures/Part 7/media/image20.webp]]
+
+![[09_Assets/Protocol Pictures/Part 7/media/image10.webp]] ED
+![[09_Assets/Protocol Pictures/Part 7/media/image4.webp]]
 
 OG
+
+![[09_Assets/Protocol Pictures/Part 7/media/image7.webp]]
 
 cha das deng rede? frogs doch zersch mol! ghöremer vo wiitem. mer lehre de Ed und de Og kenne. de snix verseucht z'erkläre das är de jenig esch wo do ine dörf. doch leider merke de Ed und Og, dass de snix sie aagflunkeret het
 ## Extracted Summary

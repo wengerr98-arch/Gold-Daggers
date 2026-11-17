@@ -208,11 +208,17 @@ Map werd uufbout!
 
 OMG!!! Wie freaking dope!!!!!
 
+![[09_Assets/Protocol Pictures/Part 4/media/image1.webp]]
+
+![[09_Assets/Protocol Pictures/Part 4/media/image4.webp]]![[09_Assets/Protocol Pictures/Part 4/media/image11.webp]]
+
 s'Scheff goht onder und d'Koda gooht de crew go hälfe.
 
 Mer wärde onders boot zoge und s'booot senkt ou emmer wie meeeh! Onder eus gsehmer d'ondersiite vomene booot.
 
 Onder eus gsähmer en gueti aazahl tritons und no es paar grösseri tritons!!!!
+
+![[09_Assets/Protocol Pictures/Part 4/media/image14.webp]]![[09_Assets/Protocol Pictures/Part 4/media/image17.webp]]
 
 BB: Polymorph Giant Shoark! :)
 

@@ -39,6 +39,8 @@ Leumas gseht sin Moment und wott zu de Kuruki. Er nemmt eri Hand und füehrt sie
 
 uuuuuh sie gönd is Sanktum. Mit ere Fläsche Wii und en Picknick Decki.
 
+![[09_Assets/Protocol Pictures/Part 5/media/image10.webp]]
+
 Kuruki Beschrieb
 
 Sie esh baddie metme side shave und Narbe. Ork green met rotbruune hoor. Yellow eyes. ca. 2m gross.

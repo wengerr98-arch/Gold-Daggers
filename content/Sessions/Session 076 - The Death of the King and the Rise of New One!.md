@@ -75,10 +75,14 @@ Mer senke schnäll em schwarze goo! De Snix esh als erst dor d töre und lauft r
 
 Mer löse s R
 
+![[09_Assets/Protocol Pictures/Part 6/media/image6.webp]]![[09_Assets/Protocol Pictures/Part 6/media/image31.webp]]
+
 mer müend zo de andere Töre cho und de wörfel zeigt eus de wäg. Mer müend als 6 chöpfigi crew platz ha.
 
 Mer send dor alli kerbene gloffe wos ofem wörfel het und schaffes döre! De Leumas stoht be de Töre, met em schlössel e de hand, töre gooht
 uuuuf - amazing. en wält met pilz esch hende draa, it looks beautiful! (look at the pictures)
+
+![[09_Assets/Protocol Pictures/Part 6/media/image9.webp]]
 
 Mer löse s Rätsel und gönd dor d Tööre ine! d'Wanda cha grad no anere attacke vom letschte opfer uuswiche.
 

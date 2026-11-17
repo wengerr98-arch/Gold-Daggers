@@ -97,6 +97,8 @@ Initiative
 
 mer möche eus parat und es gönd es paar bleck ome. mer ghöre e eusne chöpf s'gränne vo de Frou. Hender em Barzan erschiiint "d'Mother"
 
+![[09_Assets/Protocol Pictures/Part 5/media/image15.webp]]
+
 Mer bruche es paar int saves. uuh däm not looking goood.
 
 Barzan is infested, snix infested and eloryn as well. Leumas saved.

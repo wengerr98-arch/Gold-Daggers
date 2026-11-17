@@ -33,6 +33,8 @@ Ein Gegner, very strong. Eloryn down at some point, BB, Koda down at some Point.
 
 Koda kills the Monster!
 
+![[09_Assets/Protocol Pictures/Part 5/media/image2.webp]]
+
 BB ist bewusstlos, der Kampf ist vorbei. Kurz vor Schluss heilt Barzan Koda und Eloryn. Das Monster liegt am Boden mit gebrochener Wirbelsäule. Die Leiche wird über den Boden Richtung Wildhunt gezogen von der Skelett Figur, Krallen Spuren am Boden, Barzan und Leumas versuchen das Viech welches wir besiegt haben zu zerschlagen. Barzan schaut Skelettmann an und Wisdom Saving Throw.. THE GRAVE KING = SKELETTMANN.
 
 Barzan widersteht und schaut ihn genauer an, Die Anzahl Köpfe, Beine etc stimmt nicht als wär er zusammengesetzt er rollt mehr als er geht. Er trägt eine Gladiatorenmaske und trägt einen roten Mantel.
@@ -40,6 +42,8 @@ Barzan widersteht und schaut ihn genauer an, Die Anzahl Köpfe, Beine etc stimmt
 Seine Aura verzeiht die Welt um ihn rum.
 
 BB geheilt von Barzan, max Hitpoints reduced.
+
+![[09_Assets/Protocol Pictures/Part 5/media/image8.webp]]
 
 Grave King schliesst das Tor. Das Tor sieht mitgenommen aus. UH OH
 

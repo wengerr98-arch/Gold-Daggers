@@ -169,6 +169,8 @@ wir sehen "The Veil" - der Vorhang zwischen Leben und Tod
 
 Er rennt auf auf uns zu aber für BB ist er noch ein wenig durchsichtig, doch wärend er auf uns zu rennt nimmt er form an und wird schärfer.
 
+![[09_Assets/Protocol Pictures/Part 5/media/image13.webp]]
+
 Vorbereitungsrunde.
 
 ==Round 1==

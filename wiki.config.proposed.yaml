@@ -289,7 +289,7 @@ table:
   # other names (aliases) of the published pages in these folders; a chosen name goes in as [[Name]] or
   # [[Name|other name]], ready to paste into the vault. The text stays in the writer's browser. Not on the front
   # page; it is in the explorer and at /protocol.
-  protocol_helper: false
+  protocol_helper: true
   protocol_helper_title: Protocol
   protocol_helper_folders: [Entities, Places, Items and Artefacts]
 
